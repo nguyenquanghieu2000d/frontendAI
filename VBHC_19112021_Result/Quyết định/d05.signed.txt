@@ -1,0 +1,238 @@
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH THANH HÓA   Độc lập - Tự do - Hạnh phúc
+Số:05/2020/QĐ-UBND   Thanh Hóa, ngày 13 tháng 01 năm 2020
+QUYẾT ĐỊNH
+Ban hành Quy chế hoạt động của phần mềm tiếp nhận, xử lý và trả lời
+phản ánh, kiến nghị của tổ chức, cá nhân tỉnh Thanh Hóa
+ỦY BAN NHÂN DÂN TỈNH THANH HÓA
+Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015.
+Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005;
+Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006;
+Căn cứ Luật ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015.
+Căn cứ Nghị định số 20/2008/NĐ-CP ngày 14 tháng 02 năm 2008 của.
+Chính phủ về tiếp nhận, xử lý phản đình kiến nghị cáo có nhân, tổ chức về quy
+định hành chính;
+Theo đề nghị của Chánh Văn phòng UBXD tỉnh Thanh Hóa tại Tờ trình
+số 37/TTr-VP ngày 09 tháng 01 năm 2020
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy chế hoạt động của phần.
+mềm tiếp nhận, xử lý và trả lời phản ánh, kiến nghị của tổ chức, cá nhân tỉnh
+Thanh Hóa.
+Điều 2. Quyết định này có hiệu lực thì hành kể từ ngày 15 tháng 02 năm 2020.
+Việc tiếp nhận, xử lý và trả lời phản ánh, kiến nghị của tổ chức, cá nhân qua
+các kênh thông tin khác được thực hiện theo quy định hiện hành của pháp luật.
+Điều 3. Chánh Văn phòng UBND tỉnh, Giám đốc các sở, Trưởng các ban,
+ngành cấp tỉnh; Chủ tịch UBND các huyện, thị xã, thành phố; Chủ tịch UBND
+các xã, phường, thị trần và các tổ chức, cá nhân có liên quan chịu trách nhiệm
+thi hành Quyết định này./.
+Nơi nhận:   TM. UỶ BAN NHÂN DÂN
+KT. CHỦ TỊCH
+- Như Điều 3 Quyết định;   - Cục kiểm tra văn bản, Bộ Tư pháp (để b/c);   PHÓ CHỦ TỊCH
+- Thường trực: Tỉnh ủy, HĐND tỉnh (để b/c);
+- Chủ tịch, các Phó CT UBND tỉnh;
+- Công báo, Cổng TTĐT tỉnh;
+- Lưu: VT, KSTTHC, QLCTTĐT.
+Mai Xuân Liêm
+UỶ BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH THANH HÓA   Độc lập - Tự do - Hạnh phúc
+QUY CHẾ
+Hoạt động của phần mềm tiếp nhận, xử lý và trả lời
+phản ánh, kiến nghị của tổ chức, cá nhân tỉnh Thanh Hóa
+(Ban hành kèm theo Quyết định số: 05 /2020/QĐ-UBND ngày 13/01/2020
+của Ủy ban nhân dân tỉnh Thanh Hóa)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+1. Quy chế này quy định việc tiếp nhận, xử lý và trả lời phản ánh, kiến nghị
+của tổ chức, cá nhân liên quan đền hoạt động sản xuất, kinh doanh và đời sống
+của người dân thông qua phần mềm tiếp nhận, xử lý và trả lời phản ánh, kiến nghị
+của tổ chức, cá nhân tỉnh Thanh Hóa (gọi tắt là hệ thống Phản hồi Thanh Hóa).
+2. Quy chế này không quy định về việc tiếp nhận đơn thư khiếu nại, tố các.
+và hướng dẫn, giải đáp pháp luật.
+Điều 2. Đối tượng áp dụng
+Quy chế này áp dụng cho các đối tượng sau:
+1. Các sở, ban, ngành cấp tỉnh; UBND các huyện, thị xã, thành phố;
+UBND các xã, phường, thị trấn và các đơn vị có liên quan (sau đẩy viết tắt là
+các cơ quan); cán bộ, công chức, viên chức tham gia khai thác, sử dụng hệ thống
+Phản bồi Thanh Hóa để tiếp nhận, xử lý và trả lới các phản ảnh, kiến nghị.
+2. Tổ chức, cá nhân có phản ánh, kiến nghị.
+Điều 3. Giải thích từ ngữ
+Hệ thống Phản hồi Thanh Hóa là hệ thống phần mềm hỗ trợ việc tiếp
+nhận, xử lý và trả lời phản ánh, kiến nghị của tổ chức, cá nhân trên nền tảng
+internet, được liên kết, tích hợp trên Cổng thông tin điện tử Thanh Hóa và
+Trang thông tin điện tử của các cơ quan.
+Điều 4. Nguyên tắc tiếp nhận, xử lý và trả lời phản ánh, kiến nghị
+1. Tuân thủ đầy đủ các quy định hiện hành của pháp luật có liên quan.
+2. Bảo đảm công khai, minh bạch, khách quan, trung thực.
+3. Quy trình tiếp nhận, phân loại, chuyển xử lý, xử lý, trả lời phải cụ thể.
+rõ ràng, thống nhất; bảo đảm thủ tục tiếp nhận đơn giản, thuận tiện, tạo điều kiện
+cho tổ chức, cá nhân gửi phản ánh, kiến nghị.
+4. Tiếp nhận, xử lý đúng thẩm quyền và thời hạn quy định; thực hiện tốt.
+việc phối hợp trong xử lý giữa các cơ quan.
+5. Bảo đảm an toàn thông tin trong việc gửi, chuyển, lưu trữ dữ liệu về
+phản ánh, kiến nghị của tổ chức, cá nhân.
+2
+Chương II
+NỘI DUNG, CÁCH THỨC VÀ YÊU CẦU
+VỀ PHẢN ÁNH, KIẾN NGHỊ
+Điều 5. Nội dung phản ánh, kiến nghị
+1. Nội dung phản ánh, kiến nghị của tổ chức, cá nhân gồm các lĩnh vực sau:
+Thủ tục hành chính, hạ tầng kỹ thuật, môi trường, an toàn thực phẩm.
+2. Các lĩnh vực khác thực hiện bổ sung theo chỉ đạo cửa Chủ tịch UBND
+tỉnh tại từng thời điểm.
+Điều 6. Cách thức gửi, tiếp nhận và trả lời phản ánh, kiến nghị
+1. Tổ chức, cá nhân truy cập hệ thống Phản hồi Thanh Hóa tại địa chỉ
+https//phanhoi.vnanhoagovvn hoặc truy cập vào ứng dụng di động, Valc,
+Facebook với từ khóa “Phản hổi Thanh Hóa” để gửi phản ánh, kiến nghị.
+2. Cơ quan, cán bộ, công chức, viên chức truy cập vào địa chí
+https/quanlyphanhoi:vn hoặc truy cập vào ứng dụng đi động để tiếp.
+nhận, xử lý và trả lời phản ánh, kiến nghị.
+Điều 7. Yêu cầu đối với phản ánh, kiến nghị
+1. Sử dụng ngôn ngữ tiếng Việt.
+2. Cung cấp đầy đủ thông tin về tên, số điện thoại của tổ chức, cá nhân
+gửi phản ánh, kiến nghị. Các thông tin này sẽ được giữ bí mật trên hệ thống.
+Phản hồi Thanh Hóa.
+3. Thể hiện rõ, trung thực, chính xác nội dung phản ánh, kiến nghị theo.
+các lĩnh vực được quy định tại Điều 5 Quy chế này. Tổ chức, cá nhân phải chịu
+trách nhiệm về tính trung thực, chính xác của các phản ánh, kiến nghị theo.
+quy định của pháp luật. Nội dung của phản ánh, kiến nghị sẽ được giữ bí mặt
+trên hệ thống Phân bồi Thanh Hóa khi có yêu cầu của tổ chức, cá nhân gửi
+phản ánh, kiến nghị.
+Điều 8. Giá trị phản ánh, kiến nghị
+1. Nội dung phản ánh, kiến nghị của tổ chức, cá nhân và trả lời của cơ
+quan nhà nước có thẩm quyền trên hệ thống Phân hồi Thanh Hóa có giá trị như:
+văn bản giấy.
+2. Các hoạt động, nội dung thực hiện tiếp nhận, phối hợp và xử lý phản
+ảnh, kiến nghị của cơ quan tiếp nhận, phối hợp và cơ quan xử lý trên hệ thống.
+Phản hồi Thanh Hóa có giá trị như văn bản giấy.
+3
+Chương III
+TIẾP NHẬN, XỬ LÝ VÀ TRẢ LỜI PHẢN ÁNH, KIẾN NGHỊ
+Điều 9. Cơ quan có thẩm quyền tiếp nhận, xử lý và trả lới phản ánh,
+kiến nghị
+1. Tất cả các cơ quan tham gia vào hệ thống Phản hồi Thanh Hóa đều có
+thẩm quyền tiếp nhận, xử lý và trả lời phản ảnh, kiến nghị của tổ chức, cá nhân
+thuộc phạm vi xử lý của cơ quan mình (do bộ phận Văn phòng làm đấu mổi).
+2. Văn phòng UBND tỉnh (Phòng Kiểm soát thủ tục hành chính - Nội chính
+làm đầu mối) tiếp nhận, xử lý và trả lời các phản ánh, kiến nghị của tổ chức, cả
+nhân những vấn để về phạm vi giải quyết của UBND tỉnh, Chủ tịch UBND tỉnh,
+Văn phòng UBND tỉnh; đồng thời chuyển xử lý và theo dõi kết quả xử lý các
+phản ánh, kiến nghị trên địa bàn tỉnh.
+Điều 10. Tiếp nhận, phán ánh, kiến nghị
+Hàng ngày các cơ quan thực hiện việc tiếp nhận phản ánh, kiến nghị của
+tổ chức, cá nhân theo quy định tại Khoản 2 Điều 6 Quy chế này để xử lý theo.
+quy định của pháp luật.
+Điều 11. Phân loại phán ánh, kiến nghị
+Sau khi tiếp nhận, phản ánh, kiến nghị được phân loại thành 04 nhóm sau:
+1. Nhóm 1: Phản ảnh, kiến nghị không đúng các nội dung, yêu cầu quy
+định tại Điều 5 và Điều 7 Quy chế này.
+2. Nhóm 2: Phản ảnh, kiến nghị chưa rõ nội dung quy định tại Điều 5 và
+Điều 7 Quy chế này.
+3. Nhóm 3: Phản ảnh, kiến nghị đáp ứng các nội dung, yêu cầu quy định
+tại Điều 5 và Điều 7 Quy chế này nhưng không thuộc thẩm quyền xử lý hoặc
+không phải là cơ quan xử lý chính.
+4. Nhóm 4: Phản ánh, kiến nghị đáp ứng các nội dung, yêu cầu quy định
+tại Điều 5 và Điều 7 Quy chế này thuộc thẩm quyền quyết định, phạm vi xử lý.
+Điều 12. Xử lý phản ánh, kiến nghị
+Quy trình xử lý phản ánh, kiến nghị thực hiện theo quy định tại Điều 14
+Nghị định số 20/2008/NĐ-CP và đảm bảo các quy định sau:
+1. Đối với các phản ánh, kiến nghị thuộc nhóm 1: Trong thời hạn 02 ngày
+làm việc kể từ ngày nhận được phản ánh, kiến nghị, bộ phận tiếp nhận thông tin
+cho tổ chức, cá nhân việc không tiếp nhận và nêu rõ lý do trên hệ thống Phản hồi
+Thanh Hóa.
+2. Đối với các phản ánh, kiến nghị thuộc nhóm 2: Trong thời hạn 02 ngày
+làm việc kể từ ngày nhận được phản ánh, kiến nghị, bộ phận tiếp nhận đề nghị
+4
+tổ chức, cá nhân bổ sung, làm rõ nội dung phản ảnh, kiến nghị. Thời hạn để tố
+chức, cá nhân bổ sung làm rõ nội dung phản ảnh, kiến nghị là 05 ngày làm việc;
+quá thời gian này phản ánh, kiến nghị sẽ không được giải quyết.
+3. Đối với các phản ảnh, kiến nghị thuộc nhóm 3: Trong thời hạn 02 ngày.
+làm việc kể từ ngày nhận được phản ảnh, kiến nghị, bộ phận tiếp nhận chuyển
+phản ánh, kiến nghị tới cơ quan có thẩm quyền để xử lý theo quy định của pháp
+luật, nếu không xác định được cơ quan có thẩm quyền xử lý thì chuyển phản
+ánh, kiến nghị về Văn phòng UBND tỉnh để phân công xử lý.
+4. Đối với các phản ánh, kiến nghị thuộc nhóm 4: Trong thời hạn 02 ngày.
+làm việc kể từ ngày nhận được phản ánh, kiến nghị, bộ phận tiếp nhận chuyên
+phản ánh, kiến nghị đến đơn vị chuyên môn trực tiếp xử lý qua phần mềm hoặc
+bằng văn bản (bản in được kết xuất tự động trên phần mếm); trong thời hạn 10
+ngày làm việc, đơn vị chuyên môn trực tiếp xử lý phải chuyển kết quả xử lý về
+bộ phận tiếp nhận để công khai kết quả; trường hợp thết thời hạn này mà chưa xử
+lý xong, đơn vi chuyên môn nêu rõ lý do để bộ phận tiếp nhận thông tin cho tổ
+chức, cá nhân biết. Đối với phản ánh, kiến nghị có nội dung liên quan đến nhiều
+cơ quan thì cơ quan chủ trì xử lý xác định các cơ quan có liên quan để phối hợp.
+xử lý, thời gian xử lý của cơ quan phối hợp là 05 ngày làm việc kể từ ngày nhận
+được đề nghị phối hợp.
+Điều 13. Công khai kết quả xử lý phản ánh, kiến nghị
+1. Trong thời hạn 01 ngày làm việc kể từ khi có kết quả xử lý, bộ phận
+tiếp nhận có trách nhiệm cập nhật và công khai kết quả trên hệ thống Phản bồi
+Thanh Hóa để trả lời cho tổ chức, cá nhân.
+2. Trường hợp các phản ánh, kiến nghị có nội dung liên quan đến bảo vệ
+bí mật nhà nước hoặc trong quá trình xử lý có các thông tin thuộc bảo vệ bí mật
+nhà nước thì quy trình trả lời phải được thực hiện và quản lý theo chế độ mật,
+không cập nhật thông tin trên hệ thống Phản hồi Thanh Hóa.
+Chương IV
+TỔ CHỨC THỰC HIỆN
+Điều 14. Trách nhiệm của Văn phòng UBND tỉnh
+1. Quản lý, vận hành hệ thống Phản hồi Thanh Hóa; tổng hợp khó khăn,
+vướng mắc của các cơ quan trong quá trình khai thác, sử dụng để kịp thời điều
+chỉnh, bổ sung, nâng cấp chức năng của hệ thống Phản hồi Thanh Hóa.
+2. Theo dõi, kiểm tra, đôn đốc tình hình tiếp nhận, xử lý, trả lời phản ánh,
+kiến nghị của các cơ quan; định kỳ hàng tháng, năm hoặc đột xuất tổng hợp bảo
+cáo Chủ tịch UBND tỉnh.
+5
+3. Ứng dụng chữ ký số, tin nhắn và cải tiến quy trình xử lý phản ánh, kiến
+nghị để đảm bảo an toàn thông tin, rút ngắn thời gian xử lý, giảm văn bản giấy, tạo
+thuận lợi tối đa cho cơ quan, tổ chức, cá nhân.
+4. Nghiên cức, tham mưu bổ sung các lĩnh vực mà tổ chức, cá nhân quan tâm:
+tích hợp với hệ thống thông tin tiếp nhận, xử lý phản ánh kiến nghị trên: Cổng
+dịch vụ công quốc gia, Cổng thông tin điện tử Chính phủ; mở rộng triển khai hệ
+thống Phản hồi Thanh Hóa đến cấp xã, phòng, ban, đơn vị có liên quan.
+Điều 15. Trách nhiệm của Sở Thông tin và Truyền thông
+1. Phối hợp với các cơ quan thông tấn, báo chí trọng tỉnh tăng cường
+truyền thông đối với công tác tiếp nhận, xử lý phản ảnh, kiến nghị của tổ chức,
+cá nhân trên địa bàn tỉnh.
+2. Phối hợp với Văn phòng UBND tỉnh trong công tác đảm bảo an toàn
+thông tin cho hệ thống Phản hồi Thanh Hóa.
+Điều 16. Trách nhiệm của Sở Nội vụ
+Bổ sung tiêu chí kết quả xử lý phản ánh, kiến nghị của tổ chức, cá nhân:
+vào tiêu chỉ đánh giá chỉ số cải cách hành chính và thi đua khen thưởng của các
+cơ quan hàng năm.
+Điều 17. Trách nhiệm của của các cơ quan
+1. Tổ chức triển khai, thực hiện nghiêm túc Quy chế này.
+2. Bố trí nhân sự thực hiện tiếp nhận, xử lý và trả lời phản ảnh, kiến nghỉ
+của tổ chức, cá nhân trên hệ thống Phản hồi Thanh Hóa.
+3. Đặt liên kết đến hệ thống Phản bồi Thanh Hóa trên Trang thông tin điện
+tử của các cơ quan theo hướng dẫn của Văn phòng UBND tỉnh.
+4. Xây dựng quy trình nội bệ của cơ quan trong việc thực hiện tiếp nhận.
+xử lý và trả lời phản ánh, kiến nghị của tổ chức, cá nhân.
+5. Ứng dụng chữ ký số trong các văn bản điện tử để chuyển xử lý, trả lời.
+phản ánh, kiến nghị của tổ chức, cá nhân, rút ngắn thời gian xử lý.
+6. Đề xuất Chủ tịch UBND tỉnh bổ sung các lĩnh vực mà tổ chức, cá nhân
+quan tâm để bổ sung vào hệ thống Phản hỗi Thanh Hóa.
+Điều 18. Kinh phí thực hiện
+Công tác tiếp nhận, xử lý, trả lời phản ảnh, kiến nghị của các cơ quan.
+hành chính nhà nước được ngân sách nhà nước bảo đảm trong dự toán chi ngân
+sách thường xuyên theo quy định tại Điều 21 Nghị định số 20/2008/NĐ-CP;
+đối với các cơ quan có liên quan sử dụng từ nguồn kinh phí theo quy định của
+pháp luật.
+6
+Điều 19. Khen thưởng
+Cán bộ, công chức, viên chức, người đúng đầu cơ quan, tổ chức được giao.
+nhiệm vụ tiếp nhận, xử lý và trả lời phản ánh, kiến nghị của tổ chức, cả
+nhân hoàn thành tốt nhiệm vụ theo quy chế này được khen thưởng theo quy định
+của pháp luật.
+Điều 20. Xử lý vi phạm
+Cán bộ, công chức, viên chức, người đứng đầu cơ quan, tổ chức được giao.
+nhiệm vụ tiếp nhận, xử lý, trả lời phản ánh, kiến nghị của tổ chức, cá nhân nếu vi
+phạm hoặc không thực hiện đầy đủ trách nhiệm theo quy định pháp luật về tiếp
+nhận, xử lý, trả lời phản ánh, kiến nghị và theo quy định tại Quy chế này thì tủy
+theo tính chất, mức độ sẽ bị xử lý theo quy định của pháp luật.
+Điều 21. Trách nhiệm thì hành
+1. Văn phòng UBND tỉnh đôn đốc, kiểm tra việc thực hiện Quy chế này.
+2. Trong quá trình triển khai thực hiện, nêu có phát sinh khó khăn, vường.
+mốc. các cơ quan kịp thời phản ảnh về Văn phòng UBND tỉnh để tổng họp, báo.
+cáo UBND tỉnh xem xét, sửa đổi, bổ sung Quy chế cho phù hợp./.
+TM. ỦY BAN NHÂN DÂN
+KT. CHỦ TỊCH
+PT CHỦ TỊCH
+Mai Xuân Liêm

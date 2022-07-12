@@ -1,0 +1,235 @@
+Ký bởi: Văn phòng Ủy ban Nhân dân
+Thời gian ký: 10/06/2016 15:48:11
+UỶ BAN NHÂN DÂN   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH THANH HOÁ   Độc lập - Tự do - Hạnh phúc
+Số: 4990 /QĐ-UBND   Thanh Hoá, ngày 10 tháng 6 năm 2016
+QUYẾT ĐỊNH
+Về việc phê duyệt Báo cáo kinh tế - kỹ thuật xây dựng công trình sữa chữa,
+nâng cấp hồ Đồng Tôm, xã Triệu Thành, huyện Triệu Sơn
+CHỦ TỊCH UBND TỈNH THANH HÓA
+Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015;
+Căn cứ Luật Xây dựng ngày 18/6/2014; Luật Đầu tư công ngày 18/6/2014;
+Căn cứ Nghị định số 59/2015/NĐ-CP ngày 18/6/2015 về quản lý dự án đầu.
+tư xây dựng; Nghị định số 32/2015/NĐ-CP ngày 25/3/2015 về quản lý chi phí
+đầu tư xây dựng; Nghị định số 45/2015/NĐ-CP ngày 12/5/2015 về quản lý cuất
+lượng và bảo trì công trình xây dựng của Chính phủ;
+Căn cứ Quyết định số 832/QĐ-UBND ngày 11/3/2016 của Chủ tịch UBND
+tỉnh về việc phê duyệt chủ trương đầu tư xây dựng các công trình sử dụng nguồn
+vốn thực hiện chính sách bảo vệ và phát triển đất trồng lúa năm 2016, tỉnh
+Thanh Hóa;
+Xét đề nghị của UBND huyện Triệu Sơn tại Tò trình số 877/TTr-UBND
+ngày 13/5/2016 (kèm theo bổ sơ) và Công văn số 146/SNN&PTNT-QLDCT
+ngày 30/3/2016 của Sở Nông nghiệp và Phát triển nông thôn về việc phê duyệt
+Báo cáo kinh tế - kỹ thuật xây dựng công trình sửa chữa, nâng cấp hồ Đồng
+Tôm, xã Triệu Thành, huyện Triệu Sơn,
+QUYẾT ĐỊNH:
+Điều 1. Phê duyệt Báo cáo kinh tế - kỹ thuật xây dựng công trình sửa chữa,
+nâng cấp bồ Đồng Tôm, xã Triện Thành, huyện Triện sơn, với những nội đang
+chính sau:
+1. Tên công trình: Sửa chữa, nâng cấp hồ Đồng Tôm, xã Triện Thành,
+huyện Triệu Sơn.
+2. Chủ đầu tư: UBND huyện Triệu Sơn.
+3. Nhà thầu khảo sát, lập Báo cáo kinh tế - kỹ thuật xây dựng công
+trình: Công ty TNHH xây dựng An Khánh Hưng.
+4. Mục tiêu đầu tư: Cấp nước lưới cho 16,2 ba đất sản xuất nông nghiệp.
+của xã Triệu Thành, huyện Triệu Sơn.
+8. Nội dung và quy mô đầu tư: Nâng cấp đập đất, làm mới các bạng mục
+trán xã li, cống lầy nước dưới đập, kiên cố bệ thống kênh với nhiệp: vụ cấp.
+nước tưới cho 16,2 ra đất sản xuất nông nghiệp (uồm 9 ha lúa và 7,2 ba tuán)
+của xã Triệu Thành, huyện Triệu Sơn.
+6. Giải pháp kỹ thuật:
+6.1. Thông số kỹ thuật chính:
+- Tần suất đảm bảo tưới:   P = 75%;
+- Tần suất lũ thiết kế:   P = 2%;
+- Tần suất lũ kiểm tra:   P = 1%;
+- Hệ số lợi dụng kênh mương:   7 = 0,75;
+- Hệ số tưới:   qúa= 1,2 1/s/ha; qmàu = 0,45 1/s/ha;
+- Các chỉ tiêu thiết kể chủ yếu:
++ Bảng 1: Thông số các hạng mục công trình đầu mối.
+TT   Hạng mục   Đơn vị   Trị số
+1   Hồ chứa
+Diện tích lưu vực   km2   0,82
+Mực nước dâng bình thường   m   +32.60
+Mực nước lũ thiết kế P2%   m   +33.40
+Mực nước lũ kiểm tra P1%   m   +33.49
+Mực nước chết   m   +29.80
+Dung tích hồ Nh   103 m   95,24
+Dung tích hữu ích Whi   103   84,11
+Dung tích chết Wc   103 m3   11,13
+2   Đập đất
+Chiều dài đập   m   183,54
+Chiều cao đập đất (Hmax)   m   6,9
+Chiều rộng mặt đập   m   5
+Cao trình mặt đập   m   +34.40
+Hệ số mái đập thượng lưu mtl   2,5
+Hệ số mái đập hạ lưu mhl   2
+Cao trình đinh áp mái hạ lưu   m   +30.50
+3   Tràn xả lũ
+Cao trình ngưỡng   m   +32.60
+Chiều rộng ngưỡng tràn   m   6,4
+Chiều cao cột nước tràn thiết kế   m   0,8
+Lưu lượng tràn thiết kế Q2%   m3/s   7,51
+4   Cống lấy nước dưới đập
+Lưu lượng thiết kế Qtk   m3/s   0,019
+Đường kính cống Đ   Cm   30
+Cao trình đáy cống   m   +29.30
+2
++ Bảng 2: Thông số thiết kế kênh.
+L   F   Qtk   Bk   Hk
+TT   Tên tuyến/đoạn kênh   Ghi chú
+(m)   (ha)   (m3/s)   (cm)   (cm)
+I   Kênh chính   2.019,4   11,2   0,0142
+1   K0+000 - K0+102   102   Ông 930 cm   Đường ống thép
+2   K0+102 - K0+221,67   119,67   35   40   Kênh chữ nhật
+3   K0+221,67 - K0+305   83,33   Ống 931,5 cm   Đường ống HDPE
+4   K0+305 - K0+999,2   694,2   35   40   Kênh chữ nhật
+5   Ko+999,2 - K1+28,54   29,34   Ông 930 cm   Đường ống thép
+6   K1+28,54 - K2+019,4   990,86   35   40   Kênh chữ nhật
+II   Kênh nhánh   137   5   0,005
+1   Ko+10,7 - K0+147,7   35   40   Kênh chữ nhật
+Tổng cộng   2.156,4   16,2   0,0187
+6.2. Giải pháp thiết kế chủ yếu:
+a) Đập đất: Sửa chữa, nâng cấp đập cũ; hình thức, kết cấu như sau:
+- Thân đập: Bằng đất đấp đầm nên đảm bảo độ chặt K> 0,95, dung trọng
+thiết kế kk = 1,63 T/m3
+- Mặt đập: Rải cấp phối đả đảm loại 2 dây 20 cm lu lên chặt, độ đốc ngang
+từ tin về 2 phía i - 2%; bo mặt đập bằng bê tông thường M200.
+- Mải thượng lưu: Gia cổ bằng cấu kiện bê tông đúc sẵn M250 kích thước
+(40x40A2) cm trên lớp đả dăm (1x2) cm dày 10 cm và một lớp vài địa kỹ thuật;
+chân khay đỡ mái bằng bê tông thường M200.
+- Mải hạ lưu: Trồng có chống xói lở; từ cao trình (430.50) m xuống chân.
+đập làm thiết bị thoát nước kiểu áp mái bằng đá lát khan dây 30 cm, đã (1x2) cm.
+đây 10 ca, 1 lớp vài địa kỹ thuật, khóa đình áp mái bằng bê tông thường M200;
+rãnh thoát nước vai đập hạ lưu bằng bê tông thường M200.
+Các bộ phận bằng bê tông thường được cắt khe lún, đặt 2 lớp giấy đầu tầm.
+nhựa đưỡng; vài địa kỹ thuật dùng vài ART 15 hoặc loại có tỉnh năng kỹ thuật
+tương đương.
+b) Tràn xả lũ: Kiểu tràn đình rộng xã lũ tự do; kết cấu tràn như sau:
+- Sân trước có đáy bằng bê tông thường M200, tường bằng bê tông cốt thép.
+(BTCT) M250.
+- Ngưỡng tràn và tường bên bằng BTCT M250 toàn khối.
+- Đốc nước, bể tiêu năng: Mặt cất chữ nhật bằng BTCT M250; đây bể tiêm
+năng bố trí hệ thống tiêu thoát nước giảm áp; đây gia cổ sau tiêu năng bằng
+BTCT M250 và bê tông thường M200; đọc phía ngoài đình tưởng đốc nước
+được tạo cơ, bảo vệ mặt bằng bê tông thường M200.
+Đáy các bộ phận bằng BTCT lót 10 cm bê tông thường M100.
+c) Cống lấy nước dưới đập:
+Hình thức cống ngằm chày có áp; thân cống bằng ông gang 930 cơm, chiều
+dài mỗi đoạn ổng L = 6 m, tiên kết giữa các đoạn ổng bằng khớp nối công và
+3
+mềm có gioăng cao su, khớp nối mềm kín nước bằng băng cản nước PVC; xung.
+quanh thân cổng bọc một lớp đất sét luyện; mớng công bằng BTCT M250 trên.
+lớp bê tông lớt M100; cửa vào cống bố trí khe phai sửa chữa và lấp lưới chấn.
+rác, gia cố trước cửa vào bằng bê tông thường M200; đóng mở cống bảng van
+chặn côn lắp phía hạ lưu, có nhà bao che bằng gạch xây, trần bằng BTCT M250.
+d) Kênh và công trình trên kênh:
+* Kênh chính:
+- 3 đoạn đường ống:
++ Đoạn từ K0+ 000 + K0+102 và từ Ko+999,2+ K1+28,54: Dùng ông thép.
+đen đường kinh trong đo300 mm, chiều dài mỗi đoạn ống 1 = 6 m, nối ổng bằng.
+mặt bích có gioảng cao so kin nước; cửa vào, cửa ra được lắp lưới chấn rác. Các
+đoạn ổng được đặt trên trụ đỡ bằng bê tông thường M200 và BTCT M200;
++ Đoạn từ K01221,67 - K0+305: Đàng ông HĐPE - PN6, đường kinh.
+ngoài 0316 mm, chiều dài mỗi đoạn ống L = 6 m, chôn sản dưới mặt đất tự
+nhiên; cửa vào, cửa ra được lắp lưới chắn rác.
+- 3 đoạn kênh từ Ko+102 + K0+305 + K0+999,2; K1+28,54 +
+K2+019,4: Kênh mặt cắt chứ nhật (3xH) + (35xt0) en bằng bê tông thường
+M200; dọc tuyến cứ 10 m cất 1 khe lân chên 2 lớp giấy dân tấm 3 lớp nhựa
+đường. Các đoạn kênh có đình trờng tâm sâu hoạ mặt đất tự nhiện được đày.
+tấm nắp bằng BTCT M200 để tránh vùi lấp.
+- Công trình trên kênh chính: Tổng số 13 công trình; trong đó, 5 cống qua
+đường tiết diện chữ nhật bằng bê tông thường M200, đình cống đây tâm đan đúc
+sẵn bằng BTCT M200; 8 cửa chía nước bằng bê tông thường M200, cửa vào bố
+trí khe phai điều tiết nước.
+* Kênh nhánh:
+Kênh mật cắt chữ nhật (BXH) = (3540) cm bằng bê tông thường M200;
+dọc tuyến cứ 10 m cắt 1 khc lìn chên 2 lớp giấy đầu tầm 3 lớp nhựa đường.
+c) Ngầm phía thượng lưu bồ: Trên cơ sở tuyến đường cũ, đoạn có cao độ.
+mặt đường thấp hơn mực nước 10 thiết kế P2% (433.40) với chiếu đài L =
+65,5 được gia cố mật để đảm bảo giao thông dân sinh. Kết cấu gia cổ bằng bê
+tông thường M200 dày 20 cơn, phía dưới lớ: 1 lớp trì lông tái sinh; chiếu rộng
+mặt Bực = (2,7 + 3,5) m, độ đốc ngang từ tìm về 2 phía 1= 2%; dọc tuyển cử
+7,5m cắt 1 khe lún vuông góc tim tuyến.
+a) Đường thi công kết hợp quản lý, vận hành: Sử dụng đường dân sinh hiện.
+có làm đường thì công; hoàn trả mặt đường sau thi công kết hợp quản lý, vận.
+hành.
+- Hướng tuyến: Xuất phát từ ngã ba giao cắt đường bê tông hiện có và kết
+thúc tại chân đập gần cống lấy nước, tổng chiều dài tuyến L = 359 m.
+- Kết cấu hoàn trả: Chiều rộng nền Bn = 4 m; mặt gia cố Bgc = 3 m bằng bê
+công thường M230 dày 20 cm, mông bằng cấp phối đá đăm loại 2 dậy 15 cm.
+đầm chặt K> 0,95; dọc tuyến cứ 7,5 m bố trí 1 khe lún.
+7. Địa điểm xây dựng: Xã Triệu Thành, huyện Triệr Sơn.
+4
+8. Diện tích sử dụng đất: Khoảng 0,59 ha (trong đó, công trình đầu mối.
+0,33 ha; hệ thống kênh 0,26 ha).
+9. Loại, cấp công trình: Công trình Nông nghiệp và Phát triển nông thôn,
+cấp IV.
+10. Phương án giải phóng mặt bằng: Chủ đầu tư tổ chức thực hiện bồi
+thường GPMB theo đúng các quy định hiện hành của nhà nước.
+11. Tổng mức đầu tư:   7.536,1 triệu đồng;
+Trong đó:
+Chi phí xây dựng 5.314,0 triệu đồng;
+Chi phí thiết bị 4,8 triệu đồng;   Chi phí thiết bị
+Chi phí quản lý dự án
+Chi phí tư vấn ĐTXD
+Chi phí khác
+Chi phí bồi thường GPMB
+Chi phí dự phòng   655,9 triệu đồng.
+(Có phụ biểu chi tiết kèm theo)
+12. Nguồn vốn đầu tư: Từ nguồn vốn thực hiện chính sách bảo vệ và phát
+triển đất trồng lúa năm 2016, tỉnh Thanh Hóa theo Quyết định số 332/QĐ-
+UBND ngày 11/3/2016 của Chủ tịch UBND tỉnh.
+13. Hình thức quản lý dự án: Chủ đầu tư trực tiếp quản lý dự án.
+14. Thời gian thực hiện: Không quá 2 năm (2016-2017).
+Điều 2. Chủ đầu tư chịu trách nhiệm tổ chức thực hiện dự án theo đúng
+Luật Xây dựng năm 2014; Luật Đấu thầu năm 2013 và các quy định hiện hành.
+của Nhà nước.
+Điều 3. Quyết định này có hiệu lực thì hành kể từ ngày ký.
+Chánh Vân phòng UBND tỉnh, Giám đốc các Sở: Kế hoạch và Đầu tư, Tài
+chính, Nông nghiệp và PTNT; Giám đốc Kho bạc Nhà nước tỉnh; Chủ tịch.
+UBND huyện Triệu Sơn và Thủ trưởng các ngành, đơn vị liên quan chịu trách.
+nhiệm thì hành Quyết định này./.
+Nơi nhận:   KT. CHỦ TỊCH
+- Như Điều 3 QĐ;   PHÓ CHỦ TỊCH
+- Chủ tịch UBND tỉnh (để b/c);
+- Phó Chủ tịch UBND tỉnh Nguyễn Đức Quyền;
+- Phó Chánh Văn phòng Lê Thanh Hải;
+- Lưu: VT, NN.
+Nguyễn Đức Quyền
+5
+
+Công trình: Sìn chữnh Tôm, xã Triệu Thành, huyện Triện Sơn.
+( Kèm theo Quyết sịnh sốt (480. Thày 10/000 121 0016 của Chủ tịch 088D này)
+Đơn vị tỉnh: Triệu đồng
+TT   Khoản mục chi phí   Cách tính   Thành tiền
+I   Chi phí xây dựng (Gxd)   Chi tiết   5.314,0
+II   Chi phí thiết bị (Gtb)   4,8
+1   Mua thiết bị   Chi tiết   4,104
+2   Lắp đặt thiết bị   Chi tiết   0,666
+III   Chi phí quản lý dự án (Gglda)   2,391% x (Gxd+Gtb)/1,1   115,6
+IV   Chi phí tư vấn đầu tư xây dựng   680,7
+1   Chi phí khảo sát   Chi tiết   318,637
+2   Chi phí lập Báo cáo kinh tế - kỹ thuật   3,216% x (Gxd+Gtb)   171,078
+3   Chi phí lập hồ sơ mời thầu, đánh giá hồ sơ dự   0,282% x (Gxd+Gtb)   14,999
+thầu thi công xây dựng
+4   Chi phí giám sát thì công xây dựng   2,079% x (Gxd+Gtb)   110,578
+5   Lập kế hoạch bảo vệ môi trường   Tạm tính   40,000
+6   Chi phí giám sát, đánh giá dự án   20% x (Gglda)   25,435
+V   Chi phí khác   316,3
+1   Chi phí bảo hiểm xây dựng   0,680% x (Gxd)   36,135
+2   Chi phí thẩm tra, phê duyệt quyết toán   0,798% X TMĐT   60,126
+3   Phí thẩm định Báo cáo kinh tế - kỹ thuật   0,019% x TMĐT   1,432
+4   Phí thẩm định thiết kế bản vẽ thi công   0,121% x (Gxd)   5,845
+5   Phí thẩm định dự toán   0,117% x (Gxd)   5,652
+6   Chi phí thẩm định hồ sơ mời thầu và kết quả   0,100% x (Gxd+Gtb)   4,835
+lựa chọn nhà thầu thì công xây dựng
+7   Chi phí kiểm tra công tác nghiệm thu công   Chi tiết   3,400
+trình của cơ quan quản lý nhà nước
+8   Phí bảo vệ môi trường đối với đất khai thác để   1.500đồng/m3 7.928,0 m3   11,892
+đắp
+9   Chi phí hạng mục chung   Chi tiết   186,942
+VI   Chi phí bồi thường GPMB   Chi tiết   448,8
+VII   Chi phí dự phòng   655,9
+1   Dự phòng phát sinh khối lượng   5% x (++1ỉ+111+IV+V+VT)   344,010
+2   Dựp phòng trượt giá   Chi tiết   311,875
+Tổng cộng   ( (++II+III+IV+V+VI+VII)   7.536,1

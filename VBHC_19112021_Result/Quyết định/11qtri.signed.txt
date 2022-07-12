@@ -1,0 +1,307 @@
+Ký bởi: Cổng Thông tin điện tử Chính phủ
+Email: thongtinchinhphu@chinhphu.vn
+Cơ quạn: Văn phòng Chính phủ
+Thời gian ký: 02.04.2014 11:20:56 +07:00
+ỦY BAN NHÂN DÂN   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH QUẢNG TRỊ   Độc lập- Tự do - Hạnh phúc
+Số:1112/QĐ-UBND   Quảng Trị, ngày 04 tháng 3 năm 2014
+QUYẾT ĐỊNH
+Ban hành Quy chế sử dụng, quản lý và khai thác Hệ thống thông tin
+cán bộ, công chức, viên chức tỉnh Quảng Trị
+ỦY BAN NHÂN DÂN TỈNH QUẢNG TRỊ
+Căn cứ Luật Tổ chức HĐND và UBND ngày 26 tháng 11 năm 2003;
+Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006;
+Căn cứ Luật Cán bộ, công chức ngày 13 tháng 11 năm 2008;
+Căn cứ Luật Viên chức ngày 15 tháng 11 năm 2010;
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính
+phủ về việc ứng dụng Công nghệ thông tin trung hoạt động của cơ quan nhà nước;
+Căn cứ Thông tư số 11/2012/TT-BNV ngày 17 tháng 12 năm 2012 của Bộ Nội.
+vụ quy định về chế độ báo cáo thống kê và quản lý hồ sơ công chức;
+Xét đề nghị của Giám đốc Sở Nội vụ,
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy chế sử dụng, quản lý và khai.
+thác Hệ thống thông tin cán bộ, công chức, viên chức tỉnh Quảng Trị.
+Điều 2. Quyết định này có hiệu lực thi hành sau 10 ngày, kể từ ngày kỷ.
+Điều 3. Chánh Văn phòng Ủy ban nhân dân tỉnh, Giám đúc các Sở, Ban,
+ngành, Chủ tịch Ủy ban nhân dân các huyện, thị xã, thành phố và Thủ trưởng các cơ
+quan, đơn vị, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:   TM. ỦY BAN NHÂN DÂN
+- Như Điều 3;   CHỦ TỊCH
+- Bộ Nội vụ, Vụ CCHC, Vụ CCVC- Bộ Nội vụ
+- Cục kiểm tra văn bản QPPL - Bộ Tư pháp
+- TT. Tỉnh ủy, TT HĐND tỉnh;
+- CT, các PCT UBND tỉnh;
+- Trung tâm Công báo tỉnh
+- Lưu: VT, NC.
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIÊT NAM
+TỈNH QUẢNG TRỊ   Độc lập - Tự do - Hạnh phúc
+QUY CHẾ
+Sử dụng, quản lý và khai thác
+Hệ thống thông tin cán bộ, công chức, viên chức tỉnh Quảng Trị
+(Ban hành kèm theo Quyết định số 11 /QĐ-UBND ngày 04 3 /năm 2014
+của Ủy ban nhân dân tỉnh Quảng Trị
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Quy chế này quy định về nội dung, quy trình, trách nhiệm và quyền hạn của các.
+cơ quan, đơn vị, cá nhân trong việc sử dụng, quản lý khai thác Hệ thống thông tin.
+cán bộ, công chức, viên chức tỉnh Quảng Trị (sau đây gọi tắt là Hệ thống).
+Điều 2. Đối tượng áp dụng
+Quy chế này áp dụng đối với:
+1. Các cơ quan quản lý hành chính Nhà nước, đơn vị sự nghiệp, các tổ chức hội
+có sử dụng biên chế nhà nước;
+2. Cán bộ, công chức, viên chức theo quy định của pháp luật;
+3. Những người làm việc theo chế độ hợp đồng lao động quy định tại Nghị định
+số 68/2000/NĐ-CP ngày 17 tháng 11 năm 2000 của Chính phủ về thực hiện chế độ.
+họp đồng một số loại công việc trong cơ quan hành chính nhà nước, đơn vị sự
+nghiệp;
+4. Những người làm việc theo chế độ hợp đồng lao động theo Quyết định
+58/TTg ngày 03/02/1994 của Thủ tưởng Chính phủ, hợp đồng tạo nguồn nhân lực,
+viên chức hướng lương từ nguồn thu hoạt động sự nghiệp trong các cơ quan hành
+chính, đơn vị sự nghiệp công lập được cơ quan có thẩm quyền cho phép.
+Điều 3. Mô hình tổ chức cập nhật, quản lý và khai thác Hệ thống
+Hệ thống được tổ chức theo mô hình 03 (ba) cấp như sau:
+1. Cấp 1 (Nhóm người dùng cuố): Là toàn thể cán bộ, công chức, viên chức.
+và người lao động hiện đang làm việc tại các cơ quan, đơn vị. Đối tượng quy định tại
+Khoản 2,3,4 - Điều 2 - Chương 1 của Quy chế này được cấp tái khoản để tạo hồ sơ
+điện tử trên hệ thống và có quản lý lài khoản được cấp, kê khai hồ sơ
+điện tà ban đấu, cập nhật thông tin khi có biến động, quản lý và khai thác hồ sơ điện.
+tử của cá nhân mình;
+2. Cấp 2 (Nhóm phê duyệt): Là thủ trưởng (hoặc người được thủ trưởng cơ A.
+1
+quan ủy quyền, phân công) cơ quan quản lý trực tiếp nhóm người đùng Cấp 1. Ngài
+trách nhiệm thuộc nhóm người dùng Cấp 1, còn có trách nhiệm phê duyệt hồ sơ điện.
+tl: CBCTVC kê khai ban đấu và các thông tin biển động do nhớm người dùng Cấp 1
+trình, quản lý và khai thác, sử dụng thông tia và CBCCVC thuộc cơ quan, đơn vị
+mình trên Hệ thống;
+3. Cấp 3 (Nhâm quản lý: Là một số cán bộ quản lý được UBND tỉnh quyết
+định theo đề nghị của Giám đốc Sở Nội vụ. Ngoài trách nhiệm thuộc nhóm người
+dùng Cấp 1, Cấp 2, còn có trách nhiệm phê duyệt lần cuối các bồ sơ do các đơn vị
+trình để chính thức đưa thông tin hồ sơ điện tử của CBCCVC hoà vào cơ sở đữ liệu
+chung còa toàn tỉnh; quản lý, tổ chức triển khai Hệ thống; tổng hợp, báo cáo và lưu
+trữ hồ tơ CBCCVC; theo dõi, quản lý hoạt động của Hệ thống theo quy định của
+Quy chế này và các quy định khác của pháp luật.
+Điều 4. Nguyên tắc kê khai, cập nhật, quản lý và khai thác sử dụng Hệ thống
+1. Tất cả mọi đối tượng thuộc nhóm người dùng Cấp 1 có trách nhiệm tự kê
+khai hồ sơ bản đầu và cập nhật biển động thông tin theo quy định tại Quy chế này.
+San khi kê khai, thông tin sẽ được các nhóm người dùng Cấp 2 xem xét, phê duyệt
+trước khi trình lên nhóm người dùng Cấp 3 quyết định cập nhật chính thức vào Hệ
+thống.
+2. Thông tin về hồ sơ CBCCVC được cập nhật vào Hệ thống phải thống nhất
+với hồ sơ giấy đang được lưu trữ tại cơ quan, đon vị.
+3. Hồ sơ CBCCVC phải được cập nhật, bổ sung đầy đó, chính xác, theo đóng
+thời gian quy định tại Điều 9 Quy chế này và được quản lý, sử dụng, bảo quân theo
+chế độ mật do Nhà nước quy định.
+4. Nhóm người dùng thuộc cấp nào có trách nhiệm quản lý tài khoán, thông tin.
+được phân quyền đến cấp đó. Nhóm người dùng Cấp 1 quản lý thông tin, tài khoản
+của bản thân ; Nhóm người dùng Cấp 2 được quản lý, khai thác sử dụng rài khoản,
+thông tin của nhóm người dùng Cấp 1 thuộc phạm vi quản lý của tmình nhóm người
+đúng Cấp 3 được quản lý, khai thác sử dụng tài khoản, thông tin của CBCCVC toàn
+tỉnh. Chi những người thuộc chóm người dùng Cấp 2 hoặc những người được cơ
+quan, đơn vị có thẩm quyền quản lý hồ sư CBCCVC đồng ý bằng văn bản mới được
+nghiên cứu, khai thác hồ sơ CBCCVC.
+Điều 5. Tinh năng sử dụng, quản lý và khai thác Hệ thống
+1. Kê khai ban đầu hồ sơ điện tử cá nhân;
+2. Cập nhật và hiệu chỉnh hồ sơ CBCCVC;
+3. Tìm kiếm thông tin theo các tiêu chí tủy chọn;
+4. Báo cáo, thống kê và kết xuất thông tin theo các tiêu chí tùy chọn;
+5. Quản lý tổ chức và biên chế của các cơ quan, đơn vị;
+6. Quản lý đào tạo và bồi dưỡng: A
+2
+7. Quản lý khen thưởng và kỷ luật;
+8. Quản trị Hệ thống: thực hiện quản trị chức năng Hệ thống, phân quyền nhóm.
+người dùng và người dùng, sao tưu và phục hồi Hệ thống.
+Điều 6. Quản lý tài khoản đăng nhập Hệ thống
+1. Tổ chức và cá nhân nêu tại Điều 2 Quy chế này được cấp tài khoản người
+dùng để đăng nhập, sử dụng, quản lý và khai thác Hệ thống; được phản quyền khai
+thác các chức năng của Hệ thống.
+2. Sở Nội vụ là cơ quan tham mưu UBND tỉnh về công tác quản lý hồ sơ
+CBOCVC có trách nhiệm tạo và cấp tài khoản người đông, phân quyền sử dụng cho.
+các tổ chức, cá nhân; thực hiện chức năng nghiệp vụ về công tác quản lý hồ sơ
+CBCCVC trong toàn tỉnh.
+3. Các tổ chức có như cầu về cấp mới, cấp bổ sung, thay đổi tài khoản người
+đúng hoặc phân quyền sử dụng trong Hệ thống thì thống nhất với Sở Nội vụ bằng
+văn bản,
+4. Tổ chức, cá nhân phải bảo đảm an toàn về tài khoản và tự chịu hoàn toàn.
+trách nhiệm trước pháp luật nếu để lộ, để lọt thông tin do không thực hiện quy trình.
+bảo mật đã được hướng dẫn.
+5. Đối với những trường hợp người thuộc nhóm người dùng Cấp 2 của cơ
+quan, đơn vị chuyển công tác, thôi việc, nghỉ hưu, chết... thì người đứng đầu cơ
+quan, đơn vị thông báo với Sở Nội vụ để thu hồi quyền quản lý tài khoản và cấp cho
+người khác theo đề nghị của đơn vị.
+Chương II
+QUY TRÌNH CẬP NHẬT, LƯU TRỪ VÀ KHAI THÁC HỆ THỐNG
+Điều 7. Quy trình kê khai phiếu thông tin cán bộ, công chức, viên chức và
+cập nhật thông tin vào Hệ thống
+Mỗi đối tượng được cấp tài khoản có trách nhiệm kê khai ban đầu và cập nhật
+những biến động về thông tin vào Hệ thống, cụ thể như sau:
+1. Lập mới hồ sơ :
+a) Mọi cá nhân theo quy định tại Điều 2 - Chương 1 Quy chế này có trách nhiệm
+kê khai đầy đủ, chính xác các thông tin theo yêu cầu của Hệ thống;
+b) Đối với những cá nhân được tuyến dụng mới, trong thời gian 30 (ba mươi)
+ngày làm việc, kể từ ngày có quyết định tuyển dụng phải kê khai thông tin về hồ sơ
+CBCCVC vào Hệ thống theo quy định tại điểm a, khoản 1 Điều này. Khi hồ sơ
+CBCCVC tuyến dụng mới đã được cập nhật vào Hệ thống thì mới được cấp số hiệu
+và thẻ công chức, viên chức.
+2. Cập nhật thông tin hồ sơ
+3
+a) Đối với những thông tin thay đổi của cá nhân như nâng lương, nâng ngạch,
+chuyển xếp lương đối với CBCC và thăng hạng đối với viên chức sự nghiệp, bầu cử,
+bổ nhiệm, điều động, luân chuyển, chuyển đổi vị trí công tác, đào tạo, bối dưỡng,
+khen thưởng, kỷ luật, hệ tịch, tình trạng hôn nhân,.. thì cá nhân có trách nhiệm cập.
+nhật, bổ sung thông tin vào Hệ thống. Thời gian cập nhật chậm nhất là 10 ngày san
+khi văn bản chứng minh cho sự thay đổi thông tin trên có hiệu lực thi hành.
+b) Đối với thông tia thay đổi mà bản thân cá nhân không trực tiếp cập nhật bổ
+sung được như chuyển công tác sang khối Đảng, ra ngoài địa bàn quản lý của tỉnh,
+thôi việc, từ trần, nghỉ hưu theo chế độ ..thì nhóm người dùng Cấy 2 của cơ quan,
+đơn vị quản lý CBCGVC có trách nhiệm cập nhật, bổ sung các thông tin này vào Hệ
+thống, thời gian chậm nhất là 10 ngày làm việc, kể lừ ngày xảy ra các biển động trên.
+Điều 8. Lưu trữ hồ sơ
+1. Hồ sơ CBCCVC phải được lưu trữ lâu dài trong Hệ thống để phục vụ việc.
+nghiên cứu, hoạch định, ban hành các cơ chế, chính sách, quản lý, khai thác sử dụng
+và thực hiện chế độ chính sách, đào tạo, bồi dưỡng đối với CBCCVC.
+2. Việc lưu trữ hồ sơ CBCCVC phải tuân thủ các nguyên tắc an toàn thông tin.
+theo quy định hiện hành.
+3. Hồ sơ CBCCVC đã nghỉ hưu, thôi việc, từ trấn vẫn được lưu trữ trên Hệ
+thống để phục vụ công tác báo cáo, thống kê.
+Điều 9. Khai thác thông tin từ Hệ thống
+1. CBCCVC được cấp tài khoản sẽ tự mình quản lý hồ sơ cá nhân mình. Hệ
+thống chi phân quyền sử dụng chức năng khai thác thông tin phục vụ công tác chơ
+thủ trưởng cơ quan, đơn vị và một số người được chỉ định.
+2. Việc khai thác thông tin trên Hệ thống là hoàn toàn mở, các cơ quan, đơn vị
+tùy vào mục đích công tác để lựa chọn mẫu báo cáo cho phù hợp.
+3. Các cơ quan, đơn vị sẽ được miễn thực hiện một số báo cáo thường kỳ và
+thông dụng. Sở Nội vụ có trích nhiệm sử dụng thông tin tổng hợp từ Hệ thống để
+trích xuất ra báo cáo gửi các cấp theo quy định.
+Chương III
+TRÁCH NHIỆM, QUYỀN HẠN CỦA CÁ NHÂN VÀ CÁC CƠ QUAN,
+ĐƠN VỊ TRONG VIỆC SỬ DỤNG, QUẢN LÝ VÀ KHAI THÁC HỆ THỐNG
+Điều 10. Trách nhiệm của các đối tượng là tổ chức thuộc phạm vi điều
+chỉnh của Quy chế:
+1. Được phân quyền để thực hiện việc sử dụng, quản lý và khai thác Hệ thống của
+cơ quan, đơn vị minh và các đơn vị trực thuộc theo phân cấp quản lý. Quyết định phân,
+công công chức, viên chức theo dõi, phụ trách Hệ thống.
+4
+2. Bảo vệ thông tin cá nhân theo quy định tại Điều 21 của Luật Công nghệ.
+thông tin.
+3. Phê duyệt thông tin của nhóm người dùng Cấp 1 trành theo thời gian quy
+định tại Điều 9 Quy chế này.
+4. Có trách nhiệm thường xuyên theo dõi, kiểm tra việc cập nhật các thông tin
+thuộc cơ quan, đơn vị và các đơn vị trực thuộc. Chịu trách nhiệm về tính chính xác,
+đầy đủ các thông tin về bồ sơ CBCCVC thuộc thẩm quyền quản lý đã được cập nhật
+vào Hệ thống và đảm bảo tính thống nhất với hồ sơ giấy lưu trữ tại cơ quan, đơn vị.
+5. Sử dụng thông tin về hồ sơ CBCCVC trong cơ quan, đơn vị và các đơn vị
+trực thuộc để làm cơ sở thực hiện công tác sử dụng và quản lý CBCCVC, bao gồm:
+a) Nâng bậc lương, nâng ngạch, chuyển xếp lương đối với CBCC, thăng hạng
+đối với viên chức sự nghiệp, thuyên chuyển, điều động, nghỉ hưu, thôi việc, thu hút
+theo quy định đối với CBCCVC thuộc thẩm quyền quản lý hoặc lập thủ tục đề nghị
+cơ quan có thẩm quyền;
+b) Cử CBCCVC đi đào tạo, bồi dưỡng theo quy định;
+c) Đề xuất các danh hiệu thi đua, khen thưởng thuộc thẩm quyền quản lý;
+d) Xác định nhu cấu tuyển dụng công chức, viên chức; giao và quản lý, sử dụng
+biên chế, hợp đồng lao động theo thẩm quyền quản lý;
+6. Kiến nghị và đề xuất với cơ quan có thẩm quyền sửa đổi, bổ sung các quy.
+định có liên quan đến chế độ cập nhật, sử dụng, quản lý và khai thác hồ sơ CBOCVC.
+của cơ quan, đơn vị mình và các đơn vị trực thuộc.
+Điều 11. Trách nhiệm của người được phân công, ủy quyền trực tiếp quản.
+lý, khai thác sử dụng Hệ thống (thuộc nhóm người dùng Cấp 2).
+1. Cán bộ được phân công, ủy quyền thường xuyên đảng nhập vào Hệ thống,
+kiểm tra trên Bảng Điểu khiển (Dachoan), nếu có các thông tin chờ được phê duyệt
+phải xem xét và báo cáo người có thẩm quyền để phê duyệt theo quy định;
+2. Thông báo, đôn đốc nhóm người dùng Cấp 1 trong cơ quan, đơn vị rà soát,
+cập nhật, điều chính thông tin cá nhân kịp thời, đầy đủ ngay khi có thay đổi;
+3. Kịp thời cập nhật thông tin vào Hệ thống đối với những trường hợp chuyển
+công tác ra ngoài tỉnh, từ trần, về hưu...
+4. Chịu trách nhiệm về tính kịp thời, chính xác các thông tin về hồ sơ
+CBCCVC đã được cập nhật vào Hệ thống và đảm bảo tính thống nhất với hồ sơ giấy
+đang hưu trữ tại cơ quan, đơn vị; khai thác, sử dụng có hiệu quả Hệ thống để cung
+cấp thông tin nhanh, chính xác, kịp thời phục vụ công tác quản lý hồ sơ CBCCVC.
+5. Lưu trữ thông tin tài khoản đăng nhập của người dùng Cấp 1 trong cơ quan,
+đơm vị mính. Trường hợp cần thay đổi, bổ sung thì báo cáo thủ trưởng cơ quan, đơn vị
+và đề nghị Sở Nội vụ phối hợp với Trung tâm Tin học tỉnh thực hiện.
+5
+Điều 12. Trách nhiệm của CBCC, VC, người lao động :
+1. Tạo mới hồ sơ điện tử ban đầu theo hướng dẫn của Sở Nội vụ và yêu cầu của
+hệ thống. Cập nhật kịp thời các biến động thông tin cá nhân lên hệ thống.
+2. Tham gia ý kiến với Thủ trưởng cơ quan, đơn vị chủ quản và Sở Nội vụ về
+các vấn đề liên quan đến hệ thống như hình thức, nội dung, chế độ bảo mật...
+3. Áp dụng các biện pháp an ninh, bảo mật để quản lý chặt chẽ tài khoản cá
+nhân đã được cấp.
+Điều 13. Trách nhiệm của các cơ quan, đơn vị:
+1- Sở Nội vụ
+1.1. Đảm bảo vận hành thông suốt Hệ thống thông tin CBCCVC.
+1.2. Đông ngày 15 tháng 12 hàng năm, báo cáo UBND tính tình hình đúng hạn,
+trễ hạn và trước hạn trong việc kê khai, cập nhật thông tin vào Hệ thống, căn cứ trên
+thời gian quy định tại Điều 9 với ngày tháng ghi trên các bằng chứng chứng minh sự
+biến động thông tin và thời gian thực hiện việc cập nhật thông tin ghi trên file Nhật
+ký (file Log) của Hệ thống.
+1.3. Chủ trì, phối hợp với Trung tâm Tin học tỉnh cấp tài khoản người đúng và
+phản quyền sử dụng cho các cơ quan, đơn vị.
+1.4. Chủ trì, phối hợp với Sở Thông tin và Truyền thông, các cơ quan chuyên
+môn thuộc UBND tỉnh có liên quan đến việc tổ chức Hệ thống, bao gồm:
+a) Rà soát và điều chỉnh kịp thời các thông tin, danh mục, tính năng trong Hệ
+thống cho phù hợp với các quy định hiện hành ;
+b) Sử dụng, kết xuất thông tin từ Hệ thống để thực hiện các báo cáo định kỳ,
+đột xuất theo yêu cầu của các cơ quan có thẩm quyền về công tác quản lý CBCCVC,
+c) Đề xuất nâng cấp các tỉnh năng của Hệ thống đảm bảo yêu cầu về khai thác
+và sử dụng Hệ thống có hiệu quả.
+1.5. Sử dụng thông tin về hồ sơ CBCCVC của cơ quan, đơn vị đã được cập nhật.
+vào Hệ thống để làm cơ sở thực hiện công tác sử dụng và quản lý CBCCVC, bao gồm:
+a) Thực hiện các nghiệp vụ về nâng lương thưởng xuyên, nâng lương trước.
+thời hạn, cử đi học và phê duyệt trợ cấp đi học sau khi đã kiểm tra, đối chiếu với hồ
+sơ công chức, viên chức được lưu trữ hiện hành trên Hệ thống;
+b) Phê duyệt kế hoạch, kết quả tuyến dụng viên chức các đơn vị sự nghiệp (trừ.
+đơn vị sự nghiệp tự đảm bảo chi phí hoạt động);
+c) Năng lương thường xuyên, nâng lương trước thời hạn, chuyển xếp lương.
+nông ngạch, chuyển ngạch, bổ nhiệm vào ngạch, bổ nhiệm chức danh nghề nghiệp,
+thuyên chuyển, điều động, giải quyết chế độ đi học, nghỉ hưu, thôi việc, thu hút theo
+quy định đối với CHCCVC thuộc thẩm quyền quản lý hoặc lập thủ tục đề nghị cơ
+quan có thẩm quyền;
+d) Tham mưu cứ CBCCVC tham gia đào tạo, bồi dưỡng theo thẩm quyền;
+6
+e) Đề xuất, thực hiện các danh hiệu thi đua, khen thưởng hàng năm theo quy định;
+t) Chế độ thông tin, báo cáo (định kỳ và đột xuất) liên quan đến công tác tổ.
+chức cán bộ;
+g) Quản lý và giao biên chế, hợp đồng lao động hàng năm;
+b) Xác nhận danh sách lương đầu năm và biến động tăng, giảm về số lượng,
+tiền lương, phụ cấp của các cơ quan, đơn vị.
+i) Căn cứ vào kết quả tổng hợp của Hệ thống để phê duyệt các nội dung tại các
+điểm a, b, c, d, c, c, g, 1- khoản 5 Điều này và không thực hiện, giải quyết đối
+với cơ quan, đơn vị chưa cập nhật đầy đủ, chính xác hồ sơ CBCCVC vào Hệ thống;
+1.6. Xem xét, đề xuất UBND tỉnh biểu dương, khen thưởng các cơ quan, đơn vị
+và cá nhân ứng dụng Hệ thống trong việc quản lý hồ sơ công chức, viên chức; đưa
+việc sử dụng hiệu quả Hệ thống vào một trong những tiêu chí trong việc đánh giá xếp
+hạng cải cách hành chính hàng năm.
+1.7. Đưa nội dung cập nhật, quản lý, khai thác và sử dụng Hệ thống hồ sơ.
+CBOCVC của các cơ quan, đơn vị vào kế hoạch Thanh tra, kiểm tra công tác tổ chức
+Nhà nước hàng năm; sử dạng fie nhật ký (ile Long của Hệ thống làm căn cứ tổng
+hợp các trường hợp trễ hạn, báo cáo UBND tỉnh có biện pháp xử lý kịp thời.
+2- Sở Thông tin và Truyền thông
+Phối hợp với Sở Nội vụ trong việc triển khai, duy trí và phát triển Hệ thống gắn.
+với công tác đảm bảo an toàn và san ninh thông tin. Định kỳ hàng năm, phối lợp với
+Sở Nội vụ trong việc kiểm tra, đánh giá tình hình thực hiện Hệ thống của các đốt
+lượng được quy định tại Điều 2 Quy chế này; nghiên cứu để xuất việc ứng dụng hiệu
+quả Hệ thống vào một trong những tiêu chí đánh giá thị đua - khen thưởng, các danh
+hiệu hàng năm của cơ quan, đơn vị và người đứng đầu cơ quan, đơn vị.
+3- Sở Tài chính
+Căn cứ khả năng ngân sách Nhà nước hàng năm, chủ trì, phối hợp với các cơ
+quan liên quan tham mưu cấp có thẩm quyền xem xét bố trí ngân sách phù hợp đề
+duy trì hoạt động của Hệ thống.
+Chương IV
+ĐIỆU KHOẢN THI HÀNH
+Điều 14. Tổ chức thực hiện
+Sở Nội vụ hướng dẫn các cơ quan, đơn vị cập nhật, khai thác và sử dụng Hộ
+thống.
+Điều 15. Khen thưởng, xử lý vi phạm
+1. Cơ quan, đơn vị và cá nhân có thành tích xuất sắc trong việc thực hiện Quy.
+chế này được xét khen thưởng theo quy định. 1
+7
+2. Cơ quan, đơn vị và cá nhân vi phạm các điều, khoản quy định trong Quy chế
+này, tủy theo tính chất, mức độ sẽ bị xử lý kỷ luật theo quy định.
+Trong quá trình triển khai thực hiện, nếu có vướng mắc, phát sinh, Thủ trưởng
+sác cơ quan, đơn vị và cá nhân có liên quan kịp thời phản ánh vế UBND tỉnh (qua Sở
+Nội vụ) để xem xét sửa đổi, bổ sung Quy chế cho phù hợp./.
+TM. ỦY BAN NHÂN DÂN
+CHỦ TỊCH
+
+8

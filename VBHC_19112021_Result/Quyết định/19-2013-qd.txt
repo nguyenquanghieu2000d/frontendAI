@@ -1,0 +1,430 @@
+THỦ TƯỚNG CHÍNH PHỦ   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Số: 19/2013/QĐ-TTg   Hà Nội, ngày 02 tháng 4 năm 2013
+CÔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHủ
+QUYẾT ĐỊNH
+Ban hành Quy chế cung cấp, quản lý,
+khai thác dữ liệu phao Cospas-Snrsat và tiếp nhận, xử lý,
+truyền phát thông tin báo động cấp cứu CoSpas-Sarsat
+Căn cứ Luật tổ chức Chính phủ ngày 25 tháng 12 năm 2001;
+Căn cứ Bộ luật hồng bái Việt Nam ngày 14 tháng 6 năm 2005;
+Căn cứ Luật hàng không dân dụng Việt Nam ngày 29 tháng 6 năm 2006;
+Căn cứ Luật tần số vố tuyển điện ngày 23 tháng 11 năm 2009;
+Theo đề nghị của Bộ trưởng Bộ Giao thông vận tái,
+Thủ tướng Chính phủ quyết định ban hành Quy chế cung cấp, quản lý,
+khai thác đã liện phảo Cooar-Ssrsan và tiếp nhận, xử lý truyền phảt thông
+tin báo động cấp cứu Cosas-Sarsat.
+Điều 1. Ban hành kèm theo Quyết định này Quy chế cung cấp, quản lý,
+khai thác dữ liệu phao Cospss-Sarsatvà tiếp nhận, xử lý, truyền phát thông tin.
+báo động cấp cứu Cospas-Sarsat”.
+Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày 01 tháng 6
+năm 2013.
+Điều 3. Bộ trường, Thủ trưởng cơ quan ngong Bộ, Thủ trưởng cơ quan.
+thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc
+Trung ương và cơ quan tổ chức, cá nhân liên quan chịu trách nhiệm thì hành
+Quyết định này./.
+Nơi nhận:   THỦ TƯỚNG
+- Ban Bí thư Trung ương Đảng;
+- Thủ tướng, các Phó Thủ tướng Chính phữ;
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;
+- HĐND, UBND các tỉnh, TP trực thuộc TW;
+- Văn phòng TW và các Ban của Đảng;
+- Văn phòng Tổng Bí thư;
+- Văn phòng Chủ tịch nước;
+- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
+- Văn phòng Quốc hội;
+- Tòa án nhân dân tối cao;
+- Viện kiểm sát nhân dân tối cao;
+Nguyễn Tấn Dũng
+- UB Giám sát tài chính QG;
+- Kiểm toán Nhà nước;
+- Ngân hàng Chính sách xã hội;
+- Ngân hàng Phát triển Việt Nam;
+- Ủy ban TW Mặt trận Tổ quốc Việt Nam;
+- Cơ quan Trung ương của các đoàn thể;
+- Ủy ban Quốc gia Tìm kiếm, Cứu nạn;
+- VPCP: BTCN, các PCN, Trợ lý TTCP,
+Cổng TTĐT, các Vụ, Cực, đơn vị trực thuộc, Công báo,
+- Lưu: Văn thư, KTN (3b).xH 30D
+
+THỦ TƯỚNG CHÍNH PHỦ   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+QUY CHẾ
+Cung cấp, quản lý, khai thác dữ liệu phao Cospas-Sarsat và tiếp nhận,
+xử lý, truyền phát thông tin báo động cấp cứu Cospas-Sarsat
+(Ban hành kèm theo Quyết định số 19/2013/QĐ-TTg
+ngày 02 tháng 4 năm 2013 của Thủ tướng Chính phủ)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Quy chế này quy định về việc cung cấp, quản lý, khai thác thông tin, dữ
+liệu phao Cospss-Sarsat và tiếp nhận, xử lý, truyền phát thông tăn bảo động
+cấp cứu thông qua hệ thống Cosas-Sarsat.
+Điều 2. Đối tượng áp dụng
+Quy chế này áp dụng đối với tổ chức, cá nhân Việt Nam và nước ngoài
+liện quan đến việc cụng cấp, quản lý, khai thác dỡ liệu phao Coapas-Sarsat và
+tiếp nhận, xử lý, truyền phát thông tin báo động cấp cứu Cospas-Sarsat.
+Điều 3. Giải thích từ ngữ
+Trong Quy chế này, những từ ngữ dưới đây được hiểu như sau:
+1. Tổ chức Cospas-Sarsat là Tổ chức thông tin vệ tính tìm kiểm, cứu nạn
+quốc tế.
+2. Hệ thống Cosp8s-Sansat là hệ thống thông tin vệ tỉnh toàn cầu của Tố
+chức Cropas-Sarxat cung cấp thông tin bảo động cấp cứu và thông tin vị trí
+trợ giúp hoạt động tìm kiếm cứu nạn.
+3. Thông tin Cospas-Sarsat là thông tin bảo động cấp cứu thông qua hệ
+thống thông tin vệ tỉnh toàn cầu của Tổ chức Cospas-Sarsat.
+4. Phao Cospas:Sarsat là thiết bị thuộc hệ thống Cospas-Sarsat đông để
+truyền phát thông tin báo động, cấp cứu và chí báo vị trí qua vệ tính, trợ giúp
+cho hoạt động tìm kiếm, cứu nạn; bao gồm các loại: Phao FPRB, phao IIT
+và phao PLB.
+5. Phao EPRB (Emengencyy Postion Indicating Radio Beacon) là thiết bị
+chí bảo vị trí cấp cứu sử dụng sóng vô tuyển trên tần số 406Mhư, được lắp
+đặt, sử dụng trên tàu biến và công trình biển hoạt động ngoài khơi.
+6. Phao HLT(Emengeney Locator Transmitter) là thiết bị phát tín hiệu vị
+trí khẩn cấp sử dụng sóng vỏ tuyển điện trên tần số 406Mha chuyên dùng trên
+tàu bay.
+7. Phao PLB (Personal Looator Beacon) là thiết bị phát tín hiệu vị trí sử
+dụng sông vô tuyến trên tần số 406Mhơ chuyên dùng cho phương tiện, con.
+người hoạt động trên đất liền.
+8. Chủ phao Cosp83-Sarsat là chủ phao BPHB, chủ phao EET và chủ
+phao PLB.
+9. Chủ phao EPTRH là chủ tàu thuyền hoặc người quản lý, khai thác, sử.
+dụng công trình biển hoạt động ngoài khơi.
+10. Chủ phao ELT là chủ sở hữu tàu bay Việt Nam.
+11. Chủ phao PLB là chủ phương tiện hoặc là người sử dụng phao PLB.
+chuyên hoạt động trên đất liền.
+12. Dữ liệu phao Cospas-Sarsát bao gồm các thông tin liên quan tới phao.
+Cospas-Sarsat được cung cấp bời chủ phao Cospas-Sarsat.
+13. Vùng trách nhiệm xử lý thông tin Copas-Sarsat của Việt Nam.
+(Vùng VNMCC) là vùng trách nhiệm của Việt Nam trong việc truyền phát
+các thông tin báo động cấp cứu Coapas-Sarsat, được Tổ chức Cospas-Saroat.
+công bố.
+14. Trung tâm VNMCC (Victnam Mission Control Centre) là trung tâm
+điều hành thông tin vệ tỉnh Cospas-Sarsat củaViệt Nam.
+15. Chế độ 24/7 là chế độ hoạt động liên tục 24 giờ trong ngày và 67.
+ngày trong tuần.
+Chương II
+CUNG CẤP DỮ LIỆU PHAO
+COSPAS-SARSAT
+Điều 4. Nghĩa vụ cung cấp dữ liệu phao Cosas-Sarsat
+Chủ phao Cospas-Sarsat có trách nhiệm cung cấp cho Trung tâm
+VNMCC thông tin, dữ liệu về phao Coapos-Sarsat chính xác, đầy đủ và kịp.
+thời phục vụ cho công tác tìm kiếm, cứu nạn.
+2
+Điều 5. Thủ tục cung cấp dữ liệu phao Cospas-Sarsat
+1. Hồ sơ cung cấp thông tin, dữ liệu: 01 bộ hồ sơ gồm:
+a) Bản khai cung cấp thông tin, dữ liệu phao Cospas-Sarsat theo mẫu
+quy định tại Phụ lục của Quy chế này;
+b) Bản sao chụp Giấy phép sử dụng tần số theo quy định của pháp luật.
+2. Cách thức nộp hồ sơ: Chủ phao Cospas-Sarsat nộp trực tiếp hoặc gửi
+hồ sơ tới Trung tâm VNMCC thông qua hệ thống bưu chính.
+3. Trình tự nhận và xử lý hồ sơ
+a) Trường hợp trực tiếp nộp hồ sơ: Trung tâm VNMCC nhận hồ sơ, kiểm
+tra hồ sơ theo quy định và xác nhận việc cong cấp dữ liệu vào Bản khai cung
+cấp dữ liệu phao và gửi lại cho chủ phao Cosp8s-Sarsat 01 bản sao chụp;
+b) Trường hợp gửi hồ sơ qua hệ thống bưu chính: Trung tâm VNMC
+nhận hồ sơ, kiểm tra hồ sơ và xác nhận việc cung cấp dữ liệu vào Bản khai.
+cung cấp dữ liệu phao và gửi lại cho chủ phao Cospas-Sarsat 01 bản sao chợp;
+c) Đối với bồ sơ không đúng quy định: Trường hợp chủ phao
+Cospas-Sarsat nộp hồ sơ trực tiếp, Trung tâm VNMCC hướng dẫn chủ phao
+CoppAs Sarsat hoàn thiện hồ sơ theo quy định; trường hợp gửi hồ sơ qua hệ
+thống bưu chính, chậm nhất 02 (hai) ngày làm việc kể từ ngày nhận được hồ
+sơ, Trung tâm VNMCC thông báo đến chủ phao Cosas-Sarsat đề nghị bổ
+sung, hoàn thiện hồ sơ;
+d) Chậm nhất 05 (năm) ngày làm việc kể từ khi tiếp nhận hồ sơ hợp lệ,
+Trung tâm VNMCC có nghĩa vụ đưa dữ liệu phao đã được cung cấp vào cơ sở
+dữ liệu phao Cospas-Sarsat quốc gia và quốc tế.
+Điều 6. Trách nhiệm của chủ phao Copas-Sarsat khi có thay đổi
+thông tin, dữ liệu phao
+1. Trong thời hạn 30 (ba mươi) ngày, kể từ ngày có sự thay đổi, chú
+phao Cospas-Sarsat có trách nhiệm cung cấp cho Trung tâm VNMCC thông
+tin, dữ liệu thay đổi của phao Cospss-Sarat. Trường hợp thay đổi Giấy phép
+sử dụng tần số, chủ phao Coppa-Sarsat có trách nhiệm gửi kèm theo 01 bản
+sao chụp Giấy phép sử dụng tần số.
+3
+2. Chủ phao Cospas-Sarsat có trách nhiệm cung cấp thông tin trong
+trường hợp phao bị mất hoặc không sử dụng được trong thời gian 15 (mười.
+lăm) ngày, kể từ thời điểm bị mất hoặc hư hỏng không sử dụng được.
+3. Thông tin thay đổi về dữ liệu phao Cosp8-Sarsat phải được gửi đến
+Trung tâm VNMCC theo mẫu quy định tại Phụ lục của Quy chế này để cập.
+nhật, bổ sung theo quy định.
+4. Trình tự tiếp nhận và xử lý hồ sơ theo quy định tại Khoản 3 Điều 5
+Quy chế này.
+Chương III
+QUẢN LÝ, KHAI THÁC ĐỬ LIỆU PHAO COSPAS-SARSAT
+Điều 7. Nguyên tắc quản lý, khai thác dữ liệu phao Cospasarsat
+1. Dữ liệu phao Cosp8s-Sarsat phải được quản lý tập trung, thống nhất.
+tại Trung tâm VNMCC và bảo đảm tính sẵn sàng sử dụng theo chế độ 24/7.
+2. Khi có sự thay đổi dữ liệu phao Cospas-Sansat phải kịp thời được điểu:
+chỉnh, cập nhật.
+3. Dữ liệu phao CosA3-Sarsat được khai thác theo đúng quy định của.
+pháp luật Việt Nam và các điều trớc quốc tế mà Việt Nam là thành viến, đảm
+bảm an toàn, hiệu quả vì mục đích nhân đạo.
+Điều 8. Tổ chức và hoạt động của Trung tâm VNMC
+1. Trùng tâm điều hành thông tin vệ tỉnh Cospas-Sarsat Việt Nam trực
+thuộc Cục Hàng bải Việt Nam; có têp giao dịch viết bằng tiếng Anh:
+Vietnam Mission Controi Centre”, viết tắt là VNMCC.
+2. Chức năng, nhiệm vụ cơ bản của Trung tâm VNMCC
+a) Tiếp nhận dữ liệu phao Cospas-Sarsat từ chủ phao;
+b) Thu nhận, xử lý, phân phối thông tin Cospas-Sarsat trợ giúp hoạt động
+tìm kiếm cứu nạn;
+c) Phối hợp, trao đối dữ liệu với các MCC quốc gia khác trong hệ thống
+Cospas-Sarsat;
+d) Xây dựng, quản lý và khai thác cơ sở dữ liệu quốc gia về phao.
+Cospas-Sarsat;
+d) Cung cấp dữ liệu phao Cospas-Sarsat của Việt Nam cho Tổ chức.
+Coapas-Sarat và các cơ quan, tổ chức của Việt Nam có trách nhiệm về công
+tác tìm kiếm, cứu nạn;
+4
+e) Quản lý, vận hành cơ sở vật chất hạ tầng hệ thống Cosas-Sarsat theo.
+quy định của pháp luật;
+g) Định kỳ sản tháng và hàng năm báo cáo Cục Hàng hải Việt Nam về
+việc tiếp nhận, quản lý, khai thác đã liệu phảo Cogss: Sextt và tiếp nhận, xử.
+lý và truyền phát thông tin Cospas-Sarsat.
+3. Bộ trưởng Bộ Giao thông vận tải quy định cụ thể về tổ chức và hoạt
+động của Trung tâm VNMCC.
+Điều 9. Tổ chức quản lý, khai thác dữ liệu phao Cospas-Sarsat
+1. Cục Hàng hải Việt Nam có trách nhiệm tế chức quản lý dữ liệu phao.
+Coppas-Sersat; ứng dụng công nghệ thông tin trong xây dựng, quản lý và khai.
+thác cơ sở dữ liệu quốc gia về phao Cospas-Sarsat,
+2. Trung tâm VNMCC thực hiện việc quản lý, vận hành và khai thác cơ
+sở dữ liệu phao Cospas-Sarsat.
+3. Tổ chức, cá nhân có thẩm quyền của Việt Nam liên quan đến hoạt
+động tìm kiếm, cứu nạn, chủ phao Copas-Sarsat và cơ quan chức năng có
+liên quan đến hoạt động tìm kiếm, cứu mạn có quyền truy cập, khai thác, sử
+dụng thông tin, dữ liệu phao Cospas-Sarsat.
+4. Việc khai thác, sử dụng thông tin, dữ liệu phao Coapaa-Sarat của tổ
+chức, cá nhân quy định tại Khoản 3 Điều này không phải trả tiền.
+5. Thủ tục đăng ký truy cập, khai thác thông tin, dữ liệu phao Ca/pas-
+Sarsat: Tổ chức, cá nhân đăng ký bằng văn bản theo mẫn quy định tại Phụ lục
+của Quy chế này và gửi trực tiếp hoặc gửi cho Trung tâm VNMCC thông qua
+hệ thống bưu chính để được cấp tài khoản truy cấp, khai thác đủ liệu phao
+Cospas-Sarsat.
+Chương IV
+TIẾP NHẬN, XỬ LÝ VÀ TRƯYỀN PHÁT THÔNG TIN
+COSPAS-SARSAT
+Điều 10. Nguyên tắc tiếp nhận, xử lý và truyền phát thông tin
+Cospas-Sarsat
+Thông tin CoSpar-Sarat phải được tiếp nhận, xử lý và truyền phát kịp.
+thời, chính xác, với các tổ chức phối hợp lâm kiểm cứu nạn theo quy định của
+Tổ chức Cospas-Sarsat.
+5
+Điều 11. Quy trình tiếp nhận, xử lý và truyền phát thông tin Cospas Sarsat
+1. Đối với thông tin tiếp nhận trong vùng trách nhiệm VNMCC: Trung
+tâm VNMCC xử lý thông tin báo động cấp cứu từ phao Cospna Saret qua hệ
+thống Cospa-Sarat; phân tích, xác minh và truyền phát thông tin tới các tố.
+chức liên quan dưới đây:
+a) Trung tâm Phối hợp tìm kiểm, cứu nạn hàng hái Việt Nam, đối với.
+thông tin Cospas-Sarsat từ phao EPRB;
+3) Trung tâm Khẩn nguy tìm kiểm, cứu nạn hàng không, đối với thông.
+tin Cospas-Sarsat từ phao ELT;
+c) Ủy ban Quốc gia Tìm kiểm, cứu nạn đối với thông tin Cospas- Sarsai
+từ phao PLB;
+d) Các tổ chức có thẩm quyền liên quan khác đối với các thông tin báo.
+động, cấp cứu tiếp nhận từ phao Cospas-Sarsat.
+2. Các tổ chức quy định tại Điểm a, Điểm b và Điểm c Khoản 1 Điều này.
+có nghĩa vụ xác mình thông tin và chỉ đạo, tổ chức các hoạt động tâm kiểm
+cứu nạn cần thiết theo thẩm quyền và quy định của pháp luật.
+3. Trách nhiệm báo cáo
+a) Trung tâm Phối hợp tìm kiểm, cứu nạn hàng hải Việt Nam có trách.
+nhiệm báo cáo Cục Hảng bải Việt Nam ngay sau khi nhận được thông tin bảo
+động, cấp cứu Cospas-Sarat từ phao EPBB;
+b) Trung tâm Khẩn nguy từa kiểm, cứu nạn hàng không có trách nhiệm:
+bảo cáo Cục Hảng không Việt Nam ngay sau khi nhận được thông tin báo.
+động, cấp cứu Cospas-Sarsat từ phao ELT.
+4. Đối với thông tin báo động cấp cứu từ phao Cospa-Sarsat tiếp nhận.
+ngoài vùng trách nhiệm VNMC: Trung tâm VNMCC thực hiện theo quy
+định của điều ước quốc tế liên quan mà Việt Nam là thản viên.
+Chương V
+TỔ CHỨC THỰC HIỆN
+Điều 12. Trách nhiệm thực hiện
+1. Bộ Giao thông vận tải có trách nhiệm:
+a) Quy định chi tiết việc đăng ký phao Cospas-Sarsat;
+b) Chủ trì, phối hợp với Bộ Thông tin và Truyền thông và các Bộ, ngành
+có liên quan tổ chức thực hiện Quy chế này.
+6
+2. Bộ Thông tin và Truyền thông có trách nhiệm tổ chức quản lý việc
+sử dụng tấn số của các phao Coppas-Sarat tại Việt Nam theo quy định của
+pháp luật./.
+THỦ TƯỚNG
+Nguyễn Tấn Dũng
+Phụ lục
+
+THUỆU PHAO COSAS-SARSAT
+(Ban hành theo Quyết định số 19/2013/QĐ-TTg
+ngày 02 tháng 4 năm 2013 của Thủ tướng Chính phủ)
+1. Mẫu số 01: Bản khai đăng ký dữ liệu phao EPIRB.
+2. Mẫu số 02: Bản khai đăng ký dữ liệu phao PL3.
+3. Mẫu số 03: Bàn khai đăng ký dữ liệu phao ELT.
+4. Mẫu số 04: Giấy đề nghị truy cập cơ sở dữ liệu đăng ký phao.
+CosspaS-Sarsat
+Mẫu số 01   BẢN KHAI DỬ LIỆU PHAO EPRRB
+(EPIRB Data Declaration)
+Thông tin EPIRB (EPTRB Infarmaton)
+(15 ký tự ID (15 Digi Character ID)
+Loại 1 (Phát tự động hoặc thủ công)   Loại 2 (Phát thủ công)
+(Category 1) (quomatic/Manual Aertvation )   (Category 2) (Manual Activation)
+Nhà sản xuất EPRB (PPRB Mang/achurer):
+Mẫu (Aodel):   ..Số Serial (Serial No.): -
+Thiết bị định vị phụ trợ (Honừng Baacon Devie):   121.5 MH2   1 SART
+Không có (None)   Khác (Other): .
+Thông tin khác (Other In/ormaiion):
+Đữ liệu phao EPHB (EPHB S data)
+T Trung áp Tõ Pưa đãi thông dn 37925 hật chủ Cá CAN. V CTnS A CA NA NNA DA TA xwv )
+Thông tin về chủ sở hữu phao (SPHB - Dwner trtarnedn)
+Tên (Name)
+Tên giao dịch quốc tế (miernational Nama):
+Địa chỉ (Aaaness):.   ..Tỉnh/ Thành phố (Province/Ctty):.
+Mã bưu điện (Postal Code):..   . Nước (Country):
+Điện thoại (Phone): Cơ quan (cffca)..   - Nhà riêng (Home):
+Fax (Fax No):.   ..Email (E-mail):
+Thông tia về tàu/Công trình biển ngoài khơi (raoat nhàn hạtmadia)
+1 Tên tào/Công trình biển ngoài khơi (Nam điwna/ ngore htra/larta):...   Hô hiệu (Call Sign):
+Số MMSI (MMST Number.):
+Loại tàu (Type of vexsel):   Tàu cá (Físhing)   Tàu hàng (Cango)   Tàu kéo (Tug)
+Tàu dầu (Tanker)   Khác (Other):.
+Màu thân tàu (Vassal Color):   . Chiều dài (Length):.
+Thiết bị vô tuyến (Radio Eạuipment):   VHF   MF   HF   Khác (other): .
+Số INMARSAT (IMARSAT No):..   Số IMO (Mo Numben.):..
+Số thuyền viên và hành khách (wamder Q/Ctev And Pasengert)...   .Trọng tải (DVT):
+Thông tin khác (other In/trmation):..
+Thông tin liên hệ trong trường hợp khẩn cấp 24h 24 hoạn Ang noao Karere1 ngàng thai
+Đầu mối chính   Đầu mối dự phòng
+(Primary Emergency Contact)   (Alternative Emergency Contact)
+Tên (Name)
+Điện thoại cơ quan (Vork Phone)
+Điện thoại nhà riêng (Homa Phane)
+Di động (Mobil No.)
+Fax (Par No.)
+Email (mail Addres)
+Chứng tổi cam xết thông tin cung cấp trên là hoàn toàn chính xác.
+........ngày.... tháng..... năm.....   (We guaranter the corer/ncss-oT the sbove mertimed deelaralon )
+......ngày...... tháng.... năm....
+Cơ quan xác nhận
+(Certited by Agency)
+Tổ chức, cá nhân cung cấp dữ liệu
+(Orantations, Indivials to Provide Data)
+Ký và đóng dấu
+(Sign and Seal)   Ký và đóng dấu
+(Sign ana Seal)
+Mẫu số 02
+BẢN KHAI DỬ LIỆU PHAO PLB
+(PLB Data Declaration)
+Thông tin PLB (PLB Ingformation)
+(15 ký tự ID (15 Digit character ID)
+Nhà sản xuất PLB (PLB Manu@ctuer):..
+Mẫu (10dal): .   .Số Serial (Serial No.).
+Dữ liệu phao PLB (PLB Data)
+Cưg cấp mới (Nev Suppty)
+Thay đổi đông tin PLB hoặc chủ phao (Tring q Đia nghoện/x từ choen ngànhiay.
+Thông tin về chủ sở hữu (PLB- Dtoner hufarmaton)
+Tên (Name):.
+Địa chỉ (ddàrese):.   . Tỉnh/ thành phố (Provnca/Cuy):.
+Mã bưu điện (Pasial Code):   ...Nước (Country):.
+Điện thoại công ty ( WorkPhone):
+Điện thoại nhà riêng (Home Phona):.
+Fax (Pax Na):.   Email (E-mail Address):.
+Thông tin sử dụng ( Use Intormaton)
+Mục đích (Usage):   Phương tiện trên đất liền (Lana Vahiela)   3 Du thuyền (Boating)
+Tàu cá (Fihing)   Tàu bay (Aircal)   Khác (Other):.
+Thông tin bổ sung (Addional ngfnmation):
+Thông tia lên hệ trong trường hợp khẩn cấp 24h ca sorrinnmpoy Camer 200mmoti
+Đầu mối chính   Đầu mối dự phòng
+(Primạry Emergency Contact)   (1lernatua Emerganay Contact)
+Tên (Name)
+Điện thoại công ty (Vork Phone)
+Điện thoại nhà riêng (Home Phone)
+Di động (Mobie)
+Fax (Fax No.)
+Email (Email Addese)
+Chúng tôi cam kết thông tin cung cấp trên là hoàn toàn chính xác
+.........ngày..... tháng..... năm....   (wc guarantee the correctness cf the nhove mentioned declaratin ).
+........ngày...... tháng...... năm.....
+Cơ quan xác nhận
+(Cerufcd by Agency)
+Tổ chức, cá nhân cung cấp dữ liệu
+(onganiations, Indididals o Provide Data)
+Ký và đóng dấu
+(Sign And Seal)
+(Sign And Seal)
+3
+
+BẢN KHAI DỬ LIỆU PHAO ELT
+Mẫu số 03   (ELT Data Declaration)
+Thông tin ELT (ELr Intormation)
+(15 ký tự ID (15 Digut Charaeter ID)
+Coại 1 (Phát tự động hoặc thủ công)   Loại 2 (Phát thủ công)
+(Category 1) (Auomalia /Manual Actiation)   (Category 2) (Manual Activation)
+Nhà sản xuất ELT (ELT Manu@cturar):..
+Mẫu (Modal):   ..Số Serial (Serial No.):
+Dữ liệu phao ELT (ELT S Dara)
+TRung cấp mới 90r mạc//. Thay đết thờng tin BảT xoặc sác tá: S/T TA NXN DNT- New. Nww.ve
+Thông tin về chủ sở hữu phao (&LT- Oener Intemation)
+Tên (Name):.
+Tên giao dịch quốc tế (ntermational Name):..
+Địa chỉ (Adảrese):.   . Tỉnh/ thành phố (Province/City):.
+Mã bưu điện (Postal Coae):   .. Nước (Country):.
+Điện thoại công ty (Vork Phone):.   ...Điện thoại nhà riêng (Home Phone):.
+Fax (Fax No.):.   ..Email (E-mail Addresa):.
+Thông tin về tàu bay (Aireral Inyormation)
+Tên tàu bay (Name):.
+Nhà sản xuất (Airral Manutacturer): .
+Nhà khai thác (Airrat operating Ageney):
+Số đăng ký (Airaraf Ragistration Nmuber):
+Màu tàu bay (Color):   .Mẫu (Model):   ...Lượng ghế ngồi (Seating Capacty):.
+Loại thu hay (ngàng pudngoo) Hing sơ đơn cánh quạt (soạil ngõnh/ngương)
+
+Động cơ đa phản lực (Mdli-engine Iat)   Khác (other)
+Thiết bị vô tuyến (Radlo Eạuipmen):
+Thông tin khác (other Intormation):..
+Thông tin liên hệ trong trường hợp khẩn cấp 24th đat- Nom thong puy Canxel mờrafđeor
+Đầu mối chính   Đầu mối dự phòng
+(Primary Emergency Contact)   (Alternative Emergenuy Contact)
+Tên (Name)
+Điện thoại công ty (Work Phone)
+Điện thoại nhà riêng (Home Phone)
+Di động (Mobile No.)
+Fax (Fax No)
+Email (Email Address)
+Chủng tối cam kết thông tin cung cấp trên là hoàn toàn chính xác.
+.......ngày.... tháng..... năm.....   We guarantec the correciness of the sbove mentoned deelaration )
+........ngày..... tháng..... năm.....
+Cơ quan xác nhận
+(Cartitied by Agency)
+Tổ chức, cá nhân cung cấp dã liệu
+(Ongannations, Individuals to Provida Data)
+Ký và đóng dấu   Ký và đóng dấu
+(Sign and Saal)   (Sign and Saal)
+Mẫu số 04   GIẤY ĐỀ NGHỊ TRUY CẬP CƠ SỞ DỮ LIỆU ĐĂNG KÝ
+PHAO COSPAS-SARSAT
+(Request (n Acossng Copas-Sarat Beacon Reglstratlan Database)
+Kính gửi:
+(To)
+1. Thông tin đơn vị đề nghị ( ng/tormadon DT The Reatartor)
+Tên (Name):
+Địa chỉ (Address):
+Điện thoại (Tal No.):   Fax (Facsimile No.):
+Email (Email Address):
+Tên người liên hệ (Name of
+Contact Person):
+Đầu mối liên hệ
+Bộ phận (Department):
+(Contact Point):
+Điện thoại (Tel):
+Email (Email Address):
+2. Mục đích sử dụng (Purpose of Use):
+Phục vụ Tìm kiếm Cứu nạn   Phục vụ quản lý phương tiện mang Phao
+
+(For Searh dnd Rescue)   Cospas-Sarsat (For Managament on Flet
+Caming Cospas-Sarsat Beacon)
+* Phục vụ đăng kiểm (For Registration)
+Khác (Other):
+
+3. Thời hạn sử dụng (Duration of Ue):
+Từ (From):.   Đến (To):.
+Đề nghị Quý Cơ quan cấp tài khoản truy cập cơ sở dữ liêu đảng ký phao Copas-Sarsat.
+( Đán cực konh mong thám phuy N Vinh Cượng Cược ngiệch Cooom Pngiam Đion Dechosy.
+........ngày.... tháng..... năm.....
+Ký và đóng dấu
+(Sign and Seal)
+5

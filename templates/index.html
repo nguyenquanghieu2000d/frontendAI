@@ -1,0 +1,89 @@
+{% extends "test.html" %} {% block content %}
+    {% for i in data %}
+        <div class="hover-overlay ripple shadow-1-strong rounded p-5 item" data-mdb-ripple-color="dark">
+
+            <div class="d-flex justify-content-between">
+                <a href="#" style="color: black">
+                    <h2>{{ i["doc_type"] }}</h2>
+                </a>
+                <!-- Button trigger modal -->
+                <div>
+                    <button type="button"
+                            class="btn btn-primary"
+                            data-mdb-toggle="modal"
+                            data-mdb-target="#staticBackdrop">
+                        <i class="fas fa-info-circle"></i>
+                        Chi tiêt
+                    </button>
+                    <button type="button"
+                            class="btn btn-amber"
+                            data-mdb-toggle="modal"
+                            data-mdb-target="#staticBackdrop">
+                        <i class="fas fa-arrow-circle-down"></i>
+                        Tải xuống
+                    </button>
+
+                </div>
+
+                <!-- Modal -->
+                <div
+                        class="modal fade"
+                        id="staticBackdrop"
+                        data-mdb-backdrop="static"
+                        data-mdb-keyboard="false"
+                        tabindex="-1"
+                        aria-labelledby="staticBackdropLabel"
+                        aria-hidden="true"
+                >
+                    <div class="modal-dialog modal-xl">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="staticBackdropLabel">Aloha.txt</h5>
+                                <button type="button" class="btn-close" data-mdb-dismiss="modal"
+                                        aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ut ipsum eu mi
+                                porttitor volutpat. Aliquam a ipsum vulputate, venenatis odio elementum, tempor diam.
+                                Maecenas pulvinar tempus tellus, sed aliquet augue hendrerit ut. Phasellus facilisis
+                                pellentesque turpis at consectetur. Mauris at rhoncus eros. Etiam at mauris pulvinar,
+                                varius libero ut, commodo neque. Sed aliquet consequat ex molestie tristique. Nam mattis
+                                facilisis egestas.
+
+                                In sem diam, auctor id consequat eu, lobortis vel leo. Orci varius natoque penatibus et
+                                magnis dis parturient montes, nascetur ridiculus mus. Etiam vestibulum leo tortor, eu
+                                ultrices enim vestibulum vel. Mauris in purus luctus, varius justo et, iaculis velit.
+                                Aenean ut dignissim massa. Praesent sed mi tellus. Vivamus ultrices ipsum sit amet urna
+                                facilisis, vel ornare erat euismod. Nam ut leo enim. Nullam nec volutpat urna. Duis
+                                vitae bibendum tellus. Suspendisse varius sit amet ante sed tristique.
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">
+                                    <i class="fas fa-file-download"></i>
+                                    .pdf</button>
+                                <button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">
+                                    <i class="fas fa-file-download"></i>
+                                    .txt</button>
+                                <button type="button" class="btn btn-primary">Mở trong tab mới</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <h6>{{ i["doc_name"] }}</h6>
+
+            <p>{{ i["content"][0:400] }}</p>
+            <div class="tags">
+                {% for j in i["entity"]["PER"][0:4] %}
+                    <span class="topics-PER"><a class="tags" href="#">{{ j }}</a></span> {% endfor %}
+                {% for j in i["entity"]["LOC"][0:4] %}
+                    <span class="topics-LOC"><a class="tags" href="#">{{ j }}</a></span> {% endfor %}
+                {% for j in i["entity"]["DATE"][0:4] %}
+                    <!-- <span class="topics-PER"><a class="tag" href="#">{{j}}</a></span> {%endfor%} -->
+            </div>
+        </div>
+        <br>
+    {% endfor %}
+{% endblock %}

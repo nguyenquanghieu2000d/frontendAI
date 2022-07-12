@@ -1,0 +1,285 @@
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+THÀNH PHỐ HỒ CHÍ MINH   Độc lập - Tự do - Hạnh phúc
+Thành phố Hồ Chí Minh, ngày 10 tháng 40 năm 2013
+QUYẾT ĐỊNH
+Ban hành Quy chế quản lý Hồ sơ điện tử cán bộ.
+công chức, viên chức Thành phố Hồ Chí Minh
+ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH
+Căn cứ Luật Tổ chức Hội đồng nhân dân và Ủy ban nhân dân ngày 26
+tháng 11 năm 2003;
+Căn cứ Luật Cán bộ, công chức ngày 13 tháng 11 năm 2008;
+Căn cứ Luật Viên chức ngày 15 tháng 11 năm 2010;
+Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006;
+Căn cứ Pháp lệnh Bảo vệ bí mật nhà nước ngày 28 tháng 12 năm 2000;
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của
+Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước;
+Căn cứ Thông tư số 11/2012/TT-BNV ngày 17 tháng 12 năm 2012 của
+Bộ Nội vụ quy định về chế độ báo cáo thống kê và quản lý hồ sơ công chức;
+Xét đề nghị của Giám đốc Sở Nội vụ tại Tờ trình số 765/TTr-SNV ngày 20.
+tháng 9 năm 2013,
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý Hồ sơ điện tử
+cán bộ, công chức, viên chức Thành phố Hồ Chí Minh
+Điều 2. Quyết định này có hiệu lực thì hành sau 10 ngày, kể từ ngày ký.
+Điều 3. Chánh Văn phòng Ủy ban nhân dân thành phố, Giám đốc Sở Nội
+vự, Thủ trưởng các sở, bao, ngành, đơn vị sự nghiệp trực thuộc Ủy ban phân dân
+thành phố, Chủ tịch Ủy ban nhân dân các quận, huyện, phường, xã, thị trấn và các
+đơn vị có liên quan chịu trách nhiệm thì hành Quyết định này./.
+Nơi nhận:   TM. ỦY BAN NHÂN DÂN
+- Như Điều 3;
+- Bộ Nội vụ;   CHỦ TỊCH
+- Cục Kiểm tra văn bản QPPL - Bộ Tư pháp;
+- Thường trực Thành ủy;
+- Thường trực HĐND Thành phố;
+- TTUB; CT, các PCT;
+- Ban Tổ chức Thành ủy,
+- Văn phòng Thành uy;
+- UB MTTQ VN.TP; Các Đoàn thể TP;
+- Sở Nội vụ (03 bản);
+- VP. Đoàn ĐBQH-HĐND.TP;   - VPUB: Các PVP;   Lê Hoàng Quân
+- Các Phòng CV, TCCB;
+- Lưu: VT, (VX/Nh) D. 155
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+THÀNH PHỐ HỒ CHÍ MINH   Độc lập Tự do - Hạnh phúc
+QUY CHẾ
+Quản lý Hồ sở điện tử cán bộ, công chức, viên chức
+Thành phố Hồ Chí Minh
+(Ban hành kèm theo Quyết định số 44 7013/QĐ-UBND
+ngày 10 tháng 4 năm 2013 của Ủy ban nhân vân Thành phố Hồ Chí Minh)
+Chương I.
+NHƯNG QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Quy chế này quy định nguyên tắc, nội dung, trách nhiệm, quyền bận, mối
+quan hệ giữa các cơ quan, đơn vị và cá nhân trong việc quản lý, vận hành và
+khai thất sử dụng Hồ sơ điện tử cán bộ, công chức, viên chức (Hồ sơ điện tú).
+Điều 2. Đối tượng áp dụng
+1. Quy chế này áp dụng đối với các cơ quan hành chính, đơn vị sự nghiệp của
+Nhà nước và chính quyền xã, phường, thị trấn (sau đây gọi chung là cấp xã) trến địa
+bàn Thành phố Hồ Chí Minh.
+2. Cán bộ, công chức, viên chức quy định tại Quy chế thày bao gồm:
+a) Cán bộ, công chức, viên chức theo quy định của pháp luật;
+b) Những người làm việc theo chế độ hợp đồng quy định tại Nghị định số
+68/2000/NĐ-CP ngày 17 tháng 11 năm 2000 của Chính phủ về thực hiện chế độ hợp
+đồng một số loại công việc trong cơ quan hành chính nhấ nước, đơn vị sự nghiệp.
+Điều 3. Giải thích từ ngữ
+1. Hồ sơ điện tử là, tập hợp một sộ thông tin được chuyên hóa từ hồ sơ cán
+bộ, công chức, viên chức thành kỹ thuật số tưu trữ trên máy tỉnh.
+2: Tài khoản người dùng là tên và mật khẩu để đăng nhập vào phần mềm
+quản lý Hồ sơ điện tử.
+3. Quản lý tài khoản người dững là việc tạo mới, cấp phát, hạn chế, mờ
+rộng hoặc hủy bỏ quyền đảng nhập vào phần mềm quản lý Hồ sơ diện tâc:
+4. Quản lý bồ sơ điện tử là việc tạo lập; sửa đổi nội thang thay đối trạng
+thái hồ sơ điện tử.
+... 5. Khai thác Hồ sơ điện tử là việc thực hiện các quy trình nghiệp vụ, các
+chức năng tra cứu, tìm kiểm thông tin về cán bộ, cộng chức, yiên chiện hoặc tổng
+hợp các tiêu chỉ thông tra, kết xuất các thông tin, lập bác bảng biểu thống kế,
+báo cáo và in các kết quả xử lý được ra màn hình hoặc ra giấy.
+Điều 4. Phần mềm quận lý Hồ sơ điện tử
+1. Phần mềm quản lý Hồ sơ điện tử là một bộ công cụ để phục vụ việc
+quản lý, sử dụng, khai thác các thông tin từ Hồ sơ điện tử.
+2. Phần mềm quản lý Hồ sơ điện tử là thành phần trong hệ thống Mạng
+thông tin thành phố Hồ Chí Minh, được cải đặt trên máy chủ đặt tại Trung tâm
+dữ liệu của Thành phố:
+3. Địa chỉ truy cập phần mềm quản lý Hồ sơ điện tử tại
+http://cboc hochiminhcitygovvn
+Điều 5. Các hành vì bị nghiêm cấm
+1. Truy nhập trái phép hoặc cố ý nâng quyền truy cập vào phần mềm quân
+lý Hồ sơ điện tử.
+2. Sử dụng thông tin Hồ sơ điện tử vào mục đích vụ lợi cá nhận, các mục
+đích xuyên tạc sự thật, bôi xấn cán bộ làm ảnh hưởng hoặc thống phá cơ quan.
+nhà nước.
+3. Cung cấp hoặc cố ý để lộ tên và mật khẩn đăng nhập vào phần mềm
+quản lý Hồ sơ điện tử cho có nhân, tổ phức không được giao quyến xà trách.
+nhiệm quản lý, sử dụng.
+Chương II
+QUẢN LÝ, KHAI THÁC HỒ SỞ ĐIỆN TỬ
+Điều 6. Quản lý tài khoản đảng nhập Hồ sơ điện tân
+1. Cơ quan, đơn vị theo phân cấp về công tác quản lý cán bộ, công chức,
+viên chức được cập tài khoận người dùng để đảng nhập, khai thác sử dụng phần.
+1 mềm quản tý theo quy định tại Khoản 3, Điều 3 Quy chế này..
+2. Sở Nội vụ là cơ quan tham mưu cho Ủy ban nhân dân thành phố về công
+rác quản lý Hồ sơ điện tử và được Ủy ban nhân dân thành phố ủy quyền sử dụng tài
+khoản quản trị đề cấp, phân quyền tài khoản người dùng cho các cơ quan, đơn vị
+theo phần cấp về công tác quản lý cán bội công chức, viên chức; thực hiện chức
+nững nghiệp vụ về công tác cán bội cộng chức; diên chức trong toàn thành phố. Các
+cơ quan, đơn vị có phu cầu phân; cấp tài khoận người dừng pho các đơn vị trực
+thuộc phải thống nhất với Sở Nội vụ bằng văn bản để được cấp bổ sung
+.... Cá nhân được giao nhiệm vụ quản lý, khai thác, sử dụng Hồ sơ điện rử
+có trách nhiệm bảo đảm bí mật, sap toàn tài khoản người dụng của cơ quan, đơn vị.
+Điều 7. Mô hình tổ chức Hồ sơ điện tử
+Hồ sơ điện tử của Thành phố được tổ chức theo mô hình 2 cấp như sau:
+1. Cấp một là cấp có trách nhiệm cập nhật, quản lý và khai thác Hồ sơ
+điện tử thuộc các sở, ban, ngành; đơn vị sự nghiệp trực thuộc Ủy oan nhân dân.
+thành phố (gọi tắt là các sở, ban, ngành hành phốy và Ủy bao nhân dân
+quận, huyện.
+3
+2. Cấp hai là cấp có trách nhiện quản lý, tổ chức triển khái phần mềm
+quản lý Hồ sơ điện tử tổng hợp và hưu trữ Hồ sơ điện tử của các đơn vị cấp
+Đột, Ủy ban nhân dân thành phố thống nhất quản lý Hồ sơ điện tử và dy quyền
+cho. Sở Nội vụ chịu trách nhiệm quản tý hoạt động của phần mềm quản lý Hồ sơ
+điện tử theo quy định của Quy chế này và các quy định khác của pháp luật.
+Điều 8. Nguyên tắc quản lý Hồ sơ điện tữ
+1. Cơ quan, đơn vị theo phân cấp về công tác quản lý, cán bộ, công chức,
+viên chức có trách nhiệm cập nhật kịp thời, chỉnh xác và đầy độ thông tin cán
+bộ, công chức, viên chức hiện có mặt theo biên chế được giao vào phần mềm
+quản lý Hồ sơ điện tử.
+2. Hồ sơ điện tử, sử dụng và bảo quản theo chế độ tài liệu
+mật dơ Nhà nước quy trịnh chí những người được cơ quan; đơn vị hoặc người
+có thẩm quyền quản lý Hồ sơ điện tử đồng ý bằng văn bản mới được nghiên
+cứu, sử dụng và khai thác Hồ sơ điện tử
+3. Thông tin trong Hồ sơ,điện tử phải thống nhất với hồ sơ giấy; Hồ sơ.
+điện tử có giá trị tương đượng hồ sơ giấy.
+Điều 9. Quy trình cập nhật Hồ sơ điện tử...
+: Cơ quản, đơn vị được giao quản lý hồ sơ có trách nhiệm cập nhật những
+biến động thường xuyên về đội ngữ cán bộ, công chức, viên chức do cơ quan,
+đơn vị mình quản lý vào phần mềm quản lý Hồ sơ điện tử, cụ thể nhự sau:
+1. Lập hồ sơ mới:
+Trong thời gian 60 ngày, kể từ ngày có quyết định tuyến, dụng, cơ quan.
+đơp vị có thẩm quyền quản lý Hộ sở đận từ có trách nhiệm cập thật đầy đủ
+thống tin cán bộ, công chức, viên chộc vào phần mềm quản lý Hờ sơ điện tử
+theo quy định.
+2. Cập nhật thông tin Hồ sơ điện tử đã có:
+a) Đối với thông tin thay đổi từ phía cơ quan quản lý nhà nước như: Đào
+tạo, bồt dưỡng; bộ nhiện, điều động, nâng lương, khen thưởng, kỷ luật... cơ
+quan, đơn vị cơ thẩm quyền quản lý Hồ sơ điện tử có trách nhiệm cập nhật thông
+tin vào Hồ sơ điện tử của người đó (thời gian chậm nhất không quá 15 ngày, kế
+từ ngày văn bản có hiệu lực).
+b) Đối x6i, thộng tin thay đổi từ phía cá, nhân nha; Kê khai tài sản, thuế
+thu nhập cá nhân, kết bôn, ty hôn... cá nhân có trách nhiệm kê khai với sơ quan,
+đơn vị theo định kỳ được thực hiện đồng thời cùng việc kê khai phiết; bổ sung lý
+1 lịch hằng năm hoặc theo yêu cần quản lý của cơ quan, đơn vị để tiến hành cập
+nhật vào Hồ sơ điện tử.
+Điều 10. Điều chuyển, tiếp nhận Hồ sơ điện tử
+Cán bộ; công chức; viên chức: được điều động, luận chuyển đếp cơ quan,
+đơn vị khác hoặc được bổ thuộc cơ quan khác quản lý thả rồ sơ
+điện tử của cán bộ, công chức, viên chức đó vẫn do cơ quan, đơn vị quản lý
+công chức đó lưu giữ, bảo quân và chỉ được chuyển giao cho các cở quan, đơn
+vị khác quản lý khi các cơ quan, đơn vị đó có yêu cầu bằng văn bản.
+4
+Điều 11. Khai thác Hồ sơ điện tử
+1. Cơ quan quản lý các bộ, công chức, viên bhức, cơ qun/sử dụng cân bộ,
+công chức, viên chức và cơ quan quản lý Hồ sơ điện tử được nghiên cứu, sử
+dụng và khai thác Hồ sơ điện tử để phục vụ yêu cầu công các (tuyển dựng, nâng
+ngạch, nâng lương, đào tạo...).
+2. Cá nhân được giao nhiệm Vự quản lý, khai thác về Hồ sở điện từ có
+trách nhiệm tuân thủ các quy trình về an toàn bảo mật thông tin.
+Điều 12. Lưu trữ, bảo quận Hồ sở điệp tử
+1. Hồ Sở điện tử phải được lưu trữ lậu đài để phục vụ công tác nghiện cửu
+và thực hiện chính sách đối với cán bộ, công chức, viên chức.
+2. Việc lựu trữ phải thực hiện tuân thị nghiêm, ngặt các nguyên tắc báo
+đảm an ninh, an toàn đối với Hồ sơ điện tử theo các quy định hiện hành.
+3. Hồ sơ điện tử của cán bộ, công chức, viên chức đã nghì hưu, thôi việc,
+từ trần vẫn được lưu trữ ở cơ quan, đơn vị để theo dõi.
+4. Cơ quan quản lý hệ thống, phần mềm: Hồ sơ điện tử thường xuyên kiểm
+tra và có biện pháp bảo đảm sín ninh, an toàn Hồ sở điện tử; đồng tời bảo đảm.
+tính tương thính trong toàn hệ thống thông lập liên quan đến Hồ sư điện tử khi có
+sự thay đổi về thiết bị và công nghệ.
+Điều 13. Chế độ báo cáo công tác quản lý Hồ sở điện tử
+1. Báo cáo công tác quản lý Hồ sơ điện tử quy định như sau:
+rào Hảng mâm các sở, bap, ngành thành phố, Ủy ban, nhân dân quận, huyện
+có trách nhiệm báo cáo tình hình thực hiện đông tác quản lý Hồ sư điện tử thuộc
+thẩm quyền quản lý về Ủy ban nhân dân thành phố thông qua Sở Nội vụ.
+Thời hạn gửi báo cáo đợi 1 trước ngày 15 tháng ở; đợi 2 trước ngày 15
+tháng 12.
+b) Sở Nội vụ có trách nhiệm tổng hợp báo cáo Ủy ban nhân dân thành phố
+và Bộ Nội vụ về tình hình nhực trạng công tác quản lý Hồ sơ điện tử trong toàn
+thành phố.
+2. Nội dung báo cáo công tác quản lý Hồ sơ điện tử gồm:
+a) Đảnh giá việc thực thiên Qay chế quản lý Hồ sơ điện tử của cơ quan,
+đơn vị;
+
+được kết xuất từ phần mềm quản lý Hồ sơ điện tử);
+c) Tình trạng trang thiết bị phục vụ công tác quản lý Hồ sơ, điện tử.
+4) Công tác đào tạo; bồi dưỡng cán bộ, công chức, viên phúc trực tiếp làm.
+công tác quản lý Hồ sơ điện tử;
+đ) Kiến nghị (nếu có).
+5
+TRÁCH NHIỆM, QUYỀN. HẠN CỦA CÁC CƠ QỦAN, ĐƠN VỊ      Chương III
+TRONG VIỆC VÀN HÀNH, KHAI THẮC HỔ SƠ ĐIỆN TỬ
+Điều 14. Sở Nội vụ
+1. Tham trưu cho Ủy ban nhân dân thành phố ban hành các văn bản quy
+định về quản lý Hồ sơ điện tử; đề xuất việc nâng cấp phần mềm bảo đảm yêu
+cấu về khai thác, sử dụng phần mềm quản lý Hồ sơ điện tử.
+2. Hướng dẫn các sở, bản, ngành thành phố và Ủy ban nhân dân các quận,
+huyện khai thác, sử dụng phần noàm quản lý Hồ sơ điện tử vàp cộng tác quản lý cán.
+bộ, công chức, viên chức (tuyển dụng, nâng ngạch, năng lương, đào tạo...
+3. Đức phép sử dụng tài khoản quản trị để quản lý các tài khoản người
+dùng của các cơ quan, đơn vị.
+4. Kiểm tra việc xây dựng và quản lý Hồ sơ điện tử của các cơ quan, đơn.
+vị: tổng hợp, báo cáo kết quả với Bộ Nội vụ và Ủy ban nhân dân thành phố theo
+quy định tại Điểm b, Khoản 1 Điều 13 Quy chế này.
+5. Xây dựng và thực hiện kế hoạch bồi dưỡng nghiệp vụ chợ những người
+làm công tác quân lý Hồ sơ điện tử.
+6. Xây dựng dự toán kinh phí hàng năm để bảo đảm việc quản lý, khai
+thác Hồ sơ điện tử của Thành phố Hồ Chí Minh.
+7. Chủ trì, phối hợp với Sở Thông tin và Truyền thông thông bảo bằng
+Văn bản và trên Cổng thộng tin điện tử của Sở Nội vụ cho các cơ quan, đơn vị về
+việc xảy ra sự cố hoặc nguy cơ xảy ra sực cố có ảnh hưởng xân tiến việc qoàn lý
+và khai thác sử dụng phần mềm, quản lý Hồ sơ điện tử (khi phần mềm ngừng
+hoạt động trong 2 ngày làm việc liên tiếp).
+Điều 15. Sở Thông tin và Truyền thông
+1. Bảo đảm các yêu cầu kỹ thuật an toàn, bảo mật cho việc vận bảnh phần
+mềm quản lý Hồ sơ điện tử để duy trì aự hóạt động thông suốt của phần mầm
+quản lý Hồ sơ điện tử trên môi trường mạng.
+2. Chủ trì, phối hợp với Sở Nội vụ xây dựng kế hoạch đầu tư, nâng cấp bạ
+tầng và phần mềm đáp ứng nhu cầu vận hành của hệ thống được hông suốt và
+ổn định.
+3. Phối hợp y6i. Sở Nội vụ và đơn vị cung cấp giải pháp phần mềm trong
+việc tổng hợp ý kiến đóng góp từ người dùng để xem xét sửa. đối, nâng cấp phần
+mềm nhằm cải liến phần thôm ngây cảng hoàn thiện và thân thiện vối người sử
+dụng, đáp ứng tốt hơn trong việc quản lý hồ sở điện tử.
+Điều 16. Các sở, ban, ngành thành phố, Ủy ban nhân dân quận, huyện
+1. Thực hiện quản lý Hồ sơ điện tử của cơ quan, đơn vị mình theo quy định
+tại Điều 8 Quy chế này. Trường hợp ủy quyền cho đơn vị cấp thưới quản lý Hồ sơ
+điện tử, đơn vị được ủy quyền có trách nhiệm cập nhật thông tin cán bộ, công chức,
+viên chức vào Hồ sơ điện tử; cơ quan ủy quyền có trách nhiệm đôn đốc kiểm tra
+việc nhập thông tin cán bộ, công chức, viên chức đối với đơn vị ủy quyết
+6
+2. Được cấp tài khoản người dùng để thực hiện việc cập nhật, quản lý và
+khai thác Hồ sở điện tử thuộc cơ quan, đơn vị mnth. Quyết định phân công công
+chức trực tiếp được phép sử dụng tải khoản người đùng để quản lý khai thác Hồ
+sơ điện tử.
+3. Xây dựng quy chế quản lý và khai thác Hồ sơ điện tử của cơ quan, đơn
+vị mình theo quy định tại Điểu 6, 7,8, 9, 10, 11, 12, 13 Quy chế này.
+4. Kiến nghị và đề xuất với cơ quan có thẩm quyền sửa đổi, bổ sung những
+quy định liên quan đến chế độ cập nhật, quản lý và khai thác Hồ sơ điện tử.
+5. Xây dựng dự toán kinh phí hàng năm để bảo đảm cho việc quản lý và
+khai thác Hồ sơ điện tử của cơ quan, đơn vị mình.
+Điều 17. Trách nhiệm của người được phân công trực tiếp làm công
+tác quản lý, khai thác Hồ sơ điện tử
+1. Được sử dụng tải khoản người dùng của cơ quan, đơn vị để thực hiện
+việc cập nhật, quản lý và khai thác Hồ sơ đận tử theo phân cấp quản lý; thay đổi
+mật khẩu được cấp và tự bảo mật tải khoản người dùng của đơn vị.
+..... Chịu trách nhiệm về tỉnh kịp thời, chính xác của các thông tin trong Hề
+sơ điện tử, sử dụng có hiệu quả phần mềm quản lý Hồi sơ điện tử để cung cấp kịp
+thời, nhanh chòng, chính xác phục vụ yêu cấu quản lý và tác nghiệp chuyên môn.
+3. Áp dụng các biện pháp bảo đảm an toàn và bảo mật Hồ sơ điện tử; để
+xuất các biện pháp bảo đảm sử qung và khai thác có hiệu quả Hồ sơ điện tử.
+4. Nghiên cứu, phát hiện và báo cáo với cấp có thẩm quyền xem xét, xử lý.
+các vấn đề phát sinh trong công tác quản lý Hồ sơ điện tử.
+5. Định kỳ báo cáo với người đứng đầu cơ quan, đơn vị.
+6. Trường hợp mất mặt khẩu phải báp cáo người đứng đầu cơ quan, đơn.
+vị và báo cáo bằng văn bản về Sở Nội vụ để được cấp lại mật khẩu trới.
+7. Thường xuyên học tập, trao đổi kinh nghiệm, bổi dưỡng để nâng cao.
+trình độ chuyên môn, nghiệp vụ.
+Chương IV
+ĐIỀU KHOẢN THI HÀNH
+Điều 18. Tổ chức thực hiện
+1. Sở Nội vụ có trách nhiệm hướng, dẫn, kiểm tra, đôn đốc các sở, ban,
+ngành thành phố và Ủy ban, nhân dân quận, huyện triển khai thực hiện
+quy chế này. Tổng hợp, báo cáo kết quá triển khai thực hiện với Bộ Nội vụ và
+Ủy ban nhân dân thành phố theo quy định.
+2. Đây là một trong các tiêu chí để Chủ tịch Ủy ban nhân dân thành phố
+xem xét, khen thưởng hàng năp, cho các sở, ban, ngành phành phố, Ủy ban nhân
+dâu quận, huyện và các cá nhằn có thành tích xuất sắc trong việc thực hiện
+Quy chế này.
+7
+3. Cơ quan, đơn vị và cá nhân vi phạm các điều khoản trong Quy chế này,
+tùy theo tính chất, mức độ sẽ bị xử lý theo quy định của pháp luật.
+4. Trung quá trình thực hiện, nếu có vấn đề gì vướng mắc, phát sinh các sở,
+ban, ngành thành phố, Ủy ban nhân dân quận, huyện và các tổ chức, cá nhân có
+liên quan kịp thời phản ánh về Sở Nội vụ để tổng hợp, báo cáo Ủy ban nhân dân
+thành phố xem xết, sửa đổi, bổ sung cho phù hợp./.
+TM. ỦY BAN NHÂN DÂN
+CHỦ TỊCH
+Lê Hoàng Quân

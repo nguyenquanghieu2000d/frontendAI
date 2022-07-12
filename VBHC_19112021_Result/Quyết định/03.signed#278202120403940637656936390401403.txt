@@ -1,0 +1,494 @@
+Ký bởi: Công Thông tin điện tử chính phủ
+Email: thongtinchinhphu@chinhphuyn
+Cơ quan: Vân phong Chính phủ
+Thời gian ký: 14.042014 14:56:47 +07:00
+ỦY BAN NHÂN DÂN   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH QUẢNG TRỊ   Độc lập - Tự do - Hạnh phúc
+Số: 03 /2014/QĐ-UBND   Quảng Trị, ngày 14 tháng 01 năm 2014
+QUYẾT ĐỊNH
+V/v Ban hảnh Quy chế quản lý, vận hành, sử dụng
+và đảm bảo an toàn, an ninh thông tin trên mọng truyền số liệu chuyển đứng
+của các cơ quan Đảng và Nhà nước trên địa bàn tỉnh Quảng Trị
+UỶ BAN NHÂN DÂN TỈNH QUẢNG TRỊ
+Căn cứ Luật Tổ chức 1 UBND ngày 26/11/2003;
+Căn cứ Luật Công nghệ thông tin ngày 29/6/2006;
+Căn cứ Luật Viễn thông ngày 23/11/2009;
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ quy định
+về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước;
+Căn cứ Nghị định số 25/2011/NĐ-CP ngày 06/04/2011 của Chính phủ quy
+định chi tiết và hướng dẫn thì hành một số điều của Luật Viễn thông:
+Căn cứ Thông tư liên tịch số 05/2008/TTLT-BTTTT-BCA ngày 28/11/2008
+của Bộ Thông tin và Truyền thông và Bộ Công an về bảo đảm an toàn cơ sở hạ tầng.
+và an ninh thông tin trong hoạt đông bau chính, viễn thông và công nghệ thông tôn;
+Căn cứ Thông tư số 11/2011/TT-BTTTT ngày 26/5/2011 của Bộ Thông tin và
+Truyền thông về ban hành Quy chuẩn quốc gia về viễn thông;
+Căn cứ Thông tư số 23/2011/TT-BTTTT ngày 11/8/2011 của Bộ Thông tin và
+Truyền thông về việc quản lý, vận bảnh, sử dụng và đảm bảo an toàn an hình thông
+tin trên mạng truyền số liệu chuyên dùng của các cơ quan Đảng và Nhà nước;
+Xét đề nghị cửa Giám đốc Sở Thông tin và Truyền thông,
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo quyết định này Quy chế quản lý, vận hành, sử.
+dụng và đảm bảo an toàn An rinh trên mạng truyền số liện chuyên đứng của các cơ
+quan Đảng và Nhà nước trên địa bàn tỉnh Quảng Trị”.
+Điều 2. Quyết định này có hiệu lực thi hành sau 10 ngày, kể từ ngày ký.
+Chánh Văn phòng UBND tỉnh, Giám đốc các Sở, Thủ trưởng các ban, ngành”
+cấp tỉnh; Chủ tịch UBND các huyện, thị xã, thành phố và Thủ trưởng các đơn vị kế:
+nối vào mạng truyền số liệu chuyên đúng của các cơ quan Đảng và Nhà nước có trách.
+nhiệm thi hành Quyết định này
+Nơi nhận:   TM. ỦY BAN NHÂN DÂN
+- Như Điều 2;   CHỦ TỊCH
+- Bộ Thông tin và Truyền thông:
+- Cục Kiểm tra văn bản QPPL Bộ Tư pháp;
+- TT/Tỉnh ủy; TT/HĐND tỉnh;
+- Đoàn ĐBQH tỉnh;
+- Chủ tịch, các PCT UBND tỉnh;
+- CVP, các PVP, CV;
+- Lưu: VT, VX.
+Nguyễn Đức Cường
+2
+ỦY BAN NHÂN DÂN   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH QUẢNG TRỤ   Độc lập - Tự do - Hạnh phúc
+QUY CHẾ
+Quản lý, vận hành, sử dụng và đảm bảo an toăn, an ninh thông tin
+trên mạng truyền số liệu chuyên dùng trong các cơ quan Đảng và Nhà nước
+trên địa bàn tỉnh Quảng Trị
+(Ban hành kèm theo Quyết định số: 03 2ng/QĐ-UBND
+ngày 14 /09/204 của UBND tỉnh Quáng Trị)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Quy chế này quy định về việc quản lý, vận hành, sử dụng và đảm bảo an toàn,
+an ninh thông tin trên mạng truyền số liệu chuyên dùng trong các cơ quan Đảng và
+Nhà nước trên địa bàn tỉnh Quảng Trị.
+Điều 2. Đối tượng áp dụng
+1. Các tổ chức, cá nhân tham gia quản lý, vận hành, sử dụng và đảm bảo an
+toán, an ninh thông tin trên nọng truyền số liêu chuyên dùng của các cơ quan Đảng.
+Nhà nước.
+2. Các đơn vị chuyên trách công nghệ thông tin của các cơ quan Đảng và Nhà
+nước khi tham gia kết nối, khai thác mang truyền số liệu chuyên dùng trên địa bàn
+tỉnh Quảng Trị.
+Điều 3. Giải thích từ ngữ
+1. Mạng truyền số liệu chuyên dùng của các cơ quan Đảng, Nhà nước (gọi tắt
+là mạng truyền số liêu chuyên dùng, viết tắt là mạng TBLCD) trên địa bàn tỉnh là
+mang quyền dẫn tắc độ cao, sử dụng phương thức chuyển mạch nhãn đa giao thức
+trên nền giao thức liên mạng (còa gọi tà (P/M/PL)) sử dụng riêng trong hoạt động
+ứng dụng công nghệ thông tia của các cơ quan Đảng, Nhà nước do Viễn thông Quáng
+Trị xây dựng, vận hành, là nhánh mạng TSLCD của Chính phủ.
+2. Địa chỉ IP (nternet Protocol- giao thức Interat) là một địa chỉ đơn nhất mà
+những thiết bị điện tử sử dụng để nhận diện và liên lạc với nhau trên mạng máy tỉnh.
+bằng cách sử dụng giao thức Internet.
+3. Chuyển mạch nhãn đa giao thức MPLS (Mutprotocol Label Sostching) là
+một phương thức được có tiền cho việc chuyển tiếp các gôi tin trong mọng bằng cách
+sử dụng các nhãn được gắn thêm vào trong các gói tin IP (FP packe).
+3
+A. Mạng riêng áo VPN (Virual Prvate Netxok) là một mạng dành riêng sử
+dụng hệ thống mạng công cộng (thường là Ineme1) để các đơn vị, cá phân sử dụng từ
+xã có thể kết nôi với các máy tỉnh trong hệ thông LAN của đơn vị cần kết nối nhân.
+sử dụng và khai thác các tài nguyên trên máy tỉnh trong hệ thông LÂN của đơn vị đó.
+
+TSLCĐ được xây dưng và sử dụng để tru thập, tạo, tãi tạo, phán phối và chủa sả các.
+đỡ tiệu thông tin, trí thức nhâm phục vụ cho các mục tiêu hoạt động cửa các cơ quan.
+Đảng và Nhà nước trên địa bàn tỉnh Quảng Trị.
+6. An toàn thông tin bao gồm các hoạt động quản lý, nghiệp vụ và kỹ thuật đối:
+với hệ thống thông tin nhằm bản vệ, khôi phục các bộ thống, các dịch vụ và nội dung.
+thông tin đối với các nguy cơ chủ quan hoặc khách quan. Việc bảo vệ thông tin, tài
+sản và con người trong hệ thống thông tin nhằm bảo đảm cho các hệ thống thực biện.
+đông chức năng, phục vụ đúng đối trợng một cách sẵn sảng, chính xác và tìn cây. An
+toán thông tin bao hàm các nội dung bảo vệ và bảo mặt thông tin, an toàn dữ liệu, an.
+toàn máy tính và an toàn mạng.
+2. An ninh thông tin là đâm bảo thông tin trên hệ thống thông tin được bảo
+mật, sẵn sàng và toàn vẹn.
+8. Đơn vị sử dụng Mạng chuyên đùng là các cơ quan thuộc bệ thống chính trị
+của tỉnh có điểm kết nối vảo Mạng chuyên dùng.
+Điền 4. Mục đích sử dụng mạng TSLCD
+Mạng TSLCD là cơ sở hạ tầng kỹ thuật để triển khai các ứng dụng công nghệ
+thông tin nhằm chuyển, nhận, xử lý, lưu trở thông tin phục vụ công tác lãnh đạo, điều.
+hành của các cơ quan Đảng và Nhà nước, đảm bảo an toàn bảo mật thông tin.
+Chương II
+QUẢN LÝ, KHAI THÁC, VẬN HÀNH VÀ SỰ DỰNG MẠNG TRIYÊN SỐ
+LIỆU CHUYÊN DÙNG
+Điều 5. Nguyên tắc chung về quản lý, khai thác, vận bành và xử dụng
+mạng TSLCD
+1 Quản lý, vận bảnh và sử dụng mang TSLCD phải bảo đảm tăng cường năng.
+lực quản lý và khai thác tài nguyên mạng máy tính của cơ quan Đảng và Nhà nước.
+phí: huy tình thần trách nhiệm, quyến hạn, nghĩa vụ và đảm bảo hiện qoá ứng dụng
+công nghệ thông tin trong hoạt động của các đơn vị sử dụng mạng.
+2 Mạng TSLCD được quản lý, vận hành và sử dụng tập trung, thống nhất;
+được kiểm tra, đánh giá định kỳ nhằm bảo đảm an toán, bảo mật và tính sẵn sảng cao
+trong quá trình vận hành và sử dụng.
+3. Mạng TSLCĐ phải hoạt động liên tục, thông suốt (24 giờ trong một ngày và
+7 ngày trong một tuần).
+4
+4. Việc khai thác, sử dụng, chia sẻ và lưu trở thông tin phải tuân thủ theo các
+quy định về bưu chính, viên thông, công nghệ thông tin, giao dịch điện tử, về đảm
+bảo an toàn, an nhh thông tin; về tiêu chuẩn, quy chuẩn kỹ thuật được nhà nước quy
+định và bảo đảm bí mật nhà nước.
+5. Các hành vi vi phạm gây ảnh hưởng đến an toàn mạng TSLCD và an ninh
+thông tin truyền tải trên mạng phải được phát hiện kịp thời và xử lý nghiêm minh
+theo quy định của pháp luật.
+6. Cước phí sử dụng mạng TSLCĐ phải thực hiện theo các quy định hiện hành;
+được dân bảo tư nguồn ngân sách Nhà nước cấp cáo các đơn vị sử dụng mạng
+TSLCĐ củy theo nhu cấu và mức độ sử dụng thực tế của từng cơ quan trên cơ sở tiết
+kiệm, hiệu quả.
+Điều 6. Danh mục dịch vụ cung cấp trên mạng TSLCD
+Bao gồm danh mục dịch vụ cung cấp trên mạng TSLCĐ được quy định tại
+Điều 5, Thông tư 23/2011/TT-BTTTT ngày 11/8/2011 của Bộ thông tin và Truyền
+thông Quy định về việc quản lý, vận hành, sử dụng và bảo đảm an toàn thông tin trên.
+mạng truyền số liệu chuyên dùng của các cơ quan Đảng, Nhà nước.
+Điều 7. Các hành vi nghiêm cấm
+1. Kết nối vật lý hoặc thực hiện truy cập không được phép vào mạng TSLCD.
+2. Lợi dụng cơ sở hạ tầng mạng TSLC vào các mục đích không thuộc phạm.
+vi, chức năng, nhiệm vụ được phân công; cung cấp, phát tân thông tân không được
+pháp luật cho phép; gây mất an toán, an ninh thông tin. Sử dụng mạng TSLC kích.
+động chống phá Đảng, Nhà nước, tất lệ bí mật Nhà nước, cung cấp thông tin trái vớt
+thuần phong mỹ tục
+3. Thay đối kết nối, thông số thiết lập mạng của các thiết bị công nghệ thông
+tin không thuộc thẩm quyền, gây xung đôt tải nguyên, ảnh hưởng đến việc vận hành.
+hệ thống mạng TSLCD.
+4. Tiết lộ sơ đổ tổ chức hệ thống mạng TSLCD cho các tổ chức, cá nhân không
+có thẩm quyền.
+5. Tự ý xóa bỏ, tháo gỡ hoặc can thiệp vào mạng TSLCD đã được cải đặt trên
+các thiết bị mạng đã triển khai.
+6. Không tổ chức quản lý, khai thác, vận hành sử dụng mạng TSLCD gây lăng
+phí.Tự ý cấp tắi khoản, quyền truy cập do những cá nhân, tổ chức không liên quan...
+7. Không kịp thời tổ chức các biện pháp ứng cứu, khắc phục, sửa chữa; không
+phối hợp, hợp tác hoặc cản trở cơ quan chức năng trong thanh tra, kiểm tra, điều tra,
+xử lý vi phạm pháp luật về hoạt động của hệ thống mạng TSLCD.
+8. Xâm phạm quyền sở hữu trí tuệ trong hoạt động công nghệ thông tin; có
+hành ví thu thập thông tin bất hợp pháp. Xuyên tạc, va khống, xắc phạm uy từa của tổ.
+chức, danh dự, nhân phẩm, uy tín của công dân.
+9. Tự ý đưa các thiết bị tin học ra ngoài phạm vi cơ quan, đơn vị hoặc cho
+người bên ngoài vào sử dụng, sửa chữa trong hệ thống mạng TSLCD.
+5
+Điều 8. Sử dụng, chỉa sẽ và lưu trữ thông tin trên mạng TSLCĐ
+1. Thông tin thuộc danh mục bí mật Nhà nước được truyền tài trên mạng.
+TSLCD phải tuân thủ pháp luật về bảo vệ bí mất Nhà nước.
+2. Việc sử dụng, của sê và lưu trở thông tin trên mạng TSLCD phải tuân thủ.
+các quy định của Nhà nước về viên thông, công nghệ thông tin và lưu trữ.
+3. Thông tin được sử dụng, chia sẽ và lưu trữ trên mạng TSLCĐ phải là những
+thông tin phục vụ cho hoạt động quản lý điều hành và chuyên môn nghiệp vụ của đơn
+vị sử dụng mạng.
+Điều 9. Trách nhiệm của Sở Thông tin và Truyền thông
+1. Là đơn vị được giao quản lý mạng TSLCD trên địa bàn tỉnh, có trách nhiệm.
+tham mưu, triển khai chương trình, dự án trong hoạt động của các cơ quan Đảng và
+Nhà nước trên mạng T&LCD. Chỉ đạo Viễn thông Quảng Trị vận hành và duy trì
+mạng TSLCD trên địa bàn tỉnh theo quy định của Bộ Thông tên và Truyền thông,
+2. Chỉ đạo việc kết nối các mạng viễn thông khác trên địa bàn tỉnh phục vụ các
+cơ quan Đảng và Nhá nước với mạng TSLCD theo hướng dẫn của Bộ Thông tin và
+Truyền thông.
+3. Hướng dẫn, đôn đốc các đơn vị sử dụng mạng TSICD trên địa bàn tỉnh khai
+thác hiệu quả các dịch vụ được cung cấp trên mạng TNL CĐ. Nắm bất tình hình, các
+vướng mắc trong quá trình sử dụng của các đơn vị để đề xuất biện pháp giải quyết
+nhằm tạo điều kiện cho 100% cơ quan, đơn vị phải sử dụng mạng một cách phù hợp.
+và hiệu quả.
+4. Xây dựng kế hoạch tổ chức tập huấn, đào tạo các kiến thức về quản lý, khai
+thác, vận hành, sử dụng và đảm bảo an toàn, an sinh thông tin cho cán bộ, công chức,
+viên chức phụ trách hoặc chuyên trách CNTT tại các đơn vị có kết nối vào mạng
+TSLCD.
+5. Nghiên cứu, đề xuất nâng cấp, mở rộng, dụy trí và phát triển mạng TSLCĐ.
+6. Thành lập Nhóm (ng cứu sự cố máy tính (CS/BT) tại Sở Thông tin và
+Truyền thông để làm đầu mối liên hệ với Cơ quan điều phối ứng cứu sự cố máy tính
+của Bộ Thông tin và Truyền thông và liên kết với các CSBT của các cơ quan, doanh.
+nghiệp viễn thông trên địa bàn tỉnh nhằm hướng dẫn các đơn vị xây dựng các giái
+pháp đảm bảo an toàn, an ninh thông tin; ứng cứu. kịp thời khi xảy ra các sự số mất an.
+toàn, an ninh thông tin trong hệ thống mạng TSLCD.
+7. Tuyên truyền, phổ biến, hướng dẫn việc thực hiện các quy định nhà nước về
+sử dụng mạng TSLCD cho các cơ quan Đảng, Nhà nước trên địa bàn tỉnh.
+8. Phối hợp với các đơn vị có liên quan thực hiện các hiện pháp đảm bảo an
+toàn cơ sở hạ tầng và an ninh thông tin đáp ứng các tiêu chuẩn, quy chuẩn kỳ thuật về
+an toàn, an ninh thông tin.
+9. Báo cáo định kỳ hàng năm, đột xuất cho UBND tỉnh và Bộ Thông tin và
+Truyền thông tính hình sử dụng mạng TSLCD trong hoạt động ứng dụng công nghệ
+thông tin trên địa bàn tỉnh.
+6
+Điều 10. Trách nhiệm của Viễn thông Quáng Trị
+1. Có trách nhiệm thực hiện và phối hợp với các đơn vị có liên quan:
+a) Điều hành kết nối mạng đường trục với mạng truy cập các cấp từ cấp tỉnh
+đến cấp xã.
+b) Quản lý, duy trì, vận hành, khai thác, khắc phục sự cố, bảo dưỡng các thiết
+bị thuộc bệ thống mạng TSLC đản bảo kết nối thông suốt, liên tực trong phạn vì
+toàn tỉnh.
+c) Đảm báo các yêu cầu về dung lượng, tốc độ, chất lượng dịch vụ mạng theo.
+các tiêu chuẩn, quy chuẩn kỹ thuật và an toàn, an ninh thông tin với đơn vị đăng kỳ
+sử dụng.
+d) Triển khai các giải pháp và hệ phống thiết bị dự phòng để đảm báo cơ sở hạ
+tẳng mạng TSLCD hoạt động liên tục và an toàn.
+c) Tổ chức tập huấn, hướng dẫn sử dụng cho các đơn vị sau khi triển khai lắp
+đặt mới vào mạng TSLCD
+2. Công bố các điểm đăng ký dịch vụ, hộp thư điện tử, địa chí, số điện thoại
+nóng để hỗ trợ kỹ thuật, khắc phục sự có cáo Sở Thông tin Truyền thông và các đơn
+vị sử dụng mạng TSLCD
+3. Chỉ được phép lắp đặt mới, mở rộng kết nối trên mạng TSLCD khi có sự
+đồng ý của Sở Thông tin và Truyền thông bằng văn bản.
+4. Phố: hợp với Sở Thông tin và Truyến thông trong công tác đảm bảo an toàn
+cơ sở hạ tầng, an toàn thông tin của hệ thống mạng TSLCD,
+5. Xây dựng quy định chi tiết các nội dung hợp đồng mẫu và tiến hành thương
+tháo, ký kết hợp đồng với đơn vị được giao quản lý vận hành, sử dụng mạng TSIA9
+phục vụ công tác ứng dụng công nghệ thông tin của các cơ quan Đảng và Nhà nước
+trên địa bàn tỉnh.
+6. Định kỳ 6 tháng/lẫn báo cáo Sở Thông tin và Truyền thông (vào ngày 30/4
+và 3011 hàng năm) và báo cáo đột xuất bằng văn bản về tình hình hoạt động cửa
+mạng TSLCD khi có yêu cầu.
+Điều 11. Trách nhiệm của đơn vị khi tham gia khai thác mạng TSLCĐ
+1. Chịu trách nhiệm về nội dung, thông tin truyền đưa trên mạng TSLCD theo.
+đúng quy định của pháp luật.
+2. Quản lý, khai thác và bảo vệ các thiết bị chuyển mạch, thiết bị kết nối và các
+thiết bị của điểm kết nối đặt tại cơ quan mình đã được bàn giao.
+3. Sử dụng, chia sở và lưu trữ thông tin trên mạng TSL.CD theo đúng các quy
+định tại Điều 10 của Thông tư số 23/2011/TT-BTTTT ngày 11/8/2011 của Bộ Thống.
+tin và Truyền thông Quy định về việc quản lý, vận hành, sử dụng và bảo đảo an toàn
+thông tin trên Mạng truyền số liệu chuyên đủng của các cơ quan Đảng, Nhà nước.
+7
+4. Không thay đổi kết nổi, thông số thiết lập mang của các thiết bị liên quan
+đến mạng TS.CD không thuộc thẩm quyền, gây xung đột tài nguyên, ảnh hưởng đến.
+việc vận hành hệ thống mạng TSLCD.
+5. Chịu trách nhiệm các vấn đề liên quan đến an toàn mạng khí kết nối mạng
+TSLCD:
+c) Chủ động phối hợp với Nhém ứng cứu sự có máy tính (CSRT) tại Sở
+Thông tin và Truyền thông xây dựng các giải pháp đảm bảo an toàn, an nành thông
+tin trong hệ thống mạng TSLCD.
+b) Quản lý bộ tập trung người đúng mạng riêng áo của cơ quan được thiết lập
+(nếu có).
+c) Quản lý các tên miền của đơn vị (nếu có).
+đ) Sở hữu và quản lý các chính sách kết nối Internet của tiêng cơ quan thông
+qua mạng TSLCD.
+
+được cấp cho hệ thống mạng nội bộ.
+e) Ghi lại các sự có, lỗi xảy ra về kết nối mạng TSLCĐ, về an toàn, bảo mật
+thông tín; trường hợp có sự cổ nghiêm trọng vượt quả khả năng khắc phục của đơn vị
+phải báo cáo với nơi đăng ký dịch vụ gần nhất của Viễn thông Quáng Trị để phối hợp
+khắc phục kịp thời, đồng thời phải báo cáo Sở Thông tin và Truyền thông để có sự
+chỉ đạo, hỗ trợ kịp thời trong trường hợp cần tổ chức ứng cứu thông tin.
+6. Đăng ký sử dụng dịch vụ chững thực chữ ký số với Ban Cơ yếu Chính phủ
+để bảo đảm an toàn, bảo mật thông tin trên mạng TSLeD.
+7. Tuán thủ các quy định chính sách, pháp luật của Nhà nước về viễn thông,
+quản lý và cấp phép cung xấp thông tác, thiết lập trang thông tin điện tử moeme, chế
+độ bảo mật, an toàn, an ninh thông tin và quy định khác có liên quan.
+8. Cử cán bộ, công chức, viên chức có chuyện môn về công nghệ thông tân
+hoặc bộ phận chuyên trách về công nghệ thông tin để quân trị, khai thác, vận hành hệ
+thống mạng TSLD có hiệu quả. Hàng năm bố trí kinh phí hỗ trợ cho cán bộ chuyên
+trách về công nghệ thông tin được tham gia các lớp hồi dưỡng, tập huấn do Sở Thông
+tin và Truyền thông tổ chức
+9. Trong trường hợp có kế hoạch nâng cấp, bảo trì hệ thống mạng nội bộ có.
+ảnh Lưởng đến mạng TSLCD, pần thông báo cho điểm đặng ký dịch vụ gắn nhất của
+Viên thộng Quảng Trị trước tối thiểu 5 ngày lào: việc để đản bảo phù họp với quy
+hoạch tổng thể mạng TSLCD.
+10. Khi bị sư cố xây ra hoặc cần sửa chữa linh kiện, thiết bị liên quan đến kết
+nối mạng TSLCĐ, đơn vị phải thông bảo tực tiếp cho Viên thông Quảng Trị để phốt
+hợp xử lý kịp thời
+11. Trả chi phí sử dụng theo văn bản hướng dẫn và khung giá quy định của Bộ
+Thông tin và Truyền thông. Kinh phí này do các đơn vị lập dự toán và được trể trí từ
+nguồn ngân sách Nhà nước.
+8
+12. Báo cáo thống kê định kỳ hàng năm, đột xuất tình hình khai thác mạng
+TSLCD theo hưởng dẫn của Sở Thông tin và Truyền thông.
+Điều 12. Trách nhiệm của cá nhân sử dụng mạng TSLCD
+1. Được khai thác các tài nguyên chia sẻ trên mạng để phục vụ cho công tác tại.
+cơ quan, nhưng phải đảm bảo về chế độ bảo mật, an toàn, an ninh thông tin, đồng
+thời chịu trách nhiệm đối với các thông tin cung cấp trên mạng.
+2. Tuân thể những quy định cụ thể về truy nhập, khai thác, vận hành, quản lý
+sử dụng mạng TSLCD và các quy định khác có liên quan. Không được tiết lệ mất
+khẩu truy cấp các ứng dụng trên mạng 7SLCD cho cá nhân, đơn vị không có thẩm
+quyền.
+3. Chấp hành nghiêm chỉnh các quy định chính sách, pháp luật của Nhà nước
+về viễn thông, công nghệ thông tin, quản lý và cấp phép cung cấp thông tin, thiết lập,
+trung thông tin điện tử Internet, chế độ bảo một, an toàn, canh thông tin và quy.
+định khác có liên quan.
+4, Khi có sự cổ xảy ra, phải báo cáo kịp thời cho người có thẩm quyền của đơn
+vị để giải quyết.
+Chương III
+BẢO ĐẢM AN TOÀN, AN NINH MẠNG VÀ THÔNG TIN TRÊN MẠNG
+TRUYỀN SỐ LIỆU CHUYÊN DÙNG
+Điều 13. Trách nhiệm của các đơn vị về đảm bảo an toàn, an ninh mạng và
+thông tin trên mạng TSLCD
+1. Trang bị đầy đủ các kiến thức cơ bản về máy tính, mạng máy tính bảo mặt
+thông tin cho cán bộ, công chức, viên chức trước khi truy nhập và sử dụng hệ thống
+thông tin qua mạng TSLCD.
+2. Có trách nhiệm phân bổ quyền lực đầu tư hợp lý để thiết lập hệ thống mạng
+nột bộ kết nối vào mạng TBLD theo tiêu chuẩn quy định của nhà nước do Sở Thông
+tin và Truyền thông hướng dẫn nhằm bảo đảm ai toàn, an ninh thông tin trong hoạc:
+động ứng dụng công nghệ thông tin của đơn vị.
+2. Đối với cán bộ, công chức, viên chức nghỉ hưu, chuyến công tác hoặc chấm
+đát hợp động thì cán bộ chuyên trách CNTT của đơn vị phát hủy bỏ quyền truy nhập.
+vào hệ thống thông tin và thu hồi lại các tài liệu, hồ sơ, thông tả liên quan tối các tái
+khoản bị hủy bỏ nhằm tránh tỉnh trạng truy cập trái phép vào hệ thống.
+4. Tạo điều kiện cho cán bộ chuyên trách CNTT của đơn vị có điều kiện học.
+tập, tiếp thu công nghệ, kiến thức an toàn bảo mật thông tin.
+5. Tổ chức quản lý các tài khoản của hệ thống thông tin qua mạng TSLCD bao.
+gồm: tạp mới, kích hoạt, sửa đổi, vô hiệu hóa và loại bỏ các tài khoản, đồng thời tổ
+chức kiểm tra các tài khoản của hệ thống thông tin tt nhất 01 lần/03 tháng.
+9
+5. Tổ chức quản lý tài khoản, phản quyền người sử dụng theo nhóm; quy định.
+về quyền hạn người sử dụng, giới hạn về thời giạn tray nhập hệ thống. Nếu tiên tục
+đăng nhập sa vươt quả số lân quy định thì hệ thống tự động khóa tài khoản hoặc cở
+lập tài khoản với khoảng thời gian nhất định trước khi tiếp tục cho đăng nhập.
+7. Hệ thống thông tin phải ghi nhận các sự kiện sau: Quá trình đăng nhập, truy
+xuất, các thao tác cấu hình hệ thống. Đồng thời ghi nhận đầy đủ các thộng tin trong
+các bản ghi nhật ký để xác định những sự kiên nào đã xảy ra, nguồn gốc và kết quả
+của sự kiện để có cơ chế bảo vệ và lưu gia nhật ký trong một khoảng thời gian nhất
+định
+8. Phải thiết lập, tổ chức theo dõi, kiểm soát tất cả các phương pháp truy nhập
+từ xa, truy nhập mạng không dây, truy nhập có chức năng độc quyền, tổ chức sử dụng
+và mã hóa chứng thực để báp vẻ truy nhập tới hệ thống thông tán; ngăn chặn các sự
+cô gây ra do tân công từ chối dịch vụ. Đồng thời tổ chức triển khai cơ chế tự động
+giảm sát và điều khiển các truy nhập từ xa.
+9. Đối với hệ thống thông tin cho phép truy nhập công cộng thì phải được báo.
+vệ hằng các trang thiết bị chuyển dụng hoặc sử dụng tổng hợp các biện pháp kỹ thuật
+và thiết lập hệ thống dự phòng.
+10. Trong việc sử dụng mạng TSLCD, đơn vị phải quy định một số nội dung
+đảm bảo an toàn, an ninh thông tin như sau:
+a) Mục tiêu và phương hướng thực hiện công tác đảm bảo an toàn, an nănh cho.
+hệ thống thông tin.
+b) Nguyên tắc phân loại và quản lý mức độ ưu tiên đối với tài nguyên của
+hệ thống thông tin (phần mềm, dữ liệu, trang thiết bị...).
+c) Quản lý phản quyền và quy định trách nhiệm đối với từng cá nhân khi tham.
+gia sử dụng hệ thống thông tin.
+a) Quản lý và điểu hành hệ thống máy chủ, thiết bị mạng, thiết bị bảo vệ mạng:
+việc lưu trì, sao chép, truyền tài những tài liệu thuộc bí mật nhà nước, sử dụng hộp
+thư điện tử, thiết bị tháo lắp (188, thiết bị không đây, máy tính xách tay...):
+đ) Nguyên tắc sử dụng an toàn và hiệu quả đối với tất cá cá nhân tham gia sử
+dụng hệ thống thông tin.
+c) Báo cáo tổng hợp tình hình đảm bảo an toàn, an ninh thông tin và bảo mặt
+hệ thống thông tin theo định kỳ.
+Đ Nơi tiếp nhận thông tin, xử lý các sự cố hoặc nguy cơ mất an toàn, an ninh
+thông tin và bảo mật hệ thống thông tin.
+g) Khi quy định về an toàn, an ninh thông tin cho đơn vi phải tham khảo các
+tiêu chuẩn kỹ thuật quản lý an toàn thông tin theo quy định hiện hành (Tiêu chuẩn
+quốc gia TCV/N 7562/2005... 1 để có sự hựa chọn áp dụng phù hợp cho đơn vị nình.
+11. Trách nhiệm của cán bộ chuyên trách CNTT về an toàn, an ninh thông tin.
+bảo mật trên mạng TSLCD:
+10
+a) Chịu trách nhiệm tham mưu và vận hành an toàn hệ thống thông tin của đơn
+vị.
+b) Cập nhật cấu hình chuẩn cho các thành phần của hệ thống khi tiến hành cải
+đặt, thiết lập cấu hình tối tru cho các thiết bị an toàn thông tin của hệ thống thông tin
+đạt hiệu quả nhất.
+c) Thường xuyện sao lưu hệ thống thông tin và lưụ trữ thông tin ở nơi an toàn.
+Đồng thời tổ chức kiểm tra thông tin sao lưu để bảo đảm tỉnh sân sàng và toàn vện.
+của thông tin.
+d) Triển khai các biện pháp phòng, chống lây nhiễn vinụ máy tính, mã độc và
+thu rác trong hệ thống thông tin; Sử dụng thiết bị, phần mềm để phát hiện, ngân chặn,
+tiêu diệt vitus, mã độc, thư rác được truyền rái bới; Tnternet, tập tin định kèm từ tư
+điện tử, thiết bị lưu trê đi động nhằm khai thác lỗ hồng của hệ thống thông tin. Đống
+thời, cập nhật thường xuyên các phần mềm diệt vics, chống mã độc và thư xác sao.
+cho phù hợp với quy trình quản lý cấu hình hệ thống thông tin.
+4) Phòng tránh các rải ro có thể xảy ra do truy phập, sử dụng trái phép; lâm
+thay đổi hoặc phả hủy hệ thống thông tin có liên quan đến hoạt động của đơn vị.
+e) Tổng hợp báo cáo, đánh giá mức độ nghiêm trọng của các rủi ro có thể xảy.
+ra và thực hiện các biện pháp phòng chống các rủi ro.
+12. Trách nhiệm của đơn vị khi tham gia khai thác mạng TSLCD:
+a) Tổ chức xây dựng quy chế nội bộ về việc bảo đảm an toàn thông tin cho hệ
+thống thông tin của đơn vị mình quản lý và có cán bộ phụ trách quản lý an toàn thông
+tin
+b) Hàng năm lập kinh phí trong các dự án ứng dụng công nghệ thông tin của
+đơn vị để cầu tư thiết bị và triển khai các giải pháp kỹ thuật bảo đảm an toàn thông
+tin.
+Điều 14. Trách nhiệm của Sở Thông tin và Truyền thông
+1. Chỉ đạo, hướng dẫn Viễn thông Quảng Trị và các tổ chức cá nhân thực hiện.
+các quy định của pháp luật về bảo đảm an toàn mạng và thông tin trên mạng TSLCD.
+2. Chủ trì, phối hợp với Công an tỉnh thanh tra, kiểm tra và xử lý theo thẩm
+quyền các vi phạm quy định về an toàn, an ninh mạng và thông tin trên mạng
+TSLCD.
+3. Định kỳ hàng năm hoặc đột xuất, Sở Thông tin và Truyền thông xây dựng kế
+hoạch, phối hợp với các cơ quan, đơn vị liên quan tổ chức thanh tra, kiểm tra công tác.
+đảm bảo an toàn, an ninh thông tin trong sử dụng mạng TSLCD, Tây theo tỉnh chất.
+quy mô do Giám đốc Sở Thông tin và Truyền thông hoặc Chủ tịch UBND tỉnh quyết
+định thành lập.
+Điều 15. Trách nhiệm của Công an tỉnh
+1. Phối hợp với Sở Thông tin và Truyền thông, Viễn thông Quảng Trị bảo đảm
+an toàn, an ninh thông tin trong việc sử dụng và khai thác mạng TSLCD; kiểm tra, xử
+11
+lý vi phạm đối với các tổ chức, cá nhân vi phạm quy định về đảm bảo an ninh thông
+tin trong hoạt động của mạng TSLCD.
+2. Chỉ đạo Công an các đơn vị, địa phương phối hợp chặt chẽ với Sở Thông tin
+và Truyền thông. Trung tâm Viễn thông các huyện, thị xã, thành phô bảo đảm an toàn.
+cơ sở hạ tầng trong mạng TSLCD
+3. Các đơn vị chuyên trách bảo vệ an ninh quốc giá thuộc Công an tỉnh khi
+phát hiện các thông tin, tài liện, dữ kiệu, đó vật thuộc mạng TS-CD tiên quai đến
+hoạt động xâm phạm an ninh quốc gia theo quy định tại Điều 3 Nghị định số
+15/2003/NĐ-CP ngày 14/17/2005 của Chính phủ về quyền bạn, trách nhiệm của cơ:
+quan và cán bộ chuyên trách bảo vệ an ninh quốc gia, được tiến hành kịp thời các quy
+định sau đây:
+, a) Yêu cầu tổ chức, cá nhân cung cấp các thông tin, dữ tiệu, số liêu, tài liệu, đổ
+vật liên quan.
+b) Thực hiện theo thẩm quyền các biện pháp thu giữ, sạo chép thông tin, dữ
+liệu, số liệu, tài liệu, đồ vật, một phần hoặc toàn bộ hệ thống thiết bị liên quan.
+c) Tiến hành các biện pháp kỹ thuật để kiểm soát, ngăn cản việc truy nhập bắt
+hợp phấp vào hệ thống thiết bị, mạng lưới và sử dụng dịch vụ.
+đ) Thực hiện các nhiệm vụ và quyền hạn khác theo quy định của pháp luật.
+4. Kịp thời cung cấp, trao đổi với Sở Thông tin và Truyền thông, Viễn thông
+Quảng Trị và các đơn vị, cá nhân quản lý, sử dụng, khai thác roạng TSLD về trư.
+mưu, phương thức, thủ đoạn của các thể lục thủ dịch, đối tượng xâu lợi dụng mạng.
+TSLCD để tiến hành các hoạt động xâm phạm an ninh trật tự.
+5. Chủ trì điều tra, xử lý hình sự hoặc vi phạm hành chính đối với các hành vi
+vi phạm pháp luật liên quan đến an ninh trật tự trong hoạt động mạng TSLCD.
+Điều 16. Trách nhiệm của Viễn thông Quảng Trị
+1. Tổ chức thực hiện các biện pháp bảo đảm mạng TSL.CD đáp ứng các tiêu.
+chuẩn, quy chuẩn kỹ thuật về an toàn thông tin.
+2. Triển khai các biện pháp bảo vệ vật lý mức độ cao nhất đối với các khu vực:
+quản trị, lưu trữ nội dung và lưu trữ văn phỏng.
+3. Triển khai các giải pháp, biện pháp cần thiết để ngăn chặn việc sử dụng, lợi
+dựng mạng lưới, thiết bị, các công cụ phần cứng, phần mềm để cân trở, gây nhiễu,
+gây rối loạn, làm hư hông, hủy hoại hoại động của mạng TSLCD.
+Chương IV
+ĐĂNG KÝ SỬ DỤNG, THAY ĐỎI
+THÔNG TIN SỬ DỤNG VÀ CHI TRẢ CƯỚC PHÍ SỬ DỤNG
+Điều 17. Tham gia vào mạng TSLCD
+12
+1. Sở Thông tin và Truyền thông tham mưu UBND tỉnh về số lượng, danh sách
+các đơn vị được đầu tư mạng TSLCD theo từng thời kỳ.
+2. Các đơn vị đã được đầu tư mạng TSLCĐ, khi có yêu cầu kết nối phải thông
+báo cho Viễn thông Quảng Trị để kợ kết hợp đồng sử dụng, đồng thời có văn bản gửi
+về Sở Thông tin và Truyền thông tổng hợp, quản lý.
+Điều 18. Từ chối tham gia vào mạng TSLCD
+1. Các đơn vị đã kết nối mạng TSLCĐ có yêu cầu từ chối kết nối phải thông
+báo cho Viên thông Quảng Trị để thực hiện, đồng thời phải có văn bản gửi về Sở
+Thông tin và Truyền thông.
+2. Các đơn vị sau khi không tiếp tục kết nối vào mạng TSLCĐ phải tự thực
+hiện các biện pháp kỹ thuật, hành chính đảm bảo an toàn, an trình và khai thác có
+hiệu quả hệ thống mạng thông tin nhằm phục vụ tốt sho việc ứng dụng CNTT tại đơn
+vị mình.
+Điều 19. Ký kết hợp đồng sử dụng mạng TSLCD
+1. Viễn thông Quáng Trị là đơn vị tại địa phương, đại diện cho Tập đoàn Bưu.
+chính Viễn thông Việt Nem kỳ hợp đồng với các đơn vị sở dụng dịch vụ mạng
+TSLCĐ, chịu trách nhiệm đảm bảo vận hành và cung cấp dịch vụ theo hợp đồng.
+2. Các đơn vị khi tham gia kết nối mạng TSLCD phải ký kết với Viễn thông
+Quảng Trị trong việc sử dụng mạng TSLCD và thông bảo về Sở Thông tin và Truyền
+thông các thông tin được ký kết.
+Điều 20. Thay đổi thông tin sử dụng vào mạng TSLCD
+Các đơn vị khi có yêu cầu thay đổi thông tin sử dụng (như dung lượng, dịch
+vạ, cấu hình mạng địa chỉ.u cần thống bảo về Viễn thông Quáng Trị tổ chức thực
+hiện. Đồng thời phải báo cáo về Sở Thông tin và Truyền thông về những thay đổi đã
+thực hiện.
+Điều 21. Chi trả cước phí sử dụng
+1. Kinh phí sử dụng mạng TSLCD phục vụ cho các cơ quan Đảng và Nhà nước.
+thực hiện theo Thông tư số 06/2010/TP-BTTTT ngày 11/02/010 của Bộ Thông tin
+và truyền thông về việc ban hành giú cước sử dụng mạng số liệu chuyên đùng phục
+vụ cơ quan Đảng và Nhà nước.
+2. Kinh phí này do các đơn vị lập dự toán trình cơ quan Tài chính cùng cấp để
+bố trí từ nguồn ngân sách hàng năm trên cơ sở tiết kiệm, hiệu quả.
+Chương V
+TỔ CHỨC THỰC HIỆN
+Điều 22. Trách nhiệm hướng dẫn, thi hành
+Sở Thông tin và Truyền thông có trách nhiệm tuyên truyền, phổ biến, hướng
+dẫn và tổ chức triển Quy chế này cho các cơ quan Đảng và Nhà nước
+13
+trên địa bàn tỉnh; Chỉ đạo Viễn thông Quảng Trị quản lý, vận hành và duy trì mạng
+TSLCD trên địa bàn tỉnh; trước ngày 15 tháng 12 háng năm, tổng hợp báo cáo Ủy
+ban nhân dân tỉnh và Bộ Thông tin và Truyền thông kết quả thực hiện.
+Thủ trưởng các đơn vị sử dụng mạng TSLCD trong phạm vi chức năng, nhiệm.
+vụ của mình, có trách nhiệm tổ chức triển khai, sử dụng, khai thác có hiệu quả và
+kiểm tra việc chấp hành lại đơn vị theo đúng nội dung quy định của Quy chế này.
+Điều 23. Xử lý vi phạm
+Các hành vi vi phạm gây ảnh hướng đến an toàn mạng TSLCD và an toàn, án.
+ninh thông tin truyền tài trên mạng TSLCD phải được phát hiện kp thời và xử lý
+nghiêm minh theo quy định của pháp luật.
+Điều 24. Điều khoản thì hành
+Trong quá trình tổ chức thực hiện, nếu có những vấn để khó khăn, vướng mắc,
+các cơ quan, đơn vị quản lý, vận hành, sử dụng mặng TSLCD và các cá nhân có liên
+quan phản ảnh kịp thời về Sở Thông tin và Truyền thông để tổng hợp báo cáo Ủy ban.
+nhân dân tỉnh xem xét, quyết định.
+TM. ỦY BAN NHÂN DÂN
+CHỦ TỊCH
+Tguyễn Đức Cường
+14

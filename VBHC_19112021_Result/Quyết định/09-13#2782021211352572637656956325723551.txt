@@ -1,0 +1,256 @@
+UỶ BAN NHÂN DÂN   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH NINH BÌNH   Độc lập - Tự do - Hạnh phúc
+Số: 09 /2013 /QĐ-UBND   Ninh Bình ngày 20 tháng 6 năm 2013
+QUYẾT ĐỊNH
+Ban hành Quy chế về quản lý, vận hành, sử dụng
+và bảo đảm an toàn thông tia trên Mạng truyền số liệu chuyên dùng
+của các cơ quan Đảng, Nhà nước trên địa bàn tỉnh Ninh Bình.
+ỦY BAN NHÂN DÂN TỈNH NINH BÌNH
+Căn cứ Luật Tổ chức Hội đồng nhân dân và Ủy ban nhân dân ngày 26 tháng
+11 năm 2003;
+Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006;
+Căn cứ Luật Viễn thông ngày 23 tháng 11 năm 2009;
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính
+phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước;
+Căn cứ Nghị định số 25/2011/NĐ-CP ngày 06/04/2011 của Chính phủ quy
+định chi tiết và hướng dẫn thi hành một số điều của Luật Viễn thông;
+Căn cứ Thông tư liên tịch số 06/2008/TTLT/BTTTT-BCA ngày 28 tháng 11.
+năm 2008 của liên Bộ Thông tin và Truyền thông và Bộ Công an về bảo đảm an.
+toàn cơ sở hạ tầng và an ninh thông tin trong hoạt động bưu chính, viễn thông và
+công nghệ thông tin;
+Căn cứ Thông tư số 23/2011/TT-BTTTT ngày 11 tháng 8 năm 2011 của Bộ
+Thông tin và Truyền thông Quy định về việc quản lý, vận hành, sử dụng và báo.
+đảm an toàn thông tin trên Mạng truyền số liệu chuyên dùng của các cơ quan.
+Đảng, Nhà nước;
+Xét đề nghị của Giám đốc Sở Thông tin và Truyền thông tại Tô trình số
+276/ TTr-STTTT, ngày 29/5/2013.
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kêm theo Quyết định này Quy chế về quản lý, vận hành.
+sử dụng và bảo đảm an toàn thông tin trên Mạng truyền số liệu chuyên dùng của
+các cơ quan Đảng, Nhà nước trên địa bàn tỉnh Ninh Bình.
+Điều 2. Quyết định này có hiệu lực thi hành sau 10 ngày, kể từ ngày kỷ.
+Điều 3. Chánh Văn phòng UBND tỉnh, Giám đốc Sở Thông tin và Truyền
+thông, Giám đốc các Sở, Ban, ngành; Chủ sịch Ủy ban nhân dân các huyện. thị xã.
+nhành phố và tổ chức, cá nhân khác có liên quan chịu trách nhiệm thi hành Quyết
+định này///h
+Nơi nhận:
+- Như Điều 3;   TM. UỶ BAN NHÂN DÂN
+- Bộ Thông tin và Truyền thông;   KT. CHỦ TỊCH
+- Cục Kiểm tra Văn bản QPPL Bộ Tư pháp;   PHÓ CHỦ TỊCH
+- Thường trực Tỉnh ủy;
+- Thường trực Hội đồng nhân dân tỉnh;
+- Chủ tịch, Phó Chủ tịch UBND tỉnh;
+- Ủy ban MTTQ VN tỉnh và các đoàn thể;
+- Toà án nhân dân tỉnh;
+- Viện Kiểm sát nhân dân tỉnh;
+- Văn phòng Tỉnh ủy;
+- Văn phòng Đoàn ĐBQH-HĐND tỉnh;
+- Báo Ninh Bình, Đài PTTH Ninh Bình ;
+- Trung tâm TH - CB, Cổng TTĐT tỉnh;   Trần Hữu Bình
+- Lưu: VT, VP6,VP8.
+KH/12
+2
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH NINH BÌNH   Độc lập - Tự do - Hạnh phúc
+QUY CHẾ
+Về quản lý, vận hành, sử dụng và bảo đảm an toàn thông tin trên
+Mạng truyền số liệu chuyên dăng của các cơ quan Đảng, Nhà nước
+trên địa bàn tỉnh Nịnh Bình
+(Ban hành kèm theo Quyết định số 0 /2013/QĐ- UBND
+ngày 20 tháng 6 năm 2013 của Ủy ban nhân dân tỉnh Minh Bình)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Quy chế này quy định về quản lý, vận hành, sử dụng và bảo đảm an toàn
+thông tin trên Mạng truyền số liệu chuyên dùng của các cơ quan Đảng, Nhà nước.
+trên địa bàn tỉnh Ninh Bình.
+Điều 2. Đối tượng áp dụng
+Quy chế này áp dụng cho các tổ chức, cá nhân tham gia quản lý, vận hành,
+sử dụng và bảo đảm an toàn thông tin trên Mạng truyền số liệu chuyên dùng của
+các cơ quan Đảng, Nhà nước trên địa bàn tỉnh Ninh Bình.
+Điều 3. Giải thích từ ngữ
+Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:
+1. Mạng truyền số liệu chuyên dùng của các cơ quan Đảng, Nhà nước trên
+địa bên tỉnh là mạng truyền dẫn tốc độ cao, sử dụng phương thức chuyển mạch.
+nhãn đo giao thức trên nền giao thức liên mạng (IPME9) sử dụng riêng trong
+hoạt động ứng dụng công nghệ thông tin của các cơ quan Hảng và Nhà nước trên.
+địa bàn tỉnh do các đơn vị thành viên thuộc Tập đoàn Bứn đính Viễn thông Việt
+Nam (VNPT) và các doanh nghiệp viên thông được Ủy ban nhân dân tỉnh Ninh.
+Bình cho phép xây dựng, vận hành (sau đây viết tắt là Mạng chuyên dùng).
+2. An toàn thông tin bao gồm các hoạt động quản lý, nghiệp vụ và kỹ thuật.
+đối với hệ thống thông tin nhằm bảo vệ, khỏi phục các hệ thống, các dịch vụ và nội.
+dung thông tán đối với nguy cơ tự nhiên hoặc do con người gây ra. Việc bảo vệ
+thông tin, tài sản và con người trong hệ thống thông tin nhằm bảo đảm cho các hệ
+thống thực hiện đúng chức năng, phục vụ dùng đối trợng một cách sẵn sùng, chính.
+xác và tin cậy
+3
+3. Đơn vị sử dụng Mạng chuyên đứng là các cơ quan thuộc hệ thống chính
+trị của tỉnh có điểm kết nối vào Mạng chuyên dùng.
+Chương II
+QUẢN LÝ VÀ VẬN HÀNH MẠNG CHUYÊN ĐÙNG
+Điều 4. Nguyên tắc chung về quản lý, vận hành và sử dụng Mạng
+chuyên dùng
+1. Mạng chuyên dùng được quản lý, vận hành và sử dụng tập trung, thống
+nhất; được kiểm tra, đánh giá định kỷ để đảm bảo an toàn, bảo mật; đảm bảo hoạt
+động liên tục, thông suốt; khai thác hiệu quả tài nguyên mạng máy tỉnh và năng
+cao chất lượng ứng dụng công nghệ thông tin trong hoạt động cơ quan Đảng, Nhà
+nước trên địa bàn tỉnh.
+2. Chi phí sử dụng mạng chuyên dùng phải thực hiện theo các quy định hiện.
+hành, được đảm bảo từ nguồn ngân sách Nhà nước cấp cho các cơ quan sử dụng
+mạng căn cứ theo nhu cầu và mức độ sử dụng thực tế cửa từng cơ quan trên cơ sở
+tiết kiệm, hiệu quả.
+3. Việc sử dụng, chia sẻ và lưu trữ thông tin trên Mạng chuyên dùng phải.
+tuân thủ các quy định của Nhà nước về bưu chính, viễn thông, công nghệ thông tin.
+giao dịch điện tử và bảo đảm bí mật nhà nước.
+Điều 5. Quyền và trách nhiệm của Sở Thông tin và Truyền thông
+1. Chỉ đạo, hướng dẫn các doanh nghiệp cung cấp hạ tầng và dịch vụ cho
+Mạng chuyên dùng thực hiện các quy định của pháp luật về quy chuẩn kỹ thuật,
+tiêu chuẩn chất lượng, an toàn cơ sở hạ tầng: thanh tra, kiểm tra, xử lý vi phạm các
+quy chuẩn kỹ thuật, tiêu chuẩn chất lượng, an toàn cơ sở hạ tầng ưong hoạt động
+của Mạng chuyên dùng.
+2. Phối hợp với Công an tỉnh để bảo đảm an ninh thông tin, thanh tra, kiểm
+tra và xử lý đối với tổ chức, cá nhân vi phạm quy định về bảo đảm an ninh thông
+tin trong hoạt động của Mạng chuyên dùng.
+3. Thành lập Nhóm ứng cứu sự cố máy tỉnh (CSIRT) tại Sở Thông tin và
+Truyền thông để lam đầu mối liên hệ với Cơ quan điều phối ứng cứu sự cố náy
+tỉnh của Bộ Thông tin và Truyền thông và liên kết với các CSHT của các cơ quan.
+doanh nghiệp viễn thông trên địa bàn tỉnh nhằm ứng cứu kịp thời khi xảy ra các sự
+cố mất an toàn thông tin trong hệ thống Mạng chuyên dùng-
+4. Chủ trì, phối hợp với các cơ quan liên quan ban hành theo thẩm quyền
+quy định kết nối; hướng dẫn các cơ quan Đảng, Nhà nước trên địa bàn tỉnh cách sử
+dụng và khai thác, quản lý mạng chuyên đùng an toàn, hiệu quả và lập dự toán chỉ
+phí sử dụng Mạng chuyên dùng.
+4
+1
+5. Hảng năm xây dựng kế hoạch tổ chức tập huấn, đào tạo các kiến thức về
+quản lý, vận hình, sử dụng và đảm bảo an toàn thông tin cáo các cán bộ phụ trách
+hoặc chuyên trách CNTT tại các đơn vị có kết nối vào Mạng chuyên dùng.
+6. Báo các định kỳ hàng năm, đột xuất cho UBND tỉnh, Bộ Thông tin và
+Truyền thông tỉnh hình sử dụng Mạng chuyên dùng trong hoạt động ứng dụng
+CNTT trên địa bàn tỉnh.
+Điều 6. Quyền và trách nhiệm của Công an tỉnh
+1. Chỉ đạo, triển khai công tác bảo đảm an ninh thông tin, phòng, chống tội
+pham và các vi phạm pháp luật khác trong Mạng chuyên đông; kiểm tra và xử lý vi
+phạm đối với tổ chức, cá nhân vi phạm quy định về bảo đảm an ninh thông tin.
+trong hoạt động của Mạng chuyên dùng.
+2. Phối hợp chặt chẽ với Sở Thông tin và Truyền thông bảo đảm an toàn cơ
+Sở hạ tầng; kiểm tra và xử lý đối với tổ chức, cá nhân vi phạm quy định về bảo
+đâm an toàn cơ sở hạ tầng trong Mạng chuyên dùng.
+3. Khi phát hiện các thông tin, tài liệu, dữ liệu, số liệu đổ vật liên quan đến
+hoạt động xăm phạm an ninh quốc gia theo quy định tại Điều 3 Nghị định số
+151/2005/NĐ-CP ngày 14 tháng 12 năm 2005 của Chính phủ về quyền hạn, trách
+nhiệm của cơ quan và cán bộ chuyên trách bảo vệ an ninh quốc gia phải thực hiện.
+các quy định sau đây:
+a) Yêu cầu tổ chức, cá nhân cung cấp các thông tin, dã liệu, số liệu, tài liệu,
+đổ vật liên quan.
+b) Thực hiện theo thẩm quyền các biện pháp thu giữ, sao chép thông tin, dữ
+liện, số liệu, tài liệu, đổ vật, một phần hoặc toàn bộ hệ thống thiết bị liên quan.
+c) Ngân cản việc truy nhập trái phép hệ thống thiết bị, mạng lưới và sử dụng dịch vụ.
+d) Thực hiện các nhiệm vụ, quyền hạn khác theo quy định của pháp luật.
+4. Hướng dẫn nghiệp vụ cho lực lượng bảo vệ của các tổ chức quản lý, khai.
+thác Mụng chuyên đúng phục vụ công tác ứng dụng công nghệ thông tin của các cơ
+quan Đảng và Nhà nước trên địa bàn tỉnh.
+Điểu 7. Quyền và trách nhiệm của các doanh nghiệp viễn thông xây
+dựng, vận hành Mạng chuyên dùng
+1. Các doanh nghiệp viễn thông chịu trách nhiệm quản lý, vận hành, khai.
+thác và bảo vệ đường truyền kết nối của Mạng chuyên dùng phải bảo đâm chất
+lượng, đáp ứng nhu cầu sử dụng của tất cả các đơn vị sử dụng mạng, bảo đâm các.
+yêu cầu về dang lượng, tốc độ, chất lượng dịch vụ mạng và on toàn thông tin theo.
+quy định.
+5
+2. Xây dựng các quy chế về quản lý, điều hành khai thác, khắc phục sự cố.
+bảo dưỡng đường truyền kết nối của Mạng chuyên dùng do doanh nghiệp vận
+hành, khai thác và bảo vệ. Triển khai các giải pháp và hệ thông thiết bị dự phòng
+để bảo đảm cơ sở hạ tầng Mạng chuyên dùng hoạt động liên tục và an toàn.
+3. Thiết lập và thông báo đầu mổi, số diện thoại liên lạc để hỗ trợ kỹ thuật,
+khắc phục sự cố và giải quyết khiếu nại của các đơn vị sử dụng Mạng chuyên dùng
+trên địa bàn tỉnh tới cấp huyện.
+4. Xây dựng và công bố danh mục các dịch vụ được cung cấp trên Mạng
+chuyên dùng do doanh nghiệp mình cung cấp.
+5. Xây dựng quy định chi tiết các nội dung hợp đồng mầu và tiến hành.
+thương thảo, ký kết hợp đồng với đơn vị được giao quản lý vận hành, sử dụng.
+Mạng chuyên dùng phực vụ công tác ứng dụng công nghệ thông tin của các cơ
+quan Đảng và Nhà nước trên địa bàn tỉnh do doanh nghiệp mình cung cấp.
+6. Định kỳ báo cáo Sở Thông tin và Truyền thông (06 tháng/lần, trước ngày.
+10 sau tháng báo cáo định kỳ) và đột xuất theo yêu cầu về tình hình hoạt động của.
+Mạng chuyên dùng.
+7. Báo các ngay cho Sở Thông tin và Truyền thông để nhận chỉ đạo, hỗ trợ.
+kịp thời trong trường hợp xảy ra sự cố đối với Mạng chuyên dùng hoặc các sự cố.
+cần tổ chức ứng cứu thông tin.
+Chương III
+SỬ DỤNG MẠNG CHUYÊN DÙNG
+Điều 8. Trách nhiệm đơn vị sử dụng Mạng chuyên dùng
+1. Quản lý, khai thác và bảo đảm hoạt động liên tục của thiết bị mạng ở
+điểm kết nối đặt tại cơ quan minh theo biên bản bản giao thiết bị.
+2. Chịu trách nhiệm về nội dung, thông tin truyền đưa trên Mạng chuyên
+dùng theo đúng quy định pháp luật
+3. Sử dụng, chia sẽ và lưu trữ thông tin trên Mạng chuyên dùng theo đúng
+các quy định tại Điều 10 của Thông tư số 23/2011/TT-BTTTT ngày 11 tháng 8
+năm 2011 của Bộ Thông tin và Truyền thông Quy định về việc quản lý, vận hành.
+sử dụng và bảo đảm an toàn thông tin trên Mạng truyền số liệu chuyên đòng của
+các cơ quan Đảng, Nhà nước.
+4 Không thay đổi kết nổi, thông số thiết lập mạng của các thiết bị liên quan.
+đến Mạng chuyên dùng không thuộc thẩm quyền, gây xung 0t tài nguyên, ảnh
+hưởng đến việc vận hành hệ thống Mạng chuyên dùng.
+6
+1
+5. Chịu trách nhiệm các vấn đề liên quan như:
+a) Hệ thống tường lửa của đơn vị đối với Mạng chuyên dùng;
+b) Quản lý bộ tập trung người dừng mạng riêng áo của cơ quan được thiết
+lập (nếu có) trên nền tảng Mạng chuyên dùng:
+c) Quản lý các tên miền của cơ quan;
+đ) Sở hữu và quản lý các chính sách kết nối Internet của riêng cơ quan thông.
+qua Mạng chuyên dùng;
+đ) Chỉ lại các sự cố, lỗi xây ra về kết nối Mạng chuyên dùng, về an toàn, báo.
+mặt thông tứn; trường hợp có sự cố nghiêm trọng vượt quả khá năng khắc phục của
+đơn vị phải thông báo cho Sở Thông tin và Truyền thông và doanh nghiệp viên thông
+quản lý, vận hành Mang chuyên dùng để phối hợp khắc phục kịp thời, nhanh cháng.
+6. Đăng ký sử dụng dịch vụ chứng thực chữ ký số với Ban Cư yếu Chính
+phủ để bảo đảm an toàn, bảo mật thông tin trên Mạng chuyên dùng.
+7. Trong trường hợp có kế hoạch năng cấp, bảo trì hệ thống mạng nội bộ có
+ảnh hưởng đến Mang chuyên dùng, cần thông bản cho Sở Thông tin và Truyền thông
+và doanh nghiệp viễn thông quản lý, vận hành Mạng chuyên dông trước tối thiểu 05
+ngày làm việc để bảo đảm phù hợp với quy hoạch tổng thể Mụng chuyên dùng.
+8. Phải tuân thủ các quy định của pháp luật về viễn thông, về quản lý và cấp
+phép cung cấp thông tin, thiết lập trang thông tín điện tử trên Intarnet, về chế độ
+bảo mật, an toàn thông tin.
+9. Phải xây dựng quy chế nội bộ về việc bảo đảm an toàn thông tin cho hệ
+thống thông tin của đơn vị minh quản lý và có cán bộ phụ trách quản lý an toàn
+thông tin. Hảng năm phải lập kinh phí trong các dự án ứng dụng công nghệ thông
+tin của đơn vị để đầu tư thiết bị và triển khai các giải pháp kỹ thuật bảo đảm an.
+toàn thông tin.
+10. Trước ngày 01 tháng 12 hàng năm, báo cáo Sở Thông tin và Truyền thông
+về tình hình khai thác, sử dụng và công tác bảo đảm an toàn thông tin Mọng chuyên
+dùng trong hoạt động ứng dụng công nghệ thông tin tại đơn vị mình.
+Điều 9. Trách nhiệm của cá nhân sử dụng Mạng chuyên dùng
+1. Người sử dụng (thuộc các đơn vị sử dụng Mạng chuyên đúng) khi kết nối.
+vào Mạng chuyên đúng phải tuyệt đối tuât thủ những quy chế về quản lý, vận hành và
+sử dụng Mạng duyên dùng; được quyền khai thác các tài nguyên trên mạng để phục
+vụ cho rông tác tại cơ quan, nhưng phải trân thủ pháp luật về bảo vệ bí mật nhà nước
+và đảm bảo chế độ bảo mật, an toàn an ninh theo quy định; không được tiết lộ mặt khẩu
+huy nhập các ứng dụng trên mạng chuyên đúng cho các tổ chức, cá nhân không có
+7
+trẩn quyền; không được lợi dụng hạ tầng Mạng chuyên dùng vào các mục đích không
+thuộc phạm vi, chức năng nhiệm vụ được phân công, để cung cấp phát tán thông tin.
+không được pháp luật cho phép, gây mất an toàn, an ninh thông tin.
+2. Khi phát hiện sự cố, cần thông báo kịp thời cho người có thẩm quyến để
+giải quyết
+Chương IV
+TỔ CHỨC THỰC HIỆN
+Điều 10. Trách nhiệm hướng dẫn, thì hành
+1. Sở Thông tin và Truyền thông có trách nhiệm tuyên truyền, phổ biến, hướng
+dẫn việc thực hiện Quy chế này cho các cơ quan Đảng, Nhà nước trên địa bàn tỉnh;
+hướng dẫn các đơn vị này quản lý, khai thác hiện quả Mạng chuyên dùng.
+2. Thủ trưởng các đơn vị sử dụng Mạng chuyên dùng, trong phạm vi chức.
+năng, nhiệm vụ của mình, có trách nhiệm tổ chức triển khai và kiểm tra việc chấp.
+hành tại đơn vị theo đúng nội dung của Quy chế này.
+Điều 11. Sửa đổi, bổ sung Quy chế
+Trong quá trình thực hiện Quy chế này, nếu có khó khăn, vướng mắc, Thứ
+trưởng các sở, ban, ngành; Chủ tịch ủy ban nhân dân các huyện, thành phố, thị xã:
+các đơn vị, cá nhăn có liên qoan kịp thời phán ánh, để xuất ý kiến về Sở Thông tin
+và Truyền thông để tổng hợp tham mung Uỷ ban nhân dân tỉnh xem xét, quyết định.
+sửa đổi, bổ sung cho phù hợp./.
+TM. ỦY BAN NHÂN DÂN
+KT. CHỦ TỊCH
+PHÓ CHỦ TỊCH
+8

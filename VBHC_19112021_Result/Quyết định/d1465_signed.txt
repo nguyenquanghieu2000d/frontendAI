@@ -1,0 +1,972 @@
+Ký bởi: Văn phòng Ủy ban Nhân dân
+23/04/2019 16:58:27
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Thanh Hoá, ngày 23 tháng 4 năm 2019
+QUYẾT ĐỊNH
+Về việc phê duyệt đề cương, dự toán chi tiết và bổ sung kinh phí nâng cấp.
+phần mềm kết nối cung cầu sân phẩm nông sản, thực phẩm an toàn
+trên địa bàn tỉnh Thanh Hoá
+CHỦ TỊCH UBND TỈNH THANH HOÁ
+Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015;
+Căn cứ Luật Công nghệ thông tin ngày 29/6/2006;
+Căn cứ Nghị định số l4/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về
+ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước;
+Căn cứ Nghị định số 102/2009/NĐ-CP ngày 06/11/2009 của Chích phủ về
+quản lý đần tư ứng dang công nghệ thông tin sử dụng nguền vốn ngân sách nhà nước,
+Căn cứ Thông tư số 21/2010/TT-BTTTT ngày 08/9/2010 của Bộ Thông
+tin và Truyền thông quy định và lập để cương và dự toán chi đết đối vài hoạt
+động ứng dụng công nghệ thông tin sử dụng nguồn vền ngân sách nhà nước
+nhưng không yêu cầu phải lập dự án;
+Căn cứ Thông tư số 06/2011/TT-BTTTT ngày 28/02/2011 của Bộ Thông
+tin và Truyền thông quy định về lập và quản lý chi phí đầu tư ứng dọng công.
+nghệ thông tin;
+Căn cứ Công văn số 2549/BTTTT- UĐCNTT ngày 24/8/2011 của Bộ
+Thông tin và Truyền thông về việc hướng dân xác định chi phí phát triển, nâng.
+cấp phần mềm nội bộ;
+Căn cứ Quyết định số 2378/QĐ-BTTTT ngày 30/12/2018 của Bộ Thông
+tin và Truyền thông về việc công bố định mức chi phí quản lý dự án, chi phí tư
+vấn đầu tư ứng dụng CNTT sử dụng ngân sách nhà nước;
+Căn cứ Thông tư số 39/2017/PT-BTTT1 ngày 15/12/2017 của Bộ Thông
+tin và Truyền thông về ban hành danh mục tiêu chuẩn kỹ thuật về ứng dụng
+công nghệ thông tin trong cơ quan nhà nước;
+Căn cứ Nghị quyết số 04-NQ/TU ngày 18/8/2016 của Ban Chấp hành
+Đảng bộ tỉnh về tăng cường sự lãnh đạo của Thảng đối với công tác đảm bảo vệ.
+sinh an toàn thực phẩm trên địa bàn tỉnh đến năm 2020;
+Căn cứ Quyết định số 3517/QĐ-UBND ngày 14/9/2016 của Chủ tịch
+UBND tỉnh về ban hành kế hoạch hành đồng thực hiện Nghị quyết số 04-
+NQ/TU ngày 13/8/2016 của Ban Chấp hành Đảng bộ tỉnh về tăng cường sự lãnh
+đạo của Đảng đối với công tác đảm bản vệ sinh an toàn thực phẩm trên địa bàn.
+tỉnh đến năm 2020;
+Xét đề nghị của Văn phòng điều phối về vệ sinh an toàn thực phẩm tỉnh
+tại Tờ trình số 96/TTr-VPĐP ngày 20/3/2019 (kèm theo đề cương và dự toán chi
+tiết), Sở Thông tin và Truyền thông tại công văn số 242/STTTT-XHTC ngày.
+02/4/2019 và thẩm định của Sở Tài chính tại Công văn số 1240/8TC-BCSN
+ngày 09/4/2019, về việc thẩm định dự toán chi tiết và bổ sung kinh phí nêng cấp
+phần mềm kết nối cung cầu sản phẩm nông sản, thực phẩm an toàn trên địa bàn
+tỉnh Thanh Hoá,
+QUYẾT ĐỊNH:
+Điều 1. Phê duyệt để cương, dự toán chi tiết và bổ sung kinh phí nâng cấp.
+phần mềm kết nối cung cầu sản phẩm nông sản, thực phần an toàn trên địa bàn
+tỉnh Thanh Hoá, với các nội dung chủ yếu sau:
+1. Cơ quan thực hiện: Văn phòng điều phối về vệ sinh an toàn thực phẩm
+tỉnh Thanh Hoá.
+2. Giải pháp kỹ thuật công nghệ và các nội dung ứng dụng công nghệ
+thông tin chủ yếu: Tuận thủ Thông tư số 39/2017/TT-BTTTT ngày 15/12/2017
+của Bộ Thông tin và Truyền thông về ban hành danh mục tiêu chuẩn kỹ thuật về
+ứng dụng công nghệ thông tin trong cơ quan nước.
+(Kèm theo hồ sơ để cương và dự toán).
+3. Tổng kinh phí thực hiện (làm tròn): 2.828 triệu đồng.
+(Hai tỷ, tám trăm hai mươi tám triệu đồng).
+Trong đó:
+- Chi phí bổ sung, nâng cấp phần mềm: 2.639.859.051 đồng, bao gồm:
++ Chi phí xây dựng phần mềm: 2.433.169.120 đồng.
++ Chi phí quản lý dự án: 68.347.721 đồng.
++ Chi phí tư vấn đầu tư: 138 342.210 đồng.
+- Chi phí thuê hạ tầng và vận hành hạ tầng kỹ thuật: 188.832.000 đồng.
+(Chi tiết tại Phụ lục 01, Phụ lục 02 kèm theo)
+4. Phân bổ kinh phí (80% dự toán): 2.260 triệu đồng.
+(Hai tỷ, hai trăm sáu mươi triệu đồng).
+Kính phí còn lại sẽ được bổ sung khi quyết toán nâng cấp phần mềm kết
+nối cung cầu sản phẩm nông sản, thực phẩm an toàn trên địa bàn tỉnh Thanh Hoá
+được phê duyệt.
+5. Nguồn kinh phí: Chương trình vệ sinh an toàn thực phẩm (sự nghiệp.
+kinh tế) năm 2019.
+6. Thời gian thực hiện: Năm 2019.
+Điều 2. Tổ chức thực hiện
+Căn cứ nội dung phê duyệt tại Điều 1 Quyết định này, giao Sở Tài chính
+chủ trì, phối hợp với Khở bạc nhà nước tỉnh Thanh Hoà có trách nhiệm: thực hiện.
+2
+các thủ tục nghiệp vụ để cấp kinh phí và thông báo bổ sung dự toán năm 2019 cho
+Văn phòng điều phối về vệ sinh an toàn thực phẩm tỉnh để thực hiện nhiệm vục
+hướng dẫn quản lý, sử dụng và thanh quyết toán kinh phí đúng quy định hiện hành.
+Văn phòng điều phối về vệ sinh an toàn thực phẩm tỉnh có trách nhiệm
+triển khai thực hiện theo đúng quy định hiện hành của Nhà nước. Chịu trách.
+nhiệm trước pháp luật và Chủ tịch UBND tỉnh về các quyết định của mình có
+liên quan.
+Điều 3. Quyết định này có hiệu lực thi hành từ ngày ký.
+Chánh Văn phòng Ủy ban nhân dân tỉnh, Giám đốc các sử: Tài chính,
+Thông tin và Truyền thông: Giám đốc Kho bạc Nhà nước tỉnh, Chành Văn.
+phòng điều phốt về vệ sinh an toàn thực phẩm tỉnh và Thủ trưởng các đơn vị có
+liên quan chịu trách nhiệm thì hành quyết định này./.
+Nơi nhận:   KT. CHỦ TỊCH
+- Như Điều 3 QĐ;   PHÓ CHỦ TỊCH
+- Chủ tịch UBND tỉnh (để b/c);
+- Lưu: VT, QLCTTĐT.
+Phạm Đăng Quyền
+3
+Đơn vị tính: VNĐ
+TT   Giá trị   Kí hiệu   Ghi chú
+1   Giá trị phần mềm   1,4 x E x P x H   1.391.177.313   G
+2   Chi phí chung   G x 65%   904.265.253   C
+Thu nhập chịu thuế tỉnh
+3   (G + C) x 6%   137.726.554   TL
+trước
+4   Chi phí phần mềm   G + C + TL   2.433.169.120   GPM
+TỔNG CỘNG   GPM   2.433.169.120
+4
+TT   CHƯ NĂNG
+PHẦN L CÁC CHỨC SĂNG ĐOÁ TUNH, VÀNG CẤP TRÊN ỨNG DỤNG NER
+I   Tích hợp dịch vụ vận chuyển
+1   Thiết lập thông tin địa chỉ nhận hàng
+2   Lựa chọn dịch vụ vận chuyển
+3   Đối soát số liệu vận chuyển
+4   Thống kê số liệu vận chuyển
+5   Thiết lập các cấu hình cho dịch vụ vận chuyển
+II   Tích hợp dịch vụ thanh toán trực tuyến
+6   Lựa chọn dịch vụ thanh toán
+7   Thực hiện thanh toán
+8   Xác nhận thanh toán
+9   Đối soát dữ liệu thanh toán
+10   Thống kê số liệu thanh toán
+11   Thiết lập các cấu hình cho dịch vụ thanh toán
+III   Quản lý kho hàng
+12   Quản lý nhập hàng hóa
+13   Quản lý xuất hàng hóa
+14   Thống kê hàng tồn hiện tại
+15   Thống kê xuất nhập tồn
+16   Thống kê thẻ kho
+17   Kiểm kê hàng hóa
+Cấn hình nhâng số đặt hàng cho sản phẩm: cho phép đặt hàng trực tuyên hay không,
+18   cho phép đặt hàng khi kết hàng bay không, sản phẩm đưa vác phân hệ quản lý kho
+hay không
+IV   Các chức năng khác
+19   Đăng ký thành viêu qua tài khoản Gongle, tài khoản Farehook, điệu thuại
+20   Xác thực đăng nhập qua mã OTP (One Tìme Password)
+21   Trao đổi trực tuyến (CHAT)
+22   Liên kết thông tin với phần mềm quản lý giám sát VSATTP
+23   23 Chức năng tích điểm thành viên khi mua hàng
+24   24 Cập nhật tọa độ của chỉ nhánh/cơ sở phụ của cơ sở SXKD
+PHẬN HI, CÁC CHỨC NĂNG BỐ SUNG TRÊN ỨNG DỰNG ĐI ĐỘNG
+V   Các chức năng dành cho khách truy cập
+25   Tìm kiểm thông tin về sản phẩm, cơ sở sản xuất, kinh doanh nông sản, thực phẩm
+26   Xem thông tin sản phẩm
+27   Xem thông tin cơ sở sản xuất kinh doanh (SXKD)
+28   Xem tin kết nối cung cầu
+29   Xem thông tin vừng sàn xuất
+30   Xem thông tin địa điểm kinh doanh
+31   Bản độ phân bố cơ sở
+5
+32   Tin tức an toàn thực phẩn
+33   Văn bản liên quan ATTH
+34   Thư viện video
+35   Thư viện hình ảnh
+36   Xem/gửi thông tin phản hồi với cơ quản quản lý VSATTP
+37   Thông tin trợ giúp
+38   Đăng ký thành viên
+VI   Các chức năng của Thành viên
+39   Quản lý giỏ hàng
+40   Thiết lập địa chỉ nhận hàng
+41   Lựa chon dịch vụ vận chuyển
+42   Lựa chọn dịch vụ thanh toán
+43   Thực hiện thanh toán
+44   Xác nhận thanh toán và đặt hàng
+45   Theo đõi và quản lý đơn hàng
+46   Tiện tích tương tác với sản phẩm
+47   Tiện tích tương tác với cơ sở SXKD
+48   Nhắn tin trao đổi với cơ sở
+49   Đăng tin kêt nối cung cầu và lịch sử đăng tin cung cầu
+50   Mục yêu thích (cơ sở, sản phẩm yêu thích)
+51   Theo dõi cơ sở (quản lý danh sách cơ sở đang theo dõi)
+52   Cập nhật thông tin cá nhân
+53   Đăng ký cơ sở SXKD
+VII   Các chức năng quản lý của cơ sở sản xuất, kinh doanh
+A   Giao dịch
+54   Đơn bán
+55   Đơn mua
+56   Đăng tin cung cầu
+B   Quản lý
+57   Quản lý người theo dõi cơ sở
+58   Quản lý khách hàng bị chận (blackist)
+59   Thống kê doanh số theo sản phẩm
+60   Thống kê doanh số theo khách hàng
+C   Quản lý kho hàng
+61   Quản lý nhập hàng hóa
+62   Quản lý xuất hàng hóa
+63   Thống kê hàng tổn hiện tại
+64   Thống kê xuất nhập tốn
+65   Thống kê thẻ kho
+66   Kiểm kê hàng hóa
+T Cấu hình thông số đặt hàng cho sắt phảma cho phép đặt hàng trực tuyến hay không
+67   cho phép đặt hàng khi kết hàng hay không, sản phẩm dưa vào phản hệ quản lý kho
+hay không
+6
+D   Vận chuyển, thanh ngán
+68   Đối soát số liệu vận chuyển
+69   Thống kê số liệu vận chuyển
+70   Thiết lập các cấu hịnh cho dịch vự thuyền
+71   Đối soát dữ liệu thanh toán
+72   Thống kê số liệu thanh toán
+73   Thiết lập các cấu hình cho dịch vụ thanh toán
+VIII   Các chức năng của khối cơ quan quản lý về sn toàn thực phẩm
+A4   Quản lý
+74   Vùng sản xuất
+75   Địa điểm kinh doanh
+B   Kiểm duyệt
+76   Kiểm duyệt tin cung cầu
+77   Kiểm duyệt đánh giá bình luận cơ sở
+78   Kiểm duyệt đánh giá bình luận sản phẩm
+79   Kiểm duyệt hỏi đáp về cơ sở
+80   Kiểm duyệt hỏi đáp về sản phẩm
+81   Xử lý phản ánh thông tin cơ sở vi phạm
+82   Xử lý phản ánh thông tin sản phẩm vi phạm
+83   Xử lý phản ánh thành viên vi phạm
+84   Xử lý thông tin phản hồi
+C   Thống kê
+85   Xếp hạng cơ sở
+86   Xếp hạng sản phẩm
+87   Cơ sở theo địa phương
+88   Tình hình duyệt thông tin
+89   Phản ánh cơ sở, sản phẩm vi phạm
+D   Hệ thống
+90   Quản lý người dùng
+91   Cập nhật thông tin cơ quan
+7
+BẢNG 2:
+BẢNG CUYỀN ĐỐI VÀNG SÁNG TRƯỜNG HỢP SỬ DỤNG (08E-C3889
+* Tên tác   Mức độ
+TT   Usc case   Thân phụ   Mô tả trường hợp sử dụng   cần thiết   Độ phức tạp
+(1)   (2)   (4)   (5)   (6)   (7)
+PHẦN 1. BỐ SƠNG, NÂNG CẤP CÁC CHỨC NĂNG TRÊN ỨNG DỤNG WER
+I   Tích hợp dịch vụ vận chuyển
+1. Thành viên có thể thêm một địa chỉ nhận hàng
+2. Thành viên có thể sửa một địa chỉ nhận hàng
+Thiết lập thông tin địa
+1   chỉ nhận hàng   Thành viên   3. Thành viên có thể xóa một địa chỉ nhận hàng   B   Trung bình
+4. Thành viên có thể thiết lập địa chỉ nhận hàng của đơn
+hàng
+1. Thành viên có thể xem thông tin các dịch vụ vận
+chuyển của cơ sở SXKD thiết lập
+2. Thành viên có thể lựa chọn dịch vụ vận chuyển từ
+Lựa chọn dịch vụ vận   danh sách của cơ sở thiết lập
+2   chuyển   Thành viên   3. Thành viên có thể xem được chi phí vận chuyển (nếu   B   Trung bình
+có) sau khi lựa chọn địa chỉ nhận hàng và loại dịch vụ
+vận chuyển
+4. Thành viên có thể thay đổi dịch vụ vận chuyển
+1. Cơ sở SXKD có thể đối soát số liệu vận chuyển với
+đơn vị cung cấp dịch vụ vận chuyển theo khoảng thời
+gian
+2. Cơ sở SXKD có thể chốt thanh toán số liệu vận
+Đối soát số liệu vận   Đơn vị vận   chuyển với đơn vị cung cấp dịch vụ vận chuyển theo
+3   chuyển   Cơ sở SXKD   hành   khoảng thời gian   B   Trung bình
+3. Đơn vị vận hành có thể đối soát số liệu vận chuyển
+với Cơ sở SXKD
+4. Đơn vị vận hành có thể chốt thanh toán số liệu vận
+chuyển với Cơ sở SXKD
+8
+1. Cơ sở SXKD có thể thống kê số liệu vận chuyển theo
+khoảng thời gian
+2. Cơ sở SXKD có thể thống kê số liệu vận chuyển theo
+Thống kê số liệu vận   Đơn vị vận   nhà cung cấp dịch vụ vận chuyển
+4   chuyển   hành   3. Đơn vị vận hành khai thác có thể thống kê số liệu vận   B   Trung bình
+chuyển theo khoảng thời gian của tất các các cơ sở
+4. Đơn vị vận hành khai thác có thể thống kê số liệu vận
+chuyển theo nhà cung cấp dịch vụ vận chuyển
+5   cho dịch vụ vận chuyển   Thiết lập các cấu hình   Cơ sở SXKD   Cơ sở SXKD có thể thiết lập các thông số cấu hình cho   dịch vụ vận chuyển của cơ sở SXKD   B   Đơn giản
+II   Tích hợp dịch vụ thanh toán trực tuyến
+1. Thành viên có thể xem thông tin các dịch vụ thanh
+toán của cơ sở SXKD thiết lập
+Lựa chọn dịch vụ thanh   2. Thành viên có thể lựa chọn dịch vụ thanh toán từ
+6   toán   Thành viên   danh sách của cơ sở thiết lập   B   Đơn giản
+3. Thành viên có thể thay đổi lựa chọn dịch vụ thanh
+toán
+1. Thành viên có thể nhập các thông tin tài khoản cá
+nhân của dịch vụ thanh toán
+7   Thực hiện thanh toán   Thành viên   2. Thành viên cố thể thực hiện thanh toán cho đơn hàng   B   Đơn giản
+và nhận thông báo từ nhà cung cấp dịch vụ thanh toán
+8   Xác nhận thanh toán   Thành viên   Thành viên có thể xác nhận thông tin thanh toán từ nhà   cung cấp dịch vụ thanh toán   B   Đơn giản
+1. Cơ sở SXKD có thể đối soát số liệu thanh toán với
+đơn vị cung cấp dịch vụ vận chuyển theo khoảng thời
+gian
+2. Cơ sở SXKD có thể chốt thanh toán số liệu vận
+Đối soát dữ liệu thanh   Đơn vị vận   chuyến với đơn vị cung cấp dịch vụ thanh toán theo
+9   toán   Cơ sở SXKD   hành   khoảng thời gian   B   Trung bình
+3. Đơn vị vận hành có thể đối soát số liệu thanh toán với
+Cơ sở SXKD
+4. Đơn vị vận hành có thể chốt thanh toán số liệu thanh
+toán với Cơ sở SXKD
+9
+1. Cơ sở SXKD có thể thống kê số liệu thanh toán theo
+khoảng thời gian
+2. Cơ sở SXKD có thể thống kê số liệu thanh toán theo
+Thống kê số liệu thạnh   Đơn vị vận   nhà cung cấp dịch vụ vận chuyển
+10   3. Đơn vị vận hành khai thác có thể thống kê số liệu   B   Trung bình
+toán   hành
+thanh toán theo khoảng thời gian của tất các các cơ sở
+4. Đơn vị vận hành khai thác có thể thống kê số liệu
+thanh toán theo nhà cung cấp dịch vụ vận chuyển
+11   Thiết lập các cấu hình”   cho dịch vụ thanh toán   Cơ sở SXKD có thể thiết lập các thông số cấu hình cho   dịch vụ vận chuyển của cơ sở SXKD   B   Đơn giản
+III   Quản lý kho hàng
+1. Cơ sở SXKD có thể thêm mới một phiếu nhập hàng
+vào kho
+2. Cơ sở SXKD có thể sửa một phiếu nhập hàng vào
+kho
+12   Quản lý nhập hàng hóa   Cơ sở SXKD   3. Cơ sở SXKD có thể xóa một phiếu nhập hàng vào   B   Trung bình
+kho
+4. Cơ sở SXKD có thể tìm kiếm phiếu nhập hàng vào
+lho
+1. Cơ sở SXKD có thể thực hiện xuất hàng theo đơn đặt
+hàng của khách
+2. Cơ sở SXKD có thể tạo một phiếu xuất hàng
+13   Quản lý xuất hàng hóa   Cơ sở SXKD   3. Cơ sở SXKD có thể sửa một phiếu xuất hàng   B   Trung bình
+4. Chủ cơ sở có thể xóa một phiếu xuất hàng
+5. Cơ sở SXKD có thể tìm kiếm phiếu xuất hàng
+14   Thống kê hàng tồn hiện   tại   Cơ sở SXKD   Cơ sở SXKD có thể thống kê hàng tồn hiện tại của cơ sở   mình   Đơn giản
+Cơ sở SXKD có thể thống kê xuất, nhập tồn theo   B
+15   Thống kê xuất nhập tồn   Cơ sở SXKD   khoảng thời gian lựa chọn
+16   Thống kê thẻ kho   Cơ sở SXKD   Cơ sở SXKD có thể xem thẻ kho của một sản phẩm
+10
+Chủ cơ sở có thể xuất thông tin để thực hiện kiểm kê
+17   Kiểm kê hàng hóạ   B   Đơn giản
+hàng hóa
+Chủ cơ sở có thể thực hiện các cấu hình liên quan đến
+Cấu hình thông số   quản lý kho sản phẩm hàng hóa: cho phép đặt hàng trực
+18   hàng cho sản phâng   tuyến hay không, cho phép đặt hàng khi hết hàng hay   B   Đơn giản
+không, sản phẩm đưa vào phản hệ quản lý kho hay.
+không
+IV   Các chức năng khác
+1. Khách truy cập có thể đăng ký thành viên qua tải
+Đăng ký thành viên qua   khoản google
+19   khoản Facebook, điện   tài khoản Google, tài   Khách truy cập   2. Khách truy cập có thể đăng ký thành viên qua tài   khoản facebook   B   Đơn giản
+thoại   3. Khách truy cập có thể đăng ký thành viên qua số điện
+thoại
+Xác thực đăng nhập qua
+20   mã OTP (One Time   Cán bộ CQQL   Người dùng là cán bộ quản lý được xác thực đăng nhập   qua tin nhắn SMS điện thoại   B   Đơn giản
+Password)
+1. Thành viên có thể chat nhanh với Cơ sở SXKD khi
+xem chi tiết sản phẩm
+Trao đổi trực tuyến   Cơ sở   2. Thành viên có thể chat nhanh với Cơ sở SXKD khi
+21   Thành viên   B   Trung bình
+(CHAT)   SXKD   đặt mua hàng
+3. Người dùng có thể gửi biểu tượng cảm xúc
+4. Người dùng có thể gửi file ảnh, tải liệu
+1. Cán bộ cơ quan quản lý có thể thực hiện cập nhật liên
+kết cơ sở của phần mềm kết nối cung cầu với cơ sở của
+22   sát VSATTP   phần mềm quản lý giám   Liên kết thông tin với   Cán bộ CQQL   cập   Khách truy   2. Khách truy cập có thể xem thông tin về quá trình   phần mềm quản lý giám sát   B   Đơn giản
+thanh tra, kiểm tra về ATTP của cơ quan quản lý đối với
+cơ sở
+11
+1. Thành viên có thể được tích điểm khi mua hàng
+2. Thành viên có thể xem được điểm tích thưởng của
+Chức năng tích điểm   mình
+23   thành viên khi mua   Cơ sở   3. Cơ sở SXKD có thể xem điểm tích thưởng của thành   B   Trung bình
+SXKD
+hàng   khách hàng
+4. Cơ sở SXKD có thể áp chính sách khuyến mại cho
+khách hàng được tích điểm
+24   Cập nhật tọa độ của chi   nhánh/cơ sở phụ của cơ   Cơ sở SXKD   Thành viên   1. Chủ cơ sở có thể cập nhật tọa độ chi nhánh/cơ sở phụ   của mình   2. Khác truy cập có thể tìm kiếm vị trí tọa độ các chỉ   B   Đơn giản
+sở SXKD   nhánh/ cơ sở phụ của mình
+PHẦN II. ĐỔ SUNG, NĂNG CẤP CÁC CƯỨC NĂNG TRÊN ỨNG DỤNG ĐI ĐỘNG
+V   Các chức năng dành cho khách truy cập
+1. Khách truy cập có thể tìm kiếm thông tin về sản phẩm
+2. Khách truy cập có thể tìm kiểm thông tin về cơ sở sản
+Tìm kiếm thông tin về   xuất, kinh doanh
+25   xuất, kinh doanh nông   sản phẩm, cơ sở sản   Khách truy cập   3. Khách truy cập có thể tìm kiểm thông tin kết nối cung   cầu   B   Trung bình
+sản, thực phẩm   4. Khách truy cập có thể tìm kiếm các các thông tin theo
+tọa độ vị trí gần nhất của mình
+1. Khách truy cập có thể xem danh sách sản phẩm tiêu
+biểu
+2. Khách truy cập có thể tìm kiếm sản phẩm theo chủng
+loại, từ khóa tìm kiếm
+3. Khách truy cập có thể sắp xếp danh sách sản phẩm
+26   xem thông tin sản phẩm   Khách truy cập   theo tên, giá   B   Phức tạp
+4. Khách truy cập có thể xem thông tin chung của một.
+sản phẩm
+5. Khách trụy cập có thể xem thông tin giới thiệu của
+một sản phẩm
+6. Khách truy cập có thể xem thông tin chi tiết của một
+12
+sản phẩm
+7. Khách truy cập có thể xem thông tin đánh giá bình
+luận của một sản phẩm
+8. Khách truy cập có thể xem thông tin hòi đáp của một
+sản phẩm
+9. Khách truy cập có thể xem vị trí cung cấp trên bản đồ
+của một sản phẩm
+1. Khách truy cập có thể xem danh sách cơ sở SXKD
+tiêu biểu
+2. Khách truy cập có thể tìm kiếm cơ sở SXKD theo từ
+khóa tìm kiếm
+3. Khách truy cập có thể xem thông tin chung của một
+cơ sở SXKD
+4. Khách truy cập có thể xem thông tin giới thiệu của
+Xem thông tin cơ sở sản   một cơ sở SXKD
+27   xuất kinh doanh   xuất   Khách truy cập   5. Khách truy cập có thể xem thông tin chi tiết của một   B   Phức tạp
+(SXKD)   cơ sở SXKD
+6. Khách truy cập có thể xem thông tin đánh giá bình
+luận của một cơ sở SXKD
+7. Khách truy cập có thể xem thông tin hỏi đáp của một
+cơ sở SXKD
+8. Khách truy cập có thể xem vị trí cung cấp trên bản đổ
+của một cơ sở SXKD
+1. Khách truy cập có thể xem danh sách tin mới nhất
+2. Khách truy cập có thể tìm kiểm tin theo loai: cần bản,
+Xem tin kết nối cung   cần mua, cần tìm đối tác
+28
+cầu   Khách truy cập   3. Khách truy cập có thể tìm kiếm tin theo các tiêu chỉ:   B   Trung bình
+Loại sản phẩm, khu vực, từ khóa
+4. Khách truy cập có thể xem chi tiết tin
+13
+1. Khách truy cập có thể xem danh sách vùng sản xuất
+2. Khách truy cập có thể xem thông tin chi tiết vùng sản
+xuất
+29   Xem thông tịn vùng sản   3. Khách truy cập có thể xem danh sách các sản phẩm   B   Trung bình
+xuất
+tiêu biểu của vùng
+4. Khách truy cập có thể xem danh sách các cơ sở tiêu
+biểu của vùng
+1. Khách truy cập có thế xem danh sách địa điểm kinh
+doanh
+2. Khách truy cập có thể xem thông tin chi tiết địa điểm.
+Xem thông tin địa điểm   kinh doanh
+30   kinh doanh   Khách truy cập   3. Khách truy cập có thể xem danh sách các sản phẩm   B   Trung bình
+tiêu biểu của địa điểm kinh doanh
+4. Khách truy cập có thể xem danh sách các cơ sở tiêu
+biểu của địa điểm kinh doanh
+Khách truy cập có thể xem phản bố các cơ sở trên bản
+31   Bản đổ phân bố cơ sở   Khách truy cập   B   Đơn giản
+đồ
+1. Khách truy cập có thể xem danh sách các tin tức về
+an toàn thực phẩm
+Tin tức an toàn thực   2. Khách truy cập có thể xem chi tiết một tin tức về an
+32   Khách truy cập   B   Trung bình
+phẩm   toàn thực phẩm
+3. Khách truy cập có thể gửi bình luận về tin tức
+4. Khách truy cập có thể xem các bình luận về tin tức
+1. Khách truy cập có thể xem danh sách các văn bản về
+an toàn thực phẩm
+2. Khách truy cập có thể xem chi tiết một văn bản về an.
+33   Văn bản liên quan   Khách truy cập   toàn thực phẩm   B   Trung bình
+ATTP   3. Khách truy cập có thể tải văn bản về
+4. Khách truy cập có thể tìm kiếm các văn bản theo từ
+khóa, loại văn bản, cơ quan ban hành...
+1. Khách truy cập có thể xem danh sách video trong thư
+viện
+34   Thư viện video   Khách truy cập   2. Khách truy cập có thể xem chi tiết một video của thư   B   Đơn giản
+viện
+14
+1. Khách truy cập có thể xem danh sách album hình ảnh
+trong thư viện
+35   Thư viện hình ảnh   2. Khách truy cập có thể xem chi tiết một album hình   B   Đơn giản
+ảnh của thư viện
+Xem/gửi thông tin phản   1. Khách truy cập có thể tra cứu thống tin danh bạ của
+cơ quan quản lý về VSATTP
+36   hỗi với cơ quan quấn lý Khách truy cập   2. Khách truy cập có thể gửi thông tin phản hồi tới cơ   B   Đơn giản
+VSATTP   quan quản lý về VSATTP
+1. Khách truy cập có thể tra cứu thống tin trợ giúp
+37   Thông tin trợ giúp   Khách truy cập   2. Khách truy cập có thể gửi thông tin trợ giúp tới ban   B   Đơn giản
+quản trị
+38   Đăng ký thành viên   Khách truy cập   Khách đăng truy cập có thể đăng ký thanh viên của hệ   B   Đơn giản
+thống
+VI   Các chức năng của Thành viên
+1. Thành viên có thể lựa chọn thêm một sản phẩm vào
+giỏ hàng
+39   Quản lý giỏ hàng   Thành viên   2. Thành viên có thể thay đổi số lượng sản phẩm trong   B   Trung bình
+giỏ hàng
+3. Thành viên có thể xóa một sản phẩm ra khỏi gió hàng
+4. Thành viên có thể thực hiện đặt hàng
+1. Thành viên có thể thêm một địa chỉ nhận hàng
+Thiết lập địa chỉ nhận   2. Thành viên có thể sửa một địa chỉ nhận hàng
+40   Thành viên   3. Thành viên có thể xóa một địa chỉ nhận hàng   B   Trung bình
+hàng   4. Thành viên có thể thiết lập địa chỉ nhận hàng của đơn
+hàng
+1. Thành viên có thể xem thông tin các dịch vụ vận
+chuyển của cơ sở SXKD thiết lập
+2. Thành viên có thể lựa chọn dịch vụ vận chuyển từ
+41   chuyển   Lựa chọn dịch vụ vận   Thành viên   3. Thành viên có thể xem được chi phí vận chuyển (nếu   danh sách của cơ sở thiết lập   B   Trung bình
+có) sau khi lựa chọn địa chỉ nhận hàng và loại dịch vụ
+vận chuyển
+4. Thành viên có thể thay đổi dịch vụ vận chuyển
+15
+1. Thành viên có thể xem thông tin các dịch vụ thanh
+toán của cơ sở SXKD thiết lập
+42   Lựa chọn dịch vự thanh   Thành viên   2. Thành viên có thể lựa chọn dịch vụ thanh toán từ   B   Đơn giản
+toán   danh sách của cơ sở thiết lập
+3. Thành viên có thể thay đổi lựa chọn dịch vụ thanh
+toán
+1. Thành viên có thế nhập các thông tin tài khoản cá
+nhân của dịch vụ thanh toán
+43   Thực hiện thanh toán   Thành viên   2. Thành viên có thể thực hiện thanh toán cho đơn hàng   B   Đơn giản
+và nhận thông báo từ nhà cung cấp dịch vụ thanh toán
+Xác nhận thanh toán và   Thành viên có thể xác nhận thông tin thanh toán từ nhà
+44   đặt hàng   Thành viên   cung cấp dịch vụ thanh toán và đặt đơn hàng nhà cung cấp   B   Đơn giản
+1. Thánh viên có thể xem danh sách các đơn hàng đã đặt
+nhà cung cấp của mình
+Theo dõi và quản lý đơn   2. Thành viên có thể lọc đơn hàng theo trạng thái
+45   Thành viên   3. Thành viên có thể xem chi tiết một đơn hàng   B   Trung bình
+hàng
+4. Thành viên có thể húy (xóa) đơn hàng nếu đơn đang
+còn ở trạng thái Chờ xác nhận”
+1. Thành viên có thể đánh giá/bình luận đối với một sản
+phẩm (chọn số sao và nội dung bình luận)
+2. Thành viên có thể gửi câu hỏi trong mục hôi đáp của
+một sản phẩm
+Tiện tích tương tác với   3. Thành viên có thể thích sản phảm (đưa sản phẩm vào
+46   Thành viên   B   Trung bình
+sản phẩm   mục yêu thích của mình)
+4. Thành viên có thể phản ánh vi phạm với cơ quan
+quản lý VSATTP về thông tin, chất lượng của sản phẩm
+5. Thành viên có thể chỉa sẻ sản phẩm lên mạng xã hội
+faceboock, twviter, aalo...
+16
+1. Thành viên có thể đánh giá/bình luận đối với một cơ
+sở SXKD (chọn số sao và nội dung bình luận)
+2. Thành viên có thể gửi câu bỏi trong mục hồi đáp của
+một cơ sở SXKD
+3. Thành viên có thể thích cơ sở SXKD (đưa cơ sở
+Tiện tích tường tác vói
+47   cơ sở SXKD   Thành viên   SXKD vào mục yêu thích của mình)   B   Trung bình
+4. Thành viên có thể phản ánh vi phạm với cơ quan
+quản lý VSATTP về thông tin, hoạt động của cơ sở
+SXKD
+5. Thành viên có thể chỉa sẻ cơ sở SXKD lên mạng xã
+hội faceboock, twitter, zalo...
+1. Thành viên có thể vào xem hộp tin nhắn cá nhân của
+mình
+48   Nhắn tin trao đổi với cơ   sở   Thành viên   3. Thành viên có thể nhận tin nhắn của cơ sở gửi cho   2. Thành viên có thể gửi tin nhắn với các cơ sở   B   Trung bình
+mình
+4. Thành viên có thể tìm kiếm cuộc hội thoại của mình
+1. Thành viên có thể gửi mới một tin cung cầu
+2. Thành viên có thể xem danh sách các tin đã gửi
+Đăng tin kêt nối cung   3. Thành viên có thể sửa một tin cung cầu đã gửi
+49   cầu và lịch sử đăng tin   Thành viên   4. Thành viên có thể xóa một tín cung cầu nếu ban quân.   B   Trung bình
+cung cầu   trị chưa duyệt
+5. Thành viên có thể tìm kiểm theo trạng thái hoặc từ
+khóa các tin cung cầu đã gửi
+1. Thành viên có thể xem danh sách các sản phẩm mà
+mình thích
+2. Thành viên có thể xem thông tin chi tiết của sản phẩm
+mình đã thích
+3. Thành viên có thể xóa sản phẩm trong mục yêu thích
+Mục yêu thích (cơ sở,
+50   Thành viên   của mình   B   Trung bình
+sản phẩm yêu thích)   4. Thành viên có thể xem danh sách các cơ sở mà mình
+thích
+5. Thành viên có thể xem thông tin chi tiết của cơ sở
+mình đã thích
+6. Thành viên có thể xóa cơ sở trong mục yêu thích của mình
+17
+1. Thành viên có thể xem danh sách các cơ sở mà mình
+51   danh sách trì sở đang.   Theo dõi cơ sở (quản lý   2. Thành viên có thể xem thông tin chi tiết của cơ sở   đã chọn theo dõi   B   Đơn giản
+theo dõi)   mình đã chọn theo dõi
+3. Thành viên có thể xóa cơ sở trong mục theo dõi cơ sở
+của mình
+1. Thành viên có thể cập nhật thông tin hồ sơ cá nhân
+của mình
+Cập nhật thông tin cá
+52   Thành viên   2. Thành viên có thể thay đổi ảnh đại diện của mình   B   Đơn giản
+nhân
+3. Thành viên có thể thay đổi mật khẩu tài khoản của.
+mình
+53   Đăng ký cơ sở SXKD   Thành viên   Thành viên có thể đăng ký một cơ sở SXKD của mình   trên hệ thống để tham gia kinh doanh trên hệ thống   B   Đơn gián
+VII   Các chức năng quản lý của cơ sở sản xuất, kinh doanh
+A   Giao dịch
+1. Cơ sở SXKD có thể xem danh sách các đơn đặt hàng
+của khách với cơ sở của mình
+2. Cơ sở SXKD có thể tìm kiếm đơn hàng theo trạng
+thái, từ khóa
+54   Đơn bán   Cơ sở SXKD   3. Cơ sở SXKD có thể xem chi tiết một đơn hàng khách   B   Trung bình
+đặt
+4. Cơ sở SXKD có thể xác nhận, từ chối, khôi phục một
+đơn hàng
+1. Cơ sở SXKD có thể xem danh sách các đơn đặt mua
+hàng của cơ sở mình
+2. Cơ sở SXKD có thể tìm kiếm đơn hàng của cơ sở
+mình theo trạng thái, từ khóa
+55   Đơn mua   Cơ sở SXKD   3. Cơ sở SXKD có thể xem chi tiết một đơn hàng của   B   Trung bình
+cơ sở mình đã đặt
+4. Cơ sở SXKD có thể xóa đơn chưa duyệt hoặc xác
+nhận nhận hàng một đơn hàng của mình đã đặt
+18
+1. Cơ sở SXKD có thể gửi đăng tin cung kết nối cung
+cầu (cần bản, cần mua, cần tìm đối tác) của cơ sở mình
+2. Cơ sở SXKD có thể xem danh sách các tin đã gửi của
+56   Đăng tin cung cầu;   B   Trung bình
+cơ sở mình
+3. Cơ sở SXKD có thể sửa một tin kết nối cung cầu
+4. Cơ sở SXKD có thể xóa một tin kết nối cung cầu
+B   Quản lý
+1. Cơ sở SXKD có thể xem danh sách người đang theo
+Quản lý người theo đổi   dõi cơ sở của mình
+57   Cơ sở SXKD   2. Cơ sở SXKD có thể gưi tin nhấn đến các người đang   B   Đơn giản
+cơ sở
+theo dõi cơ sở của mình
+1. Cơ sở SXKD có thể ngăn chặn một khách hàng nếu
+khách hàng đó vi phạm các quy định về giao dịch với cơ
+sở mình
+2. Cơ sở SXKD có thể xem danh sách những khách
+Quản lý khách hàng bị
+58   chặn (biackist)   Cơ sở SXKD   hảng đang bị cơ sở mình ngăn chặn   B   Trung bình
+3. Cơ sở SXKD có thể bỏ ngăn chặn một người dùng
+trong danh sách khác hàng bị ngăn chặn
+4. Cơ sở SXKD có thể tìm kiểm người dùng đang bị
+ngăn chặn
+59   Thống kê doanh số theo   sản phẩm   Cơ sở SXKD   Cơ sở SXKD có thể thống kê số lượng các mặt hàng bán   theo khoảng thời gian   B   Đơn giản
+60   Thống kê doanh số theo   khách hàng   Cơ sở SXKD   Cơ sở SXKD có thể số lần mua hàng và doanh thu theo   khách hàng   B   Đơn giản
+C   Quản lý kho hàng
+1. Cơ sở SXKD có thể thêm mới một phiếu nhập hàng
+vào kho
+2. Cơ sở SXKD có thể sửa một phiếu nhập hàng vào
+kho
+61   Quản lý nhập hàng hóa   Cơ sở SXKD   3. Cơ sở SXKD có thể xóa một phiếu nhập hàng vào   B   Trung bình
+kho
+4. Cơ sở SXKD có thể tìm kiếm phiếu nhập hàng vào
+kho
+19
+1. Cơ sở SXKD có thể thực hiện xuất hàng theo đơn đặt
+hàng của khách
+62   Quản lý xuất hàng hóa   2. Cơ sở SXKD có thể tạo một phiếu xuất hàng   3. Cơ sở SXKD có thể sửa một phiếu xuất hảng   B   Trung bình
+4. Chủ cơ sở có thể xóa một phiếu xuất hàng
+5. Cơ sở SXKD có thể tìm kiếm phiếu xuất hàng
+63   Thông kê hàng tôn hiện.   Cơ sở SXD có thể thống kê hàng tổn hiện tại của cơ sở
+tại   mình
+64   Thống kê xuất nhập tồn   Cơ sở SXKD   khoảng thời gian lựa chọn   Cơ sở SXD có thể thống kê xuất, nhập tồn theo   B   Đơn giản
+65   Thống kê thẻ kho   Cơ sở SXKD   Cơ sở SXKD có thể xem thẻ kho của một sản phẩm
+Chủ cơ sở có thể xuất thông tin để thực hiện kiểm kê
+66   Kiểm kê hàng hóa   Cơ sở SXKD   B   Đơn giản
+hàng hóa
+Chủ cơ sở có thể thực hiện các cấu hình liên quan đến
+quản lý kho sản phẩm hàng hóa: cho phép đặt hàng trực
+67   Cấu hình thông số đặt   hàng cho sản phẩm   Cơ sở SXKD   tuyến hay không, cho phép đặt hàng khi hết hàng hay   B   Đơn giản
+không, sản phẩm đưa vào phân hệ quản lý kho hay
+không
+D   Vận chuyển, thanh toán
+I. Cơ sở SXKD có thể đối soát số liệu vận chuyển với
+Đối soát số liệu vận   Đơn vị vận   đơn vị cung cấp dịch vụ vận chuyển
+68   Cơ sở SXKD   B   Đơn giản
+chuyển   hành   2. Đơn vị vận hành có thể đối soát số liệu vận chuyển
+với Cơ Sở SXKD
+1, Cơ sở SXKD có thể thống kê số liệu vận chuyển theo
+khoảng thời gian
+Thống kê số liệu vận   Đơn vị vận   2. Cơ sở SXKD có thể thống kê số liệu vận chuyển theo
+69   chuyển   Cơ sở SXKD   hành   nhà cung cấp dịch vụ vận chuyển   B   Đơn giản
+3. Cơ sở SXKD có thể thống kê số liệu vận chuyển theo
+khu vực giao hàng
+70   Thiết lập các cấu hình   cho dịch vụ vận chuyển   Cơ sở SXKD   Cơ sở SXKD có thể thiết lập các thông số cấu hình cho   dịch vụ vận chuyển của cơ sở SXKD   B   Đơn giản
+20
+1. Cơ sở SXKD có thể đối soát số liệu thanh toán với
+Đối soát dữ liệu thanh 1   đơn vị cung cấp dịch vụ thanh toán
+71   2. Đơn vị vận hành có thể đối soát số liệu thanh toán với   B   Đơn giản
+toán
+Cơ sở SXKD
+1. Cơ sở SXKD có thể thống kê số liệu thanh toán theo
+khoảng thời gian
+Thống kê số liệu thanh   Đơn vị vận   2. Cơ sở SXKD có thể thống kê số liệu thanh toán theo
+72   Cơ sở SXKD   nhà cung cấp dịch vụ thanh toán   B   Đơn giản
+toán   hành
+3. Cơ sở SXKD có thể thống kê số liệu thanh toán theo
+trạng thái thanh toán
+73   Thiết lập các cấu hình   cho dịch vụ thanh toán   Cơ sở SXKD   Cơ sở SXKD có thể thiết lập các thông số cấu hình cho   dịch vụ vận chuyển của cơ sở SXKD   B   Đơn giản
+VIII   Các chức năng của khối cơ quan quản 19 về an toàn thực phẩm
+A   Quản lý
+1. Cán bộ CQQL có thể thêm mới vùng sản xuất nông
+sản, thực phẩm an toàn
+2. Cán bộ CQQL có thể sửa vùng sản xuất nông sản,
+74   Vùng sản xuất   Cán bộ   3. Cán bộ CQQL có thể xóa vùng sản xuất nông sản,   thực phẩm an toàn   B   Trung bình
+CQQL
+thực phẩm an toàn
+4. Cán bộ CQQL có thể tìm kiếm vùng sản xuất nông
+sản, thực phẩm an toàn
+1. Cán bộ CQQL có thể thêm mới địa điểm kinh doanh
+Cán bộ   2. Cán bộ CQQL có thể sửa địa điểm kinh doanh
+75   Địa điểm kinh doanh   3. Cán bộ CQQL có thể xóa địa điểm kinh doanh   B   Trung bình
+CQQL
+4. Cán bộ CQQL có thể tìm kiểm địa điểm kinh doanh
+B   Kiểm duyệt
+1. Cán bộ CQQL có thể xem danh sách các tin cung cầu
+của thành viên hoặc cơ sở đăng lên hệ thống
+Cán bộ   2. Cán bộ CQQL có thể tìm kiểm tin cung cầu theo
+76   Kiểm duyệt tin cung cầu   CQQL   trạng thái duyệt và từ khóa   B   Trung bình
+3. Cán bộ CQQL có thể duyệt hoặc hủy tin cung cầu
+4. Cán bộ CQQL có thể sửa tin cung cầu
+21
+1. Cán bộ CQQL có thể xem danh sách các đánh giá,
+bình luận của thành viên với cơ sở
+2. Cán bộ CQQL có thể tìm kiếm các đánh giá, bình
+77   luận cơ sở   3. Cản bộ CQQL có thể duyệt các đánh giá, bình luận   luận của thành viên với cơ sở theo trạng thái, từ khóa   B   Trung bình
+của thành viên với cơ sở
+4. Cán bộ CQQL có thể không duyệt các đánh giá, bình
+luận của thành viên với cơ sở
+1. Cán bộ CQQL có thể xem danh sách các đánh giá,
+bình luận của thành viên với sản phẩm
+2. Cản bộ CQQL có thể tìm kiếm các đánh giá, bình
+luận của thành viên với sản phẩm theo trạng thái, từ
+78   luận sản phẩm   Kiểm duyệt đánh giá bình   Cán bộ   CQQL   3. Cán bộ CQQL có thể duyệt các đánh giá, bình luận   khóa   B   Trung bình
+của thành viên với sản phẩm
+4. Cán bộ CQQL có thế không duyệt các đánh giá, bình
+luận của thành viên với sản phẩm
+1. Cán bộ CQQL có thế xem danh sách các hỏi đáp của
+thành viên về cơ sở
+2. Cán bộ CQQL có thể tìm kiếm các hỏi đáp của thành
+Kiểm duyệt hỏi đáp về cơ   Cán bộ   viên về cơ sở theo trạng thái, từ khóa
+79   sở   CQQL   3. Cán bộ CQQL có thể duyệt các hỏi đáp của thành   B   Trung bình
+viên về cơ sở
+4. Cán bộ CQQL có thể không duyệt các bỏi đáp của
+thành viên về cơ sở
+1. Cán bộ CQQL có thể xem danh sách các hỏi đáp của
+thành viên về sản phẩm
+2. Cán bộ CQQL có thể tìm kiếm các hỏi đáp của thành
+Kiểm duyệt hỏi đáp về   Cán bộ   viên về sản phẩm theo trạng thái, từ khóa
+80   B   Trung bình
+sản phẩm   CQQL   3. Cán bộ CQQL có thể duyệt các hỏi đáp của thành
+viên về sản phẩm
+4. Cán bộ CQQL có thể không duyệt các hòi đáp của
+thành viên về sản phẩm
+22
+1. Cán bộ CQQL có thể xem danh sách các phản ánh vi
+phạm của thành viên về cơ sở
+2. Cán bộ CQQL có thể tìm kiếm các phản ánh vi phạm
+Xử lý phản ánh thông
+81   cơ sở vi phạm   của thành viên về cơ sở theo trạng thái, từ khóa   B   Trung bình
+3. Cán bộ CQQL có thể xử lý các phản ảnh vi phạm của
+thành viên về cơ sở
+4. Cán bộ CQQL có thể xem chi tiết thông tin cơ sở
+1. Cán bộ CQQL có thể xem danh sách các phản ánh vị
+phạm của thành viên về sản phẩm
+2. Cán bộ CQQL có thể tìm kiếm các phản ánh vi phạm
+82   Xử lý phản ánh thông tin   sản phẩm vi phạm   Cán bộ   CQQL   của thành viên về sản phẩm theo trạng thái, từ khóa   3. Cán bộ CQQL có thể xử lý các phản ánh vi phạm của   B   Trung bình
+thành viên về sản phẩm
+4. Cán bộ CQQL có thể xem chi tiết thông tin sản phẩm
+1. Cán bộ CQQL có thể xem danh sách các phản ánh
+thành viên vi phạm
+2. Cán bộ CQQL có thể tìm kiếm các phản ánh thành
+Xử lý phản ánh thảnh   Cán bộ   viên vi phạm theo trạng thái, từ khóa
+83   B   Trung bình
+viên vi phạm   CQQL   3. Cán bộ CQQL có thể xử lý các phản ánh thành viên
+vi phạm
+4. Cán bộ CQQL có thể xem chi tiết thông tin hoạt động
+của thành viên
+1. Cán bộ CQQL có thể xem danh sách các thông tin
+phản hồi của khách truy cập
+2. Cán bộ CQQL có thể tìm kiểm các thông tìn phán hỗi
+của khách truy cập theo trạng thái, từ khóa
+3. Cán bộ CQQL có thể đảnh đấu đã xử lý các thông tin
+Cán bộ   phản hồi của khách truy cập
+84   Xử lý thông tin phản hồi   CQQL   4. Cân bộ CQQL có thế xem chi tiết thông tin phản hồi   B   Trung bình
+của khách truy cập
+5. Cán bộ CQQL có thể xóa thông tin phản hồi của
+khách truy cập
+6. Cán bộ CQQL có thể chuyển tiếp thông tin phản hồi
+của khách truy cập đến cơ quan quản lý khác tiếp nhận
+23
+C   Thống kê
+1. Cán bộ CQQL có thể thống kê xếp hạng chung của
+các cơ sở
+2. Cán bộ CQQL có thể thống kê xếp hạng về đơn hàng
+của các cơ sở
+85   Xếp hạng cơ sở   3. Cán bộ CQQL có thể thống kê xếp hạng về số lượt   B   Trung bình
+xem của cơ sở
+4. Cán bộ CQQL có thể thống kê xếp hạng về số lượt.
+đánh giá bình luận cơ sở
+1. Cân bộ CQQL có thể thống kê xếp hạng chung của
+Cán bộ   các sản phẩm
+86   Xếp hạng sản phẩm   CQQL   2. Cán bộ CQQL có thể thống kê xếp hạng về đơn hàng   B   Trung bình
+của các sản phẩm
+87   Cơ sở theo địa phương   Cán bộ   CQQL   Cán bộ CQQL có thể thống kê số lượng cơ sở theo địa   phương   B   Đơn giản
+88   Tình hình duyệt thông tin   Cán bộ   CQQL   thông tin của các cấp cơ quan quản lý   Cán bộ CQQL có thế thống kê báo cáo tình hình duyệt   B   Đơn giản
+1. Cán bộ CQQL có thể thống kê tình hình phản ánh vi
+Phản ánh cơ sở, sản phẩm   Cán bộ   phạm đối với các cơ sở
+89   vi phạm   CQQL   2. Cán bộ CQQL có thể thống kê tình hình phán ánh vì   B   Đơn giản
+phạm với các sản phẩm của cơ sở
+D   Hệ thống
+1. Cán bộ CQQL có thế xem đanh sách người đùng
+2. Cán bộ CQQL có thể tìm kiểm người dùng theo loại,
+trạng thái, từ khóa
+Cán bộ
+90   Quản lý người dùng   CQQL   3. Cán bộ CQQL có thể thêm mới người dùng   B   Trung bình
+4. Cán bộ CQQL có thể sửa người dùng.
+5. Cán bộ CQQL có thể xóa người dùng
+6. Cán bộ CQQL có thể reset mật khẩu
+91   Cập nhật thông tin cơ Cán bộ   Cán bộ CQQL có thẻ cập nhật thông tin liên hệ cơ quan
+CQQL   quản lý của mình   B   Đơn giản
+quan
+24
+TƯƠNG TẮC; TRAO ĐỘI HÔNG TIN VỐI PHẦN MỀM
+Số tác   Điểm của từng
+TT   Loại actor   loại tác nhân   Ghi chú
+nhân
+Khác truy cập,
+Đơn giản   Thuộc loại giao diện của   Thành viên,
+1   4   4
+(Simple actor)   chương trình   Cơ sở SXKD,
+Cán bộ CQQL
+Giao diện tương tác hoặc
+Trung bình
+2   phục vụ một giao thức   0   0
+(average actor)   hoạt động (HT)
+Phức tạp
+3   Giao diện đồ hoạ   0   0
+(complex actor)
+Cộng (1+2+3)   TAV   4   4
+BẢNG 4:
+BẢNG TÍNH TOẤN ĐIỂM CÁC TRƯỞNG HỢP SỬ DỤNG (USE-CASE)
+Số trường   Điểm của tùng
+TT   Loại   hợp sử dụng   loại trường   Mô tả
+(Use- case)   hợp sử dụng
+1   B   Các yêu cầu thảo mãn thì phần mềm mới
+Đơn giản   41   205   được chấp nhận.
+use-case đơn giản 44 transactions hoặc
+Trung bình   44   440
+đường chỉ thị
+Phức tạp   2   30
+2   M
+Các chức năng không phải là cốt lõi hay các
+Đơn giản   0   0   chức năng phụ trợ hoặc theo yêu cầu của
+bên đặt hàng.
+Trung bình   0   0   use - case trung bình từ 4 -7 transactions
+Phức tạp   0   0
+3   T
+Các yêu cầu được tư vấn thêm hoặc đưa ra
+Đơn giản   0   0   để bến đặt hảng lựa chọn thêm nếu muốn
+Trung bình   0   0   use-case phức tạp > transactions
+Phức tạp   0   0
+Cộng (1+2+3)   675   TBF
+25
+Giá trị   Kết
+TT   xếp hạng   quả   Ghi chú
+I   Hệ số KT-CN (TFW)   36
+1   Hệ thống phân tán (Distributed System)   2   4
+Tỉnh chất đáp ứng tức thời hoặc yêu cầu đảm bảo thông
+2   lượng (Response throughput performance obịetives)   3   3
+3   Hiệu quả sử dụng trực tuyến (End user efficiency onlire)   3   3
+Độ phức tạp của sử lý bên trong (Complex internal
+4   processing)   3   3
+5   Mã nguồn phải tái sử dụng được (Code must be reuseable)   3   3
+6   Dễ cài đặt (Easy to install)   3   1,5
+7   Dễ sử dụng (Easy to use)   3   1,5
+8   Khả năng chuyển đổi (Portable)   3   6
+9   Khả năng dễ thay đổi (Easy to change)   3   3
+10   Sử dụng đồng thời (Concurent)   3   3
+11   Có khả năng bảo mật đặc biệt   3   3
+12   Cung cấp truy nhập trực tiếp tới các phần mềm third party.   2   2
+13   Yêu cầu phương tiện đào tạo đặc biệt cho người sử dụng   0   0
+II   Hệ số độ phức tạp về KT-CN (TCF)   0,96
+BẢNG 6:
+BẢNG TÍNH TOÁN HỆ SỐ TÁC ĐỘNG MÔI TRƯỜNG
+VÀ NHÓM LÀM VIỆC, HỆ SỐ PHỨC TẠP VỀ MÔI TRƯỞNG
+Giá trị   Đánh giá
+TT   Các hệ số tác động môi trường   xếp hạng   Kết quả   độ ổn định KN
+Hệ số tác động môi trường và nhóm làm việc
+1   (EF W)   18   12
+Đánh giá cho từng thành viên
+Có áp dụng qui trình phát triển phần mềm theo
+1   mẫu RUP và có hiểu biết về RPU   2   3   0,6
+Có kinh nghiệm về ứng dụng tương tự
+2   (application cxperiences)   3   1,5   0,1
+Có kinh nghiệm về hướng đối tượng (Obịct
+3   3   3   0,6
+Oriented)
+4   Có khả năng lãnh đạo nhóm   3   1,5   0,1
+5   Tỉnh chất năng động   2   2   0,1
+Đánh giá chung cho dự án
+26
+6   Độ ổn định của các yêu đầt   2   4   1
+7   phần thời gian)   0   0   0
+8   Dùng ngôn ngữ lập trình toại khó   3   -3   0
+II   Hệ số phức tạp về môi trường (Ef)   1,04
+III   Độ ổn định kinh nghiệm (ES)   2,5
+IV   Nội suy thời gian lao động (P)   32
+BẢNG 7:
+BẢNG TỔNG HỢP GIÁ TRỊ PHẦN MỀM
+Ghi
+STT   Hạng mục   Diễn giải   Giá trị
+chú
+I   Tỉnh điểm trường hợp sử dụng
+1   Điểm actor (TAW)   4
+2   Điểm Use - case (TBE)   675
+3   Tỉnh điểm UUCP   UCCP=TAW+TBF   679
+4   Hệ số phức tạp về KT-CN(TCF)   TCF=0,6+(0,01*TFW)   0,96
+5   Hệ số phức tạp về môi trường (EF)   EF=1,4+0,03 EFW)   1,04
+6   Tính điểm AUCP   AUCP-UUCP*TCPPEP   677,91
+II   Nội suy thời gian lao động (P)   P=người/giờlAUCP   32
+III   Giá trị nỗ lực thực tế (E)   E=10/6* AUCP   1.129,86
+IV   Mức lao động bình quân (H)   H=người /giờ   27.484
+V   Định giá phần mềm nội bộ (G)   G=1,4*EPH   1.391.177.313
+27
+BẢNG 8:
+Hệ số   Chi phí
+Lương   Lương phụ   Lương   Lương
+TT   Cấp bậc   lương   cơ bản   (12%)   khoán trực   tháng   ngày   Lường giờ
+tiếp (4%)
+(A)   (B)   (C)   (D=B*C)   (E=D*12%)   (F=D+4%)   (H=D+E+F)   (l=H/22)   (K=18)
+1   Kỹ sư bậc 1/8   2,34   1.390.000   3.252.600   390.312   130.104   3.773.016   171.501   21.438
+2   Kỹ sư bậc 2/8   2,67   1.390.000   3.711.300   445.356   148.452   4.305.108   195.687   24.461
+3   Kỹ sư bậc 3/8   3,00   1.390.000   4.170.000   500.400   166.800   4.837.200   219.873   27.484
+4   Kỹ sư bậc 4/8   3,33   1.390.000   4.628.700   555.444   185.148   5.369.292   244.059   30.507
+5   Kỹ sư bậc 5/8   3,66   1.390.000   5.087.400   610.488   203.496   5.901.384   268.245   33.531
+6   Kỹ sư bậc 6/8   3,99   1.390.000   5.546.100   665.532   221.844   6.433.476   292.431   36.554
+7   Kỹ sư bậc 7/8   4,32   1.390.000   6.004.800   720.576   240.192   6.965.568   316.617   39.577
+8   Kỹ sư bậc 8/8   4,65   1.390.000   6.463.500   775.620   258.540   7.497.660   340.803   42.600
+Chú thích:
++ Lương cơ sở áp dụng từ ngày 01/07/2018 là: 1.390.000 đ/tháng
++ Lương cơ bản = Lương cơ sở Hệ số
++ Lương phụ (tiền ngày lễ, tết, phép) = Lương cơ bản x 12%
++ Chi phí khoản trực tiếp người lao động = Lương cơ bản x 4%
++ Tháng 22 ngày công, ngày làm 8 tiếng
+28
+Nhụ lục 02: TỔNG HỢP CHI PHÍ
+(Kèm theo điệi định sế: 148 /QĐ-UBND ngày 23 1/2019 của Chủ tịch UBND thày)
+Đơn vị: Đồng
+Giá trị trước   Thuế
+Hạng mục   Cách tính   thuế   GTGT   Giá trị sau thuế   Ghi chú
+Chi phí bổ sung, nâng cấp phần mềm   2.627.282.487   2.639.859.051
+Chi phí xây dựng phần mềm (Gxa)   Gpm   2.433.169.120   2.433.169.120   Phụ lục 1
+Chi phí quản lý dự án   2,809% x Gxd   68.347.721   68.347.721   2378/QĐ-BTTTT
+Chi phí tư vấn đầu tư   125.765.645   12.576.565   138.342.210
+Tính 80% theo 2378/QĐ-
+Chi phí lập đề cương và dự toán chi tiết   3,376% x Gxd   65.715.032   6.571.503   72.286.535   BTTTT. (Do đây là phần
+mềm nâng cấp, bổ sung)
+Chi phí lập hồ sơ mời thầu, đánh giá hồ sơ dự thầu   , 0,405% x Gxd   9.854.335   985.433   10.839.768   2378/QĐ-BTTTT
+Chi phí giám sát thi công   2,063% x Gxd   50.196.279   5.019.628   55.215.907   2378/QĐ-BTTTT
+Chi phí thuê hạ tầng và vận hành hạ tầng kỹ   188.832.000   Phụ lục 2.1
+thuật
+Tổng cộng   I + II   2.828.691.051
+Làm tròn số   2.828.000.000
+29
+Phụ lục 2.1: CHÍ PHÍ HẠNG TẢNG
+Số tháng
+Số   Đơn giá   Thành tiền
+STT   Nội dung yêu cầu   Thông sũ Tỹ thuật và mô tả chi tiết dịch vụ   lượng   (VND/tháng)   (tháng)   sử dụng   (VNĐ)
+A      7   188.832.000
+VCPU (1 core = 2.1 GHa)   12
+1   Cloud Server for App. 1   RAM (GB)   24   7
+4.500.000   31.500.000
+Storage SSD (GB)   250
+VCPU (1 core - 21 GHa)   12
+2   Cloud Server for App. 2   RAM (GB)   24   7
+4.500.000   31.500.000
+Storage SSD (GB)   250
+VCPU (1 core = 2.1 GHa)   16
+4   Cloud Server for DB 1   RAM (GB)   32   7
+5.800.000   40.600.000
+Storage SSD (GB)   300
+VCPU (1 core = 21 GHa)   10
+5   Cloud Server for DB 2   RAM (GB)   16   7
+3.960.000   27.720.000
+Storage SSD (GB)   300
+VCPU (1 core = 2.1 GHa)   10
+6   Cloud Server for DB 3   RAM (GB)   16   7
+3.960.000   27.720.000
+Storage SSD (GB)   300
+Băng thông trong nước/quốc tế,
+PP tĩnh
+7   Lưu lượng thông tin truyền tải:   200Mbps/20Mbps, 01 IP tĩnh   1   7
+2.016.000   14.112.000
+không giới hạn
+Dedicated Firewall
+o Phân tách, kiểm soát các lưu lượng truy cập vào 1
+ra tới máy chủ dựa trên chế độ thiết lập IP, Port,
+Protocol ...
+8   Tường lửa   1   7
+o Bảo vệ máy chủ, phân vùng dữ liệu với các tính   1.120.000   7.840.000
+năng gồm: IPS, Antvirus,...
+o Thiết lập kết nối IPSec VPN bảo mật tới phân
+vùng Gatevay đặt ngoài Internet
+30
+9   balancer)   Dịch vụ cân bằng tải (lợáđ   2   200.000   7   2.800.000
+Sétcu đa troer: Phòng chống mã độc, lọc web;
+10   Dịch vụ bảo mật bổ sung   Phòng giống các hiểm họa về mạng và ứng dụng,   1   7
+720.000   5.040.000
+Hồg bảo mật
+B   - GÁC Dươn vụ Pô Sinh: DI CCNH trì tiệc hàng trở ràng Dệ năng dự phòng san tiếu phoáng:...
+31

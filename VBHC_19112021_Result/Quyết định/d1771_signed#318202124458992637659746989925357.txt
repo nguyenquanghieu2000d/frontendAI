@@ -1,0 +1,392 @@
+Ký bởi: Văn phòng Ủy ban Nhân dân
+Thời gian ký: 30/05/2017 16:34:29
+ỦY BAN NHÂN DÂN   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH THANH HÓA   Độc lập - Tự do - Hạnh phúc
+Số:1771 /QĐ - UBND   Thanh Hoá, ngày 30 tháng 5 năm 2017
+QUYẾT ĐỊNH
+Về việc Phê duyệt phương án phòng chống lụt bão và giảm
+nhẹ thiên tai năm 2017 công trình thủy điện Hồi Xuân
+CHỦ TỊCH UBND TỈNH THANH HÓA
+Căn cứ Luật Tổ chủc Chính quyền địa phương ngày 19 tháng 6 năm 2015;
+Căn cứ Luật Phòng, Chống thiên tai số 33/2013/QH13 ngày 19 tháng 6 năm
+2013;
+Căn cứ Nghị định 72/2007/NĐ-CP ngày 17 tháng 4 năm 2007 của Chính.
+phủ về Quản lý an toàn đập;
+Căn cứ Nghị định số 66/2014/NĐ-CP ngày 04 tháng 7 năm 2014 của Chính
+phủ Quy định nhi tiết, hướng dẫn thì hành một số điều của Luật Phòng, chống
+thiên tai;
+Căn cứ Thông tư 34/2010/TT-BCT ngày 07 tháng 10 năm 2010 của Bộ
+Công Thương Quy định về quản lý an toàn đập của công trình thủy diện;
+Căn cứ Quyết định 3370/2011/QĐ-UBND ngày 13 tháng 10 năm 2011 của
+UBND tỉnh Thenh Hoa về việc ban hành Quy định về quản lý an toàn đập của
+công trình thủy điện trên địa bàn tỉnh Thanh Hóa;
+Theo đề nghị của Sở Công Thương tại Tờ trình số 540/TTr-SCT ngày 19
+tháng 5 năm 2017 (kèm Phương án phòng chống lựt bác và giam nhẹ thiên tai
+năm 2017 công trình thủy diện Hồi Xuân do Công ty cổ phần Đầu: tư xây dựng
+diện Hồi Xuân lập và hoán chính theo gón ý của cáo ngành liên quan) về việc phê
+duyệt Phương án phòng thống lợt bảo và giảm nhẹ thiên tai năm 2017 công trình.
+thủy điện Hồi Xuân,
+QUYẾT ĐỊNH:
+Điều 1. Phê duyệt Phương án phòng chống lụt băn và giảm nhệ thiên tai.
+năm 2017 công trình thủy diện Hồi Xuân, huyện Quan Hóa, tỉnh Thanh Hóa gồm.
+những nội dung chính sau:
+I. Các thông số hỹ thuật và hiện trạng thi công các công trình của nhà.
+máy thuỷ điện Hồi Xuân
+1. Các thông số kỹ thuật:
+TT   Thông số   Ký hiệu   Đơn vị   Giá trị
+I   Cấp công trình   II
+II   Các đặc trưng lưu vực
+1   Diện tích lưu vực   Flv   km2   14 975
+2   Dòng chảy trung bình năm   Qo   m3/s   244,1
+3   Lưu hượng đinh lũ kiểm tra P=o,1%   OmaX   m3/s   12.367,2
+Lưu hượng đình lũ thiết kế p= 0,5%   Qmax P   m3/s   9.193,39
+P= 1%   QmaP   m3/s   8 979
+P=5%   QmaX P   m3/s   6.104
+4   nhiều năm   Tổng ưu lượng dòng chảy trung bình   Wọ   108m3   76,99
+Lượng bùn cát lơ lừng trung bình nhiều   104   309,5
+5   năm
+III   Hồ chứa
+1   Mực nước dâng bình thường   MNDB   m   80.0
+2   Mực nước chết   MNC   m   78.5
+Mực nước max:
++ Mực nước kiểm tra (P=0,1%)   m   85,55
+3   + Mực nước gia cường (P=o,5%)   m   81,96
+4   Dung tích toàn bộ   Wtb   105 m3   63.65
+5   Dung tích hữu ích   Whi   106 m3   7.73
+6   Dung tích chết   Wc   106 m3   55.92
+7   Diện tích mặt hồ ứng với MNDBT   MNDB   Km2   6,19
+IV   Lưu lượng qua nhà máy
+1   Lưu lượng đảm bảo (P=85%)   Qdb   m3/s   70,56
+2   Lưu lượng lớn nhất   Qmax   m3/s   529,2
+V   Cột nước nhà máy
+1   Cột nước lớn nhất   Hmax   m   27,0
+2   Cột nước   Htt   m   21,5
+3   Cột nước nhỏ nhất   Hmin   m   16,5
+VI   Mực nước hạ lưu nhà máy
+7   MNHL max ứng với lũ P=o,1%      74,93
+2   MNHL max ứng với lũ P=0,5%   m   73,01
+3   Khi nhà máy làm việc với Qmax   1n   55,65
+4   MNHL min khi xả Q=Qdb   m   53,00
+VII   Công suất
+1   Công suất lắp máy   Nm   MW   102
+2
+TT   Thông số   Ký hiệu   Đơn vị   Giá trị
+2   Công suất đảm bảo (P=90%)   Ndb   MW   16,61
+VIII   Điện lượng
+1   Điện lượng trung bình năm   Eo   10ýkWh   432,61
+2   Số giờ sử dụng công suất lắp máy   h sdlm   Giờ   4.241
+2. Hiện trạng hạng mục công trình chống lũ:
+2.1- Đề quây dân đông giai đoạn II (mừa kiệt) từ 1/10/2016 đến 3014/2017:
+Đê quảy giai đoạn 2 chủ yếu bảo đảm cho nhu cầu thi công lấp đặt các thiết
+bị nhà máy và thi công các hạng mục dệp đảng, dập tràn, nhà máy thủy diện. Áp
+dụng tiêu chuẩn ngăn đứng thì công mùa kiệt 10 năm 1 lần (>=10%, tương ứng.
+lưu lượng định lũ là 576,79m3, MNT1 là 88,4m, MNE11 là s7,62n) cao trình.
+đính đê quáy là 59m. Chiếu rộng đinh đê quảy là 5.ôm, hệ số mái đếc thượng hại
+lưu đê quảy là trac, t; kết cấu của đê quảy áp dụng kếi cất đê quáy đất đã bần
+hợp, mài thượng lưu tiếp xác với nưức hược gia cổ bằng đả có đường kinh
+D=0,3m; cụ thể:
+Cao trình
+Khối lượng   Cao trình
+TT   Công trình   (m3)   thượng lưu   hạ lưu (m)   Hiện trạng
+(m)
+Đê quây giai đoạn 2   Đã thì công
+(mùa kiệt)   hoàn thành
+1   29.680   59   59
+tháng
+11/2016
+Fạng mục thi công: Thi công lắp đặt các thiết bị nhà máy và thi công các
+hạng mục đập dâng, đập tràn, nhà máy thủy điện.
+2.2- Đê quây giai đạn 2 (mừa Hộ từ ngày 15/2017 đến ngày 30/102017 (để.
+quáy này đàng để chống lả năm 2016 và tiệp tục sử dụng cho mia lã năm
+2017):
+Tiêu chuẩn chấn nước của giai đoạn này áp tụng lũ 20 năm gặp 1 Dần
+P=5%, tương ứng với lưu lượng đinh lũ là 5852m3/5.
+Đê quây giai đoạn 2 mùa lũ gồm 2 đê quây thượng lưu và hạ lư::
+- Đệ quây thượng lưu có cao trình đình để quây là 75.1 m. Chiều rộng dinh
+đê quây là 5.0m. Kết cấu đê quây chia làm 2 phần:
++ Phần dưới cao độ 65. 1m đắp bằng đất đà hồn hợp, hệ số mái đốc thượng
+lạ lưu là ma-1.5, phía ngoài được gia cổ bảng đá có đường kinh D=0,3tr
++ Phần trên cao độ 65. lm đấp bằng rọ đá, chống thẩm bằng đấp đất
+(6=0.95 rộng 3.0m. Chuyển tiếp giữa rọ đế và đất đấp là lớp vài địa kỹ thuật.
+Giữa 2 rọ đã được giảng với nhau bằng tháp 012.
+- Đê quây hạ lưu có cao trình đính đê quây là 73.8 m; chiếu rộng đính đã
+quây là 5.0m. kết cấu đê quây chỉa làm 2 phần:
+3
++ Phần duới cao độ 43.8m đấp bằng đất đá hỗn hợp, hệ số mái đốc thượng
+hạ lưu là m=1.5, phía ngoài được gia cổ bằng để có đường kinh D=o,3m.
+Phần trên cao độ 63.8m đấp bằng rọ cá, chống thắm bằng đấp đất
+K=0.95 rộng 3. 6m. Chuyển tiếp giữa rụ đá và đất đấp là lớp vài địa kp thuật.
+Giữa 2 rọ đá được giảng với nhau bằng thép 012; cụ thể:
+Cao trình
+Khối   Cao trình
+TT   Công trình   thượng   Hiện trạng
+lượng(m3)   hạ lưu(m)
+lưu(m)
+Đê quây thượng lưu -   Đã thi công
+1   hạ lưu (mùa lũ)   48.900   65,1   63,8   hoàn thành
+6/2016
+Rọ đá gia cố mái (đê   Đã thi công
+2   quây thượng lưu - hạ   21.120   75,1   73,8   hoàn thành
+lưu)   6/2016
+II. Phương án phòng chống lạt bão giảm nhẹ thiên tai năm 2017.
+1. Mục tiêu:
+- Đăm bảo an toàn tuyệt đối cho người và tài sản, hạn chế đến mức thấp
+nhất các thiệt hại do lụt bão gây ra;
+- Ca định trong công tác thi công và bảo vệ môi trường sinh thái.
+2. Phòng chống lụt bão ở các giai đoạn:
+2.1- Trước mùa mưa bão:
+Với phương châm cảnh giác để phòng là chính đồng thời tập trong chỉ đạn
+quyết liệt một số nội dung sau:
+- Kiểm tra giám sát chặt chẽ công tác thì công cáo công trình chống 16 năm.
+2017.
+- Bố trí lực lượng theo dõi thủy văn.
+- Thành lập các tiều ban phòng chống lụt bảo với các đơn vị thì công trên
+công trường thủy điện Hồi Xuân.
+- Nơi trọng điểm bố trí phương tiện nhân lực vật chất cấp thiết tại chỗ để
+chủ động giải quyết tình huống xảy ra.
+2.2- Trong mùa mưa bão:
+Tổ chức trực chỉ huy 24/24, phân công nhiệm vụ cụ thể đền từng các cá.
+nhân và tập thể để giải quyết tốt các tỉnh huống xấu có thể xẩy ra.
+Tổ chức quan trắc mực nước sông Mã thường xuyên. Mùa mua lũ cử người
+quan trắc mực nước sông Mã vào các thời điểm: 1 giờ, 7 giờ, 13 gió, 19 giữ hàng.
+ngày.
+Khi có bảo khẩn cấp, áp thấp nhiệt đói gần bờ hoặc có các tỉnh thể thời tiết
+khác gây mưa iữ, có khả năng ảnh hường trực tiếp đến các địa phương trên hưu
+vực sông Mã, đơn vị phải thực hiện chế độ quan trắc, dự bảo và dy trí cho đến
+khi kết thúc đợt lũ như sau:
+- Tổ chức quan trắc ít nhất 30 phút một lần.
+4
+- Thực hiện bản tia dự bảo lũ trên sông Mã định kỳ 03 giờ 01 lần. Nội dung
+bản tía dự báo gồm mực nước sông Ma, lưu lượng đến công trình thời điểm hiện.
+tại và các thời điểm 0 giờ, 12 giờ, 18 giờ, 24 giờ 08i, trong đó phải dự báo thời
+gian xuất hiện đỉnh lũ về công trình.
+- Bản chỉ huy công trưởng cập nhật liên tục thông tin từ Ban Chỉ huy Phòng
+chống thiên tai và Tìm kiếm cức nạn tỉnh Tranh Hòa, tỉnh Hòa Bình, Trung tâm.
+Dự báo Khí tượng Thủy văn Trung ương, Đài Khi tượng Thủy văn khu vực Bắc
+Trung Bộ, Đài phát thanh và Truyền hình Việt Nam hàng ngày.
+- Thối hợp với thủy diện Trung Sơn, thủy điện Thành Sơn để nắm được các
+thông tin quan trắc mọc nước của các thả máy trán để tham khảo và đưa rá các.
+tỉnh huống xử lý kịp thời trong mùa mưa bão.
+Dự kiểu các tỉnh huống mất an toàn đê quai, chống ngập khu vực nhà máy
+có thể xảy ra và giải pháp xử lý:
+Tình huống 1: Tỉnh huống sạt một phần mải đất đá đê quây thượng lưu bờ
+trái giáp lòng sông có ban hướng đến sự ổn định, an toàn để quây thượng lưu.
+- Tình huống vự cố: Mưa lớn nhiều ngày, mái ngoài tường đã quây thượng
+lưu bảo hòa nước, kết hợp nước lĩ về lớn. Gây sựt, sạt một đoạn mái tại cao trình.
+84.0m, có nguy cơ sạt khối đất, đá mái thượng lưu từ cáo trình 75, tm xuống cao
+trình 64,0m, gây mất ổn định mái đất, đá dân đến mất sn toàn đê quậy.
+- Xử lý tình huống:
+Trực Ban Chỉ huy Phòng chồng lụt bảo (BCH-PCL.B) sau khi nhận thông lin.
+sự cố phải đến ngay hiện trường để chỉ huy xử lý, sau khả nắm bắt tình hình báo
+các Trưởng BCH- PCLB (Giám đốc Công ty) tình trạng sự cố.
+Trục BCH-PCLB huy động cán bộ nhân viên thuộc Ban QLDA, lực lượng
+của nhà thầu tham gia hộ để.
+Điều động xe 2 ô tô bản tài và xe mày, lấy vật tư, thiết bị, dụng cụ tại khe
+Ban QLDA. Người được phản công chịu trách nhiệm tổ chức nhận vật tư, thiết
+bị, dụng cụ cá nhân tại kho Ban QLDA đưa tến hiện trường. Trường hợp vào ban
+đêm thì điều động chiếu sáng đi động bằng máy phát chạy xăng SkVA.
+Điều động 6 xe tải ben đến vị trí bãi trữ khu lán trại phụ tra phía sau tuyển
+đập bờ phải về hạ lưu 400m, chở đất, cát, đá hộc chuyển đến điểm sự cố,
+Điều động 2 máy đào đến nguy vị trí sạt lở, 01 máy đào đến tại bãi trữ vật
+liệu.
+Trong thời gian 30 phút yêu cầu lực lượng từ các vị trí phải có mặt với đầy.
+đủ các trang thiết bị an toàn, dụng cụ cần thiết tại hiện trường.
+Triển khai ngay công tác:
+Máy đảo số 1: Đảo rănh thoát nước trên mặt bằng đến cao trình 54,00m,
+dẫn nước về hạ lưu không cho nước chảy vào vị trí sạt lở.
+Mây đào số 2: Đảo cắt bớt khối lượng đất đá sạt (phia trên rao) để giảm tải
+khối đất đà sạt. Hỗ trợ xe tải ben chở vật liệu ra vị trí sạt lở.
+5
+Nhóm 1: Khoảng 30 người mang theo cọc, cuộc, xêng có mặt tại đơi bị sạt:
+Đóng cọc tro vào chân khối đất bị sựt, đặt rọ đã và tiến hành xếp đã vào 1ọ, xếp
+bao cát chống sạt mái đất, chống sụt thêm.
+Nhóm 2: Khoảng 50 người đến điểm sự cố, tiến hành xúc cát, đất đóng
+ban, chuyển đá cho nhóm 1 xếp rọ đã. Xếp bao cát vào vị trí sạt.
+Nhóm 3: Khoảng 20 người và ba cấu tháp tại - hà máy đi chuyển vật tư,
+thiết bị dưới nhà máy đưa lên xe tải bơn và 1 máy đảo hỗ trợ chuyển đến nơi an,
+toàn.
+Nhóm 4: Khoảng 6 người trực vận hành bơn nước từ nhà máy với hai hệ
+thống bơm nước 2 cấp.
+Cử người theo dõi điển biến tiên tục khối đất bị sạt, để phòng bị, sạr SPp
+trong quá trình xử lý.
+Giám đốc công ty bác các Ủy ban nhân dân tỉnh Thanh Hóa, BCH Phòng
+Chống thiên tai & TKCN tỉnh Thanh Hóa, Ban PCLE huyện Quan HA về thh
+trạng sự cố
+8 Tình huống 2: Mực nước lũ có khả năng vượt qua đã quây.
+- Tỉnh huống sự cố: Tình hình mục nước lũ về đâng cao đến 74m và theo.
+đõi có khả năng nước 1 đâng tiếp vượt qua cao trình đình 75,1m thượng lưu và
+73,8ơ hạ lưu dẫn đến mất an toàn cho đã quây, nước tràn vàc bố mông nhà máy.
+- Xử lý tình huống:
+Trực BCH-PCLB sau nhi nhận thông tin sự cố phải đến ngay hiện trường để chỉ
+huy xử lý, sau khi nắm bắt tình hình báo cáo Trưởng BCH- ĐCLL Là- Ciám đếo công ty
+tình trạng sự cố
+Trực BCH-PCTB huy động cán bộ nhân viên thuộc Ban QLDA, lực lượng của
+nhà thầu tham gia hộ đê.
+Điều động xe: 01 ẻ tộ tải 1,5 tấn, xe máy, lấy vật tư, thiết bị, dụng cự tại kho
+Ban QLDA. Người được phân công chịu trá chiệm tổ chức nhận vật tư thiết bị,
+dụng cụ cá nhân tại kho Ban QLDA đua đấn hiện trường. Trường hợp văc ban.
+đêm thì điều động chiếu sáng đi động bằng máy phát chạy xăng SkW
+Điều động 6 xe tái han đến vị trí bãi trữ phía truộc tuyến đập hữ trái về thượng
+lưu 300m, chở đất, cát, đá hộc chuyển đến điểm sự cố.
+Điều động 2 tháy đào đến ngay vị trí sạt lở, 1 máy đào đến tại bãi trữ vật liệu.
+Trong thời gian 30 phủ yêu cầu lực lượng từ các vị trí phải có mặt với đầy đủ
+các trang thiết bị an toàn, dụng cụ cần thiết tại hiện trường.
+Triển khai ngay công tác:
+Mày đảo số 1: Trực chiến trên mặt đê xử lý ngay nếu có hiện tượng sạt lẻ.
+Máy đào số 2: Hỗ trợ xe tải ben chở vật liệu ra đê
+Nhóm 1: Khoảng 50 người mang theo cọc, cuốc, xông có mặt tại đê. Đông
+cọc tre, xếp rọ đá dài theo để, xếp bao cát nâng cao mặt đê.
+Nhóm 2: Khoảng 30 người đến mặt đê, tến hành xúc cất, đất đóng bao,
+chuyển đá cho nhóm 1 xếp rọ đá. Xếp bao cát nâng cao mặt đê.
+6
+Nhóm 3: Khoảng 20 người và ba cầu tháp tại bổ mòng nhà máy di chuyển
+Vật tư, thiết bị dưới bổ móng nhà mày đưa lên xe tài heo và 1 mây đáo bỗ trợ
+chuyển đến nơi an toàn.
+Nhóm 4: Khoảng 6 người trực vận hành bơm nước từ hố móng nhà máy với
+3 hệ thống bơm nước từ 2 cấp
+Cư người theo dõi mực nước sông Mã tại tuyển đập 24/24h để phòng bị sạt.
+sạt trong quá trình xử lý, thu thập, cập nhật các thông tin về khí tượng, thủy văn;
+Dự báo canh báo điễn hiển tình hình khi tượng, thủy văn giúp Ban chỉ huy PCLL
+chỉ đạo ứng phó kịp thời.
+Tỉnh huống xấu nhất nước tràn qua mặt đẻ không chặn được nữa. Triển khai.
+ngay sở án máy móc và con người đang làm việc trong vùng có nguy cơ ngập
+đến nơi an toàn.
+Trưởng ban PCUB công ty báo cáo Ủy ban nhân dân tỉnh Thanh Hóa, BCH
+phòng chống lụt, bão tỉnh Thanh Hóa, tsản PCLB huyện Quan Héa về tình trạng.
+sự cố
+* Tình huống 3: Mất điện từ lưới điện Quốc gia
+- Tình huống sự cố: Do mưa to, sắm sát phải cất diện lưới hoặc hư hòng.
+đường dây rài diện hoặc bư hòng TBA35/2,11V-350, TBA55/ 2,11V 320 cấp điện.
+tr công; Lượng nước thểm và lượng nước lưu vực tuyển công trảnh đổ vào hế
+móng nhà máy đâng cao, nguy cơ ngập hố móng máy.
+- Xử lý tình huống:
+Trục Chỉ huy PCLB nhận được thông tin sự cố có mặt ngay tại hiện trường.
+kiểm tra, giải quyết và báo cáo lãnh đạo công ty, các bên liên quan,
+Trực điện chính có lập nguồn cấp điện tử lưới BSkV quốc gia, chuyển đổi
+phương thức vận hành sang sử dụng máy phát điện dự pháng loại SKW (chủ yếu
+là điện sinh hoạt và làm việc văn phòng).
+Khởi động máy phát điện 560kA dự phòng, kiểm tra các tháng số diện áp.
+và tần số. Thực hiện trình tự thao tác cấp điện che ba hệ thống bon rú, nước hồ
+móng nhà máy.
+Phối hợp với Điện lực Quan Hóa (đơn vị quản lý vận hành hưới điện 35kV
+địa phương) xử lý nhanh chóng đưa lưới diện vào hoạt động.
+* Tinh huống 4: Mưa ta, gió lớn, gây sạt trưạt đường, đổ cây, ảnh hưởng
+đến an toàn giao thông.
+- Tỉnh huồng sự cố: Khoảng 20 giờ đêm, do ảnh hưởng bảo, mưa lớn kéo dải
+gây sạt lở đường QL 15 A đoạn quả công trưởng, cây cối bên đường ngã để làm.
+tắc nghên giao thông..
+-Xử lý tình huống:
+Trực BCH- PCL, s sau khi nhận được thông tin sự cố lập tức đến ngoy hiện
+trường xem xét và báo cáo nhanh đến Trưởng BCH-PCLB
+Điều động lực lượng vận hành sáu khi giao ca đến hiện trường để tham gia.
+xử lý.
+7
+Điều động xe trực chở người, vật tư thiết bị máy phát đi động, đèn chiếu.
+sáng, máy cưa từ khu nhà nghỉ ca và kho vật tư đến hiện trường.
+Bảo vệ đang có mặt treo biển cảnh báo cho người và phương tiện không đi
+vào vị trí sự cố
+Sau khi kiểm tra thấy không còn khả năng sạt lở tiếp theo, vết sạt ổn định
+huy động lực lượng công nhân, trực sửa chữa, trực bảo vệ, thực hiện các công
+việc sau:
+Nhém 1: Khoảng 20 người mang theo cọc, cuốc, xèng có mặt tại nơi bị sạu.
+Đóng cực tre vào chân khối đất bị sụt, đặt rọ đá và tiến hành xếp đả vào rọ, xếp
+bao cát chống sạt mái đất, chống sụt thêm.
+Nhóm 2: Khoảng 20 người đến điểm sự cố, tiến hành xúc cát, đất đóng bao,
+chuyển đá cho nhóm 1 xếp rọ đá. Xếp bao cát vào vị trí sạt.
+Nhóm 3: Khcảng 10 người lắp đặt hệ thống chiếu sáng đi động để chiếu
+sáng các vị trí thao tác.
+Dùng máy cưa cắt dọn toàn bộ cây ngã, kéo dọn toàn bộ cây ngã ra khởi.
+phạm vi đường. Dùng xèng và cuốc để đọn sơ bộ vị trí vào để cua cất cảy đổ.
+Dùng cuốc xêng để đọn sach lòng đường để lưu thông trở khi cưa cây trên.
+talu đương phải thực hiện nghiêm túc biện pháp thi công trên cao, đeo đây an
+trản và đây giữ người; cấm tuyệt đối việc đứng thao tác trong phạm vi hướng đi
+chuyển của thân cây.
+2.3- Sau mùa bão lũ:
+- Kịp thời thống kê tình hình thiệt hại chủ động khắc phục hậu quả để ổn định
+sản xuất
+- Đánh giá những việc làm được và chức làm được bổ sung phương án chủ
+động lãnh đạo, chỉ đạo kịp thời khi có lũ bão tiếp tục xảy ra.
+III. Phương tiện, dựng cự, thiết bị, lực lượng cho công tác phòng chống lựt
+bão và giảm nhẹ thiên tai 2017
+- Công ty chuẩn bị các loại vật tư, vật liệu dự phòng, dụng cụ cho công tác
+PCLB, danh mục như sau:
+Số
+Stt   Tên vật tư   Đơn vị tính   Ghi chú
+lượng
+1   Bao tải   cái   2.000   Để tại kho Ban QLDA
+2   Dầu Dieael   lít   6.000   Để tại kho Ban QLDA
+3   Cọc tre   cọc   1.500   Để tại kho Ban QLDA
+4   Bạt chống xói (4x50)   tấm   20   Để tại kho Ban QLDA
+5   Rọ đá   cái   500   Để tại kho Ban QLDA
+6   Đá hộc   m3   10.000   Tại bãi trữ bờ trái cách đê
+quai 400m
+7   Cát   m3   5.000   Tại bãi trữ bờ trái cách đê
+8
+quai 400m
+8   Áo phao cứu sinh   cái   200   Để tại kho Ban QLDA
+9   Dao chặt   cái   20   Để tại kho Ban QLDA
+10   Ga dùng cho nấu ăn   bình   2   Để tại kho Ban QLDA
+11   Xăng chạy máy phát điện   lít   50   Để tại kho Ban QLDA
+SkVA
+12   Cuốc, xẻng   cái   50   Để tại kho Ban QLDA
+13   Đèn Pin   Cái   50   Để tại kho Ban QLDA
+- Phương tiện PCLB: Huy động phương liện PCLB của Công ty tham gia thì
+công trên công trường thủy diện điện Hồi Xuân nầm trên địa bàn xã Hồi Xuân, xã
+Thanh Xuân bao gồm: Miệt x= Misnthih 36A - 142.48, 01 xe Fer: 30C-222.11; 05
+xe mô 1 2 bánh 110 CC, Cả xe tài 1,5 tấc; 03 máy đào bánh xích 1,2 m1; 01 Mây
+đào bánh xích 0,7 m2; C5 xe tải ben 12 m3; 02 máy tii D4 01 xe xác lật 1,5m đang.
+hoạt động tốt.
+- Chuẩn bị đầy đủ lương thực, thuốc men phục vụ cho 100 người trong 02
+ngày.
+Lực lượng tham gia PCLB: Lực lượng xung kích trực thuộc ban PCL3 của.
+các đơn vị thi công và Công ty luôn Lôn có mật tà 200 người, ngoài ra được sự
+quan tâm từ phía chính quyền địa phương khi cần thiết có thể huy động tực lượng
+dân quân tự vệ xã, quân đội đóng trên địa bàn huyện Quan Hóa.
+- Trong tình huống khẩn cấp có thể đề nghị Chủ tịch UBND các cấp huy
+động lực lượng, phương tiện, vật tư của các tổ chức, cá nhận trên địa bàn trành.
+quản lý để cứu hộ người, củnh và tài sản bị lũ lựt bảo uy hiếp gây hư
+hại theo đúng quy định của pháp lệnh PCLB.
+IV. Tổ chức lực lượng và phân công nhiệm vụ
+Công ty cổ phần Đầu tư và Xây dựng hiện Hối Xuân VNBCC thành lập.
+Ban chỉ huy phòng chống lự, bản và giảm nhạ thiên tai công trình Thủy điện Hồi
+Xuân theo Quyết định số 83 QĐ/VTXX MTXH ngày 09/03/2017 của Giám đốc
+công ty, có 18 thành viên chính và lực họng cán bộ công nhân viên đang tâm
+việc tại công trưởng. Ban chỉ uyy trực tiếp chỉ đạo và thực hiện phòng chống lực
+bão trong suốt mùa mua bão năm 2017.
+- Văn phòng đều hành Dự án Thủy điện Hối Xuân (Chủ đầu tư): Thường
+xuyên treo đôi dự báo trời tiết, xác định các cơn trưa, bảo có ánh hưởng trực tiếp.
+đến công trính, theo đõi mực nước trên sông Mã và dự đoàn khả năng gây tác đạt
+của nước lĩ để thông báo và yêu cầu Ban chỉ huy công trưởng, các đơn vị tài
+công đề phòng và ứng phó ngay lập tức.
+- Ban Chỉ huy công trường xây dựng:
++ Cảng ty TNHH DVTM sản xuất và Xây dựng Đông Mê Kông: Phối hợp.
+với Ban Chỉ huy phòng chống tựt bảo để chuẩn bị kịp thời các phương tiện PCLB
+9
+máy mớc đầy đủ và nhân công 20 người Trực tiếp phụ trách phòng chống lụt bão.
+dưới sự chỉ huy của Ban Chỉ huy phòng chống lụt bão.
++ Công ty cổ phần Sông Đà đà Xây dựng lực lượng xung kích PCLB, là lực
+lượng nhân cộng chính để hộ đê, nhân công thường trực 100 người.
+- Công ty cổ phần Đầu tư và Xây dựng Điện Hồi Xuân VNECO thông bác:
+và cùng phối hợp với Ủy ban nhân dân huyện Quan Hóa, chính quyền địa phương
+và nhân dân vùng thượng nguền và phía hạ đủ tuyển dập quản triệt nội dung
+phương án phòng chống lựt bảo và giảm nhự thiên tai năm 201/1 được duyệt để
+sẵn sàng triển khai khi có tình huống xảy ra.
+- Công ty cố phần Đầu tư và Xây dựng Điện Hải Xuân VNECO là đơn vị
+thường trực trong công tác PCL4 giảm nhẹ thiên tai công trình thủy điện Hồi
+Xuân chịu trách nhiệm theo dõi, cấp nhật diễn biển thời tiết, thường xuyên báo
+các kết quả thực hiện công tác PCllB về Ban Chỉ đạo Phòng chống thiên tai và
+Tìm kiếm cửu nạn tỉnh
+Điều 2. Quyết định này có hiệu lực kể từ ngày ký.
+Chánh Văn phòng UBND tỉnh, Giám đốc các Sở: Căng Thương, Nộng
+nghiệp và Phát triển nông thôn; Tài nguyên và Môi trường, Xây dựng; Bộ Chỉ
+huy Quân sự tỉnh, Công an tỉnh; Ban Chỉ huy Phòng chống thiên tai và Tâm kiểm
+câu nạn tỉnh; UBND huyện Quan Hóa; Giám đốc hông ty Cế phần Đầu tư xây
+dựng Điện Hồi Xuân, Công ty cổ phần Sông Đà 4; Thủ trưởng các ngành và tổ
+chức, cá nhân liên quan chịu trách nhiệm thì hành Quyết định này./.
+Nơi nhận:   KT. CHỦ TỊCH
+- Như Điều 2 QĐ;   PHÓ CHỦ TỊCH
+- Bộ Công Thương (để b/c);
+- Chủ tịch, các PCT UBND tỉnh (để b/c);
+- Lưu: VT, CN.
+Ngô Văn Tuấn
+10

@@ -1,0 +1,251 @@
+UỶ BAN NHÂN DÂN   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH NINH BÌNH   Độc lập - Tự do - Hạnh phúc
+Số: 10 /2013/QĐ-UBND   Ninh Bình, ngày 10 tháng 7 năm 2013
+QUYẾT ĐỊNH
+Về việc ban hành Quy chế quản lý, sử dụng Hệ thống thư điện tử trong
+họt động của các cơ quan nhà nước trên địa bàn tỉnh Ninh Bình
+CÔNG THỐN TN DIỆN TỦ CHÍNH PHủ
+UỶ BAN NHÂN DÂN TỈNH NINH BÌNH
+Cán cứ Luật Tổ chức Hội đồng nhân dân và Ủy ban nhân dân ngày 26/11/2003;
+Căn cứ Luật Công nghệ thông tin ngày 29/6/2006;
+Căn cứ Luật Giao dịch điện tử ngày 29/11/2005;
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2067 của Chính phủ Ứng
+dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước;
+Căn cứ Chỉ thị số 34/2008/CT-TTg ngày 03/12/2008 của Thủ tướng Chính
+phé về việc tăng cường sử dụng hệ thống thu điện tử trong hoạt động của cơ quan.
+nhà nước;
+Xét đề nghị của Chánh Văn phòng UBND tỉnh Ninh Bình,
+QUYẾT ĐỊNH.
+Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, sử dụng hệ
+thống thư điện tử trong hoạt động của các cơ quan nhà nước trên địa bàn tỉnh.
+Ninh Bình.
+Điều 2. Quyết định này có hiệu lực thi hành sau 10 ngày kể từ ngày ký.
+Điều 3. Chánh Văn phòng UBND tỉnh, Giám đốc các Sở, ban, ngành của
+tỉnh, Chủ tịch UBND các huyện, thành phố, thị xã, các cơ quan, cơn vị khác và cá
+nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:   TM. UỶ BAN NHÂN DÂN
+- Như Điều 3;   CHỦ TỊCH
+- Văn phòng Chính phủ (BC);
+- Website Chính phủ;
+- Bộ Thông tin và Truyền thông;
+- Cục kiểm tra VBQPPL Bộ tư pháp;
+- Đoàn đại biểu Quốc hội tỉnh;
+- Thường trực Tỉnh uỷ;   Bùi Văn Thắng
+- Thường trực HĐND tỉnh;
+- Chủ tịch, các Phó chủ tịch UBND tỉnh;
+- Công báo tỉnh Ninh Bình, Cổng TTĐT tỉnh;
+- Lua VT, VP6, VP7,VP8, TTTH-CB.
+KH/
+UỶ BAN NHÂN DÂN   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH NINH BÌNH   Độc lập - Tự do - Hạnh phúc
+QUY CHẾ
+Quản lý, sử dụng hệ thống thư điện tử trong hoạt động của các cơ quan nhà
+nước trên địa bàn tỉnh Ninh Bình
+(Ban hành kèm theo Quyết định số 10/2013/QĐ-UBND
+ngày 10 tháng 7 năm 2013 của Ủy ban nhân dân tỉnh Ninh Bình )
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng
+1. Phạm vi điều chính: Quy chế này qui định việc quản lý, vận hành và sử
+dụng bệ thống thư điện tử tỉnh Ninh Bình trong hoạt động của các cơ quan Nhà
+nước trên địa bàn tỉnh Ninh Bình.
+2. Đối tượng áp dụng: Quy chế này áp dụng đối với các cơ quan hành chính.
+nhê nước, đơn vị sự nghiệp công lập; đơn vị vi trang (sau đây gọi chung là cơ
+quan, tô chức) trên địa bàn tỉnh Ninh Bình và cán bộ, công chức, viên chức (sau
+đây viết tắt là CCVC) trong các cơ quan, tổ chức đó.
+Điều 2. Hệ thống thư điện tử tỉnh Ninh Bình
+1. Hệ thống thư điện tử tỉnh Ninh Bình (sau đây viết tắt là HTTĐT) là thành
+phần trong hệ thống thông tin hành chính diện tử tỉnh Ninh Bình, là phương tiện
+góp cho các cơ quan, tổ chức; các cán bộ, công chức, viên chức sử dụng để trao
+đổi, gửi nhận thông tin phục vụ hoạt động điều hành, tác nghiệp của cơ quan nhà
+nước trên môi trường mạng một cách nhanh chóng và thuận lợi.
+HTTĐT tỉnh Ninh Bình có địa chỉ trên Intenet: htp/matl ninhbinh.gov.xn.
+2. HT TDT tỉnh Ninh Bình được cải đặt trên máy chủ (Mail Server) tại.
+Trung tâm tích hợp dữ hệu tỉnh Ninh Bình.
+Điều 3. Quản lý Nhà nước về Hệ thống thư điện tử
+1. Ủy ban nhân dân (UBND) tỉnh thống nhất quản lý HTTĐT tỉnh Ninh Bình;
+2. Văn phòng UBND tỉnh chịu trách nhiệm giúp UBND tỉnh thực hiện nhiệm.
+vụ quản lý, duy trì vận hành HTTĐT theo qui định của Quy chế này và các qui
+định khác của pháp luật, bảo đâm cho BTTĐT luôn hoạt động thông suốt, an toàn.
+và đúng mục đích.
+Chương II
+TỔ CHỨC HỆ THỐNG THƯ ĐIỆN TỬ
+Điều 4. Định dạng địa chỉ hộp thư
+Định dạng địa chỉ hộp thư điện tử tỉnh Ninh Bình gồm 2 loại:
+1. Hộp thư cho các cơ quan, tổ chức tgọi chung là hộp thư công vụ): Là hộp
+thư dùng chung của một cơ quan, tổ chức được quy định đặt tên như sau:
+iembanvi@ianhbinh.gov,vn trong đó: tendomi là viết tắt tên cơ quan, tổ chức được
+cấp hộp thư (ví dự: Sở Kế hoạch và Đầu tư có địa chỉ hộp thu như sau:
+kh&dt@ninhbinh.gov.vn )
+2. Hộp thư cá nhân là hộp thư dùng riêng cho từng CCVC có định đạng như sau:
+Tenhodem. tendonvitàninkhinh.gov.vn trong đó: tenhodem được đặt theo.
+nguyên tắc tên người sử dụng viết bằng tiếng Việt không dấu + chữ cái đầu của họ
++ chữ cái đầu của tên đệm, tendonv là tên của đơn vị được viết tắt bằng tiếng Việt
+không đấu), ngăn cách giữa tên bọ đệm và tên cơ quan bới đấu chẩm (ví dự: Trần
+Văn Hùng, Sở Kế hoạch & Đầu tư có địa chỉ hộp thư như sau:
+hungtv.kh&đ@ninhbinh.gov.vn)
+Trong trường hợp cơ quan, tổ chức có hei hoặc hơn hai CCVC trùng họ, chữ
+đệm và tên thì quy ước thêm số thứ tự vào liên sau tenhodem.
+Điều 5. Cấp mới, thay đổi, huỷ bỏ hộp thư
+1. Các cơ quan, tổ chức, cá nhân tham gia vào HTTDT của tỉnh, khi có.
+nâu cấu cấp mới, thay đổi về thông tin hộp thư điện tử phải có văn bản gửi Văn.
+phòng UBND tỉnh đề nghị cấp mới, thay đổi hộp thư; Văn phòng UBND tỉnh có
+trách nhiệm cập nhật kịp thời các thông tin thay đổi vào danh bạ thư điện tử của
+tỉnh để đảm bảo tính thống nhất quản lý người sử dụng trong hệ thống cơ sở dữ
+liệu thư điện tử.
+2. Hộp thư điện tử của cơ quan, tổ chức, cá nhân sẽ bị xửa bỏ khởi HT TĐT
+của tỉnh trong các trường hợp sau:
+a) Không đưa vào sử dụng sau 6 tháng kể từ ngày được cấp:
+b) Vì phạm các khoản tại Điều 8 của Quy chế này.
+Điều 6. Lưu trữ, quản lý danh bạ thư điện tử
+Mọi thông tin về đơn vị, cá nhân khi đăng ký sử dụng HTTĐT được lưu trữ
+- trong cơ sở dữ liệu tại Trung tâm Tích hợp dữ liệu của tỉnh gọi là danh bạ thc điện.
+tử của tỉnh. Danh bạ thư điện tử của tỉnh được công bố công khai trên Cổng thông
+tin điện tử tỉnh Ninh Bình.
+02
+Chương III
+SỬ DỤNG HỆ THỐNG THƯ ĐIỆN TỬ
+Điều 7. Thông tin trao đổi qua HTTĐT, tiêu chuẩn áp dụng và tính
+pháp lý của nội dung thông tin
+1. Thông tin trao đổi qua HTTĐT: Bao gồm các dạng như vận bản (có cấu
+trúc, phi cấu trúc), âm thanh, hình ảnh:
+x) Khi phát hành văn bản giấy theo phương thức truyền thống, các cơ quan tổ.
+chức, cá nhân có trách nhiện: phải gửi đồng thời bản điện tử (tương ứng nội dang văn
+bản giấy đã được ban hành chính thức) vào địa chí thư diện tử của cơ quan có tên
+trong phần “hơi nhân” hoặc cung cấp địa chỉ để có thể liên lạc, nhận văn bản điện tử.
+b) Văn bản gửi nhận qua HTTĐT gồm các loại: Lịch công tác của cơ quan,
+tổ chức; các tài liệu trao đối phục vụ công việc, tài liệu phục vụ các cuộc họp,
+những văn bản gửi đến những cơ quan để biết, để báo các (trừ những văn bản mật
+và những nơi đã triển khai các hệ thống thông tin điện tử khác hỗ trợ). Khuyến.
+khích tận dụng hệ thống thư điện tử để gửi, nhận các loại văn bản: Thư mời, công
+văn, báo cáo, những thông tin chỉ đạo, điều hành của lãnh đạo và các văn bản khéc,
+Những văn bản được chuyển qua HTTĐT phù hợp với quy định của pháp luật và
+giao dịch điện tử có giá trị pháp lý tương đương với văn bản giấy tròng giao dịch.
+giữa các cơ quan nhà nước và cơ quan gửi không phải gửi thêm văn bản giấy,
+c) Sử dụng HTTDT để trao đổi các loại văn bản, tài liệu với người dân và
+doanh nghiệp khi cung cấp các dịch vụ công;
+2. Thống nhất sử dụng bộ mã ký tự chữ Việt theo tiêu chuẩn TCNN
+6909-2001 và dùng bộ gỡ chữ tiếng Việt lmicode để thể hiện các nội dung, văn bản
+trao đổi trong HTTĐT tỉnh Ninh Bình.
+3. Dữ liệu âm thanh, hình ảnh, tệp tải trao đổi qua HTTĐT phải tuân thủ các.
+tiêu chuẩn về ứng dụng công nghệ thông tin trong cơ quan nhà nước, được qay
+định tại Tuông tư Số: 01/2011/TT-BTTTT ngày 04 tháng 01 năm 2011 của Bộ
+Thông tin và Truyền thông công bố Danh mục tiêu chuẩn kỹ thuật về ứng dụng
+công nghệ thông tin trong cơ quan nhà nước.
+Điều 8. Những hành vi bị cấm
+Lợi dụng HTTĐT để gửi nhận:
+1. Các thông tin có nội dung xấu gây phương hại đến an ninh quốc gia, trật
+tự, an toàn xã bỏi; tuyên truyền kích động bao lực, đổi trụy, tội ác, tệ nạn xã hội,
+mê tín đị đoan; phá hoại thuần phong mỹ tục của dân tộc.
+2. Thông tin tiết lộ bí mật nhà nước, bí mật quân sự, an ninh, kinh tế, đối
+ngoại và những bí mật khác đã được pháp luật quy định.
+3. Thông tin xuyên tạc, vu khống, xúc phạm uy tán của tổ chức; danh dự.
+nhân phẩm của công dân.
+0.3
+4. Quảng bá, tuyên truyền, mua bán hàng hoá, dịch vụ thuộc danh mục cấm
+theo quy định của pháp luật.
+Điều 9. Kiểm tra thư và phản hồi thư
+Các cơ quan, tổ chức và CCVC đã đăng ký sử dụng HTTĐT, hàng ngày phải
+thường xuyên truy cập vào hộp thư điện tử để nhận và hồi đáp kịp thời thư điệu tử
+của các cơ quan, tổ chức, người dân và doanh nghiệp gửi đến.
+Chương IV
+TRÁCH NHIỆM QUẢN LÝ, DUY TRI HOẠT ĐỘNG
+HỆ THỐNG THƯ ĐIỆN TỬ
+Điều 10. Trách nhiệm của Văn phòng UBND tỉnh
+1. Tổ chức triển khai thực hiện các qui định của Bộ Thông tin và Truyền
+thông và của UBND tỉnh liên quan đến công tác quản lý, sử dụng HTTĐT.
+2. Thực hiện chế độ nâng cấp, phát triển và mở rõng hạ tầng nhằm đảm bảo
+tính ổn định, tốc độ trao đổi và dung lượng hộp thư của HTTĐT.
+3. Triển khai các chính sách bảo mật đảm bảo an ninh, an toàn cho HTTĐT
+tỉnh Ninh Bình.
+4. Xây dựng và triển khai kế hoạch đào tạo, tập hoấn kỹ năng khai thân, sử
+dụng thư điện tử cáo CCVC của các cơ quan, tổ chức nhằm đảm bảo việc sử dụng.
+HTTĐT luôn thông suốt và đạt hiệu quả.
+5. Quản lý Danh bụ thư điện tử, tạo lập, sửa đổi, loại bỏ và quản lý quyền
+truy cập sử dụng thư điện tử của các cơ quan, tổ chức và CCVC trên HTTDT.
+6. Căn cứ Kế hoạch hàng năm, lập dự toán kinh phí cho việc quản lý, xây
+dựng, phát triển và bảo trì HTTĐT trình UBND tỉnh xem xét, phê duyệt.
+7. Báo cáo định kỳ, đột xuất về hoạt động của HTTĐT.
+8. Chủ trì phối hợp với Sở Thông tin và Truyền thông xem xét, để xuất
+UBND tỉnh biểu dương, khen thưởng các đơn vị, cá nhân thường xuyên sử dụng
+hộp thư điện tử để trao đổi công việc.
+Điều 11. Trách nhiệm của Sở Thông tin và Truyền thông
+1. Hướng dẫn, theo dõi và đôn đốc quá trình sử dựng hệ thống thư điện tử trong
+hoạt động của các cơ quan nhà nước trên phạm vi toàn tỉnh. Thực hiện chức năng thanh.
+tra, kiểm tra hoạt động của HTTĐT và xử lý các vi phạm theo qui định của pháp luật.
+2. Tổ chức triển khai công tác vận động, tuyên truyền sử dụng hệ thống thư
+điện tử trong hoạt động của cơ quan nhà nước.
+Điều 12. Trách nhiệm của Thủ trưởng các cơ quan, tổ chức
+1. Quản lý, chỉ đạo việc sử dụng hẹp thư diện tử đúng mục đích, có hiệu quả và -
+chịu mại trách nhiệm vế nội dung thông tin, bì mật tài khoản hộp thư điện tử công vụ.
+
+2. Đôn đốc việc sử dụng HTĐT tại cơ quan, tổ chức minh quản lý trong gửi
+nhận văn bán, tài liệu, trao đổi công việc với các cơ quan, tổ chức, CCVC và với người
+dân, doanh nghiệp, nhất là trong công tác cung cấp các dịch vụ công.
+3. Ban hành quy chế sử dụng thư điện tử tại cơ quan, tổ chức minh quản lý.
+Điều 13. Trách nhiệm của CCVC sử dụng hộp thư điện tử
+1. Hộp thư điện tử của CCVC được cấp để sử dụng trao đổi thông tin phục vụ
+tác nghiệp hàng ngày, hỗ trợ thực hiện nhiệm vự và công tác chuyên môn được giao;
+khi được cấp hộp thư điện tử và mật khẩn (paswerd), CCVC phải truy cập vào hộp
+thư và thay đổi mật khẩu để đảm bảo an toàn, bảo mật của hộo thư điện tử được cấp.
+2. Sử dụng HTTĐT đúng qui trình, đứng mục đích; thực hiện nghiêm chế độ bí
+mặt thông tin và chịu trách nhiệm về thông tin của mình khi gửi, nhận qua HTTĐT.
+3. Quản lý và lưu trữ các thư điện tử cá nhân bảo đảm an toàn, bảo mật thông.
+tin trong quá trình sử dụng.
+4. Không truy nhập vào hộp thư điện tử cửa người khác và không để người
+khác sử dụng hộp thư điện tử của mình.
+5. Nghiêm cẩm việc cung cấp hoặc để lộ mật khẩu truy cập vào hộp thu điện tử
+cá nhân, hộp thư điện tử công vụ. Có trách nhiệm bảo quản mật khẩu để đảm bác an.
+toàn cho hộp thư được cấp và HTTĐT của tỉnh. Trường hợp bị lộ hoặc quên mật khẩu
+phải báo cáo Thủ trưởng cơ quan mình và thông báo cho Văn phòng UBND tỉnh Ninh
+Bình thông qua Trung tâm Tin học - Công báo để được cấp lại mật khẩu mới.
+6. Không được sử dụng bất kỳ giải pháp, công cự kỹ thuật nào để phát lán.
+virus máy tính thông qua hộp thư điện tử của minh.
+7. Khi phát hiện các văn bản, tài liệu trong hộp thư có chía tác nội dung thuộc
+danh mục bí mật Nhà nước thi phải khẩn trương báo cáo với Thủ trưởng cơ quan, tổ
+chúc minh. Thủ trưởng cơ quan, tổ chức nơi phát hiện các tài liệu mặt phải thông báo
+cho cơ quan quản lý hệ thống thu điện tử và lãnh đạo cơ quan noi gửi di các văn bản,
+tài liệu đó để kịp thời gỡ bỏ, đồng thời phải thông báo cho các cơ quan chức năng xem
+xét mức độ lộ, lọt thông tin, tài liệu mật để tìm biện pháp khắc phục, xử lý.
+8. Khi phát hiện những thư điện tử không đúng mục đích, thư điện tử có vi
+rứt, thư rác phải xoả bỏ; thư điện tử có chứa mã độc nguy cơ phát tán lớn phải bảo.
+cáo Thủ trưởng cơ quan và Trung tâm Tin học - Công báo thuộc Văn phòng UBND
+tỉnh Ninh Bình để phối hợp xử lý kịp thời; trường hợp có lãi hoặc gặp sự cố về sử
+dụng hộp thư điện tử phải thông bác về Vân phòng UBND tích qua Trung tâm Tru
+học - Công bảo để khắc phục, sửa chữa.
+Điều 14. Trách nhiệm của cá nhân quản lý hộp thư điện tử công vụ
+1. Hộp thư điện tử công vụ là hộp thư cấp cho các cơ quan, tổ chức để trao.
+- đối công tác, do Thủ trưởng các cơ quan, tổ chức quản lý hoặc uỷ quyền bằng văn
+bản cho người có trách nhiệm trong đơn vị quản lý.
+
+2. Khi có thay đổi, Thủ trưởng cơ quan, tổ chức phải bản giao địa chỉ hộp
+thư, mật khẩu và toàn bộ nội dung dữ liệu có trong bộn thư điện tử công vụ cho.
+người có trách nhiệm tiếp nhận.
+3. Khi nhận được thư điện tử gửi vào hộp thư điện tử công vụ thì Thủ trưởng
+cơ quan, tổ chức (hoặc người được uỷ quyền) phải có trách nhiệm xử lý, tổ chức
+thực hiện và hồi đáp kịp thời thư điện tử cho các cơ quan, tổ chức, người dân và
+doanh nghiệp gửi đến.
+Chương V
+TỔ CHỨC THỰC HIỆN
+Điều 15. Công tác kiểm tra
+Các cơ quan, tổ chức phải thường xuyên kiểm tra, đánh giá việc sử dụng hóp.
+thư điện tử của CCVC trong công việc và coỉ đây là trách nhiệm, quyền bạn của
+CCVC trong việc nâng cao hiệu quả hoạt động, thực hành tiết kiệm. Xem xét đưa
+hoạt động này vào các phong trào thi đua, bình xét khen thưởng.
+Điều 16. Công tác báo cáo
+Các cơ quan, tổ chức hàng năm báo cáo kết quả thực hiện Quy chế này theo.
+định kỳ hoặc đột xuất khi có yêu cầu gửi về Văn phòng UBND tỉnh Ninh Bình để
+tổng hợp báo cáo UBND tỉnh.
+Điều 17. Khen thưởng và xử lý vi phạm
+1. Các tập thể và cá nhân có thành tích xuất sắc trong việc thực hiện Quy chế
+này được xét khen thưởng theo quy định.
+2. Trường hợp vi phạm Quy chế này thì tuý theo tính chất, mức độ vi phạm.
+sẽ bị xử lý kỷ luật theo quy định của pháp luật.
+Điều 18. Sửa đổi, bổ sung Quy chế
+Trong quá trình thực hiện, nếu có nội dung nào chưa hợp lý, các cơ quan,
+đơn vị, tổ chức, cá nhân phản ánh về Văn phòng UBND tỉnh tổng hợp báo cáo
+UBND tỉnh để sửa đổi, bổ sung cho phù hợp./.
+T.M UỶ BAN NHÂN DÂN
+CHỦ TỊCH
+Bùi Văn Thắng
+

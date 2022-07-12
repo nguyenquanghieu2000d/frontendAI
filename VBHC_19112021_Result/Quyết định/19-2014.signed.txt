@@ -1,0 +1,485 @@
+Ký bởi: Cổng Thông tin điện tử Chính phủ
+Email: thongtinchinhphu@chinhphu.vn
+Cơ quan: Vặn phòng Chính phủ
+Thời gian ký: 07.03.2014 16:33:46 +07:00
+
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Số: 19/2014/QĐ-TTg
+Hà Nội, ngày 05 tháng 3 năm 2014
+
+QUYẾT ĐỊNH
+Về việc áp dụng Hệ thống quản lý chất lượng
+theo Tiêu chuẩn quốc gia TCVN ISỐ 9001-2008 vào hoạt động
+của các cơ quan, tổ chức thuộc hệ thống hành chính nhà nước
+Căn cứ Luật tổ chức Chính phủ ngày 25 tháng 12 năm 2001;
+Căn cứ Luật tiêu chuẩn và quy chuẩn kỹ thuật ngày 29 tháng 6 năm 206đ;
+Theo đề nghị của Bộ trưởng Bộ Khoa học và Công nghệ.
+Thủ tướng Chính phủ ban hành Quyết định về việc áp dụng Hệ thống.
+quản lý chát lượng theo Tiêu chuẩn quốc gia TCVN I80 9001/2008 vào hoạt:
+động của các cơ quan, tổ chức thuộc hệ thống hành chính nhà nước.
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Quyết định này quy định về việc xây dựng, áp dụng Hệ thống quản lý
+chất lượng theo Tiêu chuẩn quốc gia TCVN ISO 9001:2008 (sau đây gọi tắt
+là Hệ thống quản lý chất lượng) vào hoạt động của các cơ quan, tổ chức
+thuộc hệ thống hành chính nhà nước (sau đây gọi tất là cơ quan), bao gồm:
+Xây dựng, áp dụng, công bố Hệ thống quản lý chất lượng phù hợp Tiêu
+chuẩn quốc gia TCVN 180 9001/2008 và việc duy trì, cài tiến Hệ thống
+quản lý chất lượng.
+Điều 2. Đối tượng áp dụng
+1. Các cơ quan sau dây phải xây dựng và áp dụng Hệ thống quản lý chất lượng.
+a) Bộ, cơ quan ngang Bộ, Bảo hiểm Xã hội Việt Nam (sau đây gọi tắt là
+các Bộ, ngành);
+b) Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương (sau đây gọi
+tắt là Ủy ban nhân dân cấp tỉnh), Ủy ban nhân dân quận, huyện, thị xã, thành
+phố thuộc tỉnh (sau đây gọi tắt là Ủy ban nhân dân cấp huyện);
+c) Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh, cơ quan chuyên
+môn thuộc Ủy ban nhân dân cấp huyện.
+2. Khuyến khích các cơ quan, đơn vị sau đây xây dựng và áp dụng Hệ
+thống quản lý chất lượng theo quy định tại Quyết định này:
+a) Cơ quan đại diện ngoại giao và cơ quan đại diện lãnh sự của Việt Nam.
+ở nước ngoài;
+b) Ngân hàng Chính sách Xã hội, Ngân hàng Phát triển Việt Nam;
+c) Ủy ban nhân dân xã, phường, thị trấn;
+d) Đơn vị sự nghiệp công lập.
+Điều 3. Các yên cầu đối với việc xây dựng và áp dụng Hệ thống quản
+lý chất lượng
+1. Phải xây dựng và áp dụng Hệ thống quản lý chất lượng đối với các
+hoạt động liên quan đến thực hiện thủ tục hành chính cho tổ chức, cá nhân.
+2. Bảo đảm sự tham gia của Lãnh đạo, các đơn vị và cá nhân có liên
+quan trong quá trình xây dựng và áp dụng Hệ thống quản lý chất lượng.
+3. Thực hiện đúng các quy định của pháp luật về bảo vệ bí mật Nhà nước
+trong quá trình xây dựng và áp dụng Hệ thống quản lý chất lượng.
+Chương II
+XÂY DỤNG, ẤP DỤNG HỆ THỐNG QUẢN LÝ CHẤT LƯỢNG
+Điều 4. Các bước xây dựng và áp dụng Hệ thống quản lý chất lượng
+Việc xây dựng và áp dụng Hệ thống quản lý chất lượng được thực hiện.
+theo bốn bước cơ bản như sau:
+1. Xây dựng Hệ thống quản lý chất lượng:
+Căn cứ Tiêu chuẩn quốc gia TCVN ISO 9001:2008 và mô hình khung
+Hệ thống quản lý chất lượng, cơ quan được quy định tại Điều 2 Quyết định
+náy xây dựng hệ thống văn bản, tài liện và các quy trình xử lý công việc hợp.
+lý để thực hiện chức năng, nhiệm vụ và quyền hạn được giao.
+2. Áp dụng Hệ thống quản lý chất lượng:
+a) Áp dụng trên thực tế hệ thống văn bản, tài liệu và quy trình khi được
+Người đứng đầu cơ quan phê duyệt;
+b) Thực hiện đánh giá nội bộ, khắc phục các điểm không phù hợp;
+2
+c) Tiến hành xem xét của Lãnh đạo, cải tiến Hệ thống quản lý chất
+lượng, bảo đảm phù hợp với các yêu cần của Tiêu chuẩn quốc gia TCVN ISO
+9001-2008, quy định của pháp luật và thực tế tại cơ quan;
+đ) Người đứng đầu cơ quan xác nhận hiệu lực của Hệ thống quản lý chất lượng.
+3. Công bố Hệ thống quản lý chất lượng phù hợp Tiêu choẩn quốc gia
+TCVN IsO 9001:2008:
+Cơ quan áp dụng Hệ thống quản lý chất lượng công bố Hệ thống quản lý.
+chất lượng phù hợp Tiêu chuẩn quốc gia TCVN ISO 9001/2008 (theo mẫu
+quy định tại Phụ lục I ban hành kèm theo Quyết định này) và thông báo bằng
+văn bản đến đơn vị chủ trì quy định tại Khoản 3 hoặc Khoản 4 Điều 12 Quyết
+định này để theo dõi, tổng hợp; niêm yết tại trụ sở cơ quan và đăng tải trên
+trang thông tin điện tử của cơ quan (nếu có).
+4. Duy trì, cái tiến Hệ thống quản lý chất lượng:
+a) Cập nhật các thay đổi của văn bản quy phạm pháp luật liên quan đến
+hoạt động xử lý công việc vào Hệ thống quản lý chất lượng để áp dụng trong
+thời gian chậm nhất là ba tháng kể từ khi văn bản quy phạm pháp luật có hiệu
+lực thi hành;
+b) Thực hiện đánh giá nội bộ và xem xét của Tãnh đạo tối thiểu một năm
+một lần để bảo đảm Hệ thống quản lý chất lượng phù hợp với các yêu cầu của
+Tiêu chuẩn quốc gia TCVN ISO 9001:2008, quy định của pháp luật và thực tế
+công tác tại cơ quan;
+c) Thực hiện công bố lại theo quy định tại Khoản 3 Điều này khi có sự
+điều chỉnh, mở rộng, thu hẹp phạm vi áp dụng Hệ thống quản lý chất lượng.
+Trong quá trình xây dựng, áp dụng, duy trì và cải tiến Hệ thống quản lý
+chất tượng, cơ quan áp dụng Hệ thống quản lý chất lượng không thuê các tổ
+chức chứng nhận độc lập đánh giá (chứng nhận, giám sát, điều chỉnh, mữ
+rộng, thu hẹp phạm vi áp dụng, chứng nhận lại).
+Trường hợp Tiêu chuẩn quốc gia TCVN ISO 900 112008 được soát xét.
+thay đổi và được Bộ Khoa học và Công nghệ công bố thì áp dụng theo hưởng
+dẫn của Bộ Khoa học và Công nghệ.
+Điều 5. Mô hình khung Hệ thống quản lý chất lượng
+1. Mô hình khưng Hệ thống quản lý chất lượng bao gồm: Bệ thống văn
+bản mẫu, hướng dẫn xác định danh mục các thủ tục hành chính (nếu có) và
+quy trình xử lý công việc mẫu trong cơ quan.
+3
+2. Các Bộ, ngành có trách nhiệm xây dựng, sửa đổi, bổ sung và công bố
+mô hình khung Hệ thống quản lý chất lượng cho các cơ quan được tổ chức.
+theo hệ thống ngành dọc.
+3. Bộ Khoa học và Công nghệ có trách nhiệm xây dựng, sửa đổi, bổ sung
+và công bố mô hình khung Hệ thống quản lý chất lượng cho các cơ quan tại
+địa phương.
+4. Mô hình khung Hệ thống quản lý chất lượng đã công bố trước đây
+không trái với các quy định tại Quyết định này được tiếp tục thi hành.
+Điều 6. Kế hoạch triển khai
+Bộ, ngành, Ủy ban nhân dân cấp tỉnh rà soát tình hình thực hiện, lập, sửa
+đổi, bổ sung và phê duyệt kế hoạch triển khai, dự trì kinh phí để thực hiện các
+hoạt động: Từ vấn, xây dựng, áp dụng, duy trí và cải tiến Hệ thống quản lý
+chất lượng tại các cơ quap, đơn vị thuộc Bộ, ngành, địa phương; tuyên truyền,
+đào tạo; kiểm tra (tối thiểu một năm một lắn) đối với việc xây dựng, áp dụng,
+duy trì và cái tiến Hệ thống quản lý chất lượng tại các cơ quan, đơn vị thuộc
+Bộ, ngành, địa phương; thuê tổ chức chứng nhận (nếu cần) để phối hợp kiểm
+tra và các hoạt động khác có liên quan.
+Điều 7. Thuê tổ chức tư vấn, chuyên gia tư vấn độc lập.
+1. Cơ quan áp dụng Hệ thống quản lý chất lượng có thể thuê tổ chức tư.
+vấn hoặc chuyên gia tư vấn độc lập hướng dẫn, tư vấn trong việc xây dựng và
+áp dụng Hệ thống quản lý chất lượng.
+2. Tổ chức tư vấn chỉ được thực hiện tư vấn khi đáp ứng các điều kiện.
+sau đây:
+a) Được thành lập theo quy định của pháp luật, có chức năng hoạt động
+trong lĩnh vực tư vấn xây dựng Hệ thống quản lý chất lượng;
+b) Có Hệ thống quản lý chất lượng phù hợp tiêu chuẩn hiện hành;
+c) Có kinh nghiệm trong lĩnh vực tư vấn xây dựng Hệ thống quản lý chất lượng:
+đ) Có ít nhất 05 chuyên gia tư vấn đáp ứng điều kiện theo quy định tại.
+Khoản 3 Điều này;
+đ) Đã đăng ký tham gia hoạt động tư vấn theo quy định của Bộ Khoa học
+và Công nghệ và được cấp Giấy xác nhận đủ điều kiện tư vấn.
+3. Chuyên gia tư vấn chỉ được thực hiện tư vấn khi đáp ứng các điều
+kiện sau đây:
+a) Đã tốt nghiệp đại học;
+4
+b) Đã được đào tạo và cấp chứng chỉ về tư vấn xây dựng Hệ thống quản
+lý chất lượng;
+c) Đã được đào tạo và cấp chứng chỉ về quản lý hành chính nhà nước;
+đ) Có đạo đức tốt, có năng lực hành vi dân sự đầy đủ;
+đ) Có thâm niên công tác từ 03 năm trở lên và có kinh nghiệm tư vấn xây.
+dựng Hệ thống quản lý chất lượng.
+Chuyên giạ tư vấn đáp ứng các điều kiện nêu trên sẽ được cấp Thê
+chuyên gia tư vấn.
+4. Chuyên gia tư vấn độc lập chỉ được thực hiện tư vấn khi đáp ứng các
+điều kiện quy định tại Khoản 3 Điều này, đã đăng ký tham gia hoạt động tư
+vấn theo quy định của Bộ Khoa học và Công nghệ và được cấp Giấy xác nhận.
+đủ điều kiện tư vấn, Thẻ chuyên gia tư vấn độc lập.
+Điều 8. Thuê tổ chức chứng nhận
+1. Bộ, ngành, Ủy ban nhân dân cấp tỉnh có thể thuê tổ chức chứng nhận
+phối hợp kiểm tra hoạt động xây dựng, áp dụng, duy trì và cải tiến Hệ thống
+quản lý chất lượng tại các cơ quan, đơn vị thuộc Bộ, ngành, địa phương (trong
+trường hợp cần thiết), nhằm dánh giá một cách có hệ thống, khách quan để
+xác định mức độ phù hợp đối với các yêu cầu được quy định trong Tiêu chuẩn
+quốc gia TCVN ISO 9001:2008.
+2. Tổ chức chứng nhận chỉ được thực hiện đánh giá khi đáp ứng các điều:
+kiện sau đây:
+a) Được thành lập theo quy định của pháp luật, có chức năng hoạt động.
+trong lĩnh vực chứng nhận;
+b) Đã đăng ký lĩnh vực hoạt động chứng nhận theo quy định của pháp luật;
+c) Có kinh nghiệm trong lĩnh vực đánh giá chứng nhận Hệ thống quản lý.
+chất lượng;
+d) Có ít nhất 05 chuyên gia đánh giá đáp ứng điều kiện theo quy định tại
+Khoản 3 Điều này.
+đ) Đã đăng ký tham gia hoạt động đánh giá theo quy định của Bộ Khoạ
+học và Công nghệ và được cấp Giấy xác nhận đủ điều kiện đánh giá.
+3. Chuyên gia đánh giá chỉ được thực hiện đánh giá khi đáp ứng các điều:
+kiện sau đây:
+a) Đã tốt nghiệp đại học;
+5
+b) được đào tạo và cấp chứng chỉ về đánh giá Hệ thống quản lý chất lượng:
+c) Đã được đào tạo và cấp chứng chí về quản lý hành chính nhà nước;
+d) Có đạo đức tốt, có năng lực hành vi dân sự đầy đủ;
+đ) Có thâm niên công tác từ 05 năm trở lên và có kinh nghiệm đánh giá
+Hệ thống quản lý chất lượng.
+Chuyên gia đánh giá đáp ứng các điều kiện nêu trên sẽ được cấp Thẻ
+chuyên gia đánh giá.
+Điều 9. Kiểm tra hoạt động xây dựng, áp dụng, duy trì và cải tiến Hệ
+thống quản lý chất lượng
+Bộ, ngành, Ủy ban nhân dân cấp tỉnh thực hiện việc kiểm tra hoạt động
+xây dựng, áp dụng, duy trì và cải tiến Hệ thống quản lý chất lượng tại các cơ
+quan, đơn vị thuộc Bộ, ngành, địa phương theo các quy định tại Quyết định
+này, quy định tại Tiêu chuẩn quốc gia TCVN Iso 9001/2008 và quy định.
+khác của pháp luật có liên quan nhằm bảo đảm tính hiệu lực và hiệu quả của
+việc xây dựng và áp dụng Hệ thống quản lý chất lượng.
+Chương III
+TỔ CHỨC THỰC HIỆN
+Điều 10. Kinh phí xây dựng và áp dụng Hệ thống quản lý chất lượng.
+Kính phí xây dựng và áp dụng Hệ thống quản lý chất lượng bao gồm các
+nguồn: Ngân sách nhà nước hằng năm, nguồn tài trợ, viện trợ và các nguồn
+thu hợp pháp khác (nếu có) của Bộ, ngành, địa phương theo quy định của Bộ
+Tài chính.
+Điều 11. Nhiệm vụ của Người đứng đầu cơ quan xây dựng và áp
+dụng Hệ thống quản lý chất lượng
+1. Xây dựng, áp dụng, duy trì và cải tiến Hệ thống quản lý chất lượng
+trong hoạt động của cơ quan và chịu trách nhiệm về kết quả thực hiện.
+2. Cơ quan xây dựng và áp dụng Hệ thống quản lý chất lượng đối với các
+hoạt động nội bộ, hoạt động khác của cơ quan nếu xét thấy cần thiết để nâng
+cao hiệu quả công tác của cơ quan.
+3. Tổ chức đào tạo cán bộ, công chức, viên chức, người lao động về việc.
+xây dựng và áp dụng Hệ thống quản lý chất lượng.
+4. Nghiên cứu, ứng dụng công nghệ thông tin vào hoạt động xây dựng.
+áp dụng, duy trì và cải tiến Hệ thống quản lý chất lượng.
+6
+Điều 12. Nhiệm vụ của Bộ, ngành, Ủy ban nhân dân cấp tỉnh
+1. Tổ chức việc xây dựng và áp dụng Hệ thống quản lý chất lượng theo.
+quy định tại Quyết định này; chịu trách nhiệm về kết quả thực hiện và bảo
+đảm hiệu lực, hiệu quả của việc xây dựng, áp dụng, duy trì Hệ thống quản lý
+chất lượng tại Bộ, ngành, địa phương.
+2. Đôn đốc, kiểm tra việc thực hiện Quyết định này tại các cơ quan, đơn
+vị thuộc Bộ, ngành, địa phương: khen thưởng hoặc trình cơ quan có thẩm.
+quyền khen thưởng các tập thể, cá nhân có thành tích trong quá trình thực.
+hiện Quyết định này theo quy định của pháp luật về thi đua, khen thưởng và
+xử lý hành vi vi phạm Quyết định này theo quy định của pháp luật.
+3. Bộ, ngành giao một đơn vị chủ trì giúp tổ chức thực hiện Quyết định
+này. Đơn vị chủ trì thực hiện các nhiệm vụ sau:
+a) Lập, sửa đổi, bổ sung kế hoạch triển khai và dự trù kinh phí thực hiện Quyết
+định này theo quy định của Bộ Tài chính, trình Lãnh đạo Bộ, ngành phê duyệt;
+b) Theo dõi, đôn đốc, kiểm tra tiến độ triển khai xây dựng và áp dụng Hệ
+thống quản lý chất lượng của các cơ quan, đơn vị thuộc Bộ, ngành theo kể
+hoạch đã được phê duyệt;
+c) Xây dựng kế hoạch và tổ chức các lớp đào tạo về việc xây dựng, áp.
+dụng, duy trì và cải tiến Hệ thống quản lý chất lượng và nghiệp vụ kiểm tra
+cho cán bộ, công chức, viên chức, người lao động tại các cơ quan, đơn vị
+thuộc Bộ, ngành;
+d) Hằng năm, tổ chức kiểm tra việc xây dựng, áp dụng, duy trì và cải tiến.
+Hệ thống quản lý chất lượng tại các cơ quan, đơn vị thuộc Bộ, ngành theo kế
+hoạch đã được phê duyệt; tông hợp, báo cáo Bộ, ngành về kết quả kiểm tra.
+4. Sở Khoa học và Công nghệ là đơn vị chủ trì giúp Ủy ban nhân dân cấp
+tỉnh tổ chức thực hiện Quyết định này.
+a) Nhiệm vụ của Sở Khoa học và Công nghệ:
+Lập, sửa đổi, bổ sung kế hoạch triển khai và phối hợp với Sở Tài chính
+dự trú kinh phí thực hiện Quyết định này theo quy định của Bộ Tài chính,
+trình Chủ tịch Ủy ban nhân dân cấp tỉnh phê duyệt;
+Theo dõi, đôn đốc, kiểm tra tiến độ triển khai xây dựng và áp dụng Hệ thống
+quản lý chất lượng của các cơ quan, đơn vị theo kế hoạca đã được phê duyệt.
+b) Chi cục Tiêu chuẩn Đo lường Chất lượng tham mưu, giúp Sở Khoa
+học và Công nghệ thực hiện các nhiệm vụ sau:
+Xây dựng kế hoạch và tổ chức các lớp đào tạo về việc xây dựng, áp.
+dụng, duy trì, cải tiến Hệ thống quản lý chất lượng và nghiệp vụ kiểm tra cho
+cán bộ, công chức, viên chức, người lao động tại các cơ quan, đơn vị:
+7
+Hằng năm, tổ chức kiểm tra việc xây dựng, áp dụng, dụy trì và cải tiến
+Hệ thống quản lý chất lượng tại các cơ quan, đơn vị theo kế hoạch đã được.
+phê duyệt; tổng hợp, trình Sở Khoa học và Công nghệ để báo cáo Ủy ban.
+nhân dân cấp tỉnh về kết quả kiểm tra.
+5. Chủ trì, phối hợp với Bộ Thông tin và Truyền thông, Đài Truyền hình
+Việt Nam, Đài Tiếng nói Việt Nam, Thông tân xã Việt Nam và các cơ quan
+thông tin đại chúng khác tổ chức tuyên truyền về việc thực hiện Quyết định
+này nhằm nâng cao nhận thức về xây dựng và áp dụng Hệ thống quản lý chất
+lượng vào hoạt động của các cơ quan, đơn vị thuộc Bộ, ngành, địa phương.
+6. Định kỳ tháng 12 hằng năm hoặc đột xuất khi có yêu cầu, báo cáo Bộ
+Khoa học và Công nghệ để tổng hợp, báo cáo Thủ tướng Chính phủ về tỉnh
+hình xây dựng và áp dụng Hệ thống quản lý chất lượng tại các cơ quan, đơn vị
+thuộc Bộ, ngành, địa phương (theo mẫu quy định tại Phụ lọc II ban hành kèm
+theo Quyết định này).
+Điều 13. Nhiệm vụ của Bộ Khoa học và Công nghệ
+1. Ban hành và tổ chức thực hiện các văn bản hướng dẫn thực hiện Quyết.
+định này.
+2. Quy định cụ thể về: Điều kiện hoạt động của tổ chức tư vấn, chuyên
+gia tư vận, chuyên giạ tư vấn độc lập, tổ chức chứng nhận, chuyên gia đánh.
+giá; thủ tục cấp, tỉnh chí, thu hồi Giấy xác nhận, Thẻ chuyển gia tư vấn, Thẻ
+chuyên gia tư vấn độc lập, Thẻ chuyên gia đánh giá; hoạt động đào tạo cho.
+chuyên gia tư vấn, chuyên gia đánh giá và tổ chức, cá nhân liên quan; quyền
+và nghĩa vụ của tổ chức tư vấn, chuyên gia tư vấn, tổ chức chứng nhận.
+chuyên gia đánh giá và các tổ chức, cá nhân liên quan.
+3. Hướng dẫn đơn vị chủ trì kiểm tra hoạt động xây dựng, áp dụng, duy.
+trì và cải tiến Hệ thống quản lý chất lượng theo Tiêu chuẩn quốc gia TCVN
+ISO 9001:2008.
+4. Chủ trì, phối hợp với Bộ Thông tin và Truyền thông, Đài Truyền hình
+Việt Nam, Đài Tiếng nói Việt Nam, Thông tấn xã Việt Nam, các cơ quan
+thông tin đại chúng khác và các Bộ, ngành, địa phương có liên quan triển khai
+công tác tuyên truyền về việc thực hiện Quyết định này nhằm nâng cac nhận.
+thức về áp dụng Hệ thống quản lý chất lượng vào hoạt động của các cơ quan,
+đơn vị trên phạm vi cả nước.
+5. Kiểm tra hoạt động của tổ chức tư vấn, chuyên gia tư vấn độc lập, tổ
+chức chứng nhận; kịp thời chấn chỉnh, xử lý các vi phạm theo thẩm quyền.
+6. Trong trường hợp cần thiết, chủ trì, phối hợp với các cơ quan liên
+quan tổ chức kiểm tra việc thực hiện Quyết định này tại các cơ quan, đơn vị
+trên phạm vi cả nước.
+8
+7. Định kỳ bằng năm, báo cáo Thủ tướng Chính phủ về tình hình thực
+hiện Quyết định này và kiến nghị chủ trương, biện pháp cần thiết để nâng cao.
+hiệu lực và hiệu quả của việc xây dựng và áp dụng Hệ thống quản lý chất
+lượng tại các Bộ, ngành, địa phương.
+Điều 14. Nhiệm vụ của Bộ Tài chính
+Chứ trì, phối hợp với Bộ Khoa học và Công nghệ xây dựng, ban hành
+văn bản quy định về quản lý tài chính đối với các hoạt động: Tư vấn, xây
+dựng, áp dụng, duy trì và cải tiến Hệ thống quản lý chất lrọng; tuyên tray
+đào tạo, kiểm tra, thuê tổ chức chứng nhận phối hợp kiểm tra và các hoạt
+động khác có liên quan.
+Chương IV
+HIỆU LỰC VÀ TRÁCH NHIỆM THI HÀNH
+Điều 15. Hiệu lực thì hành
+Quyết định này có hiệu lực thi hành kể từ ngày 18 tháng 5 năm 2014 và
+thay thế Quyết định số 144/2006/QĐ-TTg ngày 20 tháng 6 năm 2006 của
+Thủ tướng Chính phủ về việc áp dụng Hệ thống quản lý chất lượng theo Tiêu
+chuẩn TCVN ISO 9001/2000 vào hoạt động của các cơ quan hành chính nhà
+nước và Quyết định số 118/2009/QĐ-TTg ngày 30 tháng 9 năm 2009 của
+Thủ tướng Chính phủ về việc sửa đổi, bổ sung một số điều của Quyết định.
+số 144/2006/QĐ-TTg.
+Điều 16. Quy định chuyển tiếp
+1. Các cơ quan, đơn vị đã xây dựng, áp dụng Hệ thống quản lý chất
+lượng đối với tất cả thủ tục hành chính được công bổ theo quy định của pháp
+luật và đã được cấp (lấy chứng nhận Hệ thống quản lý chất lượng phù hợp.
+Tiêu chuẩn quốc gia TCVN ISO 9001:2008:
+Thực hiện việc công bố theo quy định tại Khoản 3 Điều 4 Quyết định
+này và có trách nhiệm áp dụng, duy trị, cải tiến Hệ thống quản lý chất lượng
+theo quy định tại Khoản 4 Điều 4 Quyết định này.
+2. Các cơ quan, đơn vị đã xây dựng, áp dụng Hệ thống quản lý chất lượng
+và đã được cấp Giấy chứng nhận Hệ thống quản lý chất lượng phù hợp Tiêu
+choẩn quốc gia TCVN ISO 9001.2008 nhưng phạm vi áp dụng chưa bao gồm
+toàn bộ các thủ tục hành chính được công bố theo quy định của pháp luật:
+Thực hiện việc công bổ theo quy định tại Khoản 3 Điều 4 Quyết định
+này và mở rộng phạm vi áp dụng Hệ thống quản lý chất lượng, bảo đảm các
+thủ tục hành chính được đưa vào áp dụng trong Hệ thống quản lý chất lượng
+và thực hiện việc công bố lại sau khi hoàn thành việc mở rộng. Cơ quan, đơn.
+vị có trách nhiệm áp dụng, duy trì và cải tiến Hệ thống quản lý chất lượng
+theo quy định tại Khoản 4 Điều 4 Quyết định này.
+9
+3. Các quy định hiện hành của Bộ Tài chính đối với việc xây dựng, áp
+dụng và duy trì hệ thống quản lý chất lượng theo tiêu chuẩn quốc gia TUVS
+180 9003/2008 vào hoạt động của các cơ quan hành chính nhà nước không trái
+với quyết định này được tiếp tục thực hiện cho đến khả các quy định mới của
+Bộ Tài chính về các vấn để nêu trên được ban hành và có hiệu lực thì hành.
+4. Các quy định hiện hành của Bộ Khoa học và Công nghệ về việc: Cấp
+Giấy xác nhận, T kê chuyên gia; đào tạo kiến thúc về quản lý hành chính nhà
+nước cho chuyên gia tư vấn, chuyên gia đánh giá; xây dựng và áp dụng Tiệ.
+thống quản lý chất lượng tại các Bộ, ngành, Ủy ban nhân dân cấp tỉnh, cấp
+huyện, cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh, cấp huyện.
+không trái với quyết định này được tiếp tục thực hiện cho đến khi các quy
+định mới của Bộ Khoa học và Công nghệ về các vấn để nêu trên được ban.
+hành và có hiệu lực thi hành.
+Điều 17. Trách nhiệm thì hành
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan
+thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung
+ương và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành
+Quyết định này. 1
+Nơi nhận:   THỦ TƯỚNG
+- Ban Bí thư Trung ương Đảng;
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;
+- HĐND, UBND các tỉnh, thành phố trực thuộc TW;
+- Văn phòng Trung ương và các Ban của Đảng;
+- Văn phòng Tổng Bí thư;
+- Văn phòng Chủ tịch nước;
+- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
+- Văn phòng Quốc hội;
+- Tòa án nhân dân tối cao;
+- Viện Kiểm sát nhân dân tối cao;
+- Ủy ban Giám sát tài chính Quốc gia;   Nguyễn Tấn Dũng
+- Kiểm toán Nhà nước;
+- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan Trung ương của các đoàn thể;
+- Ngân hàng chính sách xã hội;
+- Ngân hàng Phát triển Việt Nam;
+- Các tập đoàn kinh tế nhà nước;
+- VPCP: BTCN, các PCN, Trợ lý TTCP, TGĐ Cổng TTĐT,
+các Vụ, Cục, đơn vị trực thuộc, Công báo;
+- Lưu: Văn thư, TCCV (3b). NĐ Hào, 248b.
+10
+Phụ lục I
+TRẢU QUYẾT ĐỊNH CÔNG BỐ HỆ THỐNG
+HÁT LƯỢNG PHỦ HỢP TIÊU CHUẨN QUỐC GIA
+
+hành kèm theo Quyết định số: 19/2014/QĐ-TTg
+05 tháng 3 năm 2014 của Thủ tướng Chính phủ)
+TÊN CƠ QUAN CHỦ QUẢN   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TÊN CƠ QUAN   Độc lập - Tự do - Hạnh phúc
+Số: 1 QĐ-   ...... , ngày.... tháng.....năm...
+QUYẾT ĐỊNH
+Về việc công bố Hệ thống quản lý chất lượng phù hợp
+Tiêu chuẩn quốc gia TCVN ISO 9001:2008
+... NGƯỜI ĐỨNG ĐẦU CƠ QUAN...
+Căn cứ... quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức
+của cơ quan...;
+Căn cứ Quyết định số 19/2014/QĐ-TTg ngày 05 tháng 3 năm 2014 của
+Thủ tướng Chính phủ về việc áp dụng Hệ thống quản lý chất lượng theo Tiêt
+chuẩn quốc gia TCVN So 90012008 vào hoạt động của các cơ quan, tổ
+chức thuộc hệ thống hành chính nhà nước;
+Căn cứ xác nhận của...Người đứng đầu cơ quana.. về việc Hệ thống quản
+lý chất lượng áp dụng có hiệu lực;
+Theo đề nghị của...tên đơn vị dự thảo, trình Quyết định...
+QUYẾT ĐỊNH:
+Điều 1. Công bố Hệ thống quản lý chất lượng tại ..tên cơ quan. phù
+hợp Tiêu chuẩn quốc gia TCVNISO 9001-2008 theo quy định tại Quyết định
+số 19/2014/QĐ- PTg của Thủ tướng Chính phủ đối với các lĩnh vực hoạt động
+trong Phụ lục ban hành kèm theo Quyết định này.
+Điền 2. Quyết định này có hiệu lực kể từ ngày ban hành.
+Điều 3. tên đơn vị dự tháo, trình Quyết định...... các đơn vị có liên
+quan... chịu trách nhiệm thì hành Quyết định này./.
+Nơi nhận:   NGƯỜI ĐỨNG ĐẦU CƠ QUAN
+- Như Điểu 3;   (Ký, ghi rõ họ, tên và đóng dấu)
+- Tên Cơ quan chủ quản.. (để báo cáo);
+- Tên đơn vị chủ trì.. (để biết);
+- Lưu
+Phụ lực   Phụ lục
+CÁC LĨNH VỰC HOẠT ĐỘNG CỦA TÊN CƠ QHAN. ĐƯỢC CÔNG BỐ
+PHỦ HỢP TIẾU CHUẨN QUỐC GIA TCVN ISO 9001-2008
+(Ban hành kèm theo Quyết định số: /QĐ-... ngày... tháng... năm...
+của .. người đứng đầu cơ quan.).
+.. Liệt kê các lĩnh vực hoạt động được công bổ phù hợp Tiêu chuẩn
+quốc gia TCVN ISơ9007:2008
+2
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+BẢN CÔNG BỐ
+.. TÊN CƠ QUAN...
+công bố Hệ thống quản lý chất lượng tại...tên cơ quatt. phù hợp
+Tiêu chuẩn quốc gia TCVN ISo 9001:2008 đối với...
+(Theo Phụ lục ban hành kèm theo Quyết định số .../QĐ-.. ngày... tháng... năm.
+... của Người đứng đầu cơ quan)
+Bản công bố này có hiệu lực kể từ ngày ban hành.
+....... ngày..... tháng...... năm....
+NGƯỜI ĐỨNG ĐẦU CƠ QUAN
+(Ký, ghi rõ họ, tên và đóng dấu)
+Phụ lục II
+
+U THÔN LÝ CHẤI LƯỢNG THEO TIÊU CHUẨN QUỐC GIA
+TCVN ISO 9001:2008
+(Ban hành kèm theo Quyết định số 19/2014/QĐ-TTg
+ngày 05 tháng 3 năm 2014 của Thủ tướng Chính phủ)
+TÊN BỘ/NGÀNH/UBND   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+CẤP TỈNH   Độc lập - Tự do - Hạnh phúc
+Số:.   ...... ngày..... tháng ..... năm....
+BẢO CÁO TỈNH HÌNH XÂY DỰNG VÀ ẤP DỤNG HỆ THÔNG QUẢN LÝ
+CHẤT LƯỢNG THEO TIÊU CHUẨN QUỐC GIA TCVN 180 9001:2008
+Kính gửi: Bộ Khoa học và Công nghệ.
+Thực hiện Quyết định số 19/2014/QĐ-TTg ngày 05 tháng 3 năm 2014 của
+Thủ tướng Chính phủ về việc áp dụng Hệ thống quản lý chất lượng theo Tiêu
+chuẩn quốc gia TéVN ISO 9001:2008 vào hóạt động của các cơ quan, tổ chức
+thuộc hệ thống hành chính nhà nước, tên Bộngành/UBND cấp tỉnh báo
+cáo tình hình xây dựng và áp dụng Hệ thống quản lý chất lượng theo Tiên
+chuẩn quốc gia TCVN SO 9001/2008 tại các cơ quan, đơn vị trong phạm vi
+quản lý như sau:
+1. Kết quả xây dựng và áp dụng Hệ thống quản lý chất lượng theo.
+Tiêu chuẩn quốc gia TCVN ISO 9001:2008:
+a) Tình hình phê duyệt kế hoạch, dự trú kinh phí triển khai thực hiện:
+b) Kết quả cụ thể:
+Tình hình công
+Địa   bố HTQLCL   Tên tổ
+liên   chỉ   tư vấn,   Tên tổ   chức   Số lượng   thủ tục   hành   chuẩn quốc gia   phù hợp Tiêu   kiểm tra   Kết quả   chứng   chức
+Tên   hệ   chuyên   TCVN ISO   nhận,
+chính đã   chuyên   Ghi
+STT   cơ   (ĐT,   gia tư   9001:2008
+xây dựng   gia   chú
+quan   Fax,   vấn   và áp   Đáp   Chưa   đánh
+người
+diện)   đại   (nếu   có)   HTQLCL   dụng   công   Đã   bố   Chưa   công   bố   ứng   yêu   ứng yêu   đáp   (nếu có)   giá
+cầu   cầu
+2. Đánh giá, nhận xét:
+a) Tự đánh giá về hiệu quả của việc áp dụng Hệ thống quản lý chất lượng
+theo Tiêu chuẩn quốc gia TCVN ISO 9001 2008 tại các cơ quan, đơn vị:
+b) Tình hình xử lý vi phạm đối với hoạt động xây dựng, áp dụng, duy trì
+Hệ thống quản lý chất lượng theo Tiêu chuẩn quốc gia TCVN ISO 9001-2008
+tại các cơ quan, đơn vị:
+c) Nhận xét về hoạt động tư vấn của các tổ chức tư vấn, chuyên gia tư.
+vấn; hoạt động phối hợp kiểm tra của tổ chức chứng nhận, chuyên gia đảnh
+giá:
+d) Nêu những thuận lợi, khó khăn và những vấn để tồn tại trong việc xảy.
+dựng, áp dụng, duy trì và cải tiến Hệ thống quản lý chất lượng theo Tiêu
+chuẩn quốc gia TCVN ISO 9001/2008 tại các cơ quan, đơn vị, phân tích
+nguyên nhân:
+- Về phía cơ quan, đơn vị đã và đang xây dựng, áp dụng Hệ thống quản lý
+chất lượng:
+- Về phía đơn vị chủ trì giúp việc triển khai thực hiện Quyết định
+số 19/2014/QĐ-TTg:
+- Về tình hình kiểm tra hoạt động xây dựng, áp dụng, duy trì và cải tiến
+Hệ thống quản lý chất lượng tại các cơ quan, đơn vị:
+- Về việc lựa chọn tổ chức tư vấn, chuyên gia tư vấn, tổ chức chứng
+nhận, chuyên gia đánh giá (nếu có):
+- Về các nội dung khác có liên quan:
+2
+3. Đề xuất, kiến nghị (nếu có):
+...tên Bộ/ngành/UBND cấp tỉnh.. báo cáo tình hình xây dựng và áp
+dụng Hệ thống quản lý chất lượng theo Tiêu chuẩn quốc gia TCVN ISO
+9001/2008 tại các cơ quan, đơn vị trong phạm vi quản lý để Bộ Khoa học và
+Công nghệ tồng hợp, báo cáo Thủ tướng Chính phủ./.
+LÃNH ĐẠO BỘ, NGÀNH/
+CHỦ TỊCH ỦY BAN NHÂN DÂN CẤP TỈNH
+(Ký, ghi rõ họ, tên và đóng dấu)
+3

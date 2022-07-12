@@ -1,0 +1,531 @@
+Ký bởi: Cổng Thông tin điện tử Chính phủ
+Email: thongtinchinhphuạchinhphu.vn
+Cơ quan: Văn phòng Chính phủ
+Thời gian ký: 01.03.2019 09:12:30 +07:0
+ỦY BAN NHÂN DÂN   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH BẾN TRE   Độc lập - Tự do - Hạnh phúc
+Số: 03 /2019/QĐ-UBND   Bến Tre, ngày 11 tháng 01 năm 2019
+QUYẾT ĐỊNH
+Ban hành Quy chế quản lý, vận hành, cung cấp thông tin
+và duy trì hoạt động Cổng Thông tin điện tử tỉnh Bến Tre
+
+ỦY BAN NHÂN DÂN TỈNH BẾN TRE
+Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015;
+Căn cứ Luật Bay hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015:
+Căn cứ luật Công nghệ thông tin năm 2006;
+Căn cứ Luật An toàn thông tin mạng năm 2015;
+Căn cứ Nghị định số 64/2097/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính
+phủ quy định về ứng dụng công nghệ thông tin trong hoạt động cơ quan nhà nước;
+Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 cáa
+Chính phủ quy định về viêc cung cấp thông tin và dịch vụ công trực huyền trên
+trang thông tin điện tử hoặc công thông tin điên tư cua cơ quan nhà nước;
+Căn cứ Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính
+phủ quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng;
+Căn cứ Thông tư số 39/2017/TT-BTTTT ngày 15 tháng 12 năm 2017 của
+Bộ Thông tin và Truyền thông ban hành Danh mục tiêu chuẩn kỹ th đi về từng.
+dụng công nghệ thông tin trong cơ quan nhà nước;
+Căn cứ Thông tư số 09/2014/TT-BTTTT ngày 19 tháng 8 năm 2014 của.
+Bộ Tháng tin và Truyền thông quy đình chi tiết về hoat động quản 16 cang cấp,
+sử dụng thông tin trên mạng thông tin điện tử và mạng xã hội;
+Căn cứ Nghị định số 85/2016/NĐ CP ngày 01 tháng 7 năm 2016 của
+Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ;
+Căn cứ Thông tư số 03/2017/TT-BTTTT ngày 24 tháng 4 năm 2017 của
+Bộ Thông tin và Truyền thông về quy định chi tiết và hướng dẫn một số điều
+của Nghị định số 85/2016/NĐ-CP ngày 01/7/2016 của Chính phủ về bản đan:
+an toàn hệ thống thông tin theo cấp độ;
+Theo đề nghị của Chánh Văn phòng Ủy ban nhân dân tỉnh tại Tờ trình số
+1964/TTr-VPUBND ngày 28 tháng 12 năm 2018.
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, vận hành,
+cung cấp thông tin và duy trì hoạt động Cổng thông tin diện tử tỉnh Bến Tre.
+THỦ T
+2
+Điều 2. Điều khoản thì hành
+1. Quyết định này có hiệu lực thi hành kể từ ngày 25 tháng 01 năm 2019.
+2. Chánh Văn phòng Ủy bán nhân dân tỉnh, Giám đốc các sở, ban ngành
+tỉnh, Chủ tịch Ủy ban nhân dân các huyện, thành phố và các tổ chức, cá nhân có
+liên quan chịu trách nhiệm thì hành Quyết định này./.
+Nơi nhận:   TM ỦY BẢN NHÂN DÂN
+- Như Điều 2;   CHỦ TỊCH
+- Văn phòng Chính phủ;
+- Bộ Thông tin và Truyền thông;
+- Cục Tin học hóa-Bộ TTTT:
+- Cục Kiểm tra văn bản -Bộ tư pháp (kiểm tra):
+- Cổng TTĐT Chính phủ;
+- TTTU, TT.HĐND tỉnh;
+- Đoàn ĐBQH tỉnh Bến Tre;
+- Chủ tịch, các PCT UBND tỉnh;   Cao Văn Trọng
+- MTTQ và các đoàn thể tỉnh:
+- Sở Tư pháp (tự kiểm tra);
+- Các sở, ban ngành tỉnh:
+- UBND các huyện, thành phố;
+- Các Phó CVP UBND tỉnh;
+- Cổng TTĐT tỉnh;
+- Báo Đồng khởi, Đài PTTH tỉnh (đưa tỉn);
+- Ban Tiếp Công dân (niêm yết);
+- Phòng: NC, TH. KGVX, TT TTĐT;
+- Lưu: VT (Ty).
+ỦY BAN NHÂN DÂN   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH BẾN TRE
+Độc lập - Tự do - Hạnh phúc
+QUY CHẾ
+Quản lý, vận hành, cung cấp thông tin và duy trì hoạt động
+Cổng Thông tin điện tử tỉnh Bến Tre
+(Ban hành kèm theo Quyết định số 03 /2019/QĐ-UBND
+ngày 11 tháng 01 năm 2019 của Ủy ban nhân dân tỉnh Bến Tre)
+
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Quy chế này quy định về tổ chức, quản lý, vận hành, sử dụng, cung cấp
+thông tin và dịch vụ công trực tuyến trên Công Thông tin điện tử tỉnh Bến Tre
+(sau đây gọi tắt là Cổng TTĐT tỉnh).
+Điều 2. Đối tượng áp dụng
+Quy chế này áp dụng cho các sở, ban ngành tỉnh, Ủy ban nhân dân
+(UBND) các huyện, thành phố và các đơn vị trực thuộc UBND tỉnh Bến Tre:
+các tổ chức, cá nhân tự nguyện tham gia cung cấp thông tin, khai thác và sử
+dụng thông tin, dịch vụ công trực tuyến trên Cổng TTĐT tỉnh.
+Điều 3. Giải thích từ ngữ
+Trong Quy chế này, các từ ngữ dưới đây được hiều như sau:
+1. Cổng TTĐT tỉnh bao gồm Cổng TTĐT của Ủy ban nhân dân tỉnh và
+các Cổng TTĐT thành phần của các sở, ban ngành, UBND các hoyện, thành
+phố và các đơn vị trực thuộc Ủy ban nhân dân tỉnh có cấu trúc địa chỉ theo quy
+định tại Điều 6 Nghị định 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 của
+Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyển trên.
+trang thông tin điện tử hoặc công thông tin điện tử của cơ quan nhà nước.
+2. Cổng TTĐT của Ủy ban nhân dân tỉnh là Công cung cấp thông tin
+chính thúc vễ hoạt động củ yếu của Ủy ban nhân dân tỉnh; tích hợp các dịch vụ
+công trực tuyến của tỉnh theo Nghị định 43/2011/NĐ-CP của Chính phủ và các
+thông tin khác theo quy định của pháp luật.
+3. Cồng thành phần là Cổng cung cấp thông tin chính thức về hoạt động
+chu yếu của các so, ban ngành, UBND các huyện, thành phố và các đơn vị trực
+thuộc Ủy ban nhân dân tỉnh có Cổng TTĐT; tích hợp các dịch vụ công trực
+tuyển lên Cổng TTĐT của Ủy ban nhàn dân tỉnh và các thông tin khác theo quy
+định của pháp luật.
+2
+4. Hệ thống Cổng TTĐT tỉnh bao gồm hạ tầng kỹ thuật của Cống TTĐ1
+tỉnh và hệ thống phần mềm ứng dụng Công TTĐT tỉnh phục vụ cho việc thu
+thập, xử lý, lưu trữ, xuất bản, truyền tải và trao đổi thông tin.
+5. Hạ tầng kỹ thuật Cổng TTĐT tỉnh vận hành chung hệ thống Cơ sở dữ
+hệu điện tử của Uy ban nhân dân tỉnh đặt tại Văn phòng UBND tỉnh gồm các
+máy chủ, đường truyền dữ liệu, thiết bị mạng, thiết bị bảo đảm an toàn, an ninh.
+thông tin, rác thiết bị phụ trợ khác có liên quan được bố trí tại hệ thống Cơ sở.
+dữ liệu điện tử của Ủy ban nhân dân tỉnh.
+6. Hệ thống phần mềm Cổng TTĐT tỉnh gồm các phần mềm hệ thống.
+phân mềm: nến, phần mềm quản trị cơ sở dữ liệu, phần mếm Cống và các phấn.
+mềm khác được cái đặt chung hệ thống Cơ sở dữ liệu điện tử của Ủy ban nhân
+dân tỉnh.
+7. Hệ thống Cơ sở dữ liệu điện tử của Ủy ban nhân dân tỉnh bao gồm hệ
+thống Cổng thông tin điện tử tỉnh Bến Tre, hệ thống Công báo điện tử tỉnh, hệ
+thồng Cổng thông tin điện tư Nông thôn mới tỉnh, hệ thống chỉ đạo điều hành.
+của Ủy ban nhân dân tỉnh và hệ thống mạng LAN của Văn phòng UBND tỉnh.
+8. Dịch vụ công trực tuyến: Dịch vụ hành chính công và các dịch vụ khác.
+của cơ quan nhà nước được cung cấp cho các tổ chức, cá nhân trên môi trường
+mạng.
+Điều 4. Chức năng của Cổng TTĐT tỉnh
+1. Là đầu mối kết nối hoạt động cung cấp thông tin chính thức qua mạng
+InterTca cua Ủy ban nhân dân tỉnh và các sơ, ban, ngành, UBND các huyện.
+thành phố; các cơ quan, đơn vị trực thuộc Ủy ban nhân dân tỉnh có Cổng thành
+phần, phục vụ triển khai cải cách hành chính, cung cấp tích hợp các dịch vụ
+công, hướng tới xây dựng nền hành chính điện tử.
+2. Cổng TTĐT tỉnh có nhiệm vụ tích hợp các hệ thống thông tin khác.
+từng bước hình thành Cổng TT 9 đầy đủ của tình trên mạng Internet, là nơi tập
+trung thông tin làm đầu mối giao tiếp giữa các cơ quan quản lý nhà nước với
+các tổ chức, cá nhân trong nước và nước ngoài.
+3. Có khả năng nâng cấp, mở rộng các chức năng khác trong phạm vi hỗ
+trợ của công nghệ xây dựng Công TTĐT tỉnh khi có nhu cầu phát sinh và phải
+được sự chấp thuận của cơ quan có thẩm quyền.
+4. Khuyến khích Cổng TTĐT tỉnh có các mục thông tin khác bằng tiếng
+Anh và các ngôn ngữ khác.
+5. Tên gọi:
+- Tên tiếng Việt: Cống Thông tin điện tử tỉnh Bến Tre.
+- Tên tiếng Anh: Ben Tre Portal.
+Điều 5. Hình thức thể hiện, thông tin chủ yếu
+3
+1. Nội dung thông tin trên Công TTĐT tỉnh được trình bày dưới dạng văn
+bản, hình ảnh, âm thanh, video và đổ họa.
+2. Cổng TTĐT tỉnh phải có những thông tin chủ yếu theo quy định tại
+: Chường 11 Nghị định số 43/2011/NĐ-CP của Chính phủ; quy định tại khoản 2,
+Điều 28 Luật Công nghệ thông tin.
+Điều 6. Bảo đảm tính thống nhất và phù hợp tiên chuẩn kỹ thuật
+1. Thống nhất sử dụng Bộ mã ký tự chữ Việt Unicode theo tiêu chuẩn
+6009/2011 trong việc lưu trữ và trao đổi thông tin, dữ liệu trên Cổng TTĐT
+tỉnh.
+2. Tuân thủ các tiêu chuẩn về ứng dụng Công nghệ thông tin được quy
+định tại Thông tư số 39/2017/TT-BTTT ngày 15 tháng 12 năm 2017 của Bộ
+Thông tin và Truyền thông.
+3. Tuân thủ theo quy định tại Thông tư số 32/2017/TT-BTTT ngày 15
+tháng 11 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền thông quy định về
+việc cung cấp dịch vụ công trọc tuyến và đảm bảo khá năng truy cập thuận tiện.
+đối với trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà
+nước.
+Điều 7. Thu thập, xử lý và sử dụng thông tin cá nhân
+Việc thu thập, xử lý và sử dụng thông tin cá nhân trên Cổng TTĐT tỉnh
+phải toân thủ theo quy định tại Điều 21, 22 của Luật Công nghệ thông tin và các
+quy định hiện hành.
+Điều 8. Quảng cáo trên Cổng TTĐT tỉnh
+1. Khi thực hiện các dịch vụ quảng cáo phải được Ủy ban nhân dân tỉnh.
+chấp thuận và phải thực hiện đúng theo quy định của pháp luật.
+2. Quáng cáo trên Cổng TTĐT tỉnh phải được chọn lọc chủ yếu giới thiệu.
+các sản phẩm tiềm năng kinh tế của tỉnh, thu hút các nhà đầu tư trong và ngoài
+tỉnh nhằm góp phần phát triển kinh tế - xã hội cho tỉnh.
+Chương II
+NGUYÊN TẮC, TRÁCH NHIỆM CƯNG CẤP, TIẾP NHẬN
+VÀ LƯU TRỬ THÔNG TIN TRÊN CÔNG TTĐT TỈNH
+Điều 9. Nguyên tắc cung cấp, tiếp nhận thông tin
+1. Thông tin cung cấp trên Cổng TTĐT của Ủy ban nhân dân tỉnh và các
+Cổng TTĐT thành phần của các cơ quan, đơn vị tham gia trên Cổng TTĐT tỉnh
+phải đúng với quan điểm, chủ trương, đường lối của Đảng, chính sách và pháp
+luật của Nhà nước; phục vụ kịp thời trong công tác quản lý của cơ quan và như.
+cầu khai thác thông tin của các tổ chức, cá nhân.
+2. Thông tin cung cấp trên Cổng TTĐT tỉnh phải tuân thủ các quy định.
+của pháp luật về bảo vệ bí mật nhà nước, báo chí, sở hữu trí mệ và quản lý
+thông tin trên Internet.
+4
+3. Việc đăng tải, trích dẫn, sử dụng lại thông tin trên Cổng TTDT của có
+quan phải ghi rõ thông tin về tác giả, nguồn của thông tin.
+4. Các cơ quan, đơn vị, tổ chức, cá nhân khi cung cấp thông tin, giao tiếp
+trên Cổng TTĐT tỉnh phải chịu sự kiểm duyệt của Ban biên tập Cổng TTĐT
+tỉnh.
+5. Các cơ quan, đơn vị của tỉnh có trách nhiệm cung cấp thông tin cho
+Cổng TTĐT tỉnh và tiếp nhấn giải đáp ý kiến, phản ảnh cca các cơ quan, tổ
+chức, cá nhân.
+6. Mọi sự thay đổi của nội dung các thông tin quy định tại Điều 10 Quy,
+chế này phải được cong cấp, cập nhật kịp thời ngay sau khi nội dung thay đổi đã
+được tổ chức hoặc cả nhân có thẩm quyền quyết định.
+Điều 10. Trách nhiệm cung cấp và thời hạn cập nhật thông tin trên.
+Cổng TTĐT tỉnh
+1. Văn phòng UBND tỉnh:
+a) Cung cấp thường xuyên, kịp thời các thông tin theo quy định tại khoản
+1 Điều 40 Quy chế làm việc của Ủy ban nhân dân tỉnh ban hành kèm theo.
+Quyết định 58/2016/QĐ-UBND ngay 18 tháng 6 năm 2016 của Ủy ban nhân
+dân tỉnh:
+b) Thông tin chỉ đạo, điều hành bao gồm: Ý kiến chỉ đạo, điều hành của
+Lãnh đạo Ủy bản nhân dân tỉnh đã được chính thức ban hành bằng văn bản.
+(không thuộc phạm vi bí mật nhà nước); ý kiến xử lý, phản hồi đối với các kiến
+nghị, yêu cầu của tổ chức, cá nhân; thông tin khen thưởng; xử phạt đối với tổ
+chức, doanh nghiệp; lịch làm việc của Lãnh đạo Ủy ban nhân dân tỉnh.
+c) Các thông tin khác được Chủ tịch Ủy ban nhân dân tỉnh chấp thuận
+theo đế nghị của Ban Biên tập Cồng TTĐT tỉnh hoặc đề nghị cân cơ quan
+chuyên môn thuộc Ủy ban nhân dân tỉnh.
+2. Sở Nội vụ:
+Cung cấp các thông tin về sơ đồ, cơ cấu tổ chức, chức năng, nhiệm vụ.
+quyền hạn của cơ quan, đơc vị trực thuộc; tóm lược quá tránh hình thành và phát
+triển của cơ quan trục thuộc Ủy ban nhân dân tỉnh; tiểu sử tóm tắt và nhiệm vụ.
+đảm nhiệm của Thường trực Ủy ban nhân dân tỉnh. Khi có thay đổi thông tin về
+các nội dung nêu trên, Sở hội vụ có trách nhiệm phối hợp với Văn phòng
+UBND tỉnh để điều chỉnh, bổ sung kịp thời.
+3. Sở Tài nguyên và Môi trường:
+a) Cung cấp tập tìn ảnh của Bản đồ địa giới hành chính đến cấp xã (kèm
+theo diện tích tự nhiên từng xã).
+b) Cung cấp quy hoạch, kế hoạch sử dụng đất; quy hoạch, kế hoạch và
+hoạt động khai thác tài nguyên thiên nhiên; quy hoạch thu gom tái chế, xử lý
+chất thải; danh sách, thông tin về các nguồn thải, các loại chất thải có nguy cơ
+gày hại tới sức khoe con người và môi trường; khu vực môi trường bị ô nhiễm,
+5
+suy thoải ở mức nghiêm trọng và đặc biệt nghiêm trọng, khu vực có nguy cơ
+xảy ra sự cố môi trường.
+4. Sở Tư pháp
+Thông tin, tuyên truyền văn bản quy phạm pháp luật của Trung ương, của
+tỉnh và các văn bản hướng dẫn thực triển pháp luật, chế độ chính sách của nhà
+nước.
+5. Sở Kế hoạch và Đầu tư:
+a) Cung cấp các thông tin về: Điều kiện tự nhiên và đặc điểm kinh tế - xã
+hội của tỉnh; chiến lược, quy hoạch tổng thể phát triển kinh tế xã hội của tỉnh;
+chính sách ưu đãi, cơ hội đầu tư, các dự án mời gọi vốn đầu tư;
+b) Thông tin về dự án, hạng mục đầu tư gồm: Danh sách các dự án đang
+chuẩn bị đầu tư, các dự án đang triển khai, các dự án đã hoàn tất; mỗi dự án cần có
+các thông tin gồm: Tên dự án, mục tiêu chính, lĩnh vực chuyên môn, loại dự án,
+thời gian thực hiện, kinh phí dự án, loại hình tải trợ, nhà tài trợ, tình trạng dự án.
+6. Sở Tài chính:
+Cung cấp thông tin về các dự án mua sắm công, gồm: Danh sách các dự
+ân đang chuẩn bị đầu tư, các dự án đang triển khai, các dự án đã hoàn tất. Mối
+dự án cần có các thông tin gồm: Tên dự án, mục tiêu chính, lĩnh vực chuyên.
+môn, loại dự án, thời gian thực hiện, kinh phí dự án, loại hình tải trợ, nhà tài trợ,
+tình trạng dự án.
+7. Sở Xây dựng:
+Cung cấp các thông tin về quy hoạch xây dựng, quy hoạch đô thị.
+8. Sở Khoa học và Công nghệ:
+Cung cấp các thông tin về chương trình, để tài khoa học có sử ụng ngân
+sách nhà nước, gồm:
+- Danh mục các chương trình, để tài bao gồm: Mã số, tên, cấp quản lý,
+lĩnh vực, đơn vị chủ trì, thời gian thực hiện.
+- Kết quả các chương trình, để tài sau khi đã được Hội đồng nghiệm thu
+khoa học thông qua bao gốm: Báo cáo tổng hợp, báo cáo kết quả triển khai áp.
+dụng của công trình, để tài. Việc công bố kết quả phải tuân thủ theo quy định.
+9. Sở Văn hoá, Thể thao và Du lịch:
+Cung cấp thông tin về lịch sử, truyền thống văn hoá, di tích du lịch - văn
+hoá; các lễ hội truyền thống; các tuyến, điểm du lịco; các hoạt động về thể dục,
+thể thao của ngành, địa phương.
+10. Cục Thống kê tỉnh:
+Cung cấp thông tin thống kể từ kết quả các quộc điều tra theo quy định
+của Luật Thống kè. Thông tin thống kê phải bao gồm đầy đủ số liệu, báo cáo
+thống kê, phương pháp thống kê và bản phân tích số liệu thống kể, thời gian.
+6
+thực hiện thống kê.
+Điền 11. Ngoài các thông tin được quy định tại Điểu 10 Quy chế này thì
+các sở, ban ngành tỉnh, UBND các huyện, thành phố theo chức năng, nhiệm vụ
+được giao phải cung cấp thông tin liên quan ngành, lĩnh vực cho Cống TTĐT
+của Ủy ban nhân dân tỉnh, đồng thời chủ động cập nhật thông tin của ngành, địa
+phương trên Cổng mình quản lý và tự chịu trách nhiệm về thông tin đã đăng tải.
+Điều 12. Trách nhiệm tiếp nhận và lưu trữ thông tin
+1. Trách nhiệm tiếp nhận thông tin:
+a) Đối với Cống TTĐT của Ủy ban nhân dân tỉnh: Văn phòng UBND tỉnh.
+tiếp nhận thông tin theo quy định tại Quy chế này để cập nhật trên Cổng TTĐT
+của Ủy ban nhân dân tỉnh theo quy định và chịu trách nhiệm về nội dung thông
+tin đã đăng tải
+b) Đối với Công TTĐT thành phần: Cơ quan chủ quân Cổng thành phần
+tiếp nhận thông tin theo quy định tại Quy chế này để cập nhật trên Cổng YTĐT
+thánh phần và chịu trách nhiệm về nội dung thông tin đã đăng trên công minh
+quản lý.
+2. Trách nhiệm lưu trữ thông tin: Cơ quan chủ quản có trách nhiệm bảo.
+đảm việc lưu trữ tháng tin của Cổng TTDT tỉnh theo quy định của Nhà nước vế
+Lưu trữ.
+Điều 13. Cang cấp dịch vụ công trực tuyến
+Văn phòng UBND tỉnh chủ trì và phối hợp các cơ quan có liên quan trong
+việc liên kết, tích hợp dịch vụ công trực tuyến lên Cổng TTĐT của Ủy ban nhân
+dân tỉnh và các Cảng thanh phản thực hiện theo quy định tại Quyết định số
+57/2017/QĐ-UBND ngày 06 tháng 11 năm 2017 của UBND tỉnh Bến Trc ban.
+hành Quy chế quản lý, sử dụng dịch vụ công trực tuyến điên địa bàn tỉnh Bến
+Tre.
+Chương III
+TỔ CHỨC QUẢN LY, VẬN HÀNH VÀ HOẠT ĐỘNG AN TOÀN
+BẢO MẬT HỆ THÔNG CÔNG TTĐT TỈNH
+Điều 14. Đảm bảo hoạt động hệ thống Cổng TTĐT tỉnh
+1. Các thiết bị tưởng lửa (Pireoal), thiết bị định tuyển (Router), các máy.
+chủ (Serreo), thiết bị chuyển mạch (Swrich), thiết bị hưu trữ tập trung (SAN) và
+các thiết bị khác liên quan đến bệ thống Công TTĐT tỉnh phải được đặt trong
+phòng máy chủ.
+2. Phòng máy chủ phải độc lập được giữ khô thoáng, nguồn điện phải ổn
+định và máy điểu thòa nhiệt độ phải được vận hành liên tục. Chi có nhừng các
+bộ chuyên trách được giao nhiệm vụ mởi được vào phòng máy chủ.
+3. Hệ thống máy phát điện dự phòng phải trong trạng thải luôn sẵn sảng
+hoạt động đảm bác cho hệ thống bạ tầng phòng máy chủ có thể hoạt động
+xuyên suốt khi mất điện lưới.
+7
+4. Thiết bị chống sét, phòng cháy, chữa cháy phải được trang bị, lấp đặt
+và thường xuyên bảo tri để bảo vệ hệ thống thông tin của cơ quan.
+5. Thường xuyên kiểm tra mức độ an toàn của tất cả các thiết bị cho
+phòng máy chủ hệ thống hạ tầng Cổng TTĐT tỉnh, khi xảy ra sự cố kịp thời
+báo cáo cho lãnh đạo trực tiếp quản lý đưa ra hướng xử lý khắc phục kịp thời.
+Điều 15. Đảm bản an toàn bản mật thông tin hệ thống Cổng TTĐT
+tỉnh
+1. Máy chủ hệ thống Cổng TTĐT tỉnh chỉ dúng để triển khai phần mềm
+hệ thống, cái đặt phần mềm phục vụ hệ thống Cổng TTĐT tỉnh, các phần trểm.
+chống vi rút, các cơ sở đữ liệu và các phần mềm có bản quyền hỗ trợ cho việc
+triển khai hệ thống Cổng TTĐT tỉnh, ngoài ra không được cải đặt phần mềm
+nào khác.
+2. Không sử dụng máy chủ cho việc duyệt veb đọc báo, xem tin tức, choi.
+trở chơi (Game) và các công việc khác khóng liên quan đến công việc quản trị
+kiểm tra hệ thống.
+3. Cải đặt phần mềm diệt vi rút có bản quyền cho tất cả các máy chủ hệ
+thống Cổng TTĐT tỉnh và phải được tự động cập nhật, quét mã độc.
+4. Mặt khẩu tất cả các tài khoản quản trị bệ thống Cổng TTĐT tỉnh phải
+có độ phức tạp cao (có độ dải tối thiểu 8 ký tụ, có ký tự hoa, có ký tự thường,
+kỷ tư số và ký tụ đặc biệt như 1, độ s, 8, 9 và phải thường xuyên thay đổi mật.
+khẩu đăng nhập ít nhất 3 tháng/lần.
+.... Tổ chức, quản lý đảm báo đủ tài nguyên hệ thống để duy tri hoạt động
+hệ thống Cổng TTĐT tỉnh vận hành liên tục, không bị giản đoạn hệ thống.
+6. Phân quyền tài khoản hợp lý theo nhúc năng của người dùng cho các.
+đơn vị, cá nhân quản lý Cổng TTĐT của Ủy ban nhân dân tỉnh và rác Cổng
+thành phần.
+7. Các thông tin, dữ liệu diện tử của hệ thống Cổng TTĐT nình phải có
+giải pháp sao lưu, phục bồi đảm bảo an toàn an ninh thông tán hệ thống.
+8. Gỡ bỏ hoặc tắt các dịch vụ không dùng đến hoặc ít dùng như:
+Nemecùng Remor Descop Shang, Remote Registy, Roarng & Renote
+Access, Telnet.
+9. Hệ thống thông tin Cổng TTĐT tỉnh phải được xây dựng luôn ở mức.
+độ sẵn sảng cao và tạo các bản sao dữ liệu, hệ thống để hỗ trợ trong việc phục
+hồi hệ thống.
+10. Cần thường xuyên cập nhật và thiết lập chế độ tự động cập nhật bản
+và lỗ bồng bảo mật cho phần mềm hệ điều hành và các phần mềm ứng dụng
+được cái đặt trên mày chủ hộ thống Cống TTĐT tỉnh; thiết lập chính sách lưu
+giữ tập tin nhật ký (dog thec) trong quá trình hoạt động của mội máy chủ theo
+định kỳ từ 2 tháng trở lên.
+8
+11. Hệ thống tường lửa đảm bảo khả năng xử lý được số lượng kết nối -
+đồng thời cao và chịu được lưu lượng truy cập cao, cung cấp đầy đủ các cơ chế
+bảo mật, quản lý luổng dữ liệu ra, vào và có khả năng bảo vệ hệ thống trước các
+loại tấn công từ chối dịch vụ; đóng tất cả các cổng (Port) dịch vụ khi không sử
+dụng.
+12. Tắt cá cấc hình trên hệ thống tường lửa, hệ thống chuyển mạch trung
+tâm, hệ thống máy chủ phải được lưu lại cần thận, không được tự ý xóa sủa các
+cấn hình đã có sẵn. Trường hợp cần thiết phải cấu hình thêm để phục vụ cho an.
+toàn báo mật thông tin hay phục vụ cho các dịch vụ cần thiết phải có sự đồng ý
+của lãnh đạo quản lý trực tiếp.
+13. Máy tính dùng để quản trị, kiểm soát hoạt động hệ thống phải được
+cái đặt hệ điều thành bản quyền, diệt vi rát bản quyền; không được cải đặt bất cử
+phần mềm nào khác ngoài phần mềm dùng để phục vạ cho việc quản trị hệ
+thống, đồng thời không được truy cập Internet, chơi Game và đác công tác khác.
+14. Khi quản trị hệ thống từ xa phải được sự chấp thuận của thủ trưởng cơ
+quan và phải sử dụng một trong các phương thức kết nối có mã hóa như SSH,
+VPN, FTPs để bảo đảm an toàn thông tin.
+15. Thường xuyên kiểm tra, phát hiện và khắc phục các lễ hồng bảo mật
+bằng các cơ chế bảo mật để đảm bảo an toàn, an ninh thông tin cho Cổng TTĐT
+tỉnh.
+16. Hệ thống Công TTĐT tỉnh phải tuân thủ các tiêu chuẩn về ứng dụng.
+Công nghệ thông tin trong cơ quan nhà nước.
+17. Mọi thành viên tham gia vận hành hệ thống Cổng TTĐT tỉnh phải có
+trách nhiệm bảo quản an toàn, bảo mật thông tin tài khoản truy cập quản trị,
+biên tập hệ thống (gồm: tên đảng nhập và mật khẩu); không để bị đánh cắp và
+sử dụng trái phép mật khâo, khoá mật mã và thông tin tài khoản trẻ. Internet.
+gây phương hại đến thông tin của tỉnh; chịu trách nhiệm về sự cố xây ra nếu liên
+quan đến thông tin truy cập quản trị hệ thống.
+18. Tất cả thành viên tham gia Cổng TTĐT tỉnh phải tuân thủ theo Điều 7
+của Luật An toàn thông tin mạng năm 2015; khi phát hiện có sự cố mất an toàn
+thông tin phải kịp thời báo nguy cho Văn phòng UBND tỉnh để phối hợp với các
+cơ quan liên quan xử lý theo đúng quy định.
+Chương IV
+TRÁCH NHIỆM, QUYỀN HẠN CỦA CÁC CƠ QUAN, ĐƠN VỊ
+TRONG VIỆC QUẢN LY, VẬN HÀNH CỔNG TTĐT TỈNH
+Điều 16. Trách nhiệm của Ban Biên tập Cổng TTĐT của Ủy ban.
+nhân dân tỉnh
+1. Ban Biên tập Cổng TTĐT của Ủy ban nhân dân tỉnh (địa chỉ hộp thư.
+điện tử: banbientap(bentredox.vn) do Chủ tịch Ủy ban nhân dân tỉnh quyết
+định thành lập (gọi tắt là Ban Biên tập).
+9
+2. Ban Biên tập là bộ phận giúp việc cho Chủ tịch Ủy ban nhân dân tỉnh
+trong việc quản lý, vận hành hạ tầng hệ thống Cổng TTĐT tỉnh; tiếp nhận, biên
+tập, xử lý, cập nhật, cung cấp thông tin trên Cổng TTĐT của Ủy ban nhân dân.
+tỉnh và phối hợp xử lý các vấn để có liên quan đến chức năng, nhiệm vụ của
+Cổng TTDT tỉnh; đồng thời là đầu mối tiếp nhận, bướng dẫn xử lý các yêu cầu
+hỗ trợ khi phát sinh các sự cố lỗi kỹ thuật trong quá trình vận hành, sự cố gây
+mất an toàn thông tin làm dừng hoặc gián đoạn đến hoạt động của các Cổng
+thành phần.
+3. Ban Biên tập chịu trách nhiệm trước Ủy ban nhân dân tỉnh, Chủ tịch
+Ủy ban nhân dân tỉnh về toán bộ các thông tin đăng tải trên Cổng TTĐT của Ủy
+ban nhân dân tỉnh.
+4. Phối hợp với các đơn vị có liên quan tham mưu, đề xuất với Ủy ban.
+nhân dân tỉnh các giải pháp nâng cao chất lượng hoạt động của hệ thống Cổng.
+TTĐT tỉnh.
+5. Đề xuất chế độ bảo trí, bảo dưỡng, nâng cấp và các biện pháp đảm bảo.
+hạ tầng kỹ thuật, an toàn thông tin và dữ liệu của hệ thống Công TTĐT tỉnh.
+6. Ban Biên tập được hưởng thù lao theo quy định của Nhà nước.
+Điều 17. Trách nhiệm của Văn phòng UBND tỉnh
+1. Quản lý tên miền berire.gav.vn; đảm bảo hoạt động phân giải tên miền
+cho Cổng TTĐT tỉnh.
+2. Quản lý, đảm bảo hệ thống Cổng TTĐT tỉnh hoạt động thông suốt
+2677; chịu trách nhiệm quản lý, sử dụng các trang thiết bị hạ tầng kỹ thuật được
+giao và kịp thời kiến nghị để xuất nâng cấp, bổ song thay thể các trang thiết bị
+không côn phù hợp nhằm đáp ứng cho hoạt động hệ thống Cổng TTĐT tỉnh
+thông suốt.
+3. Đảm bảo an toàn bệ thống Cổng TTĐT tỉnh được quy định tại Điều 14,
+Điều 15 của Quy chế này.
+4. Tham mưu trình Ủy ban nhân dân tỉnh các giải pháp kỹ thuật, mỹ thuật
+trên Cổng TTĐT của Ủy ban nhân dân tỉnh.
+5. Tham mưu trình Ủy ban nhân dân tỉnh xây dựng định mức chỉ nhuận
+bút, thử lao phục vụ cho Cổng TTĐT của Ủy ban nhân dân tỉnh.
+6. Là đầu mối quản lý, kiểm tra, giám sát tất cả các tài khoản quản trị,
+biên tập, cập nhật của hệ thống Cồng TTĐT tỉnh.
+7. Khi cấp tài khoản quản trị cho các đơn vị có Cổng thành phần phải tiến
+hành bàn giao theo đúng quy định.
+8. Tham mưu trình Ủy ban nhân dân tỉnh các dự án, kế hoạch tổng thể vết
+Đầu tư, nâng cấp hệ thống Cổng TTĐT tỉnh để phục vụ tốt hon, thuận lợi cho
+người truy cập, cung cấp thông tin.
+9. Phối hợp với các sở, ban ngành tỉnh, UBND các huyện, thành phố quản
+lý xây dựng, duy trì và phát triển các hệ thống Cổng thành phần.
+10
+10. Phối hợp với các đơn vị liên quan theo dõi, xem xét, chính sửa, cái
+tiến các giải pháp kỹ thuật, mỹ thuật kịp thời cho Cổng TTĐT tỉnh.
+11. Là đầu mối tiếp nhận, kiểm tra, khắc phục các sự cố xảy ra đối với.
+hoạt động hệ thống Cống TTĐT tỉnh.
+12. Phối hợp với các sở, ban ngành tỉnh và UBND các huyện, thành phố
+tham mưu trình Ủy ban nhân dân tỉnh trong việc xây dựng, triển khai các giải
+pháp ứng dụng và quản lý phần mềm, phần cứng nhằm bảo đảm bí mật, an toàn,
+ổn định mạng, an ninh thông tin của Cổng TTĐT tỉnh và phù hợp tiêu chí cấp
+độ so toàn thông tin mạng được quy định tại Nghị định số 85/2016/NĐ-CP ngày
+01 tháng 07 năm 2016 và Thông tư số 03/2017/TT-BTTTT ngày 24 tháng 4
+năm 2017 của Bộ Thông tin và Truyền thông.
+13. Phải bảo đảm việc lưu trữ bản sao lưu dự phòng trong vòng 03 tháng.
+cho hệ thống Cổng TTĐT tỉnh.
+14. Được phép đề nghị cử, gửi cán bộ đi đào tạo - tập huấn công tác liên.
+quan đến hoạt động của hệ thống Cổng TTĐT tỉnh theo kế hoạch đã được
+duyệt.
+15. Hỗ trợ các sở, ban ngành tỉnh, UBND các huyện, thành phố thực hiện
+công tác quản trị Cổng thành phần.
+16. Cấp phát tái nguyên và tích hợp Cổng thông tin điện tử thành phần
+cho các đơn vị, tổ chức thuộc tỉnh phù hợp với quy định tại Điều 4 Quy chế này.
+Điều 18. Trách nhiệm của các sở, ban ngành tỉnh, UBND các huyện,
+thành phố và các đơn vị trực thuộc Ủy ban nhân dân tỉnh có Cổng thành
+phần
+1. Chỉ đạo các phòng chuyên môn hoặc cán bộ chuyên trách Công nghệ
+thông tin bảo đảm cấu trúc Cổng thành phần của đơn vị minh quản lý đúng quy
+định pháp luật; kiểm tra, giám sát công tác quản trị, biên tập, cập nhật và hoạt
+động Cổng thành phần của đơn vị mình quản lý; thực hiện theo quy định tại
+khoản 4, lý, 17, 18 Điều 15 Quy chế này; chịu trách nhiệm trước Ủy ban nhân
+dân tỉnh và công tác quản trị an toàn, bảo mật; cấu trúc, giao điện của Công
+thành phần đơn vị mình quản lý.
+2. Phối hợp với Văn phòng UBND tỉnh xử lý các thông tin về kỹ thuật
+trong hoạt động Cổng thành phần của các đơn vị.
+3. Cập nhật đấy đủ thông tin theo quy định trên Cổng thành phần và chịu
+trách nhiệm trước Ủy ban nhân dân tỉnh về những thông tin, dữ liệu trên Cổng
+thành phần do đơn vị mình quản lý.
+4. Ban hành quy chế hoạt động và phân công nhiệm vụ cụ thể cho cán bộ
+trong việc tiếp nhận, xử lý, biển tập và cập nhật thông tin lên Cổng thành phần
+của đơn vị mình.
+5. Cung cấp các thông tin theo yêu cầu của Ban Biên tập Cổng TTĐT của
+Ủy ban nhân dân tỉnh.
+11
+6. Báo cáo định kỳ về tình hình hoạt động của hệ thống Cồng thành phần.
+theo quy định và kiến nghỉ các giải pháp nhằm phát triển và hoàn thiện Cổng
+TTĐT tỉnh.
+7. Thủ trưởng các cơ quan, đơn vị có Cống thành phần, Chủ tịch UBND
+các huyện, thành phố quyết định thành lập Ban Biên tập Công thành phần.
+a) Ban Biên tập Cổng thành phần giúp Thủ trương cơ quan, đơn vị quân
+lý, thu thập, biên tập, xử lý, cập nhật thông tin trên Cổng thành phần của cơ
+quan, đơn vị mình.
+b) Ban Biên tập Công thành phần được hưởng thù lao theo quy định của
+Nhà nước.
+8. Khi phát hiện có sự cố về mặt kỹ thuật hoặc nguy cơ mất an toàn thông
+tin dữ liệu, Ban Biên tập Cổng thành phân phải báo ngay cho Thủ trưởng cơ
+quan, đơn vị biết để chỉ đạc, đồng thời báo cáo kịp thời về Ban Biên tập Cổng
+TTĐT của Ủy ban nhân dân tỉnh để phối hợp xử lý.
+Điều 19. Trách nhiệm của Sở Tài chính
+Sở Tài chính chịu trách nhiệm cân đối ngân sách của tỉnh để bảo đảm
+kinh phí hoạt động, duy trì và phát triển Cổng TTDT của Ủy ban nhân dân tỉnh.
+và các Cổng thành phần các sở, ban ngành, UBND các huyện, thành phố kịp.
+thời và đúng quy định.
+Chương V
+KINH PHÍ THỰC HIỆN, CHẾ ĐỘ BÁO CÁO VÀ KIỂM TRA
+Điều 20, Kinh phí duy trì hoạt động hạ tầng hệ thống Cổng TTĐT tỉnh
+Kinh phí duy trì hoạt động hạ tầng hệ thống Công TTĐT tỉnh được đảm
+bảo từ các nguồn:
+1. Ngân sách nhà nước: Kinh phí duy trì hoạt động hạ tầng hệ thống Cổng
+TTĐT tỉnh được lập trong dự toán chí ngân sách hàng năm của cơ quan thường
+trực Cổng TTĐT của Ủy ban nhân dân tỉnh.
+2. Nguồn viện trợ, nguồn hỗ trợ phát triển chính thức của các tổ chức, cá
+nhân và các nguồn kinh phí hợp pháp theo quy định của pháp luật.
+Điều 21. Kinh phí duy trì hoạt động của Cổng thành phần
+1. Nhiệm vụ chi cho các Cổng thành phần của các cơ quan, đơn vị do
+ngân sách đảm bảo theo phân cấp quản lý ngân sách nhà nước.
+2. Thủ trưởng các cơ quan, đơn vị có Cổng thành phần quyết định mức chỉ
+tạo lập thông tin và chi trả nhoận bát, hàng năm có trách nhiệm xây dựng kế hoạch.
+kinh phí, tổng hợp chung vàc dự toán kinh phí hoạt động của cơ quan để gửi cơ
+quan tái chính cùng cấp trình cơ quan thẩm quyền xem xét phân bổ kinh phí.
+3. Việc sử dụng kinh phí để chi cho hoạt động của các Cổng thành phần
+phải tuân thủ các quy định của Luật Ngân sách nhà nước.
+12
+
+Điều 22, Chế độ báo cáo và kiểm tra
+Văn phòng UBND tỉnh chủ trì, phối hợp với các cơ quan, đơn vị có liên
+quan câu trách nhiệm kiểm tra việc thực hiện Quy chế này; thông kê, đánh giá
+kết quả hoạt động Cổng thông tin điện tử của các cơ quan, đơn kị. Định kỳ hàng
+năm tổng hợp kết quả thực hiện, báo cáo Ủy bàn nhân dân tỉnh.
+Các sở, ban, ngành tỉnh, UBND các huyện, thành phố, các đơn vị trực
+thuộc Ủy ban nhân dân tỉnh có Cổng TTỜT gửn báo cáo về Vân phòng UBND
+tỉnh trước ngày 20 tháng 11 hàng năm để Văn phòng UBND tỉnh tông hợp, báo
+cáo Ủy ban nhân dân tỉnh theo quy định.
+Chương VI
+TỔ CHỨC THỰC HIỆN
+Điều 23. Tổ chức thực hiện
+1. Chánh Văn phòng UBND tỉnh, Trưởng Ban biên tập các Cổng. Thủ
+trưởng các sở, ban ngành tỉnh; Chủ tịch UBND các huyện, thành phố, các tổ chức,
+doanh nghiệp và cá nhân có liên quan chịu trách nhiệm thực hiện. Quy chế này.
+2. Trong quá trình thực hiện, nếu có phát sảnh, vướng mắc, các cơ quan,
+đơn vị, tổ chức, cá nhân phản ánh về Vận phòng UBND tỉnh để tổng hợp, bảo
+cáo trình UBND tỉnh xem xét, sửa đổi, bổ sung cho phù hợp./.
+TM CH BAN NHÂN DÂN
+TCHĨ MỊCH
+Cao Văn Trọng
+T
+.......................................................................................................................................................................................

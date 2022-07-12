@@ -1,0 +1,514 @@
+UỶ BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH LÂM ĐỒNG   Độc lập - Tự do - Hạnh phúc
+Số: 49 /2013/QĐ-UBND   Lâm Đồng, ngày 21 tháng 10 năm 2013
+QUYẾT ĐỊNH
+Ban hành quy chế phối hợp kiểm tra, đối chiếu thông tin và sử dụng
+thông tin trong Cơ sở dữ liệu quốc gia về tài sản Nhà nước
+CING THỐNG TIN ĐỊN TỦ CHỈNH PHỦ   trên địa bàn tỉnh Lâm Đồng
+UỶ BAN NHÂN DÂN TỈNH LÂM ĐỒNG
+Căn cứ Luật tổ chức Hội đồng nhân dân và Ủy ban nhân dân năm 2003;
+Căn cứ Luật quản lý, sử dụng tài sản nhà nước năm 2008;
+Căn cứ Nghị định số 52/2009/NĐ-CP ngày 03/6/2009 của Chính phủ quy định
+chi tiết và hướng dẫn thi hành một số điều của Luật quản lý, sử dụng tài sắn nhà nước;
+Căn cứ Thông tư 245/2009/TT-BTC ngày 31/12/2009 của Bộ Tài chính quy.
+định thực hiện một số nội dung của Nghị định 52/2009/NĐ-CP ngày 03/6/2009 của
+Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Quản lý, sử
+dụng tài sản nhà nước; Thông tư 09/2012/TT-BTC ngày 19/21/2012 của Bộ Tài chính.
+sửa đổi, bổ sung Thông tư 245/2009/TT-BTC ngày 31/12/2000; Thông tư số
+123/2011/TT-BTC ngày 31/8/2011 của Bộ Tài chính trướng dẫn việc quản lý, khai
+thác Phần mềm quản lý đăng ký tài sản nhà nước;
+Xét đề nghị của Giam đốc Sở Tài chính tỉnh Lâm Đồng tại Tờ trình số
+2409/TTr-STC ngày 07 tháng 10 năm 2013,
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy chế phối hợp kiểm tra, đối
+chiến thông tin và sử dụng thông tin trong Cơ sở đã liệu quốc gia về tài sản nhà nước
+trên địa bàn tỉnh Lâm Đồng.
+Điều 2. Quyết định này có hiệu lực sau 10 ngày kể từ ngày ký.
+Điều 3. Chánh Văn phòng UBND tỉnh; Thủ trưởng các Sở, ban, ngành cấp.
+tỉnh; Chủ tịch UBND các huyện, thành phố Đà Lạt và Báo Lộc; Thủ trưởng các tổ
+chức, don vị và các cá nhân có liêt quan chịu trích nhiệm thi hành quyết định.
+Nơi nhận:   TM. ỦY BAN NHÂN DÂN
+- Văn phòng Chính phủ;   CHỦ TỊCH
+- Website Chính phủ;
+- Bộ Tài chính;
+- Cục KTVB (Bộ Tư pháp);
+- TTTU, TT HĐND tỉnh;
+- CT, các PCT UBND tỉnh;
+- Đoàn ĐBQH tỉnh;
+- Như Điều 3;
+- TT Công báo tỉnh;
+- Đài PTTH tỉnh, Báo Lâm Đồng;   Nguyễn Xuân Tiến
+- LĐ VP UBND tỉnh;
+- Lưu: VT, TC.
+UỶ BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH LÂM ĐỒNG   Độc lập - Tự do - Hạnh phúc
+QUY CHẾ
+Phối hợp kiểm tra, đối chiếu thông tin và sử dụng thông tia trong Cơ sở dữ
+liệu quốc gia về tài sận nhà nước trên địa bàn tỉnh Lâm Đồng
+(Ban hành kèm theo Quyết định số49/2013/QĐ-UBND ngày 21/10/2013
+của Uỷ ban nhân dân tỉnh Lâm Đồng)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+Quy chế này quy định mối quan hệ phối hợp giữa các Sở, ban, ngành trực
+thuộc tỉnh; UBND các huyện, thành phố Đà Lạt và Bảo Lộc (sau đây gọi tắt là
+UBND cấp huyện) và các cơ quan, tổ chức, đơn vi được giao quản lý, sử dụng.
+tổi sản nhà nước với Sở Tài chính trong việc cung cấp thông tin để kiểm tra, đối
+chiếu kết quả đăng nhập dữ liệu tài sản nhà nước thuộc diện phải kê khai đăng
+ký (trụ sở làm việc, cơ sở hoạt động sự nghiệp; xe ô tô các loại; tài sản khác có
+nguyên giá theo số sách kế toán từ 500 triệu đồng trở lên/01 đơn vị tài sản) vào
+Phần mềm Quản lý đăng ký tài sản nhà nước và sử dụng thông tin lưu giữ trong
+Cơ sở dữ liệu quốc gia về tài sản nhà nước (sau đây gợi tất là CSDL) vào các.
+mục đích: thực hiện báo cáo tình hình quản lý, sử dụng tài sản nhà nước hàng.
+năm theo quy định cóa Luật Quản lý, sử dụng tải sản nhà nước và các báo cáo
+khác theo yêu cầu của cơ quan nhà sước có thẩm quyền; lập dự toán, xét duyệt
+quyết toán, quyết định, kiểm tra, kiểm toán, thanh tra yiệc đầu tư xây dựng, mua
+sảm, nâng cấp cải tạo, sửa chữa, sử dụng, xử lý (thu hồi, bản, điều chuyển, thanh.
+lý, tiêu hủy) tải sản nhả nước.
+Điều 2. Nguyên tắc phối hợp
+Việc phối hợp giữa các nơ quan, tổ chức, đơn vị quy định tại Điều 1 Quy.
+chế này phải tuân theo nguyên tắc chặt chẽ, kịp thời, thống nhất, đảm bảo tỉnh
+chính xác số liệu của cả tỉnh, xăng cấp và các cơ quan, tổ chức, đơn vị trong
+CSDL.
+Điều 3. Trách nhiệm các bên trong quan hệ phối hợp
+1. Sở Tài chính có trách nhiệm:
+a) Hướng gặc, chuyên quôn, nghiệp vụ liên quan đến Phần mềm Quản lý.
+đăng ký tài sản rịa phóc của Bộ Tài chính cho các đơn vị trong tỉnh;
+b) Tham mữu UBND tỉnh, Chủ tịch UBND tỉnh xử lý những đơn vị vi
+phạm quy định trong việc lập Báo cáo kể khai, nhập dữ liệu, duyệt dở liệu, khai
+thác, sử dụng thông tin theo quy định của pháp luật;
+c) Thực hiện các nhiệm vụ khảc theo hướng dẫn của Bộ Tài chính và quy
+định cụ thể tại Quy chế này.
+2. UBND cấp huyện; các sở, ban, ngành cấp tỉnh có trách nhiệm:
+2
+a) Xác nhận báo cáo kê khai của các cơ quan, tổ chức, đơn vị thuộc phạm
+vi quản lý;
+b) Tổng hợp, báo cáo biến động tài sản nhà nước theo đúng thời hạn quy
+định;
+c) Thực hiện các nhiệm vụ khác theo quy định tại Quy chế này và quy
+định của pháp luật có liên quan.
+3. Các cơ quan, tổ chức, đơn vị có tài sản phải báo cáo, kê khai có trách.
+nhiệm:
+a) Lập báo cáo kê khai tài sản nhà nước theo quy định.
+b) Thực hiện các nhiệm vụ khác theo quy định tại Quy chế này và quy.
+định của pháp luật có liên quan.
+Chương II
+QUY ĐỊNH CỤ THỂ
+Điều 4. Phối hợp trong việc lập, xác nhận Báo cáo kê khai, cập nhật
+dữ liệu tài sản nhà nước vào CSDL
+L. Cơ quan, tổ chức, đơn vị được giao quản lý, sử dụng tài sản nhà nước là
+trụ sở làm việc, cơ sở hoạt động sự nghiệp; xe ô tô các loại; tái sản khác có
+nguyên giá theo số kế toán từ 500 triệu đồng trở lên/1 đơn vị tài sản có trách.
+nhiệm lập báo cáo kê khai đăng ký theo đúng mẫn ban hành kèm theo Thông tư
+số 09/2012/TT-BTC ngày 19/11/2012 của Bộ Tài chính (đính kèm quy chế này),
+cụ thể:
+a) Đối với trợ sở làm việc, cơ sở hoạt động sự nghiệp thực hiện kê khai.
+theo Mẫu số 01-ĐK/TSNN mỗi trụ sở lập riêng một báo cáo kê khai;
+b) Đối với xe ô tô thực hiện kê khai theo Mẫu số 02-ĐK/TSNN mỗi đơn
+vị lập một báo cáo kê khai;
+c) Đối với tài sản khác có nguyên giá theo số kế toán từ 500 triệu đồng trở
+lên/1 đơn vị tài sản thực hiện kế khai theo Mều số 03-ĐK/TSNN mỗi đơn vị lập
+một báo cáo kê khai
+đ) Trường hợp các đơn vị đã lập báo cáo kê khai đăng ký theo mẫu ban
+hành kèm theo Thông tư số 245/2003/TT-BTC ngày 31/12/2009 của Bộ Tài
+chính thì không cần lập lại báo cáo.
+2. Trường hợp có thay đổi về tài sản nhà nước do đầu tư xây dựng, mua
+sắm mới, tiếp nhận từ đơn vị khác về sử dụng, thanh lý, điều chuyên, bị thu hồi,
+tiêu hủy hoặc bán theo quyết định của cơ quan nhà nước có thẩm quyền; thay
+đổi mục đích sử dụng tài sản hoặc cơ quan được giao quản lý, sử dụng tài sản
+thạy đổi tên gọi, chia tách, sát nhập theo quyết định của cơ quan nhà nước có
+thẩm quyền, cơ quan, tổ chức, đơn vị có các thông tin thay đổi nêu trên lập báo.
+cáo kê khai bổ sung trong thời hạn không quá 20 ngày, kể từ ngày có sự thay đối
+theo Mẫu số 04-ĐK/TSNN ban hành kèm theo Thông tư số 09/2012/TT-BTC
+ngày 19/01/2012 của Bộ Tài chính.
+3
+3. Báo cáo kê khai đăng ký tài sản nhà nước được lập thành 03 bộ, gửi 02
+bộ đến sở, ban, ngành chủ quán hoặc UBND cấp huyện (sau đây gọi tắt là cơ
+quan chủ tuản), 01 bộ lưu tại cơ quan, tổ chức, đơn vị.
+4. Cơ quan chủ quân (cấp huyện thông qua Phòng Tải chính Kế hoạch)
+thực hiện xác nhận hồ sơ báo cáo kê khai tài sản của cơ quan, tổ chức, đơn vị:
+gửi 01 bộ hồ sơ báo cáo kê khai tài sản đã có xác nhận đến Sở Tài chính, 01 bộ,
+lưu tại cơ quan chủ quản.
+5. Sở Tài chính hoặc cơ quan được phân cấp nhập dữ liệu thực hiện việc
+đăng ký tài sản vào Phần mềm Quản lý đảng ký tổ sản nhà nước theo quy định.
+Điều 5. Phối hợp cung cấp thông tin để kiểm tra, đối chiếu kết quả kê
+khai đăng ký tài sản nhà nước
+2. Sở Tài chính hoặc các cơ quan được phân cấp nhập liệu có trách nhiệm
+thường xuyên cập nhật, kiểm tra, đối chiếu số liệu đã nhập vào Phần mềm Quán
+lý đăng ký tài sản nhà nước với hồ sơ báo cáo kế khai của cơ quan, tổ chức, đơn
+vị.
+2. Sở Tài chính hoặc các cơ quan được phân cấp nhập liệu sau khi đổi.
+chiếu số liệu trong CSDL với hồ sơ báo cáo kê khai có trách nhiệm:
+u) In và gửi Phiếu xác nhận thông tin trong CSDL về tài sản nhà
+nước” cho từng cơ quan, tổ chức, đơn vị có tài sản để trì soát, kiểm tra và xác
+nhận về tính chính xác của số liệu đã đăng nhập vào CSDL,
+b) In và gửi thông tin về đất đến Sở Tài nguyên và Môi trường để Sở Tài
+nguyên và Môi trường căn cứ hồ sơ địa chính đổi chiếu, kiểm tra các thông tin
+có liên quan
+3. Cơ quan, tổ chức, đơn vị và Sở Tài nguyên và Môi trường có trách
+nhiệm đối chiếu, xác nhận thông tin nêu trên và gửi về Sở Tài chính trong thời
+hạn 30 ngày kể từ ngày nhận được đề nghị.
+Điểu 6. Phối hợp trong công tác lập dự toán đầu tư xây dựng, mua
+sắm, nâng cấp, cải tạo, sửa chữa tài sản nhà nước
+1. Các cơ quan, tổ chức, đơn vị khi xây dựng kế hoạch mua sắm, đầu tư
+xây dựng phải trình kèm thông tin về hiện trạng và số lượng tài sản nhà nước
+hiện có trong CSDL hoặc các thông tin cần thiết khác, trình cấp có thẩm quyền
+thẩm định, tổng hợp, phê duyệt dự toán.
+2. Các cơ quan, tổ chức, đơn vị khi xây dựng kế hoạch nâng cấp, cải tạo.
+sửa chữa tài sản nhà nước trong quá nình lập dự toán ngân sách nhà nước phân
+bổ hàng năm cho hoạt động nây phải trình kèm theo Phiếu xác nhận thông tin
+trọng (SĐL về thị sản nhà nước: của tài sản tử thời điểm hình thành đến thời
+điểm lập dự toán, trình cấp có thẩm quyền thẩm định, tổng hợp, phê duyệt dự
+toán.
+3. Sở Tài chính, Sở Kế hoạch và Đầu tư kiểm tra hiện trạng và số lượng
+tài sản đã được trang cấp của cơ quan, tổ chức, đơn vị đã đăng ký trong CSDL
+quốc gia về tái sản phả nước; nếu cơ quan, tổ chức, đơn vị choan kê khoi, đặng kỳ
+tài sản (tụ sở làm việc, xe ô tả, tài sản khác có quyên giá từ : 500 triệu đồng trở
+Tên/1 đơn vị tài sản) theo quy định, Sở Tài chính đề nghị đơn vị kê khai bổ sung
+đầy đủ trước khi thực hiện thẩm định dự toán; từ năm 2013, không xem xét kế
+hoạch đầu tư xây dựng, mua sắm, nâng cấp, cải tạo sửa chữa tài sản đối với
+4
+1. Hảng năm, cơ quan, tổ chức, đơn vị được giao quản lý, sử dụng tài sản
+nhà nước, UBND các huyện, thành phố thuộc tỉnh, các Sở, ban, ngành cấp tỉnh
+và Sở Tài chính có trách nhiệm lập, gửi Báo cáo tình hình quản lý, sử dụng tái
+sản của năm theo quy định tại Điều 32, Điều 34 Nghị định số 52/2009/NĐ-CP
+ngày 03/6/2009 của Chính phủ.
+2. Để đảm bảo số liệu báo cáo được thống nhất, Sở Tài chính thực hiện
+việc khoả toàn bộ số liệu tài sản thuộc phạm vi quản lý trong Cơ sở dữ liệu quốc
+gia để báo cáo vào ngày 30/01 hàng năm; các cơ quan, tổ chức, đơn vị chưa
+nhập dữ liệu tăng, giảm tài sản của năm báo cáo vảo Phẩn mềm phái chịu trách.
+nhiệm trước Chủ tịch UBND tỉnh.
+3. Nội dung báo cáo tình hình quản lý, sử dụng tài sản nhà nước thực hiện.
+theo hướng dẫn tại Điều 5, Điều 6 Thông tư số 09/2012/TT-BTC ngày.
+19/01/2012 của Bộ Tài chính.
+Các biểu mẫu kèm theo Báo cáo phải được kết xuất từ Cơ sở dữ liệu quốc
+gia về tài sản nhà nước, bao gồm:
+a) Báo cáo tổng hợp hiện trạng sử dụng nhà, đất theo Mẫu số o2B-
+ĐK/TSNN.
+b) Báo cáo tổng hợp tình hình tăng, giảm tài sản nhà nước theo Mẫu số.
+02C ĐK/TSNN.
+Chương III
+TỔ CHỨC THỰC HIỆN
+Điều 11. Khen thưởng và xử lý vi phạm
+Các cơ quan, đơn vị, tổ chức, cá nhân thực hiện tốt những nội dung của
+bản Quy chế này thì được khen thưởng; cơ quản, đơn vị, tổ chức, cá nhân vi
+phạm các quy định tại Quy chế này thả tuỹ theo mức độ vi phạm mà có hình
+thức xử lý theo quy định của pháp luật.
+Điều 12. Trách nhiệm tổ chức thực hiện
+1. Giao Sở Tài chính tổ chức hướng dẫn thực hiện Quy chế này; định kỳ.
+hàng năm tổng hợp, báo cáo UBXD tỉnh tình hình và kết quả thực hiện quy chế
+này.
+2. Các sở, ban, ngành cấp tỉnh có liên quan và UBND các huyện, thành
+phố có trách nhiệm thi hành những quy định tại bản Quy chế này;
+Trong quá trình thực hiện nếu có vướng mắc các đơn vị phản ánh về Sở
+Tài chính để hướng dẫn xử lý./.
+TM. ỦY BAN NHÂN DÂN
+THỦ TỊCH
+Nguyễn Xuân Tiến
+6
+những đơn vị có tài sản phải đăng ký nhung không thực hiện kê khai vào Phần
+mềm.
+4. Trường hợp cần thiết, các cơ quan thẩm định kiểm tra thực tế tài sản tại
+đơn vệ nếu số liệu trong CSDI, quốc gia không phản ánh đúng thực tế hiện trạng
+kiểm tra thì đề nghị cơ quan, tổ chức, đơn vị được giao qoản lý, sử dụng tài sản.
+nhà nước phải báo cáo điều chỉnh số liệu gửi cơ quan chủ quân, Sở Tài chính để
+thực hiện điều chỉnh trong CSDL.
+5. Sở Tài chính chịu trách nhiệm cung cấp Phiếu xác nhận thông tin
+trong CSĐL về tài sản nhà nước” cho đơn vị khi có yêu cầu trong trường hợp
+địa phương chưa phân cấp việc khai thác đữ liệu về tài sản nhà nước cho cơ
+quan, tổ chức, đơn vị quản lý, sử dụng tài sản.
+Điều 7. Phối hợp trong công tác xét duyệt quyết toán đần tư xây
+dựng, mua sắm, nâng cấp, cải tạo, sửa chữa tài sản nhà nước
+1. Cơ quan có thẩm quyền xét duyệt quyết toán (Sở Tài chính, Phòng Tài
+chính Kế hoạch) chỉ xem xét, thực hiện quyết toán đối với các tài sản thuộc đối
+trọng kê khai đăng ký sau khi tài sản đó đã được đăng ký vào CSDL.
+2. Sau khi quyết toán, nếu có chênh lệch về số liệu giữa CSDL với giá tại
+duyệt quyết toán thí đềnghị cơ quan, tổ chức, đơn vị được giao quản lý, sử dụng
+tải sản có trách nhiệm lập báo cáo điều chỉnh số liện gửi cơ quan chủ quân, Sở
+Tài chính để thực hiện điều chỉnh trong CSDL.
+3. Sau khi có kết quả duyệt quyết toán, các đơn vị thực hiện bản giao đầy
+đủ hồ sơ liên quan đến tài sản nhà nước đã thực hiện đầu tư, mua sắm cho đơn vị
+thụ hưởng tiếp tục theo dõi.
+Điều 8. Phối hợp trong công tác xử lý (thu hồi, bán, điều chuyển,
+thanh lý, tiêu hủy) tài sản nhà nước
+,. Cơ quan, tổ chức, đơn vị được giao quản lý, sử dụng tài sản nhà nước
+khi đề nghị xử lý tài sản nhà nước (thu hồi, bán, điều chuyển, thanh lý, tiên húy)
+phải kèm theo “Danh mục tài sản nhà nước đề nghị xử lý” theo mẫu quy định,
+được in trực tiếp từ CSDL.
+2. Sở Tài chính hướng dẫn thủ tục và có trách nhiệm cụng cấp “Danh
+mục tài sản nhà nước đề nghị xử lý” cho đơn vị khi có yêu cầu trọng trường
+hợp đaa phương chưa phân cấp việc khai thác dữ liện về tài sản nhà nước cho cơ
+quan, tổ chức, đơn vị quản lý, sử dụng tài sản.
+Điều 9. Phối hợp trong việc kiểm tra, kiểm toàn, thanh tra việc chấp
+hành chế độ quản lý, sử dụng tài sản nhà nước
+1. Cơ quan thanh tra, kiểm tra, kiểm toán sử dụng thông tin trong CSDL.
+để thực hiện công tác kiểm tra, kiểm toán, thanh tra việc chấp hành chế độ quản
+lý, sử dụng tài sản nhà nước,
+2. Sở Tài chính chịa trách nhiệm cung cấp hồ sơ về tài sản ín trực tiếp từ
+CSDL khi có yêu cầu của cơ quan thanh tra, kiểm tra, kiểm toán.
+Điều 10. Phối hợp trúng công tác báo cáo tình hình quản lý, sử dụng
+tải sản nhà nước theo quy định của pháp luật về quản lý, sử dụng tài sản
+nhà nước
+5
+Mẫu số 02B ĐK/TSNN
+Bộ, tỉnh:...   (Ban hành kèm theo Thống tư số 245/2009/TT - BTC
+Ma đơn vị: a.   ngày 31/12/2009 của Bộ Tải chính)
+BÁO CÁO TỔNG HỢP HIỆN TRẠNG SỬ ĐỤNG NHÀ, ĐẤT
+Kỳ báo cáo: Từ ngày............................ đến ngày...............................................................................................................................
+Phần 1: Tổng hợp chung
+ĐVT: - Số lượng lã:... cải, khuôn viên;
+- DT đất là: mộ;
+- ĐT nhà là: ngà tà
+HIàI TRANG SỬ DỤNG
+TÁI SẢN   SỐ ƯƯỢC   DIỆN TÍCH   Trụ sữ   sử dụng khác
+làm việc   Cơ sở HĐSN   Lâm nhà ở   Cho thu   Bố trồng   Bị làn chiềm   Khác
+3   7   3   6   7   8   9   10
+
+2- Nhà
+Tổng cộng
+Nguồn: CSDL rà TSNN
+.......... ngày.... tháng -.. năm v....   NGƯỜI LẬP BẢO CÁọ   (Ký, họ tên và đông dấu)   BỘ TRƯỜNG CHỦ TỊCH UBND CẤP TỈNH   ngày.... tháng.... năm   (Ký, họ tên và đóng dấu)
+Bộ tỉnh:...   Mã đơn vị: ..   Ban hành kèm theo Tháng tư số 245/2009/TT-TTC   Mẫu số 02B ĐK/TSNN
+ngày 31/12/2009 của Bộ Tai chính)
+BÁO CÁO TỔNG HỢP HIỆN TRẠNG SỬ DỤNG NHÀ, ĐẤT
+Kỳ báo cáo: Từ ngày............... đến ngày....................
+Phần 2. Chi tiết theo loại hình đơn vị
+ĐVT: - Số lượng là:.... cái, khuôn viên;
+- DT đất là: nơ: n2;
+- ĐT nhà tà:
+HIỆN TRẠNG SỬ DỤNG
+TÀI SẢN   SỐ LƯ   DIỆN TÍCH   Trụ sữ   Sử dụng thát
+làm việc   Cơ sở HĐSN
+Làm nhà   Cho thuê   Đà trúng   Bị bản chiếm   Khac
+3   6   7   8   10
+T- Khối goản tý nhà nước
+Hất kãu vid
+Hà
+
+
+
+Hu- Khối các tổ chức
+
+Hà Nhà
+Tổng cộng
+Nguần: CSĐủ V TSNN
+... ngày cháng thám   ngày, cháng cháng... năm............ năm......... năm. năm......... năm. năm. năm. năm......... năm. ngày chàng chàng chà chàng chàng chà chàng chà chàng chàng chà chàng chà chàng chà
+NGƯỜI LẬP BẢO CÁọ   BỘ TRƯỞNG/CHỦ TỊCH UBND CẤP TỈNH
+(Ký, họ tên và đóng dấu)   (Ký, họ tên và đóng dấu)
+Bộ, tỉnh:...   Mẫu số 0D ĐKTSNN
+Mu đơa vị:
+ngày 31/12/2009 của Bộ Tài chính)
+BÁO CÁO TỔNG HỢP HIỆN TRẠNG SỬ DỤNG NHÀ, ĐẤT
+Kỳ báo tio: Từ ngày.................... đến ngày.......................................................................................................................................
+Phần 3. Chi tết theo từng đơn vị
+ĐVT: - Số lượng là:... cái, khuôn viên;
+- DT đát là mộ;
+- DT nhà bà:...... m2.
+Mặ   HIàN THẠNG SỬ DỤNG
+TÁI SÁN   ĐON   ưươn   SỐ   DI N   TÍCH   Trụ sỡ   Cơ sở   Sữ dụng thúc
+Vt   tăng vục   HĐSN   Lam nhà   Cho tha   Bà trồng.   Hị lấn chiến   Khác
+I   2   3   1   3   6   7   8   3   10   H
+
+
+Hà
+
+
+2- Nhà
+
+Tổng cộng
+Nguần: CSL nhà
+........ ngày..... tháng; ... năm....   ......... , ngày .... tháng .... năm ...
+NGƯỜI LẬP BÁO CÁọ   BỘ TRƯỞNG CHỦ TICH UBND CẤP TỈNH
+(Ký, họ tên và đóng đấu)   (Ký, họ tên và đóng dấu)
+Bộ, tỉnh   Mã đơa vị:   Ban hành lùm theo Thộng tư số 215/2009/TT-BTC
+ngày 31/12/2009 của Bộ Tải chách
+BÁO CÁO TỔNG HỢP TỈNH HÌNH TĂNG, GIẢM TÀI SẢN NHÀ NƯỚC
+Kỳ báo cáo: Từ ngày đến ngày
+Phần 1: Tổng hợp chung
+ĐVT: - Số lượng là:....
+- DT đất là:
+- TT nhà là:
+- Nguyên giá là:.... đồng.
+TÀI BẦN   SỐ ĐẦU KỸ   SÓ TÀNG TRONG KỸ   SỘ GIÁM TRONG KỲ   SỐ CUỐI VỊ
+1   Số trợm   Diện thhị   Nguyện   Hố lượng   Dian tích   Nguyên qu   Số hợng   Diện tích   9   l Nguyên gá   D   Diện tích Ngu:
+
+
+3- Xe 0
+
+Triệu đồng trở lên.
+Tổng cộng
+Ngubễ CSDL v T TSNN
+.... ngày..... tháng .... năm....   NGƯỜI LẬP BẢO CÁọ   BỘ TRƯỞNG CHỦ TỊCH UBND CẢT TỈH   ngày cháng c. năm....
+(Ký, họ tên và đóng dấu)   (Ký họ tên và đóng dấu)
+
+Bộ, tỉnh:...   Mẫu số mC-ĐK/TSNN
+Mã đơn vị:   (Ban hành kèm theo Thông tư số 215/2009/TT-BTc
+ngày 31/12/2009 của Bộ Tải chính)
+BÁO CÁO TỔNG HỢC TÌNH HÌNH TĂNG, GIẢM TÀI SẢN NHÀ NƯỚC
+Kỳ báo cáo: Từ ngày.............. đến ngày.............................................................................................................................................
+Phần 2: Chi tết theo loại hình đơn vị
+ĐVT Số ương lia-... cá, khôn viên; DT đết bệ:........ m, DT nhà B:...... nỗ Nguyên giá lả.... đồng,
+SỐ ĐẦU KỲ   SỐ TẦNG TRỌNG KY   Sô GIÁM TRỌNG KY   SỐ CUỐI Kýt
+- TÀI SÁN   Số   Diện   Nguyên   Số   Diện   Nguyễn   Số   Diện   Nguyên   Số   Diện   Nguyễn
+hương   tích   gủá   lượng   tích   gú   Lượng   tích   gá   lượng   tích   giá
+1   6   9   10   11   12   13
+
+1- Đất khuôn viên
+2- Nhà
+13- Xe tô
+
+II- Khối sự ngai tp
+TI- Đất huớn viên
+2-Nhà
+3- Xe ô tô
+
+mối các tổ chức
+1- Đất khuoo vitan
+2- Nhà
+
+
+Tổng cộng
+Nạnầm: CSDL n2 TSNN
+........ ngày tháng.... năm.....   ........... ngày,..tháng.... năm......
+NGƯỜI LẬP BẢO CÁp   BỘ TRUỞNG CHỦ TỊCH UUND CẤP TỈNH
+(Ký, họ tên và đóng dấu)   (Ký, họ tên và đóng dấu)
+Bộ, tỉnh:...
+Mã đơn vị:   Mấu số 02C ĐK/TSNN
+Ban hành kàm theo Thông tư số 245/2009/TTr-BTc
+ngày 3112/2009 của Bộ Thi uunh)
+BÁO CÁO TỔNG HỢP TỈNH HÌNH TĂNG, GIẢM TÀI SẢN NGÀ NƯỚC
+Kỳ báo cáo: Từ ngày đến ngày
+Phần 3: Chi tiết theo từng đơn vị
+ĐV: Số Tgang viên; ĐT đất tra.......... m2, DT sB 8...... mỹN Nguyln giá la... đồng
+TÀ SÁN   MÃ   ĐON   SỐ ĐẦU KỲ   BỘ TÀNG TRNNG XỸ   BỘ GIẢM TẠNG KI   SỐ CUỐIG
+vị   số   Diận   Nguyên   Số   Diện   Nguyên   Số   Diện   Nguyên   Số   Diện   Nguyên
+2   hợng
+3   tích
+1   Pú   lượng
+6   tích
+7   giá
+8   ượng
+9   tích
+10   giá
+11   lượng
+12   tích
+13   giá
+14
+
+2- Nhà
+3- Xe ô tô
+
+Trở lên
+
+- Đất khuận viên
+12- Nhà
+3-Xe 6 tô
+4-Thi sản có nguyên giá tử 500 triệu đồng
+Trở lên
+
+Tổng cộng
+Nguồn: CSDL N T TSNN
+- ngày tháng .... năm....
+NGƯỜI LẬP BÁO CÁọ   ngày.... tháng.... năm....
+(Ký, họ tên và đóng dấu)   BỘ TRƯỞNG CHỦ TỊCH UBND CAP ThuH
+(Ký, họ tên và đóng dấu)
+3
+Mẫu số 01-ĐK/TSNN
+Bộ tỉnh:
+Đơn vị cảu quản:..   (Ban hành kèm theo Thông tư số 09/201217-BTC
+Đơa vi sử đụng tãi sảo:..   ngày 19/0u/2012 của Bộ Tai dinh)
+Mã đơn vị:
+Loại hình đơn vị:...
+BÁO CÁO KÊ KHAI TRỤ SỞ LÀM VIỆC, CƠ SỞ HOẠT ĐỘNG SỰ NGHIỆP
+Địa chỉ:...
+
+a- Diện tích khuôn viên đất:
+Từ Trang tháng Chương trac trong nhàn chốc điện thônh thốc đất đất đất đườn thảnh điển đản thành phố chố Minh
+c- Giá trị theo sổ kế toán: -
+
+TAI SAN   CẤp   NẶM   NGÀY.   GIA TỊỊ THEO SỐ KE   SỐ   DT   TôNg   HIỆN TRẠNG SỬ DỤNG (m2)
+HẠNO   XÂY   THôNG,   TOÁN (ngân đồng   TẦNG   XÂY   DT XÂY
+DỤNG   NĂM sử
+DỤNG   Nguyễn giá   Giá trị
+còn lại   DƯNG
+(m2)   DỤNG
+(m2)   Trụ số
+lầm việc   Co sở
+HĐSN   Sử dụng khác
+Lâm   Cho   BÍ lấn   Khác
+Nguồn   Nguồn
+NS   khác   nhà ở   thuê   trống   chiấm
+2   3   4   5   6   7   8   9   10   11   12   13   14   15   16   17
+Tị Nhà...
+2- Nhà
+Tổng cộng:
+
+...... - ngày..... tháng .... năm ....
+THỦ TRƯỞNG CƠ QUAN, TỔ CHỨC, ĐơN vỊ
+(Ký, họ tên và đóng dấu)
+- Báo cáo kê khai lần đầu: D
+- Báo cáo xa khai bổ sựng: 9
+Trung thự thán gian đứng xư xác Hường xư các Hường Kếp tho cho choang sác xà 1 (0AcMang.
+Mẫu số 02- ĐK/TTSNN
+Bộ, tỉnh:..
+Đơn vị chủ quản:..
+(Ban hảnh kèm theo Thông tư số 09/2012/TT-BTC
+Đơn vị sử dụng tài nản:..   ngày 19/0u/2012 của Bộ Tai chính)
+Mã đơn vị...
+Loại hình đơn việt...
+BÁO CÁO KẾ KHAI XE Ô TÔ
+GIÁ TRỊ THỊO SỐ KẾ
+NGÀY.   CHỨC   TOÁN   HIỆN TRẠNG SỬ DỤNG
+BIẾN   SỐ CHỐ   NƯỚC   NĂM   THÁNG,   CÔNG   DANH   (ngần đồng)   (chiếc)
+TÀI SẢN   NHÂN
+HIệU   KIỂM   NGÔI
+TÁI   SẢN   SẢN      SUẤT   SỬ   NGƯỞN
+SOÁT   XUẤT   XUẤT   SỬ   XE   DỤNG      Nguyên giá
+TRỢNG   Giá trị   HĐ
+DỤNG   Xg   Nguồn   TNguồn   còn hi   QLNN   Kinh   T Không
+NS   khác   luanh   KD
+1   2   3   4   3   6   7   8   9   10   11   12   13   14   15   16   17
+l- Xe phục vụ
+chức danh
+1- Xe so
+2- Xe -..
+II- Xo phục
+lự chung
+T-Xt
+2- Xe trính phố chố chố chố chố chố chố chố chố chố Tiên Thônh 2
+
+chuyên đàng
+1-Xt
+2- Xo
+Tổng cộng:
+ngày tháng tán năm.   ngày..... tháng ..... năm....
+XÁC NHẬN CỦA CÁP CỔ THÁM QUYỀN   THỦ TRƯỞNG CƠ QUAI, TỔ CHỨC, ĐƠN vị
+(Ký, họ tân và đóng dấu)   (Ký, họ tân và đóng dấn)
+- Báo cáo kê khai lần đầu: o
+- Báo cáo kê khai bổ rung: p
+(trường kợp v khan tiến đết - chhị trị vàng kác và 1 vác đếc đất trường Nại k khaM được pị chường Đôn vốn VNN-NAx
+
+Bộ, tỉnh:...   Mẫu số 03-ĐK/TSNN
+Đơn vị chủ quản:..   (Ban hành kèm theo Tháng tư số 09/2012/TT-BTC
+ngày 19/01/2012 của Bộ Tài chính)
+Đơn vị sử dụng tài sản:..
+Mã đơn vị:..
+Loại hình đơn vị:...
+BÁO CÁO XỀ KHAI TÀI BẢN CỔ NGUYÊN GIÁ TỬ SOA TRIỆU ĐỒNG TRỞ LÊN
+GIÁ TRỊ THEO SỐ KẾ TOAN   HIỆN TRẠNG SỬ DUNG
+NGÀY,   (ngàn đồng)   (cái, chiếc)
+TÀI SẢN   KÝ HIỆU   SẢN XUẤT   NƯỚC   SẢN   NẶM   NĂM sỬ   THÁNG,   Nguyên giá   Giả trị   HĐ sự nghiệp
+XUẤT
+DỤNG   Nguồn NS   Nguồn   còn lại   QLNN   Kinh   Không      HĐ
+khác   doanh   KD
+2   3   4   3   6   7   8   9   10   11   12
+1- Tải sản
+2- Tài sản
+3- Tải sản
+Tổng cộng:
+....... , ngày.... tháng.... năn....   .............. ngày..... thảng.... năm.....
+XÁC NHẬN CỦA CẤP CỔ THẨM QUYỀN   THỦ TRƯỞNG CƠ QUAN, TỔ CHỨC, ĐƠN vỊ
+(Ký, họ tên và đóng dấu)   (Ký họ tên và đóng dấu)
+- Báo cáo kó khai lần đầu: p
+- Báo cáo kê khai bổ sung: p
+

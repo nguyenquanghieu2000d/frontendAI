@@ -1,0 +1,1509 @@
+Ký bởi: Cổng Thông tin điện tử chính phủ   Ký bai: thông thông tpịn tử honh phủ
+Thời gian ký: 24.042015 16:09:36 +07.00
+CHÍNH PHỦ   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Số: 37/2015/NĐ-CP
+Hà Nội, ngày 22 tháng 4 năm 2015
+CÔNG THÔNG TIN DIỆN TỦ CHỈNH PHỦ
+NGHỊ ĐỊNH
+Quy định chi tiết về hợp đồng xây dựng
+Căn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;
+Căn cứ Luật Xây dựng ngày 18 tháng 6 năm 2014;
+Theo đề nghị của Bộ trưởng Bộ Xây dựng,
+Chính phủ ban hành Nghị định quy định chi tiết về hợp đồng xây dựng.
+Chương I
+NHỮNG QUY ĐỊNH CHUNG
+Điều 1. Phạm vì điều chỉnh và đối tượng áp dựng
+1. Nghị định này quy định chi tiết về hợp đồng xây dựng.
+2. Nghị định này áp dụng đối với các tổ chức, cá nhân liên quan đến việc
+xác lập và quản lý thực hiện hợp đồng xây dựng thuộc dự án đầu tư xây dựng
+(bao gồm cả hợp đồng xây dựng giữa nhà đầu tư thực hiện dự án BOT, ĐTO,
+BT và PPP với nhà thầu thực hiện các gói thầu của dự án) sau:
+a) Dự án đầu tư xây dựng của cơ quan nhà nước, tổ chức chính trị, tố
+chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội -
+nghề nghiệp, tổ chức xã hội, đơn vị thuộc lực lượng vũ trang nhân dân, đơn vị
+sự nghiệp công lập;
+b) Dự án đầu tư xây dựng của doanh nghiệp nhà nước;
+c) Dự án đầu tư xây dựng không thuộc quy định tại Điểm a, b Khoản này.
+có sử dụng vốn nhà nước, vốn của doanh nghiệp nhà nước từ 30% trở lên
+hoặc dưới 30% nhưng trên 500 tỷ đồng trong tổng mức đầu tư của dự án;
+Khuyến khích các tổ chức, cá nhân liên quan đến hợp đồng xây dựng
+thuộc các dự án đầu tư xây dựng sử dụng các nguồn vốn khác áp dụng quy.
+định tại Nghị định này.
+3. Đối với hợp đồng xây dựng thuộc các dự án sử dụng nguồn vốn hỗ trợ.
+phát triển chính thức (nọi tất là ODA), nếu điều ước quốc tế mà Việt Nam là
+thành viên có những quy định khác với các quy định tại Nghị định này thì
+thực hiện theo các quy định của Điều ước quốc tế đó.
+Điều 2. Giải thích từ ngữ
+Trong Nghị định này các từ ngữ dưới đây được hiểu như sau:
+1. Hợp đồng xây dựng là hợp đồng dân sự được thoả thuận bằng văn bản
+giữa bên giao thầu và bên nhận thâu để thực hiện một phần hay toán bộ công
+việc trong hoạt động đầu tư xây dựng.
+2. Bên giao thầu là chủ đầu tư hoặc đại diện của chủ đầu tư hoặc tổng
+thầu hoặc nhà thầu chính.
+3. Bên nhận thầu là tổng thầu hoặc nhà thầu chính khi bên giao thẩu là
+chủ đầu tư; là nhà thầu phụ khi bên gian thầu là tổng thầu hoặc nhà thấu
+chính. Bên nhận thầu có thể là liên danh các nhà thầu.
+4. Điều kiện chung của hợp đồng xây dựng là tài liệu kèm theo hợp đồng
+quy định quyền, nghĩa vụ cơ bản và mối quan hệ của các bên tham gia hợp.
+đồng xây dựng.
+5. Điều kiện cụ thể của hợp đồng xây dựng là tài liệu kèm theo hợp đồng để
+cụ thể hoá, bổ sung một số quy định của điểu kiện chung của hợp đồng xây dựng.
+6. Phụ lục của hợp đồng xây dựng là tài liệu kèm theo hợp đồng xây
+dựng để quy định chi tiết, làm rõ, sửa đổi, bổ sung một số điều khoản của hợp.
+đồng xây dựng.
+7. Ngày làm việc trong Nghị định này được hiểu là các ngày theo dương
+lịch, trừ ngày chú nhật, ngày nghi lế, tết theo quy định của pháp luật.
+8. Chi dẫn kỹ thuật là tập hợp các yêu cầu kỹ thuật dựa trên các quy chuẩn
+kỹ thuật, tiêu chuẩn được áp dụng cho công trình, thiết kế xây dựng công trình.
+để hướng dẫn, quy định về vật liệu, sản phẩm, thiết bị sử dụng cho công trình.
+gói thầu xây dựng và các công tác thì công, giám sát, nghiệm thu công trình
+xây dựng.
+9. Thiết kế PEED là thiết kế kỹ thuật tổng thể được triển khai theo thông
+lệ quốc tế để làm cơ sở triển khai thiết kế chi tiết.
+10. Phạm vi công việc được quy định tại Khoản 1 Điều 12 Nghị định này.
+11. Nhà thầu chính là nhà thầu trực tiếp ký kết hợp đồng xây dựng với.
+chủ đầu tư xây dựng.
+2
+12. Nhà thấu phụ là nhà thầu ký kết hợp đồng xây dựng với nhà thầu:
+chính hoặc tổng thầu.
+13. Nhà thầu nước ngoài là tổ chức được thành lập theo pháp luật nước
+ngoài hoặc cá nhân mang quốc tịch nước ngoài tham gia ký kết và quản lý.
+thực hiện hợp đồng xây dựng tại Việt Nam. Nhà thầu nước ngoài có thể là nhà
+thẩu chính, tổng thầu hoặc nhà thầu phụ.
+Điều 3. Các loại hợp đồng xây dựng
+1. Theo tính chất, nội dung công việc hợp đồng xây dựng có các loại sau:
+a) Hợp đồng tư vấn xây dựng (viết tắt là hợp đồng tư vấn) là hợp đồng
+để thực hiện một, một số hay toàn bộ công việc tư vấn trong hoạt động đầu tư
+xây dựng;
+b) Hợp đồng thì công xây dựng công trình (viết tắt là hợp đồng thi công
+xây dựng) là hợp đồng để thực hiện việc thí công xây dựng công trình, hạng.
+mục công trình hoặc phần việc xây dựng theo thiết kế xây dựng công trình;
+hợp đồng tổng thầu thi công xây dựng công trình là hợp đồng thì công xây.
+dựng để thực hiện tất cả các công trình của một dự án đầu tư;
+c) Hợp đồng cung cấp thiết bị công nghệ (viết tắt là hợp đồng cung cấp
+thiết bị) là hợp đồng thực hiện việc cung cấp thiết bị để lấp đặt vào công trình
+xây dựng theo thiết kế công nghệ: hợp đồng tổng thầu cung cấp thiết bị công
+nghệ là hợp đồng cung cấp thiết bị cho tất cả các công trình của một dự án.
+đầu tư xây dựng;
+đ) Hợp đồng thiết kế và thì công xây dựng công trình (tiếng Anh là
+Boginetring - Construeten viết tắt là BC) là hợp đồng để thực hiện việc thiết
+kể và thi công xây dựng công trình, hạng mục công trình; hợp đồng tổng thầu
+thiết kế và thì công xây dựng công trình là hợp đồng thiết kể và thi công xây.
+dựng tất cả các công trình của một dự án đầu tư xây dựng;
+đ) Hợp đồng thiết kế và cung cấp thiết bị công nghệ (tiếng Anh là
+Fnginecing - Procuernent viết tắt la RP) là hợp đồng để thực hiện việc thiết
+kế và cung cấp thiết bị để lấp đặt vào công trình xây dựng theo thiết kế công
+nghệ; hợp đồng tổng thầu thiết kế và cung cấp thiết bị công nghệ là hợp đồng
+thiết kế và cung cấp thiết bị công nghệ cho tất cả các công trình của một dự án.
+đầu tư xây dựng;
+c) Hợp đồng cung cấp thiết bị công nghệ và thi công xây dựng công trình
+(tiếng Anh là Procarernent - Consruetim viết tắt là PC) là hợp đồng để thực.
+hiện việc cung cấp thiết bị công nghệ và thì công xây dựng công trình, hạng
+mục công trình; hợp đồng tổng thẩu cung cấp thiết bị công nghệ và thi công
+xây dựng công trình là hợp đồng cung cấp thiết bị công nghệ và thi công xây.
+dựng tất cả các công trình của một dự án đầu tư xây dựng;
+3
+g) Hợp đồng thiết kế - cung cấp thiết bị công nghệ và thi công xây dựng
+công trình (tiếng Anh là Engineering - Procurernett - Construcion viết tắt là
+EPC) là hợp đồng để thực hiện các công việc từ thiết kế, cung cấp thiết bị công
+nghệ đến thì công xây dựng công trình, hạng mục công trình; hợp đồng tổng
+thầu EPC là hợp đồng thiết kế - cung cấp thiết bị công nghệ và thi công xây
+dựng tất cả các công trình của một dự án đầu tư xây dựng;
+h) Hợp đồng chỉa khoả trao tay là hợp đồng xây dựng để thực hiện toàn
+bộ các công việc lập dự án, thiết kế, cung cấp thiết bị công nghệ và thi công
+xây dựng công trình của một dự án đầu tư xây dựng;
+i) Hợp đồng cung cấp nhân lực, máy và thiết bị thì công là hợp đồng xây.
+dựng để cung cấp kỹ sư, công nhân (gọi chung là nhân lực), máy, thiết bị thì
+công và các phương tiện cần thiết khác để phục vụ cho việc thi công công
+trình, hạng mục công trình, gói thầu hoặc công việc xây dựng theo thiết kế
+xây dựng;
+k) Các loại hợp đồng xây dựng khác.
+2. Theo hình thức giá hợp đồng, hợp đồng xây dụng có các loại sau:
+a) Họp đồng trọn gói;
+b) Hợp đồng theo đơn giá cố định;
+c) Hợp đồng theo đơn giá điều chỉnh;
+d) Hợp đồng theo thời gian;
+d) Hợp đồng theo giá kết hợp là hợp đồng xây dựng sử dụng kết hợp các
+loại giá hợp đồng nêu từ Điểm a đến Điểm d Khoản này.
+3. Theo mối quan hệ của các bên tham gia trong hợp đồng, hợp đồng xây
+dựng có các loại sau:
+a) Hợp đồng thầu chính là hợp đồng xây dựng được ký kết giữa chủ đầu:
+tư với nhà thầu chính hoặc tổng thầu.
+b) Hợp đồng thầu phụ là hợp đồng xây dựng được ký kết giữa nhà thầu.
+chính hoặc tổng thầu với nhà thầu phụ.
+c) Hợp đồng giao khoán nội bộ là hợp đồng giữa bên giao thầu và bên
+nhận thầu thuộc một cơ quan, tổ chức.
+d) Hợp đồng xây dựng có yếu tố nước ngoài là hợp đồng xây dựng được
+ký kết giữa một bên là nhà thầu nước ngoài với nhà thầu trong nước hoặc chủ
+đầu tư trong nước.
+4
+Điều 4. Nguyên tắc ký kết hợp đồng xây dựng
+Về nguyên tắc ký kết hợp đồng xây dựng phải phù hợp với quy định tại
+Khoản 2 Điếu 138 Luật Xây dựng số 50/2014/QH33 và đảm báo các nguyên
+tắc sau:
+1. Tại thời điểm ký kết hợp đồng bên nhận thầu phải đáp ứng điều kiện
+năng lực hành nghề, năng lực hoạt động theo quy định của pháp luật về xây
+dựng. Đối với nhá thầu liên danh, việc phân chữa khối lượng công việc trong.
+thỏa thuận liên danh phải phù hợp với năng lực hoạt động của từng thành viên.
+trong liên danh. Đối với nhà thầu chính nước ngoài, phải có cạm kết thuê thần
+phụ trong nước thực hiện các công việc của hợp đông dự kiếp giao thầu phụ
+khi các nhà thần trong nước đáp ứng được yêu cầu của gói thầu.
+2. Chủ đầu tư hoặc đại diện của chủ đầu tư được ký hợp đồng với một
+hay nhiều nhà thầu chỉnh để thực hiện công việc. Trường hợp chủ đầu tư ký
+hợp đồng với nhiều nhà thầu chính thì nội dung của các hợp đồng này phải
+bảo đảm sự thống nhất, đồng bộ trong quá trình thực hiện các công việc của
+hợp đồng để bảo đảm tiến độ, chất lượng, hiệu quả đầu tư của dự án đầu tư.
+xây dựng.
+3. Tổng thầu, nhà thầu chính được ký hợp đồng với một hoặc một số nhà
+thầu phụ, nhưng các nhà thấn phụ này phải được chủ đầu tư chấp thuận, các
+hợp đồng thầu phụ này phải thống nhật, đồng bộ với hợp đồng thầu chính đã
+ký với chủ đầu tai Tộng thầu, nhà thầu chính phải chịu trách nhiệm với chủ
+đầu tư về tiến độ, chất lượng các công việc đã ký kết, kể cả các công việc do
+nhà thầu phụ thực hiện.
+4. Giá ký kết hợp đồng không được vượt giá trúng thầu hoặc kết quả
+đảm phán, thương thảo hợp đồng xây dựng, trừ khối lượng phát sinh ngoài
+phạm vi công việc của gói thầu được Người có thẩm quyền quyết định đầu tư.
+cho phép
+Điều 5. Nguyên tắc thực hiện hợp đồng xây dựng
+Khi thực hiện hợp đồng xây dựng, các bên hợp đồng phải đảm bảo các
+nguyên tắc thực hiện hợp đồng xây dựng theo quy định tại Khoản 3 Điều 138
+Luật Xây dựng số 50/2014/QH13.
+Điều 6. Hiệu lực và tính pháp lý của hợp đồng xây dựng
+1. Hợp đồng xây dựng có hiện lực pháp lý khi đáp ứng đủ các điểu kiên sau:
+a) Người tham gia ký kết có đầy đủ năng lực hành ví dân sự;
+b) Đáp ứng các nguyên tắc ký kết hợp đồng quy định tại Điều 4 Nghị
+định này;
+5
+c) Hình thức hợp đồng bằng văn bản và được ký kết bời người đại diện.
+đúng thẩm quyền theo pháp luật của các bên tham gia hợp đồng. Trường hợp
+một bên tham gia hợp đồng là tổ chức thì bên đó phải ký tên, đóng đấu theo.
+quy định của pháp luật.
+2. Thời điểm có hiệu lực của hợp đồng xây dựng là thời điểm ký kết hợp
+đồng (đóng đấu nếu có) hoặc thời điểm cụ thể khác do các bên thoả thuận.
+trong hợp đồng xây dựng và bên giao thầu đã nhận được bảo đảm thực hiện
+hợp đồng của bên nhận thầu (đối với hợp đồng có quy định về bảo đảm thực.
+hiện hợp đồng).
+3. Tính pháp lý của hợp đồng xây dựng:
+a) Hợp đồng xây dựng có hiệu lực là cơ sở pháp lý cao nhất mà bên giao
+thầu, bên nhận thầu và các bên liên quan có nghĩa vụ thực hiện;
+b) Hợp đồng xây dựng có hiệu lực là cơ sở pháp lý cao nhất để giải quyết
+tranh chấp giữa các bên. Các tranh chấp chưa được các bên thỏa thuận trong
+hợp đồng sẽ được giải quyết trên cơ sở các quy định của pháp luật có liên quan;
+c) Các cơ quan quản lý nhà nước, cơ quan kiểm soát, cấp phát, cho vay.
+vốn, thanh tra, kiểm tra, kiểm toán và các cơ quan có liên quan khác phải căn
+cứ vào nội dung hợp đồng xây dựng có hiệu lực pháp lý để thực hiện chức
+năng, nhiệm vụ của mình theo quy định, không được xâm phạm đến quyền và
+lợi ích hợp pháp của các bên tham gia hợp đồng.
+Điều 7. Quản lý thực hiện hợp đồng xây dựng
+1. Trong phạm vi quyền và nghĩa vụ của mình, các bên cần lập kế hoạch
+và biện pháp tổ chức thực hiện phù hợp với nội dung của hợp đồng xây dựng
+đã ký kết nhằm đạt được các thoả thuận trong hợp đồng.
+2. Tùy theo loại hợp đồng xây dựng, nội dung quản lý thực hiện hợp
+đồng xây dựng bao gồm:
+a) Quản lý tiến độ thực hiện hợp đồng;
+b) Quản lý về chất lượng;
+c) Quản lý khối lượng và giá hợp đồng;
+đ) Quản lý về an toàn lao động, bảo vệ môi trường và phòng chống cháy nổ;
+đ) Quản lý điều chỉnh hợp đồng và các nội dung khác của hợp đồng.
+3. Bên giao thầu, bên nhận thầu phải cử và thông báo cho bên kia về
+người đại diện để quản lý thực hiện hợp đồng xây dựng. Người đại điện của
+các bên phải được toàn quyền quyết định và chịu trách nhiệm về các quyết
+định của mình trong phạm vi quyền hạn được quy định trong hợp đồng.
+6
+4. Tất cả các kiến nghị, để xuất, yêu cầu và các ý kiến phản hồi của các
+bên trong quá trình quản lý thực hiện hợp đồng xây dựng phải thực hiện bằng
+văn bản. Nội dụng văn bản kiến nghị, để xuất, yêu cầu cần thể hiện căn cứ, cơ
+sở, hiệu quả (nếu có) của các kiến nghị, đề xuất, yêu cầu và thời hạn trả lời theo
+đúng thỏa thuận trong hợp đồng. Khi nhận được kiến nghị, để xuất, yêu cầu của
+một bên, bên kia phải trả lời bằng văn bản về việc chấp thuận hoặc không chấp
+thuận đông thời hạn quy định đã được các bên thóa thuận trong hợp đồng xây
+dựng, nhưng tối đa là bảy (07) ngày làm việc kể từ ngày nhận được kiến nghị.
+để xuất, yêu cầu, trừ trường hợp các bên có thỏa thuận khác. Sau khoảng thời
+gian nây đến bên nhận được kiến nghị, để xuất, yêu cầu không giải quyết mà
+không đưa ra lý do chính đảng gây thiệt hại cho bên kia, thi phải hoàn toán chịu
+trách nhiệm và bồi thường thiệt hại cho bên kia (nếu có).
+5. Các kiến nghị, đề xuất, yêu cầu của các bên trong quá trình quản lý.
+thực hiện hợp đồng phải giái đến đông địa chỉ giao dịch hoặc địa chỉ trao đối
+thông tin mà các bên đã thỏa thuận trong hợp đồng xây dựng.
+6. Những nội dung chưa được quy định tại Nghị định này, các bên phải
+căn cứ vào các quy định của pháp luật có liên quan để thực hiện.
+Chương II
+NHỮNG QUY ĐỊNH CỤ THỂ
+Mục 1
+CÁC THÔNG TIN, CĂN CỬ KÝ KẾT, NỘI DUNG, HỒ Sơ, LUẬT ÁP DỤNG
+VÀ NGÔN NGỮ SỬ DỤNG CHỐ HỢP ĐỒNG XÂY DỰNG
+Điều 8. Thông tin về hợp đồng xây dựng
+Thông tin về hợp đồng xây dựng phải được ghi trong hợp đồng, bao gồm:
+1. Loại hợp đồng, số hợp đồng, tên gói thầu, tên dự án, địa điểm xây.
+dựng và căn cứ ký kết hợp đồng.
+2. Tên giao dịch của các bên tham gia ký kết hợp đồng, đại diện của các:
+bên, địa chỉ đăng ký kinh doanh hay địa chỉ để giao dịch, mã số thuế, giấy
+đăng ký kinh doanh, số tài khoản, diện thoại, tax, c-mai, thời gian và địa
+điểm ký kết hợp đồng, các thông tin liên quan khác.
+3. Trường hợp bên nhận thầu là liên danh các nhà thầu thì phải ghi đầy.
+đủ thông tin của các thành viên trong liên danh theo quy định tại Khoản 2
+Điều này, trong đó phải ghi rõ thành viên đứng đầu liên danh.
+Điều 9. Căn cứ ký kết hợp đồng xây dựng
+1. Các căn cứ ký kết hợp đồng xây dựng bao gồm các yêu cầu về công
+việc cấn thực hiện được các bên thống nhất, kết quả lựa chọn nhà thần, kết quả
+thương thảo, hoàn thiện hợp đồng và các căn cứ pháp lý áp dụng có liên quan.
+7
+2. Đối với hợp đồng EPC, EC, EP ngoài các căn cứ nêu ở Khoản 1
+Điều này thì căn cứ ký kết hợp đồng còn bao gồm báo cáo nghiên cứu khả thì
+đầu tư xây dựng hoặc thiết kể FEED được duyệt.
+3. Đối với hợp đồng chòa khóa trao tay ngoài các căn cứ nêu ở Khoản 1
+Điều này thì căn cứ ký kết hợp đồng còn bảo gồm nhiệm vụ thực hiện dự án, chú
+trương đầu tư, báo cáo nghiên cứu tiền khả thi đầu tư xây dựng được phê duyệt.
+Điều 10. Nội dung hợp đồng xây dựng, bồ sơ hợp đồng xây dựng và
+thứ tự ưu tiên của các tài liệu hợp đồng xây dựng
+Nội dung hợp đồng xây dựng, hồ sơ hợp đồng xây dựng và thứ tự ưu tiên
+của các tài liệu kèm theo hợp đồng xây dựng thực hiện theo quy định tại
+Điều 141, Điều 142 Luật Xây dựng số 50/2014/QH13.
+Điều 11. Luật áp dụng và ngôn ngữ sử dụng cho hợp đồng xây dựng
+1. Hợp đồng xây dựng phải áp dụng hệ thống pháp luật của nước Cộng
+hoà xã hội chủ nghĩa Việt Nam và tuân thủ các quy định của Nghị định này.
+2. Ngôn ngữ sử dụng cho hợp đồng xây dựng là tiếng Việt.
+3. Đối với hợp đồng xây dựng có yếu tố nước ngoài thì ngôn ngữ sử
+dụng là tiếng Việt và tiếng nước ngoài do các bản thỏa thuận lựa chọn; trường
+hợp không thỏa thuận được thì sử dụng tiếng Anh.
+Mực 2
+NỘI DUNG VÀ KHỐI LƯỢNG CÔNG VIỆC,
+YÊU CẦU CHẤT LƯỢNG VÀ TIÊN ĐỘ THỰC HIỆN
+Điều 12. Nội dung và khối lượng công việc của hợp đồng xây dựng
+1. Nội dung và khối lượng công việc của hợp đồng xây dựng là những
+nội dung, khối lượng công việc mà bên giao thầu ký kết với bên nhận thầu.
+phù hợp với phạm vi công việc của hợp đồng và phải được các bên thỏa thuận
+rõ trong hợp đống. Phạm vi công việc được xác định căn cứ vào bồ sơ mời.
+thầu hoặc hồ sơ yêu cầu, bồ sơ dự thầu hoặc hồ sơ đề xuất, các biên bản đảm
+phán và các văn bản pháp lý có liên quan. Tùy theo loại hợp đồng xây dựng
+cụ thể, phạm vi công việc thực hiện được xác định như sau:
+a) Đối với hợp đồng tư vấn xây dựng: Là việc lập quy hoạch; lập dự án.
+đầu tư xây dựng; thiết kế; khảo sát; quản lý dự án; quản lý thực hiện hợp đồng
+xây dựng; giám sát thi công xây dựng; thẩm tra thiểt kế, dự toán và các công
+việc tư vấn khác trong hoạt động đầu tư xây dựng;
+b) Đối với hợp đồng thi công xây dựng: Là việc cung cấp vật liệu xây
+dựng, nhân lực, máy và thiết bị thì công và thi công xây dựng công trình theo.
+đúng hồ sơ thiết kế được phê duyệt.
+8
+c) Đối với hợp đồng cung cấp thiết bị công nghệ: Là việc cung cấp thiể:
+bả; hướng dẫn lấp đặt, sử dụng, vận hành thứ, vận hành, đào tạo và chuyển
+giao công nghệ (nếu có) theo đúng hồ sơ thiết kế được phê duyệt,
+d) Đối với hợp đồng EPC: Là việc thiết kế, cung cấp vật tư, thiết bị và
+thi công xây dựng công trình; đào tạo và hướng dẫn vận hành, bảo dưỡng, súa
+chữa; chuyển giao công nghệ; vận hành thử không tài và có tài; những công
+việc khác theo đúng hồ sơ thiết kế được phê duyệt.
+đ) Đối với hợp đồng chía khoả trao tay: Nội dung chủ yếu là việc lập dự.
+án đầu tư xây dựng; thiết kế; cung cấp thiết bị và thi công xây dựng công
+trình; đào tạo và hướng dẫn vận hành, bảo dưỡng, bảo trì, sửa chữn; chuyển
+giao công nghệ; vận hành thừ không tải và có tái; bản giao công trình sẵn
+sảng di vàn hoạt động cho bên giao thêu và những công việc khác theo đúng
+dự án được phê duyệt.
+2. Việc điều chỉnh khối lượng công việc của hợp đồng được thực hiện
+theo quy định tại Điều 37 Nghị định này.
+Điều 13. Yêu cầu về chất lượng sản phẩm và nghiệm thu, bàn giao
+sản phẩm hợp đồng xây dựng
+1. Yêu cầu về chất lượng sản phẩm của hợp đồng xây dựng:
+a) Chất hượng sản phẩm của hợp đồng xây dựng phải đáp ứng các yêu
+cầu của hợp đồng, tuân thủ và đáp ứng các yêu cấu về chất lượng theo quy
+định của pháp luật. Các bên tham gia hợp đồng phải thóa thuận trong hợp
+đồng về quy chuẩn, tiêu chuẩn (tiêu chuẩn và quy chuẩn Quốc gia), chí dần
+kỹ thuật áp dụng cho sản phẩm của hợp đồng xây dựng.
+b) Đối với thiết bị, hàng hoá nhập khẩu ngoài quy định tại Điểm a
+Khoản này còn phải quy định về nguồn gốc, xuất xú.
+2. Nghiệm thu, bàn giao sản phẩm các công việc hoàn thành:
+8) Các thoả thuận về quy trình nghiệm thu, bàn giao của các bên tham.
+gia hợp đồng phải tuân thủ đúng các quy định của pháp luật về quản lý chất
+lượng công trình xây dựng.
+b) Các công việc cần nghiệm thu, bản giao; căn cứ nghiệm thu, bàn giao;
+quy trình, thời điểm nghiệm thu, bản giao sản phẩm các công việc hoàn thành,
+thành phần nhân sự tham gia nghiệm thu, bản giao; biểu mẫu nghiệm thu, bản
+giao; các quy định về người ký, các biên bận, tài liệu nghiệm the, bản giao phải
+đúng với quy định của pháp luật và được các bản thỏa thuận trong hợp đồng.
+9
+c) Các bên chỉ được nghiệm thu, bàn giao các sản phẩm đáp ứng yêu cầu
+về chất lượng theo quy định tại Khoản 1 Điều này.
+d) Đối với những công việc theo yêu cầu phải được nghiệm thu trước khả
+chuyển qua các công việc khác, bên nhận thầu phải thông báo trước cho bên
+giao thầu để nghiệm thu theo quy định của pháp luật về quản lý chất lượng
+công trình xây dựng.
+đ) Đối với các sản phẩm sai sót (chưa bảo đảm yêu cầu của hợp đồng).
+trì phải được sửa chữa, trường hợp không sửa chữa được thì phải loại bỏ. Bên
+nào gây ra sai sót thì bên đó phải chịu toàn bộ chi phí liên quan đến sửa chữa,
+kiểm định lại và các chi phí khác tiên quan đến việc khắc phục sai sót, cũng
+như tiến độ thực hiện hợp đồng.
+Điều 14, Thời gian và tiến độ thực hiện hợp đồng xây dựng
+1. Thời gian thực hiện hợp đồng được tính từ ngày hợp đồng có hiệu lực.
+cho đến khi các bên đã hoàn thành các nghĩa vụ theo hợp đồng xây dựng đã ký.
+2. Bên nhận thầu có trách nhiệm lập tiến độ chi tiết thực hiện hợp đồng
+trình bên giao thầu chấp thuận để làm căn cứ thực hiện.
+3. Tiến độ thực hiện hợp đồng phải thổ hiện các mốc hoàn thành, bản
+giao các công việc, sản phẩm chủ yếu.
+4. Đối với hợp đồng thì công xây dựng của gói thầu có quy mỏ lớn, thời
+gian thực hiện dài, thì tiến độ thi công có thể được lập cho từng giai đoạn.
+5. Đối với hợp đồng cung cấp thiết bị, tiến độ cung cấp thiết bị phải thể
+hiện các mốc bản giao thiết bị, trong đó có quy định về số lượng, chủng loại.
+thiết bị cho từng đợt bàn giao.
+6. Đối với hợp đồng EPC, hợp đồng chỉa khoá trao tay, ngoài tiến độ thì
+công cho từng giai đoạn còn phải lập tiến độ cho từng loại công việc (pập dự.
+án, thiết kế, cung cấp thiết bị và thi công xây dựng).
+7. Khuyến khích việc đẩy nhanh tiến độ thực hiện hợp đồng trên cơ sở.
+bảo đảm chất lượng sản phẩm của hợp đồng. Trường hợp đẩy nhanh tiến độ
+đem lại hiệu quả cao hơn cho dự án thì bên nhận thầu được xét thưởng theo
+thỏa thuận trong hợp đồng.
+8. Việc điều chỉnh tiến độ của hợp đồng được thực hiện theo quy định tại
+Điều 39 Nghị định này.
+10
+Mục 3
+GIÁ HỢP ĐỐNG, TẠM ỨNG, THANH TOÁN, QUYẾT TOAN
+VÀ THANH LÝ HỢP ĐÔNG XÂY DỰNG
+Điều 15. Giá hợp đồng xây dựng và điều kiện áp dụng
+1. Giá hợp đồng xây dựng là lhoản kinh phí bên giao thầu cam kết trả
+cho bên nhận thầu để thực hiện công việc theo yêu cầu về khối lượng, chất
+lượng, tiến độ, điều kiện tạm ứng hợp đồng và các yêu cầu khác
+theo thỏa thuận trong hợp đồng xây dựng.
+2. Trong hợp đồng xây dựng các bên phải ghi rõ nội dung các khoản chỉ.
+phí, các loại thuế, phí (iếu có) đã tỉnh và chưe tính trong giá hợp đồng, giá hợp.
+đồng xây dựng được điều chính phải phù hợp với loại hợp đồng, hình thức giả
+hợp đồng và phải được các bên thoả thuận trong hợp đồng. Đối với những hợp.
+đồng xây dựng các bên có thỏa thuận thanh toán bằng nhiều đồng tiền khác:
+nhau thì phải ghi cụ thể giá hợp đồng tương ứng với từng loại tiền tệ.
+3. Giá hợp đồng xây dựng có các hình thức sau:
+a) Giá hợp đồng trọn gói là giá hợp đồng không thay đối trong suốt quá
+trình thực hiện hợp đồng đối với khối lượng các công việc thuộc phạm vi hợp.
+đồng đã ký kết, trừ trường hợp bất khả khăng và thay đổi phạm vi công việc.
+phải thực hiện.
+b) Giá hợp đồng theo đơn giá cổ định được xác định trên cơ sở đơn giá
+cố định cao các công việc nhân với khối lượng công việc tượng ứng. Đơn giá
+cố định là đơn giá không thay đổi trong suốt thời gian thực hiện hợp đồng, trừ.
+trường hợp bất khả kháng.
+c) Giá hợp đồng theo đơn giá điều chỉnh được xác định trên cơ sở đơn giá
+đã điều chỉnh đó trượt giá theo các thỏa thuận trong hợp đồng nhân với khối
+tượng công việc tương ứng được điều chính giá. Phương pháp điểu chính đơn
+giá do trượt giá thực hiện thươ quy định tại Khoản 3, 4 Điều 38 Nghị định này.
+đ) Giá hợp đồng theo thời gian được xác định trên cơ sở mức thù lao cho.
+chuyên gia, các khoản chi phí ngoài mức thù lao cho chuyên gia và thời gian.
+làm việc (khối lượng) tỉnh theo tháng, tuần, ngày, giở.
+- Mức thù lao cho chuyên gia là chỉ phí cho chuyên gia, được xác định
+trên cơ sở mức lương cho chuyên gia và các chi phí liên quan do các bên thỏa
+thuận trong hợp đồng nhân với thời gian làm việc thực tế (theo tháng, tuần,
+ngày, giờ).
+- Các khoản chi phí ngoài mức thù lao cho chuyên gia bao gồm: Chi phí
+đi lại, văn phòng làm việc và chi phí hợp lý khác.
+11
+đ) Giá hợp đồng theo giá kết hợp là loại giả hợp đồng được sử dụng kết
+hợp các loại giá hợp đồng nêu từ Điềm a đến Điểm á Khoản này cho phù hợp
+với đặc tỉnh của tùng loại công việc trong hợp đồng.
+4. Giá hợp đồng xây dựng được xác định căn cứ vào giá trúng thầu, hoặc:
+kết quả dản phán, thương tháo hợp đồng xây dựng giữa các bên.
+5. Điều kiện áp dụng các loại giá hợp đồng xây dựng được quy địch như sau:
+a) Đối với hợp đồng trọn gói:
+Giá hợp đồng trọn gói được áp dụng cho các gội thầu tại thời điểm lựa
+chọn nhà thầu và đảm phản ký kết hợp đồng đã đủ điều kiện đề xác định rõ về
+khối tượng và đơn giá để thực hiện các công việc theo đúng các yêu cầu của
+hợp đồng xây dựng hoặc trong một số trường hợp chưa thể xác định được rõ
+khổi lượng, đơn giá (như: Hợp đồng EC, PP, PC, BPC và hợp đồng chỉa khóạ
+trao tay) nhưng các bên tham gia hợp đồng có đủ năng lực kinh nghiệm để
+tỉnh toán, xác định giá hợp đồng trọn gói.
+Khi áp dụng giá hợp đồng trọn gói thì giá gói thẩn, giá hợp đồng phải.
+tính toán đây đủ các yếu tố rủi ro liên quan đến giá hợp đồng như rõi ro về
+khối lượng, trượt giá trong thời gian thực hiện hợp đồng và mỗi bên phải tự.
+chịu trách nhiệm đối với các rủi ro của mình.
+b) Đối với hợp đồng theo đơn giá cố định:
+Giá hợp đồng theo đơn giá cố định được áp dụng cho các gói thẩu tại
+thời điểm lựa chọn nhà thầu và đảm phản ký kết hợp đong đã đủ điều kiện để
+xác định rõ về đơn giá để thực hiệc các công việc theo dùng các yêu cầu của
+hợp đồng xây dựng, nhưng chưa xác định được chính xác khối lượng công
+việc. Khi đó, đơn giá cho các công việc theo hợp đồng phải tỉnh toàn đầy đủ
+các yếu tố rúi ro liên quan đến giá hợp đồng như trượt giả trong thời gian thực
+hiện hợp đồng và mổi bên phải tự chịu trách nhiệm đối với các rủi ro của
+minh. Khi đó, giá gói thầu, giả hợp đồng các bên phải dự tính trước chi phí dự
+phòng cho các yếu tố trượt giá và khối lượng.
+c) Đối với hợp đồng theo đơn giá điều chỉnh: Được áp dụng cho các gói
+thầu tại thời điểm lựa chọn nhà thầu và đảm phản ký kết hợp đồng các bên.
+tham gia hợp đồng chưa đủ điều kiện để xác định rở về khối lượng, đơn giá và
+các yếu tố rải rơ liên quan đến giá hợp đồng như trượt giá trong thời gian thực
+hiện hợp đồng. Khi đó, giá gói thầu, giá hợp đồng các bên phải dự tính trước
+chi phí dự phòng cho các yếu tố trượt giá và khối lượng.
+đ) Giá hợp đồng theo thời gian thường được áp dụng đối với trột số hợp
+đồng xây dựng có công việc tư vấn trong hoạt động đầu tư xây dựng. Hợp
+đồng tư vấn xây dựng được áp dụng tất cả các loại giá hợp đồng quy định
+trong Nghị định này.
+12
+Điều 16: Bảo đảm thực hiện hợp đồng xây dựng
+1. Bảo đảm thực hiện hợp đồng xây dựng là việc bôn nhận thầu thực hiện
+một trong các biện pháp đặt cọc, ký quỹ hoặc báo lãnh để bảo đảm thực hiện.
+nghĩa vụ của mình trong thời gian thực hiện hợp đồng; khuyến khích áp dụng.
+hình thức bảo lãnh.
+2. Bảo đảm thực hiện hợp đồng phải được nộp cho bên giao thầu trước
+thời điểm hợp đồng có hiệu lực theo đúng thỏa thuận của các bên về giá trị.
+loại tiền, phương thức bảo đảm; theo mẫu được bên giao thầu chấp nhận và
+phải có hiệu lực cho đến khi bên nhận thầu đã hoàn thành các nghĩa vụ theo
+hợp đồng hoặc sau khi bên giao thầu đã nhận được bảo đảm bảo hành đối với
+hợp đồng có công việc thì công xây dựng và cung cấp thiết bị Riêng hợp.
+đồng tư vấn xây dựng, hợp đồng giao khoản nội bộ, hợp đồng xây dựng thuộc
+các chương trình mục tiêu do các hộ dân thực hiện và những hợp đồng xây
+dựng theo hình thức tự thực hiện không bắt buộc bảo đảm thực hiện hợp đồng
+xây dựng.
+3. Trường hợp bên nhận thầu là nhà thầu liên danh thì từng thành viên
+phải nộp bảo đảm thực hiện hợp đồng cho bên giao thầu, mức bảo đảm trong
+ứng với phần giá trị hợp đồng mà suối thành viên thực hiện. Nếu liên danh có
+thoả thuận nhà thầu đứng đầu liên danh nộp bảo đảm thực hiện hợp đồng thì
+nhà thầu đứng dầu liên danh nộp bảo đảm cho bên giao thầu, từng thành viên
+nộp bảo đảm thực hiện hợp đồng cho nhà thấu đứng đầu liên danh sương ứng
+với giá trị hợp đồng do mình thực hiện.
+4. Giá trị bảo đảm thực hiện hợp đồng, phương thức bảo đảm phải được
+quy định trong hồ sơ mời thẩu hoặc hồ sơ yên cầu: Mức bảo đảm thực hiện.
+hợp đồng được xác định trong khoảng từ 2% đến 10% giá hợp đồng xây
+dựng; trường hợp để phòng ngừa rải ro cao thì giá trị bảo đảm thực hiện hợp
+đồng có thể cao hơn nhưng không quá 30% giá họp đồng và phải được Người
+có thẩm quyền quyết định đầu tư chấp thuận.
+5. Bên nhận thầu không được nhận lại bảo đảm thực hiện hợp đồng trong
+trường hợp từ chối thực hiện hợp đồng sau khi hợp đồng có hiệu lực và các
+trường hợp vi phạm khác được quy định trong hợp đồng.
+6. Bên giao thầu phải hoàn trả cho bên nhận thẩu bảo đảm thực hiện hợp
+đồng san khi bên nhận thầu đã hoàn thành tất cả các nghĩa vụ theo hợp đồng
+hoặc đã chuyển sang nghĩa vụ bảo hình và bên giao thầu đã nhận được bản
+đảm bảo hành đối với hợp đồng có công việc thì công xây dựng và cung cấp.
+thiết bị.
+13
+Điều 17. Bảo đăm thanh toán hợp đồng xây dựng
+1. Bảo đảm thanh toán hợp đồng xây dựng là việc bên giao thầu thực.
+hiện các biện pháp nhằm cháng mình khả năng thực hiện nghĩa vụ thanh toán
+theo hợp đồng xây dựng đã ký kết với bên nhận thầu thông qua các hình thức
+như kế hoạch bố trí vốn được phê duyệt, bảo dâm của ngân hàng hoặc tổ chức
+tin dụng, hợp đồng cung cấp tín dụng hoặc thỏa thuận cho vay vốn với các
+định chế tài chính.
+2. Trước khi ký kết hợp đồng xây dựng, bên giao thầu phải có bảo đảm
+thanh toán phù hợp với tiến độ thanh toán đã thỏo thuận trong hợp đồng.
+Nghiêm cấm bên giao thầu ký kết hợp đồng xây dựng khi chưa có kế hoạch
+vốn để thanh toán theo thỏa thuận thanh toán trong hợp đồng, trừ các công
+trình xây dựng theo lệnh khẩn cấp.
+Điều 18. Tạm ứng hợp đồng xây dựng
+1. Tạm ứng hợp đồng xây dựng là khoán kinh phí mà bên giao thầu ứng
+trước không lãi suất cho bên nhận thần để thực hiện các công tác chuẩn bị cần
+thiết trước khi triển khai thực hiện các công việc theo hợp đồng.
+2. Việc tạm ứng hợp đồng chỉ được thực hiện sau khi hợp đồng xây dựng
+có hiệu lực, riêng đối với hợp đồng thì công xây dựng thì phải có cả kế hoạch
+giải phóng mặt bằng theo đúng thỏa thuận trong hợp đồng, đồng thời bên giao
+thầu đã nhận được bảo lãnh tiền tạm ứng (nếu có) tương ứng với giá trị của
+từng loại tiền mà các bên đã thỏa thuận.
+3. Mức tạm ứng, thời điểm tạm ứng và việc thu hồi tạm ứng phải được
+các bên thỏa thuận cự thể trong hợp đồng. Mức tạm ứng và số lần tạm ứng
+hợp đồng xây dựng phải được ghi cụ thể trong hồ sơ mời thầu, hồ sơ yêu cầu.
+hoặc trong dự thảo hợp đồng xây dụng gửi cho bên nhận thầu để bên nhận
+thầu làm cơ sở tính toán giá dự thầu, giá để xuất.
+4. Bảo lãnh tạm ứng hợp đồng:
+a) Đối với hợp đồng xây dựng có giá trị tạm ứng hợp đồng lớn hơn 01 tỷ
+đồng, trước khi bên giao thầu thực hiện việc tạm ứng hợp đồng cho bên nhận
+thần, bên nhận thầu phải nộp cho bên giao thầu bảo lãnh tạm ứng hợp đồng
+với giá trị và loại tiền tương đương khoản tiền tạm ứng hợp đồng. Không bắt
+buộc phải bảo lãnh tạm ứng hợp đồng đối với các hợp đồng xây dựng có giả
+trị tạm ứng hợp đồng nhó hơn hoặc bằng 01 tỷ đồng và các hợp đồng xây.
+dựng theo hình thức tự thực hiện bao gồm cả hình thức do cộng đồng dân cư
+thực hiện theo các chương trình mục tiêu.
+14
+b) Trường hợp bên nhận thầu là liên danh các nhà thầu thì từng thành
+viên trong liên danh phải nộp cho bên giao thần bảo lãnh tạm ứng hợp đồng
+với giá trị tương đương khoản tiến tạm ứng cho từng thành viên, trừ trường
+hợp các thành viên trong liên danh thoả thuận để nhà thầu đùng đầu liên danh.
+nộp bảo lãnh tạm ứng hợp đồng cho bên giao thầu.
+c) Thời gian có hiệu lực của bảo lãnh tạm ứng hợp đồng phải được kéo
+dài cho đến khí bên giao thầu đã thu bồi bết số tiền tạm ứng, Giá trị của bảo
+Trình tạm từng hợp đồng sẽ được giảm đần tương ứng với giá trị tiền tạm ứng
+đã thu hồi qua mỗi lần thanh toán giữa các bên.
+5. Mớc tạm ứng hợp đồng không được vượt quá 50% giá trị hợp đồng tại
+thời điểm ký kết (bao gồm cả dự phòng nếu có), trường hợp đặc biệt thì phải:
+được Người có thẩm quyền quyết định đầu tư cho phép hoặc Bộ trưởng, Chứ
+tịch Ủy ban nhân cấp tỉnh; Chủ tịch hội đồng thành viên, Chủ tịch hội đồng
+quản trị tập đoàn, tổng công ty đối với trường hợp Người có thẩm quyền
+quyết định đầu tư là Thủ tướng Chính phủ; mức tạm ứng tối thiểu được quy
+định như sau:
+a) Đối với hợp đồng tư vấn:
+- 15% giá hợp đồng đối với hợp đồng có giá trị trên 10 tỷ đồng.
+- 20% giá hợp đồng đối với các hợp đồng có giá trị đến 10 tỷ đồng.
+b) Đối với hợp đồng thì công xây dựng công trình:
+- 10% giá hợp đồng đối với hợp đồng có giá trị trên 50 tỷ đồng.
+- 25% giá hợp đồng đối với hợp đồng có giá trị từ 10 tỷ đồng đến 50.
+tỷ đồng.
+- 20% giá hợp đồng đối với các hợp đồng có giá trị dưới 10 tỷ đồng.
+c) Đối với hợp đồng cung cấp thiết bị công nghệ, hợp đồng EC, EP, PC
+và PPC, hợp đồng chỉa khỏa trao tay và các loại hợp đồng xây dựng khác:
+10% giá hợp đồng.
+d) Trưởng hợp các bên thóa thuận tạm ứng ở mức cao hơn mức tạm ứng
+nối thiểu nêu tại Điểm a, b, c Khoản này, thi phần giả trị hợp đồng tương ứng
+với mức tạm ứng hợp đồng vượt mức tạm ứng tối thiêu sẽ không được điểu
+chỉnh giá kể từ thời điểm tạm ứng.
+đ) Tiền tạm ứng được thu hồi dần qua các lần thanh toán, mức thu hồi.
+của từng lần do hai bên thống nhất ghi trong hợp đồng nhưng phải bảo đảm
+tiền tạm ứng được thu hồi hết khi giá trệ thanh toán đạt 30% giả hợp đồng đã
+ký kết.
+15
+6. Bên nhận thầu phải sử dụng tạm ứng hợp đồng đúng mục đích, đúng
+đối tượng, có hiệu quả. Nghiêm câm việc tạm ứng mà không sử dụng hoặc sử
+dựng không đúng mục đích của hợp đồng xây dựng đã ký.
+7. Đối với việc sản xuất các cấu kiện, bản thành phẩm có giá trị lớn, một
+số vật liệu phải dự trữ theo mùa thì bên giao thầu, bên nhận thầu thoá thuận
+kế hoạch tạm ứng và mức tạm ứng để bảo đảm tiến độ thực hiện hợp đồng.
+Điều 19. Thanh toán hợp đồng xây dựng
+1. Việc thanh toán hợp đồng xây dựng phải phù hợp với loại hợp đồng,
+giá hợp đồng và các điều kiện trong hợp đồng mà các bôn đã ký kết. Khi
+thanh toán theo các thỏa thuận trong hợp đồng các bên không phải ký phụ lục
+hợp đồng, trừ trường hợp bổ sung công việc chưa có trong hợp đồng.
+2. Các bên thỏa thuận trong hợp đồng về số lần thanh toán, giai đoạn
+thanh toán, thời điểm thanh toán, thời hạn thanh toán, hồ sơ thanh toán và
+điều kiện thanh toán.
+3. Bên giao thầu phải thanh toán đầy đủ (100%) giá trị của từng lần
+thanh toán cho bên nhận thầu sau khí đã giảm trừ tiền tạm ứng, tiền bảo hành
+công trình theo thỏa thuận trong hợp đồng, trừ trường hợp các bên có thỏa
+thuận khác.
+4. Trường hợp trong kỳ thanh toán các bên chưa đủ điều kiện để thanh
+toán theo đúng quy định của hợp đồng (chưa có dữ liệu để điều chính giá,
+chưa đủ thời gian để xác định chất lượng sản phẩm,..) thì có thể tạm thanh.
+hoán. Khi đã đủ điều kiện để xác định giá trị thanh toán thì bên giao thầu phải
+thanh toán cho bên nhận thầu theo đúng quy định tại Khoản 3 Điều này.
+5. Đối với hợp đồng trọn gói: Thanh toán theo tỷ lệ phần trăm giá hợp
+đồng hoặc giá công trình, hạng mục công trình, khối lượng công việc tương
+ứng với các giai đoạn thanh toán mà các bên đã thoá thuận trong hợp đồng.
+khi thanh toán không đòi hỏi có xác nhận khối lượng hoàn thành chi tiết.
+6. Đối với hợp đồng theo đơn giá cố định và đơn giá điều chỉnh: Thanh
+toán trên cơ sở khối lượng thực tế hoàn thành (kể cả khối lượng tăng hoặc
+giảm, nếu có) được nghiệm thu của từng lần thanh toán và đơn giá trong hợp.
+đồng hoặc đơn giá đã điều chỉnh theo đúng các thỏa thuận trong hợp đồng.
+7. Đối với hợp đồng theo thời gian việc thanh toán được quy định như sau:
+a) Chi phí cho chuyên gia được xác định trên cơ sở mức lương cho.
+chuyên gia và các chi phí liên quan do các bên thóa thuận trong hợp đồng nhân
+với thời gian làm việc thực tế được nghiệm thu (theo tháng, tuần, ngày, giở).
+16
+b) Các khoản chi phí ngoài mức thù lao cho chuyên gia thì thanh toán
+theo phương thức thanh toán quy định trong hợp đồng.
+8. Đối với hợp đồng theo giá kết hợp, việc thanh toán phải thực hiện.
+tương ứng với quy định về thanh toán hợp đồng xây dựng được quy định từ.
+Khoản 5, 6, 7 Điều này.
+9. Việc thanh toán các khối lượng phát sinh (ngoài hợp đồng) chưa có
+đơn giá trong hợp đồng thực hiện theo các thóa thuận hợp đồng hoặc thôa
+thuận bổ sung hợp đồng mà các bên đã thống nhất trước khi thực hiện và phải
+phù hợp với các quy định của pháp luật có liên quan.
+10. Thời hạn thanh toán do các bên thoả thuận trong hợp đồng phù hợp
+với quy mô và tính chất của từng hợp đồng. Thời hạn thanh hoán không được
+kéo đải quả 14 ngày làm việc kể từ ngày bân giao thầu nhận đủ hồ sơ thanh.
+toán hợp lệ theo thỏa thuận trong hợp đồng và được quy định cụ thể như sau:
+a) Trong thời hạn bảy (07) ngày làm việc kể từ ngày nhận đủ hồ sơ để
+nghị thanh toán hợp lệ của bên nhận thầu, bên giao thầu phải hoàn thành các
+thủ tục và chuyển đề nghị thanh toán đói ngân hàng hoặc Kho bạc Nhà nước
+phục vụ thanh toán.
+b) Trong thời hạn bảy (07) ngày làm việc kể từ ngày nhận đủ hồ sơ thanh
+toán hợp lệ của bên giao thần, ngân hàng hoặc Kho bạc Nhà nước phục vự.
+thanh toán phải chuyển đủ giá trị của lần thanh toán đó cho bên nhận thần.
+c) Đối với các hợp đồng xây dựng thuộc các dự án đầu tư xây dựng sử
+dụng vốn ODA vốn vay của các tổ chức tín dụng nước ngoài thời hạn thanh.
+toán thực hiện theo quy định của Điều róc quốc tế. Khi thỏa thuận về thời hạn.
+thanh toán các bên phải căn cứ các quy định của Điều ước quốc tế và quy
+trình thanh toán vốn đầu tư theo quy định của pháp luật để thỏa thuận trong
+hợp đồng cho phù hợp.
+11. Nghiêm cầm bên giao thần không thanh toán đầy đủ hoặc không
+đúng thời hạn theo các thỏa thuận trong hợp đồng cho bên nhận thầu.
+Điều 20. Hồ sơ thanh toán hợp đồng xây dựng
+1. Hồ sơ thanh toán hẹp đồng xây dựng do bên nhận thầu lập phù hợp
+với từng loại hợp đồng xây dựng, giá hợp đồng và các thoả thuận trong hợp.
+đồng. Hồ sơ thanh toán (bao gồm cá biểu mẫu) phải được ghi rõ trong hợp
+đồng xây dựng và phải được bên giao thầu xác nhận. Hồ sơ thanh toán hợp
+đồng xây dựng gồm các tài liệu chủ yếu sau:
+17
+a) Đối với hợp đồng trọn gói:
+- Biên bản nghiệm thu khối lượng hoàn thành trong giai đoạn thanh toán.
+có xác nhận của đại diện bên giao thẩu hoặc đại diện tư vấn (nều có) và đại
+diện bên nhận thâu; biên bản nghiệm thu khối lượng này là bản xác nhận hoàn.
+thành công trình, hạng mục công trình, khối lượng công việc phù hợp với.
+phạm vì công việc phải thực hiện theo hợp đồng (đối với hợp đồng thì công.
+xây dựng phù hợp với phạm vi công việc phải thực hiện theo thiết kể; đối với
+hợp đồng tư vấn phù hợp với nhiệm vụ tr vấn phải thực hiện) mà không cần
+xác nhận khối lượng hoàn thành chi tiết;
+- Bảng tính giá trị nội dung của các công việc phát sinh (nếu có) ngoài
+phạm vi hợp đồng đã ký kết có xác nhận của đại diện bên giao thầu hoặc đại.
+diện tư vấn (nếu có) và đại diện bên nhận thầu;
+- Đề nghị thanh toán của bên nhận thầu cần thể hiện các nội dung: Giá trị
+khổi lượng hoàn thành theo hợp đồng, giá trị khối lượng các công việc phát
+sinh (nếu có), giảm trừ tiền tạm ứng, giá trị để nghị thanh toán trong giai đoạn.
+sau khi đã bà trừ các Khoản này có xác nhận của đại diện bên giao thầu và đại.
+diện bên nhận thầu.
+b) Đối với hợp đồng theo đơn giá cố định:
+- Biên bản nghiệm thu khối lượng hoàn thành thực tế (tăng hoặc giảm sơ
+với khối lượng theo hợp đồng) trong giai đoạn thanh toán có xác nhận của đại.
+diện bên giao thầu hoặc đại điện tư vấn (nếu có) và đại diện bên nhận thầu;
+- Bảng tính giá trị cho những công việc chưa có đơn giá trong hợp đồng
+(nếu có), trong đó cần thể hiện cả khối lượng và đơn giá cho các công việc.
+này có xác nhận của đại diện bên giao thầu hoặc đại điện tư vấn (nếu có) và
+đại diện bên nhận thầu;
+- Đề nghị thanh toán của bên nhận thầu cần thể hiện các nội dung: Giá trị
+khối lượng hoàn thành theo hợp đồng, giá trị khối lượng các công việc phát
+sinh (nếu có), giảm trừ tiễn tạm ứng, giá trị đế nghị thanh toán trong giai đoạn
+sau khí đã bủ trứ các Khoản này có xác nhận của đại diện bên giao thầu và đại
+diện bên nhận thầu.
+c) Đối với hợp đồng theo đơn giá điều chỉnh:
+- Biên bản nghiệm thu khối lượng hoàn thành thực tế (tăng hoặc giảm so.
+với khối lượng theo hợp đồng) trong giai đoạn thanh toán có xác nhận của đại.
+diện bên giao thểu hoặc đại điện tư vấn (nếu có) và đại diện bên nhận thầu;
+- Báng tính đơn giá đã điều chỉnh do trượt giá (còn gọi là đơn giá thanh
+toán) theo đúng thoả thuận trong hợp đồng có xác nhận của đại diện bên giao
+thầu hoặc đại điện nhà tư vấn (nếu cố) và đại diện bên nhận thấu;
+18
+- Bảng tỉnh giá trị cho những công việc chưa có đơn giá trong hợp đồng
+(nếu có), trong đó cần thể hiện cả khối lượng và đơn giá cho các công việc.
+này có xác nhận của đại diện bên giao thầu hoặc đại điện tư vấn (nếu có) và
+đại diện bên nhận thầu;
+- Đề nghị thanh toán của bên nhận thầu cần thể hiện các nội dung: Giá trị
+khối lượng hoàn thành theo hợp đồng, giá trị khối lượng các công việc phát
+sinh (nếu có), giảm trừ tiền tạm ứng, giá trị để nghị thanh toán trong giai đoạn.
+sau khi đã bú trở các Khoản này có xác nhận của đại diện bên giao thần và đại
+diện bên nhận thầu.
+d) Đối với hợp đồng theo thời gian:
+- Biên bản nghiệm thu thời gian làm việc thực tế hoặc báng chấm công
+(theo tháng, tuần, ngày, giờ) tương ứng với kết quả công việc trong giai đoạn
+thanh toán có xác nhận của đại diện bản giao thầu hoặc đại diện tư vấn (nếu.
+có) và đại diện bên nhận thầu. Trường hợp, trong quá trình thực hiện có công
+việc phát sinh cần phải bổ sung chuyên gia mà trong hợp đồng chưa có mức.
+thù lao cho các chuyên gia này thì các bên phải thỏa thuận và thống nhất mức
+thù lao trước khi thực hiện, Khi đó, hồ sơ thanh toàn phải có hàng tính giá trị
+các công việc phát sinh (nếu có) ngoài phạm vi công việc phải thực hiện theo
+hợp đồng và được đại diện các bên: Giao thầu hoặc đại diện tư vấn (nếu có).
+và bên nhận thầu xác nhận;
+- Đề nghị thanh toán của bên nhận thầu cần thể hiện các nội dung: Giá trị
+hoàn thành theo hợp đồng, giá trị cho những công việc phát sinh (nếu có).
+giảm trừ tiền tạm ứng, giá trị đề nghị thanh toán trong giai đoạn sau khi đã bá.
+trứ các Khoản này có xác nhận của đại diện bên giao thẩu và đại điện bên
+nhận thầu.
+đ) Đối với các hợp đồng xây dựng có công việc cung cấp thiết bị, thì
+khối lượng hoàn thành có thể căn cứ vào hoá đơn, chứng từ, vận đơn, biên.
+bản nghiệm thu, bàn giao thiết bị và các tài liệu khác có liên quan.
+e) Đối với các hợp đồng xây dựng có công việc tư vấn khó xác định khối
+lượng hoàn thành (khối lượng hoàn thành chí mang tính chất tương đói) thì
+khối lượng hoàn thành được xác định căn cứ vào các hồ sơ, tài liệu hay các
+sản phẩm mà bên nhận thầu đã hoàn thành được bên giao thầu xác nhận phủ.
+hợp với giai đoạn thanh toán được thỏa thuận trong hợp đồng.
+2. Đối với hợp đồng theo giá kết hợp, hồ sơ thanh toán cho từng loại.
+công việc của hợp đồng thực hiện theo các quy định tương ứng nêu tại.
+Khoản 1 Điều này.
+3. Khi thỏa thuận về hồ sơ thanh toán hợp đồng, các bên phải căn cứ vào
+quy mô, tỉnh chất và nguồn vốn sử dụng cho hợp đồng để thỏa thuận cụ thể các
+tài liệu cần có trong số các tài liệu chủ yếu quy định tại Khoản 1 Điều này.
+19
+4. Ngoài các tài liệu chủ yếu nêu tại Khoản 1 Điều này, đối với hợp đồng
+xây dựng sử dụng vốn ODA, vốn vay của các tổ chức tín dụng nước ngoài, hồ:
+sơ thanh toán còn phải thực hiện theo quy định của Điều ước quốc tế.
+5. Nghiêm cấm bên giao thầu, các cơ quan, tổ chức, cá nhân liên quan.
+đến việc thanh toán hợp đồng để ra các yêu cầu về hồ sơ thanh toán trái với
+thòa thuận trong hợp đồng và các quy định tại Nghị định này nhằm cản trở
+việc thanh toán theo đúng thỏa thuận hợp đồng có hiệu lực pháp lý.
+Điều 21. Đồng tiền và hình thức thanh toán hợp đồng xây dựng
+1. Đồng tiền sử dụng trong thanh toán hợp đồng xây dựng là Đồng
+Việt Nam; trường hợp sử dụng ngoại tệ để thanh toán do các bên hợp đồng
+thỏa thuận nhưng không trái với quy định của pháp luật về ngoại hối.
+2. Trong một hợp đồng xây dựng có những công việc đòi hỏi phải thanh.
+toán bằng nhiều đồng tiền khác nhau, thì các bên phải thỏa thuận rõ trong hợp
+đồng nhưng phải đảm bảo nguyên tắc đồng tiền thanh toán phù hợp với yêu
+cầu của hồ sơ mời thầu hoặc hồ sơ yêu cầu.
+3. Hình thức thanh toán có thể bằng tiền trật, chuyển khoản và các hình
+thức khác do các bên thoả thuận phù hợp với quy định của pháp luật và phải
+được ghi trong hợp đồng.
+Điều 22. Quyết toán hợp đồng xây dựng
+1. Quyết toán hợp đồng là việc xác định tổng giá trị cuối cùng của
+hợp đồng xây dựng mà bên giao thất, có trách nhiệm thanh toán cho bản nhận
+thầu khi bên nhận thầu hoàn thành tất cả các công việc theo thoá thuận trong
+hợp đồng.
+2. Hồ sơ quyết toán hợp đồng do bên nhận thấu lập phù hợp với từng loại.
+hợp đồng và gia hợp đồng. Nội dung của hồ sơ quyết tmán hợp đồng xây dựng
+phải phù hợp với các thoả thuận trong hợp đồng, bao gồm các tài liệu sau:
+a) Biên bản nghiệm thu hoàn thành toàn hộ công việc thuộc phạm vi hợp.
+đồng và công việc phát sinh ngoài phạm vi hợp đồng.
+b) Bảng tính giá trị quyết toán hợp đồng xây dựng (gọi là quyết toán
+A-3), trong đó nêu rõ giá trị công việc hoàn thành theo hợp đồng; giá trị khẩi
+lượng công việc phát sinh (nếu có) ngoài phạm vi công việc theo hợp đồng đã
+ký, giá trị đã thanh toán hoặc tạm thanh toán và giá trị còn lại mà bên giao.
+thầu có trách nhiệm thanh toán cho bên nhận thầu.
+c) Hồ sơ hoàn công, nhật kỹ thi công xây dựng công trình đối với hợp.
+đồng có công việc thì công xây dựng.
+20
+d) Các tài liệu khác theo thoả thuận trong hợp đồng.
+3. Thời hạn thực hiện quyết toán hợp đồng xây dựng thực hiện theo quy.
+định tại Khoản 2 Điều 147 Luật Xây dựng số 50/2014/QH13.
+Điều 23. Thanh lý hợp đồng xây dựng
+Việc thanh lý hợp đồng xây dựng thực hiện theo quy định tại Khoản 3,
+Khoản 4 Điều 14/ Luật Xây dựng số 50/2014/QH13
+Mục 4
+QUYỀN VÀ NGHĨA VỤ CỦA CÁC BÊN THAM GIA
+HỢP ĐỒNG XÂY DỰNG
+Điều 24. Quyền và nghĩa vự chung cửa bên giao thầu và bên nhận thầu
+1. Quyền và nghĩa vụ của các bên tham gia hợp đồng xây dựng do các:
+bên thoá thuập trong hợp đồng bảo đảm nguyên tác không trái với các quy.
+định của pháp luật.
+2. Bên giao thầu, bên nhận thầu phải thông báo bằng văn bản cho bên kia
+biết về quyền và trách nhiệm của người đại diện để quản lý thực hiện hợp
+đồng. Khi các bên thay đổi người đại diện đề quản lý thực hiện hợp đồng thì
+phát thông báo cho bên kia biết bằng văn bản. Rhông trường hợp bên nhận
+thầu thay đối người đại diện để quản tỷ thực hiện hợp đồng, nhân sự chủ chốt
+thì phải được sự chấp thuận của bên giao thầu.
+3. Trường hợp bên nhận thầu là tập đoàn, tổng công ty khi thực hiện họp
+đồng xây dựng có thể giao trực tiếp cho các đơn vị thành viên của mình
+nhưng phải đảm bảo nguyên tắc công khai, minh bạch, phù hợp với năng lọc.
+của từng thành viên và phải được bên giao thầu chấp thuận trước.
+4. Tuỹ theo từng loại hợp đồng xây dựng cụ thể, quyền và nghĩa vụ của
+bên giao thầu, bên nhận thầu còn được quy định từ Điều 25 đến Điều 24 Nghị
+định này.
+Điều 25. Quyền và nghĩa vụ của bên giao thầu tư vấn.
+1. Quyền của bên giao thầu tư vấn:
+a) Được quyền sở Mữu và sử dụng sản phẩm tư vấn theo hợp đồng.
+b) Từ chối nghiệm thu sàn phẩm tự vấn không đạt chất lượng theo hợp đồng.
+c) Kiểm tra chất lượng công việc của hên nhận thầu nhưng không được.
+làm cản trở hoạt động bình thường của bên nhận thầu.
+d) Các quyền khác theo quy định của pháp luật.
+21
+2. Nghĩa vụ của bên giao thầu tư vấn:
+a) Cung cấp cho bên nhận thần thông tin về yêu cầu công việc, tài liệu,
+bảo đảm thanh toàn và các phương tiện cần thiết để thực hiệu công việc theo.
+thoả thuận trong hợp đồng (nếu có).
+b) Bảo đảm quyền tác giá đối với sản phẩm tư vấn có quyền tác giả theo
+hợp đồng.
+c) Giải quyết kiến nghị của bên nhận thầu theo thẩm quyền trong quá.
+trình thực hiện hợp đồng đông thời hạn do các bên thỏa thuận trong hợp đồng.
+e) Thanh toán đầy đủ cho bên nhận thầu theo đúng tiến độ thanh toán đã
+thỏa thuận trong hợp đồng.
+đ) Các nghĩa vụ khác theo quy định của pháp luật.
+Điều 26. Quyền và nghĩa vụ của bên nhận thần tư vấn.
+1. Quyền của bên nhận thầu tư vấn:
+a) Yêu cầu bên giao thầu cung cấp thông tin, tài liệu liên quan đến nhiệm
+vụ tư vấn và phương tiện làm việc theo thoá thuận trong hợp đồng (nếu có).
+b) Được để xuất thay đổi điều kiện cung cấp dịch vụ tư vấn vì lợi ích của.
+bên giao thầu hoặc khi phát hiện các yếu tổ ảnh hưởng đến chất lượng sản
+phẩm tư vấn
+c) Từ chối thực hiện công việc không hợp lý ngoài phạm vi hợp đồng và
+những yêu cầu trái pháp luật của bên giao thầu.
+d) Được đảm bảo quyền tác giả theo quy định của pháp luật (đối với.
+những sản phẩm tư vấn có quyền tác giả).
+đ) Các quyền khác theo quy định của pháp luật.
+2. Nghĩa vụ của bên nhận thầu tư vấn:
+a) Hoàn thành công việc đúng tiến độ, chất lượng theo thoá thuận trong.
+hợp đống.
+b) Đối với hợp đồng thiết kế: Tham gia nghiệm thu công trình xây dựng
+cùng chủ đầu tư theo quy định của pháp luật về quản lý chất lượng công trình
+xây dựng, giám sát tác giả, trả lời các nội dung có liên quan đến hỗ sơ thiết kế
+theo yêu cầu của bên giao thầu.
+c) Bảo quản và giao lại cho bên giao thầu những tài liệu và phương tiện
+lảm việc do bên giao thầu cung cấp theo hợp đồng sau khi hoàn thành công
+việc (nếu có).
+22
+d) Thông báo ngay bằng văn bản cho bên giao thầu về những thông tin,
+tài liệu không đầy đủ, phương tiện làm việc không bảo đảm chất lượng để
+hoàn thành công việc.
+đ) Giữ bí mật thông tin liên quan đến dịch vụ tư vấn mà hợp đồng hoặc.
+pháp luật có quy định.
+c) Các nghĩa vụ khác theo quy định của pháp luật.
+Điều 27. Quyền và nghĩa vụ của bên giao thẩu thì công xây dựng
+công trình
+1. Quyền của bên giao thầu thi công xây dựng:
+a) Tạm dừng thi công xây dựng công trình và yêu cầu khắc phục hậu quả
+khi bên nhận thầu vi phạm các quy định về chất lượng công trình, an toàn lao.
+động, bảo vệ môi trường và phòng chống cháy nổ;
+b) Kiểm tra chất lượng thực hiện công việc, cơ sở gia công chế tạo của
+bên nhận thần nhưng không được làm cản trở hoạt động bình thưởng của bên
+nhận thầu;
+c) Các quyền khác theo quy định của pháp luật.
+2. Nghĩa vụ của bên giao thầu thi công xây dựng:
+a) Trường hợp bên giao thầu là chủ đầu tư thì phải xin giấy phép xây
+dựng theo quy định.
+b) Bản giao toàn bộ hoặc từng phần mặt bằng xây dựng cho bên nhận
+thầu quản lý, sử dụng phù hợp với tiến độ và các thoá thuận của hợp đồng.
+c) Cứ và thông báo bằng văn bản cho bên nhận thầu về nhân lực chính
+tham gia quản lý thực hiện hợp đồng.
+d) Cung cấp kịp thời hồ sơ thiết kế và các tài liệu, phương tiện, máy và
+thiết bị có liên quan, vật tư theo thoả thuận trong hợp đồng (nếu có) và quy.
+định của pháp luật có liên quan.
+đ) Thanh toàn cho bên nhận thầu theo đúng tiến độ thanh toán trong hợp đồng.
+e) Tổ chức giám sát thi công xây dựng công trình.
+g) Kiểm tra biện pháp bảo đảm an toàn lao động, bảo vệ môi trường,
+phòng chống cháy nổ của bên nhận thầu.
+h) Nghiệm thu, thanh toán, quyết toán hợp đồng đúng thời hạn theo
+quy định.
+23
+1) Trường hợp thuê các tổ chức, cá nhân cung cấp các dịch vụ tư vấn thì
+phải quy định tõ nhiệm vụ, quyền hạn của nhà tư vấn trong việc quản lý thực
+hiện hợp đồng và thông báo cho bên nhận thầu biết.
+k) Xem xét và chếp thuận kịp thời bằng văn bản các đề xuất liên quan.
+đến thiết kế, thì công của bên nhận thầu trong quá trình thì công xây dựng
+công trình.
+1) Các nghĩa vụ khác theo quy định của pháp luật.
+Điều 28. Quyền và nghĩa vụ cửa bên nhận thầu thi công xây dựng
+công trình
+1. Quyền của bên nhận thần thì công xây dựng:
+a) Được quyền đề xuất với bên giao thầu về khối lượng phát sinh ngoài hợp
+đồng: từ chấi thực hiện những công việc ngoài phạm vi của hợp đồng khi chưa
+được hai bên thống nhất và những yêu cầu trái pháp luật của bên giao thầu.
+b) Dược thay đổi các hiện pháp thì công san khi được bên giao thầu chấp
+thuận nhằm đẩy nhanh tiến độ, bảo đảm chất lượng, an toàn, hiệu quả công
+trình trên cơ sở giá hợp đồng đã ký kết.
+c) Được quyền yêu cầu bên giao thầu thanh toán các khoản lãi vay do.
+chậm thanh toán theo đúng thỏa thuận trong hợp đồng; được quyền đời bài
+thường thiệt hại khi bên giao thầu chậm bản giao mật bằng và các thiệt hại
+khác do lỗi của bên giao thầu gây ra.
+d) Các quyền khác theo quy định của pháp luật có liên quan.
+2. Nghĩa vụ của bên nhận thầu thì công xây dựng:
+a) Cung cấp nhân lực, vật liệu, máy móc, thiết bị thì công và các điều
+kiện vật chất liên quan khác đủ số lượng và chông loại theo hợp đồng; thiết kế
+bản và thi công (trường hợp bên nhận thầu thực hiện thiết kế bản vẽ thi công).
+để thực hiện các công việc theo nội dung hợp đồng đã ký kết.
+b) Tiếp nhận và quản lý mặt bằng xây dựng, bảo quản tìm, cốt, mốc giới
+công trình.
+c) Thi công xây dựng theo đúng thiết kế, chi dẫn kỹ thuật, tiêu chuẩn,
+quy chuẩn, bảo đảm chất lượng, tiến độ, an toàn, bảo vệ nôi trường và phòng
+chống cháy nổ.
+đ) Ghi nhật ký thi công xây dựng công trình.
+đ) Thí nghiệm vật liệu, kiểm định thiết bị, sản phẩm xây dựng theo đúng
+quy định của Nhà nước về quản lý chất lượng công trình xây dựng, chỉ dẫn kỷ.
+thuật, tiêu chuẩn và quy chuẩn xây dựng.
+24
+e) Quản lý người lao động trên công trưởng, bảo đảm an toàn, an ninh.
+trật tự, không gây ảnh hưởng đến các khu dân cư xung quanh.
+8) Lập biện pháp tổ chức thi công, hồ sơ hoàn công, tham gia nghiệm thu
+công trình.
+b) Chịu trách nhiệm về chất lượng thi công xây dựng công trình do mình.
+đám nhận. Sửa chữa sai sót trong công trình đối với những công việc đơ mình.
+thi công.
+i) Phố hợp với các nhà thầu khác cùng thực hiện trên công trường.
+k) Định kỳ báo cáo với bên giao thấu về tiến độ thi công, nhân lực và
+thiết bị chính để thi công xây dựng công trình.
+1) Di chuyển vật tư, máy móc, thiết bị và những tài sản khác của mình ra
+Khỏi công trưởng trong thời hạo quy định sau khi công trình đã được nghiệm
+thu, bản giao hoặc hạp đồng bị chấm dứt theo quy định tại Điều 41 Nghị định.
+này, trừ trường hợp trong hợp đồng có thỏa thuận khác.
+m) Hoàn trả mặt bằng theo đúng thỏa thuận trong hợp đồng.
+n) Giữ bí mật thông tin liên quan đến hợp đồng hoặc pháp luật có
+quy định.
+o) Các nghĩa vụ kháo theo quy định của pháp luật.
+Điều 29. Quyền và nghĩa vụ của bên giao thầu cung cấp thiết bị
+công nghệ
+1. Cung cấp các thông tin, tài liệu cần thiết, mặt bằng lắp đặt thiết bị cho
+bên nhận thầu.
+2. Phối hợp với bên nhận thầu trong quá trình đào tạo, chuyển giao công
+nghệ, hướng dẫn lắp đặt, sử dụng, vận hành.
+3. Từ chối nghiệm thu và có quyền không nhận bản giao thiết bị công
+nghệ không đúng với thóa thuận trong hợp đồng về số lượng, chất lượng.
+chủng loại và nguồn gốc xuất xú.
+4. Trường hợp bên giao thầu thực hiện thiết kế công nghệ cho bên nhận
+thần thì bên giao thầu phải chịu trách nhiệm hoàn toàn về chất lượng và quyền
+sở hữu trí tuệ của thiết kế này.
+5. Các quyền, nghĩa vụ khác theo quy định của pháp luật.
+25
+Điều 30. Quyền và nghĩa vụ của bên nhận thầu cung cấp thiết bị
+công nghệ
+1. Bản giao thiết bị công nghệ cho bên giao thầu đúng theo thoá thuận.
+trong hợp đồng về số lượng, chất lượng, địa điểm, thời gian, cách thức đóng
+gói, bảo quán, nguồn gốc xuất xử và các thỏa thuận khác trong hợp đồng.
+2. Cung cấp cho bên giao thầu đầy đủ các thông tin cần thiết về thiết bị
+công nghệ; hướng dẫn tấp đặt, sử dụng, vận hành, bảo quân, bảo trì thiết hị
+công nghệ: đào tạo cán bộ quản lý và công nhân vận hành sử dụng công trình
+(nếu có thoả thuận trong hợp đồng).
+3. Cùng với bên giao thầu vận hành thử thiết bị công nghệ.
+4. Về sở hữu trí tuệ đối với thiết bị công nghệ:
+a) Thiết bị công nghệ do bên nhận thầu cung cấp phải bảo đảm quyền sở
+hữu trí tuệ. Bên nhận thầu không được cụng cấp những thiết bị công nghệ vi
+phạm quyền sở hữu trí tuệ. Bên nhận thầu phải chịu trách nhiệm hoàn toàn.
+trong trường hợp có tranh chấp liên quan đến quyền sở hữu trí tuệ đối với
+những thiết bị công nghệ đã cung cấp;
+b) Trường hợp thiết bị công nghệ được chế tạo theo thiết kế hoặc theo.
+những số liệu do bên giao thần cung cấp thì bên nhận thầu không phải chịu
+trách nhiệm về các khiếu nại liên quan đến những vi phạm quyền sở hữu trí
+tuệ phát sinh từ những thiết bị công nghệ đó;
+c) Các bên tham gia ký kết hợp đồng phải chịu trách nhiệm trong trường
+hợp không thông báo ngay cho bên kịa biết những khiếu nại của bên thứ ba về
+quyền sở hữu trí tuệ đối với thiết bị công nghệ sau khi đã biết hoặc phải biết
+về những khiếu nại.
+5. Các quyền, nghĩa vụ khác theo quy định của pháp luật.
+Điều 31. Quyền và nghĩa vụ của bên giao thầu EPC
+1. Quyền của bên giao thầu EPC:
+a) Từ chối nghiệm thu sản phấm không đạt chất lượng theo hợp đồng;
+không nghiệm thu những thiết bị công nghệ không đúng với thỏa thuận trong
+hợp đồng về số lrọng, chất lượng, chủng loại, nguồn gốc xuất xử và các sản
+phẩm vi phạm quyền sở hữu trí tuệ.
+b) Kiểm tra việc thực hiện các công việc của bên nhận thầu theo nội
+dung hợp đồng đã ký kết nhưng không được làm cản trở hoạt động bình
+thường của bên nhận thầu.
+26
+c) Tạm dùng việc thực hiện công việc theo hợp đồng và yêu cầu khắc
+phục hậu quả khi phát hiện bên nhận thầu thực hiện công việc vi phạm các nội.
+dung đã ký kết trong hợp đồng hoặc các quy định của nhà nước.
+d) Yêu cầu bên nhận thầu bản giao các hồ sơ, tài liệu liên quan đến sản
+phẩm của hợp đồng theo nội dung hợp đồng đã ký kết.
+đ) Xem xét, chấp thuận danh sách các nhà thầu phụ đủ điều kiện năng
+lực chưa có trong hợp đồng EPC theo đề nghị của bên nhận thầu.
+e) Các quyền khác theo quy định của pháp luật.
+2. Nghĩa vụ của bên giao thầu EPC:
+a) Thanh toán cho bên nhận thầu theo tiến độ thanh toán đã thỏa thuận
+trong hợp đồng.
+b) Cứ và thông báo bằng văn bản cho bên nhận thầu về nhân lực chính
+tham gia quản lý và thực hiện hợp đồng.
+c) Cung cấp cho bên nhận thầu thông tia, tài liệu và các phương tiện cần
+thiết để thực hiện công việc (nếu có thoả thuận trong hợp đồng).
+đ) Nghiệm thu, thẩm định, phê duyệt hoặc trình cơ quan có thẩm quyền
+thẩm định, phê duyệt kịp thời thiết kế kỹ thuật, thiết kế bản vẽ thì công của
+các công trình, hạng mục công trình theo quy định.
+đ) Xin giấy phép xây dựng theo quy định, bản giao mặt bằng sạch cho
+bên nhận thầu theo tiến độ thực hiện hợp đồng.
+c) Giám sát việc thực hiện công việc theo nội dung hợp đồng đã ký kết:
+kiểm tra các biện pháp bảo đảm an toàn lao động, bảo vệ môi trường, phòng
+chống cháy nổ theo quy định.
+g) Thoả thuận với bên nhận thầu về hồ sơ mời thầu mua sắm thiết bị
+công nghệ (nếu có thoả thuận trong hợp đồng).
+h) Nghiệm thu, thanh toán, quyết toán hợp đồng đúng thời hạn theo quy định.
+1) Bảo đảm quyền tác giả đối với các sản phẩm tư vấn theo hợp đồng.
+k) Tổ chức đào tạo cán bộ quản lý và công nhân vận hành sử dụng.
+công trình.
+1) Các nghĩa vụ khác theo quy định của pháp luật.
+27
+Điều 32. Quyền và nghĩa vụ của bên nhận thầu EPC
+1. Quyền của bên nhận thầu EPC:
+a) Yêu cầu bên giao thần cung cấp thông tin, tài liệu và phương tiện làm
+việc (nếu có thóa thuận trong hợp đồng) liên quan đến công việc của hợp
+đồng theo nội dung hợp đồng đã ký kết.
+b) Được để xuất với bên giao thầu về những công việc phát sinh ngoài
+phạm vi hợp đồng; từ chối thực hiện những công việc ngoài phạm vi họp
+đồng đã ký kết khi chưa được bai bên thống nhất hoặc những yếu cầu trải
+pháp luật của bên giao thầu.
+e) Tổ chức, quản lý thực hiện các công việc theo nội dung hợp đồng đã
+ký kết.
+d) Các quyền khác theo quy định của pháp luật.
+2. Nghĩa vụ của bên nhận thầu EPC:
+a) Cung cấp đủ nhân lực, vật liệu, máy móc, thiết bị và các phương tiện.
+cần thiết khá: để thực hiện các công việc theo hợp đồng.
+b) Tiếp nhận, quản lý, bảo quản, bản giao lại các tài liệu, phương tiện do
+bên giao thầu cung cấp (nếu có thoả thuận trong hợp đồng).
+c) Thông báo cho bên giao thầu về những thông tin, tài liệu không đầy.
+đủ, phương tiện làm việc không đảm bảo ảnh hưởng đến việc thực hiện công
+việc theo hợp đồng đã ký kết.
+đ) Giữ bí mật các thông tin liên quan đến hợp đồng theo đúng thoả thuật
+trong hợp đồng hoặc theo quy định của pháp luật.
+đ) Thực hiện công việc theo hợp đồng đảm bảo an toàn, chất lượng, đúng
+tiến độ và các thoả thuận khác trong hợp đồng.
+c) Lập thiết kế (thiết kế kỹ thuật, thiết kế bản vẽ thi công) các hạng mục
+công trình, công trình chính của gói thầu, dự án phù hợp với thiết kế cơ sở
+hoặc thiết kế REED được duyệt và trình cơ quan có thẩm quyền, chủ đầu tư.
+thẩm định, phê duyệt theo quy định của pháp luật về xây dựng.
+g) Tổ chức việc mua sắm, chế tạo và cung cấp thiết bị công nghệ đáp
+ứng yêu cầu và tiến độ thực hiện của hợp đồng; lựa chọn nhà trấu phụ (nếc.
+có) thông qua đấu thầu hoặc chỉ định thẩn trình chủ đầu tư chấp thuậm thoá
+thuận và thống nhất với chủ đầu tư về nội dung bồ sơ mời thầu mua sắm các
+thiết bị công nghệ (nếu có thoả thuận trong hợp đồng).
+28
+h) Tổ chức đào tạo cán bộ quản lý và công nhân vận hành sử dụng công
+trình, chuyển giao công nghệ và dịch vụ kỹ thuật kèm theo (nếu có thoá thuận.
+trong hợp đồng).
+1) Thực hiện các công việc thử nghiệm, hiệu chính, vận hành chạy thứ
+đồng bộ công trình và bản giao công trình hoàn thành cho bên giao thầu theo
+đúng thoá thuận trong hợp đồng và theo quy định của pháp luật hiện hành.
+k) Đảm bảo các sản phẩm do minh cung cấp không vi phạm quyền sở
+hữu trí tuệ theo quy định của pháp luật.
+1) Bản giao các hồ sơ, tài liệc liên quan đến sản phẩm của hợp đồng cho.
+bên giao thầu theo nội dung hợp đồng đã ký kết.
+m) Các nghĩa vụ khác theo quy định của pháp luật.
+Điều 33. Quyền và nghĩa vụ của bên giao thầu hợp đồng chỉa khoá
+trao tay
+Ngoài các quyền và nghĩa vụ quy định tại Điều 31 Nghị định này, thì bên
+giao thầu trong hợp đồng chia khoá trao tay còn nghĩa vụ nghiệm thu dư án
+đầu tư xây dựng để trình cơ quan có thẩm quyền theo quy định của pháp luật
+về xây dựng, người có thẩm quyền quyết định đầu tư thẩm định, phê duyệt
+hoặc thẩm định, phê duyệt theo thẩm quyền.
+Điều 34. Quyền và nghĩa vụ của bên nhận thầu hợp đồng chùa khoá
+trao tay
+Ngoài các quyền và nghĩa vụ quy định tại Điều 32 Nghị định này, thì bên
+nhận thầu hợp đồng chùa khoả trao tay còn nghĩa vụ lập dự án đầu tư xây
+dựng, tham gia bảo vệ dự án cùng bên giao thầu trước người có thẩm quyền
+quyết định đầu tư và hoàn thiện dự án theo yêu cầu của bên giao thầu phù hợp
+với các thoả thuận trong hợp đồng.
+Mực 5
+ĐIỂU CHỈNH HỢP ĐỒNG XÂY DỰNG
+Điều 35. Điều chỉnh hợp đồng xây dựng
+1. Điều chính hợp đồng trao gồm điều chính khối lượng, điều chỉnh đơn
+giá, điều chỉnh tiến độ thực hiện hợp đồng, điều chỉnh giá hợp đồng và các
+nội dung khác (nếu có) mà các bên đã thỏa thuận trong hợp đồng.
+2. Hợp đồng xây dựng chỉ được điều chỉnh trong các trường hợp quy.
+định tại Khoản 2, Khoản 3 Điều 143 Luật Xây dựng số 50/2014/QH13.
+Điều 36. Nguyên tắc điều chỉnh hợp đồng xây dựng
+1. Việc điều chỉnh hợp đồng xây dựng chỉ được áp dụng trong thời gian
+thực hiện hợp đồng.
+29
+2. Đối với hợp đồng trọn gói, chỉ được điều chỉnh hợp đồng cho những
+khối lượng công việc bổ sung ngoài phạm vi công việc theo hợp đồng đã ký
+(đối với hợp đồng tời công xây dựng, hợp đồng cơng cấp thiết bị là nâm ngoài
+phạm vi công việc phải thực hiện theo thiết kế, yêu cấu của hồ sơ mời thần
+hoặc hồ sơ yêu cầu; đối với hợp đồng tư vấn là nằm ngoài nhiệm vụ tư vấn
+phải thực hiện) và trường hợp bất khả kháng.
+3. Giá hợp đồng san điều chỉnh không làm vượt giá gói thẩu hoặc dụ
+toán gói thầu được phê duyệt (bao gồm cả chi phí dự phòng cho gòi thầu đó).
+thị chỉ đầu tư được quyền quyết định điều chỉnh; trường hợp vuợt giá gói
+thầu hoặc dự toàn gói thầu được phê duyệt trả phải được Người có thẩm.
+quyền quyết định đầu tư chấp thuận trước khi điều chỉnh và phải đảm bảo đó
+vốn để thanh toán cho bên nhận thầu theo đúng thỏa thuận trong hợp đồng.
+Điều 37. Điều chỉnh khối lượng công việc trong hợp đồng xây dựng
+1. Các bên tham gia hợp đồng phải thỏa thuận cụ thể về các trường hợp
+được điều chỉnh khối lượng, phạm vi và trình tự, thủ tục điều chính khối
+lượng.
+2. Việc điểu thình khối lượng công việc trong hợp đồng xây dựng được.
+quy định sau:
+a) Đối với hợp đồng trọn gói: Trường hợp có phát sinh hợp lý những
+công việc ngoài phạm vi hợp đồng đã ký (đối với hợp đồng thi công xây
+dạng, hợp đồng cung cấp thiết bị là nằm ngoài phạm vi công việc phải thực
+hiện theo thiết kế; đối với hợp đồng tư vấn lả nằm ngoài nhiệm vụ tư vấn phải
+thực hiện).
+Trường hợp này, khi điều chỉnh khối lượng không làm vượt giá gói thầu
+được phê duyệt thì chủ đầu tư và nhà thấu tỉnh toàn, thửa thuận và ký kết phụ.
+lục bổ sung hợp đồng, trường hợp vượt giá gói thầu được phê duyệt thì phái
+được người có thẩm quyền quyết định đầu tư xem xét, quyết định; trường hợp
+thỏa thuận không được thì khối lượng các công việc phát trình đó sẽ hình
+thành gói thầu mới việc lựa chọn nhà thầu để thực hiện gói thầu này theo quy.
+định hiện hành.
+b) Đối với hợp đồng theo đơn giá cố định và đơn giá điều chỉnh: Bổ sung
+những khối lượng công việc hợp lý chưa có đơn giá trong hợp đồng nhưng
+không làm vượt giá gối thấn được phê duyệt thi chủ đầu tư và nhà thầu tỉnh
+toán, thỏa thuận và ký kết phụ tục bổ sung hợp đồng; trường hợp vượt giá gói
+thầu được phê duyệt thì phải được người có thẩm quyền quyết định đầu tư.
+xem xét, quyết định; các khối lượng công việc đã có đơn giá trong hợp đồng
+được xác định theo khối lượng hoàn thành thực tế (tăng hoặc giảm so với khối
+lượng trong hợp đồng đã ký) được nghiệm thu.
+30
+3. Đối với những khối lượng phát sinh nằm ngoài phạm vi hợp đồng đã
+ký mà chưa có đơn giá trong hợp đồng, các bên tham gia hợp đồng phải thống.
+nhất đơn giá để thực hiện khối lượng công việc này trước khi thực hiện.
+Điều 38. Điều chỉnh đơn giá và giá hợp đồng xây dựng
+1. Trong hợp đồng xây dựng các bên phải thỏa thuận cụ thể các trường
+hợp được điều chỉnh đơn giá và giá hợp đông xây dựng; trành tự, phạm vi,
+phương pháp và căn cứ điều chính giá hợp đồng; phương pháp điều chính giá
+hợp đồng phải phù hợp với loại giá hợp đồng, tỉnh chất công việc trong hợp
+đồng xây dựng.
+2. Việc điều chỉnh đơn giá hợp đồng được quy định như sau:
+a) Việc điểu chính đơn giá thực hiện hợp đồng chí áp dụng đối với hợp
+đồng theo đơn giá điều chỉnh và họp đồng theo thời gian khi các bên có thỏa
+thuận trong hợp đồng.
+b) Trường hợp khối lượng công việc thực tế thực hiện tăng hoặc giảm
+lớn hơn 20% khối lượng công việc tương ứng ghi trong hợp đồng hoặc khối
+lượng phát sinh chưa có đơn giá trong hợp đồng thì các bên thống nhất xác
+định đơn giá mới theo nguyên tắc đã thỏa thuận trong hợp đồng về đơn giá
+cho các khối lượng này để thanh toán.
+c) Trường hợp khối lượng thực tế thực hiện tăng hoặc giảm nhỏ hơn
+hoặc bằng 20% khối lượng công việc tương ứng ghi trong hợp đồng thì áp.
+dụng đơn giá trong hợp đồng, kế cả đơn giá đã được điểu chỉnh theo thóa
+thuận của hợp đồng (nếu có) để thanh toán.
+đ) Việc điều chính đơn giá hợp đồng cho những khối lượng công việc
+mà tại thời điểm ký hợp đồng bên giao thẩu và bên nhận thầu có thỏa thuận.
+điều chỉnh đơn giá thực hiện theo quy định tại Khoản 3 Điều này và hướng
+dẫn của Bộ Xây dựng.
+3. Phương pháp điều chỉnh giá hợp đồng xây dựng:
+a) Việc áp dụng các phương pháp điều chỉnh giá phải phù hợp với tính
+chất công việc, loại giá hợp đồng, đồng tiền thanh toán và phải được các bản
+thỏa thuận trong hợp đồng.
+b) Cơ sở dữ liệu đầu vào để tính toán điều chính giá phải phù hợp với nội.
+dung công việc trong hợp đồng. Trong hợp đồng phải quy định việc sử dụng
+nguồn thông tin về giá hoặc nguồn chỉ số giá của các cơ quan Nhà nước có
+thẩm quyền để điều chỉnh giá hợp đồng theo công thức sau:
+GTT = GHĐ x Pn
+31
+Trong đó:
+
+thành được nghiệm thu.
+- Ggg”: Lã giá trong hợp đồng tương ứng với các khối lượng công việc.
+hoàn thành được nghiệm thu.
+- P, + Hệ số điều chỉnh (tăng hoặc giácn) được áp dụng cho thanh toán
+hợp đồng đối với các khối lượng công việc hoàn thành được nghiệm thu trong
+khoảng thời gian Tr3.
+4. Bộ Xây dựng hướng dẫn cụ thể về điều chính hợp đồng xây dựng.
+Điều 39. Điều chỉnh tiến độ thực hiện hợp đồng xây dựng
+1. Trong hợp đồng xây dựng các bên phải thỏa thuận về các trường hợp
+được điều chính tiến độ. Trường hợp thời hạn hoàn thành chậm hơn so với.
+tiến độ của hợp đồng, các bên phải xác định rõ trách nhiệm của mỗi bên đối
+với những thiệt hại do chậm tiến độ gây ra.
+2. Tiến độ thực hiện hợp đồng được điều chính trong các trường hợp sau:
+a) Do ảnh hưởng của động đất, bảo, lũ, lạt, sóng thần, hóa hoạo, dịch họa
+hoặc các sự kiện bất khả kháng khác.
+b) Thay đổi, điều chỉnh dự án, phạm vi công việc, thiết kế, biện pháp
+thi công theo yêu cầu của bên giao thần làm ảnh hưởng đến tiến độ thực hiện.
+hợp đồng.
+c) Do việc bản giao mặt bằng không đứng với các thỏa thuận trong hợp
+đồng, tạm dừng hợp đồng do lỗi của bên giao thấu, các thủ tục liên quan ảnh.
+hưởng đến tiến độ thực hiện hợp đồng xây dựng mà không do lỗi của bên
+nhận thầu gây ra.
+d) Tạm dừng thực hiện công việc theo yêu cầu cửa cơ quan nhà nước có.
+thẩm quyền mà không do lỗi của bên giao thầu gây ra.
+3. Khi điều chỉnh tiền độ hợp đồng không làm kéo dài tiến độ thực hiện
+hợp đồng (bao gồm cả thời gian được kéo dài tiến độ thực hiện hợp đồng theo
+chất việc điều chỉnh. Trường hợp điều chính tiến độ làm kéo dài tiếu độ thực
+hiện hợp đồng thì chủ đầu tư phải báo cáo Người có thẩm quyền quyết định.
+đầu tư xem xét, quyết định.
+32
+Mục 6
+TẠM DỪNG, CHẨM DỨT, THƯỞNG, PHẠT
+DO VI PHẠM HỢP ĐỒNG XÂY DỰNG
+Điều 40. Tạm dừng thực hiện công việc trong hợp đồng xây dựng
+1. Các tỉnh huống được tạm dùng thực hiện công việc trong hợp đồng.
+quyền được tạm dừng; trình tự thủ tục tạm dừng, mức đền bà thiệt hại do tạm.
+dững phải được bên giao thầu và bên nhận thầu thoả thuận trong hợp đồng
+xây dựng.
+2. Các bên tham gia hợp đồng được tạm dừng thực hiện hợp đồng xây.
+dựng trong các trường hợp sau:
+a) Bên giao thần có quyền tạm dừng thực hiện hợp đồng xây dựng khi
+bên nhận thầu không đáp ứng các yêu cầu về chất lượng, an toàn lao động và
+tiến độ theo hợp đồng đã ký kết.
+b) Bên nhận thầu có quyền tạm dừng thực hiện hợp đồng xây dựng và
+kéo dải tiến độ thực hiện hợp đồng khi bên giao thấu vi phạm các thỏa thuận.
+về thanh toán, cụ thể như: không thanh toán đủ cho bên nhận thầu giá trị của
+giai đoạn thanh toán mà các bên đã thống nhất vượt quá 28 ngày kể từ ngày.
+hết hạn thanh toán theo quy định tại Khoản 10 Điều 19 Nghị định này, trừ.
+trường hợp các bên có thỏa thuận khác; không có bảo đảm thanh toán cho các
+khối lượng sắp được thực hiện.
+3. Trước khi một bên tạm dừng thực hiện công việc trong hợp đồng, thì
+phải thông báo cho bên kia biết bằng văn bản trước 28 ngày, trong đó nêu rõ
+lý do tạm dừng thực hiện; bên giao thầu, bên nhận thần phải có trách nhiệm.
+cùng thương lượng giải quyết để tiếp tục thực hiện đúng thoả thuận hợp đồng
+đã ký kết, trừ trường hợp bất khả kháng.
+Trường hợp, bên tạm dừng thực hiện hợp đồng không thông báo hoặc lý.
+do tạm dừng không phù hợp với quy định của hợp đồng thì phải bồi thường
+thiệt hại cho phía bên kia.
+Điều 41. Chấm dứt hợp đồng xây dựng
+1. Các tình huống được chấm đứt hợp đồng, quyền được chấm dứt hợp
+đồng; trình tự thủ tục chấm dứt, mức đến bù thiệt hại do chẩm đút hợp đồng
+phải được các bên thoả thuận trong hợp đồng xây dựng và phải phù hợp với
+quy định của Nghị định này, quy định của pháp luật có liên quan.
+2. Mỗi bên đều có quyền chấm đứt hợp đồng mà không phải bồi thường
+thiệt hại trong các trường hợp quy định tại các Khoản 7 và 8 Điều này.
+3. Trường hợp đã tạm dừng thực hiện hợp đồng mà bên vi phạm hợp đồng.
+không khắc phục lối của mình trong khoảng thời gian năm mươi sảu (56) ngày kễ
+từ ngày bắt đầu tạm dùng theo thông báo, trừ trường hợp các bên thỏa thuận khác
+và không có lý do chính đảng thì bên tạm dùng có quyền chấm dứt hợp đồng.
+33
+4. Trường hợp một bên đơn phương chấm dứt hợp đồng xây dựng mà
+không phải do lối của bên kia gây ra, thì bên đơn phương chấm dứt hợp đồng
+phải bồi thường thiệt hại cho bên kia.
+5. Trước khi một bên chẩm dứt hợp đồng thì phải thông báo bằng văn
+bản cho bên kia trước một khoảng thời gian nhất định theo thoá thuận trong
+hợp đồng nhưng không ít hơn hai mươi cảm (28) ngày, trừ trường hợp các bên
+thóa thuận khác và trong đó phải nêu rõ lý do chẩm dút hợp đồng. Nếu bận.
+chấm dứt hợp đồng không thông báo mà gây thiệt hại cho bên kia, thì phải bồi
+thường thiệt hại cho bên kia.
+6. Hợp đồng xây dựng không còn hiệu lực kể từ thời điểm bị chấm dứt
+và các bên phải hoàn tất thủ tạc thanh lý hợp đồng trong khoảng thời gian.
+theo thoả thuận trong hợp đồng, nhưng không quá năm mươi sáu (56) ngày kể
+từ ngày thông báo chấm dứt hợp đồng, trừ trường hợp các bên thỏa thuận
+khác. Ngoài thời gian này nếu một bên không làm các thủ tục thanh lý hợp
+đồng thì bên kia được toàn quyền quyết định việc thanh lý hợp đồng.
+7. Bên giao thầu có quyền chấm dứt hợp đồng trong các trường hợp sau:
+a) Bên nhận thẩu bị phá sản, giải thể hoặc chuyển nhượng hợp đồng xây.
+dựng cho người hoặc tổ chức khác tmả không có sự chấp thuận của bên giao thầu.
+b) Bên nhận thầu từ chối thực hiện công việc theo hợp đồng hoặc năm
+mươi sáu (56) ngày liên tục không thực hiện công việc theo hợp đồng, dẫn đến
+vi phạm tiền độ thực hiện theo thốa thuận hợp đồng, trữ trường hợp được phép
+của bên giao thầu.
+8. Bên nhận thầu có quyền chấm dứt hợp đồng trong các trường hợp sau:
+a) Bên giao thầu bị phá sản, giải thể hoặc chuyển nhượng hợp đồng xây
+dụng cho người hoặc tổ chức khác mà không có sự chấp thuận của bên nhận thầu.
+b) Sau năm mươi sáu (56) ngày liên tục công việc bị dừng do lỗi của bên
+giao thầu, trừ trường hợp các bên có thoả thuận khác.
+c) Bên giao thầu không thanh toán cho bên nhận thầu sau năm mươi sáu
+(56) ngày kể từ ngày bên giao thầu nhận đủ hồ sơ thanh toán hợp lệ, trừ
+trường hợp các bên có thỏa thuận khác.
+9. Trong thời hạn hai ngày (02) làm việc kể từ khi hợp đồng xây dựng bị
+chấm dứt, bên nhận thầu phải di chuyển toàn bộ vật tư, nhân lực, máy mức,
+thiết bị và các tài sản khác thuộc sở hữu của minh ra khỏi công trường, nếu
+sau khoảng thời gian này hên nhận thầu chưa thực hiện việc di chuyển thi bên
+giao thầu có quyền xử lý đối với các tài sản này, trừ trường hợp các bên có
+thỏa thuận khác.
+Điều 42. Thưởng hợp đồng, phạt vi phạm hợp đồng
+Việc thưởng hợp đồng, phạt vi phạm hợp đồng thực hiện theo quy định
+tại Khoản 1, 2 Điều 146 Luật Xây dựng số 50/2014/QH1.
+34
+Điều 43. Trách nhiệm do vi phạm hợp đồng xây dựng
+1. Trách nhiệm do vi phạm hợp đồng thực hiện theo quy định từ Khoản 3
+đến Khoản 7 Điểu 146 Luật Xây dựng số 50/2014/QH13, các quy định tại
+Nghị định này và pháp luật có liên quan.
+2. Trường hợp, bên giao thần thanh toán không đúng thời hạn và không
+đầy đủ theo thoá thuận trong hợp đồng thì phải bồi trường cho bên nhận thẩu.
+theo lãi suất quá hạn do ngân hàng thaong mại nơi bên nhận thần mở tài
+khoản thanh toán công bố tương ứng với các thời kỷ chậm thanh toán. Lài.
+chậm thanh toán được tỉnh từ ngày đầu tiên chậm thanh toán cho đến khi bên
+giao thầu đã thanh toán đầy đủ cho bên nhận thấu, trừ trường hợp các bên có
+thỏa thuận khác.
+Mục 7
+KHIỂU NẠI VÀ GIẢI QUYẾT TRANH CHẤP
+HỢP ĐỒNG XÂY DỰNG
+Điều 44. Khiếu mại trong quá trình thực hiện hợp đồng xây dựng.
+1. Khiếu nại trong quá trình thực hiện hợp đồng xây dựng trong Nghị
+định này được hiểu là khi một bên phát hiện bản kia thực hiện không đông
+hoặc không thực hiện nghĩa vụ theo đứng hợp đồng thì có quyền yêu cầu bện
+kia thực hiện đúng nội dung hợp đồng đã ký. Khi đó, bên phát hiện có quyền
+khiếu nại bên kia về nội dung này.
+2. Khi một bên khiếu nại bên kia thì phải đưa ra các căn cứ, dẫn chứng
+cụ thể để làm sáng tổ những nội dung khiếu nại.
+3. Trong vòng năm mươi sáu (56) ngày kể từ khi này sinh vấn để một bên
+thực hiện hợp đồng không phù hợp với các thỏa thuận đã ký, bên phát hiện
+phải thông bảo ngay cho bên kia về những nội dung đó và khiếu nại về các.
+nội dung xảy. Ngoài khoảng thời gian này nếu không bên nào có khiếu nại thì
+các bên phải thực hiện theo đúng những thoả thuận đã ký.
+4. Trong vòng hai mươi tảm (28) ngày kể từ ngày nhận được khiếu nại,
+bên nhận được khiêu nại phải đưa ra những cân cứ, cắn chứng về những nội
+dung cho rằng việc khiếu nại của bên kia là không phù hợp với hợp đồng đã
+ký, nếu những căn cứ và dẫn chứng không thuyết phục, không hợp lý thì phải
+chấp thuận với nhâng khiếu nại của bên kia. Ngoài khoảng thời gian này nến
+bên nhận được khiếu nại không có ý kiến thi coi như đã chấp thuận với những
+nội dung khiếu nại do bên kia đưa ra.
+5. Các khiếu nại của mỗi bên phải được gửi đến đúng địa chỉ giao dịch
+hoặc địa chỉ trao đổi thông tin mà các bên đã thoả thuận trong hợp đồng. Các
+khiếu nại không được giải quyết bời các bên tham gia hợp đồng sẽ được giải
+quyết theo quy định tại Điều 45 Nghị định này.
+35
+Điều 45. Giải quyết tranh chấp hợp đồng xây dựng
+1. Khi giải quyết các tranh chấp trong quá trình thực hiện họp đồng
+xây dựng, các bên phải tuân thủ nguyên tác và trình tự giải quyết tranh.
+chấp hợp đồng xây dựng được quy định tại Khoản 8 Điều 146 Luật Xây dựng
+số 50/2014/QH13.
+3. Trường hợp các bên tham gia hợp đồng có thỏa thuận giải quyết tranh
+chấp hợp đồng thông qua hoà giải được thực hiện bởi cơ quan, tổ chức hoặc một,
+một số cá nhân chuyên gia (gọi chung là ban xử lý tranh chấp), khi đỏ việc xử lý
+tranh chấp hợp đồng thông qua ban xử lý tranh chấp được quy định như sau:
+a) Ban xử lý tranh chấp có thể được nêu trong hợp đồng tại thời điểm kỳ.
+kết hoặc thiết lập san khi có tranh chấp xảy ra. Số lượng thành viên ban xử lý
+tranh chấp do các bên tự thỏa thuận. Thành viên ban xử lý tranh chấp phải là
+người có trình độ chuyên môn phù hợp với nội dựng tranh chấp, kinh nghiệm.
+trong vên đề giải quyết tranh phấp hợp đồng và hiểu biết về các quy định pháp
+luật liên quan đến hợp đồng xây dựng.
+b) Trong thời hạn hai mươi tâm (28) ngày kể từ ngày các bên nhận được kết
+luận hóa giải còa ban xử lý tranh chấp, nến mặt bên không đồng ý kết luận hoà gải:
+của ban xử lý tranh chấp thì có quyền phân đối và các tranh chấp này sẽ được giái
+quyết tại Trọng tài hoặc Toà án theo quy định của pháp luật; trường hợp quả thời
+hạn nêu trên không bên nàu phản đổi kết luận hòa giải thi coải như các bản đả thống
+nhất với kết luận hòa giải. Khi đó, các bên phải thực hiện theo kết luận hòa giải.
+c) Chi phí cho ban xử lý tranh chấp được tỉnh trong giá hợp đồng xây.
+dựng và do mỗi bên hợp đồng chịc một nửa, trừ trường hợp các bên có thóc:
+thuận khác.
+... Thời hiệu khởi kiện theo thủ tục Trọng tài hoặc thời hiệu khởi kiện lên
+Toà án giải quyết tranh chấp hợp đống xây đợng được thực hiện theo quy
+định có liên quan của pháp luật.
+Mục 8
+CÁC NỘI DUNG KHÁC CỦA HỢP ĐỒNG XÂY DỰNG
+Điều 46. Bảo hiểm và bảo hành theo hợp đồng xây dựng
+1. Bảo hiểm
+a) Chủ đầu tư mua bảo hiểm công trình trong thời gian xây dựng đối với
+công trình có ánh bưởng đến an toàn cộng đồng, môi trường, công trình có
+yêu cầu kỹ thuật đặc thủ, điều kiện thì công xây dựng phức tạp. Trường hợp.
+phí bảo hiểm này đã được tỉnh vào giá hợp đồng thì bên nhận thần thực hiện.
+mua bảo hiểm công trình theo quy định.
+b) Nhà thầu tư vấn mưa báo hiểm trách nhiệm nghề nghiệp tư vấn đầu tư.
+xây dựng đếi với công việc khảo sát xây dựng, thiết kế xây dựng của công
+trình xây dựng từ cấp lI trở lên.
+36
+c) Bên nhận thầu phải thực hiện mua các loại bảo hiểm cần thiết (bảo.
+hiểm đối với người lao động thì công trên công trường, bảo hiểm thiết bị, bào
+hiểm đối với bên thứ ba,..) để bảo đảm cho hoạt động của mình theo quy định
+của pháp luật.
+2. Bảo hành
+a) Bên nhận thầu có trách nhiệm bác hành công trình, báo hành thiết bị
+then đúng các thỏa thuận trong hợp đồng. Các thỏa thuận của các bên hợp.
+đồng về thời hạn báo hành, mức bảo đảm bảo hành phải phù hợp với quy định.
+của pháp luật về xây dựng.
+b) Bảo đảm bảo hành có thể thực hiện hằng bình thức bảo lãnh hoặc hình
+thức khác do các bên thỏa thuận, nhưng phải ưu tiên áp dụng hình thức bảo lãnh;
+c) Bên nhận thầu chỉ được hoàn trả bảo đảm bảo hành công trình sau khi
+kết thức thời hạn bảo hành và được chủ đầu tư xác nhận đã hoàn thành công
+việc bảo hành.
+d) Trong thời hạn bảo hành, bên nhận thầu phải thực hiện việc báo hành
+trong vông hai mươi mốt (21) ngày kể từ ngày nhận được thông báo sử chữa
+của bên giao thầc; trong khoáng thời gian này, nếu bên nhận thầu không tiến.
+hành báo hành thì bên giao thầu có quyền sử dụng tiền bảo hành để thuê tổ.
+chức, cá nhân khác sửa chữa.
+Điều 47. Hợp đồng thầu phụ
+1. Một hợp đồng thầu chính có thể có nhiều hợp đồng thầu phụ. Khi ký
+hợp đồng thầu phụ, tổng thầu, nhà thầu chỉnh hoặc nhà thầu nước ngoài phải
+thực hiện theo các quy định sau:
+a) Chỉ được ký kết hợp đồng thầu phụ đúng với năng lực hành nghề,
+năng lực hoạt động của nhà thầu phụ.
+b) Nhà thầu nước ngoài khi thực hiện hợp đồng xây dựng trên lãnh thổ
+Việt Nam với vai trò là nhà thầu chính phải sử dụng nhà thầu phụ trong nước
+đáp ứng được các yêu cầu của gói thần và chỉ được kỳ hợp đồng thầu phụ với
+các nhà thầc phụ nước ngoài khi các nhà thần phụ trong nước không đáp ứng
+được yêu cầu cha gói thẩu. Đối với các vật tư, thiết bị tạm nhập tái xuất phải.
+được quy định cụ thể trong hợp đồng theo nguyên tắc ưu tiên sử dụng các vật
+tư, thiết bị trong nước đáp ứng được yêu cầu của gói thầu.
+c) Đối với các nhà thầu phụ không có trong danh sách thầu phụ kèm theo.
+hợp đồng thì phải được chủ đầu tư chấp thuận.
+đ) Tổng thẩo, nhà thầu chính phải chịu trách nhiệm trước chủ đần tư về
+tiến độ, chất lượng, an toàn lao động, bảo vệ môi trường, sai sót của mình và
+các công việc do các nhà thầu phụ thực hiện.
+37
+d) Tổng thắc, chà thấu chính không được giao lại toàn bộ công việc theo.
+hợp đồng cho nhà thầu phụ thực hiện.
+2. Nhà thầu phụ do chủ đầu tư chỉ định (nếu có).
+a) Nhà thầu phụ do chủ đầu tư chỉ định là nhà thầu phụ được chủ đầu tư.
+chị định cố phả thị chính hoặc tổng tầu chê lậm nhà thấu phụ để thực
+chính, tổng thầu không đáp ứng được yêu cầu về an toàn, chất lượng và tiến
+độ thực hiện hợp đồng sau khí chủ đầu tư đã yêu cầu.
+b) Đối với các hợp đồng xây dựng áp dụng nhà thầu phụ do chủ đầu tư.
+chỉ định, thì các bên hợp động phải thỏa thuận cụ thể về các tỉnh huống chữ
+đầu tư được chỉ định nhà thầu phụ.
+c) Nhà thầu chính hoặc tổng thầu có quyền tử chối nhà thầu phụ do chủ
+đầu tư chỉ định nếu công việc nhà thần chính hoặc tổng thầu, thẩu phụ đang
+trực hiện vẫn toân tỉnh đúng các thỏa thuận trong hợp đồng hoặc có đầy đủ cơ
+sở cho rằng nhà thầu phụ do chủ đầu tư chỉ định không đáp ứng được các yên
+cầu theo hợp đồng.
+3. Cửủ đầu tư thanh toán trực tiếp cho nhà thấu phụ trên cơ sở để xuất
+thanh toán của nhà thần chính hoặc tổng thấu, trừ trường hợp các bên có thỏa
+thuận khác.
+4. Nhà thầu phụ có tất cả các quyền và nghĩa vụ của bên nhận thẩu theo
+quy định của Nghị định này và quy định của pháp luật khác có liên quan.
+Điền 48. An toàn lao động, bảo vệ môi trường và phòng chống cháy nổ
+1. Trách nhiệm của các bên về an toàn lao động phải được thỏa thuận
+trong hợp đồng và được quy định như sau:
+a) Nhà thần thì công xây dựng phải lập các biện pháp an toàn cho người,
+máy móc thiết bị và công trình trên công trường xây dựng, kể cả các công
+trình phụ cận. Trường hợp các biện pháp an toàn liên quan đến nhiều bên thì
+phải được các bên thống nhất.
+b) Biện pháp an toàn, nội quy về an toàn lao động phải được thể hiện
+công khai trên công trường xây dựng để mọi người biết và chấp hành; những
+vị trí nguy hiểm trên công trưởng phải bố trí người hướng đân, cảnh bảo để
+phòng tai nạn.
+c) Nhà thầu thì công xây dựng, chủ đầu tư và các bên có liên quan phải
+thường xuyên kiểm tra giám sát công tác an toàn lao động trên công trường.
+Khi phát hiện có vi phạm về an toàn lao động thì phải đình chỉ thi công xây
+dựng, Người để xảy ra vi phạm về an toàn lao động thuộc phạm vi quản lý
+của mình phải chịu trách nhiệm trước pháp luật.
+38
+đ) Nhà thầu thì công xây dựng có trách nhiệm đào tạo, hướng dẫn, phố.
+biển các quy định về an toàn lao động cho người lao động của minh. Đối với
+một số công việc yêu cầu nghiêm ngặt về an toàn lao động thì người lao động
+phải có giấy chứng nhận đào tạo về an toàn lao động.
+d) Nhà thầu thì công xây dựng có trách nhiệm cấp đầy đủ các trang bị
+bảo hỏ lao động, an toàn lao động cho người lao động theo quy định khi sử
+dụng lao động trên công trường.
+c) Khi có sự cố về án toàn lao động, nhà thấu thi công xây dựng và các.
+bên có liên quan có trách nhiệm tổ chức xử lý và báo cáo cơ quan quản lý nhà
+nước về an toàn lao động theo quy định của pháp luật đồng thời chịu trách
+nhiệm khắc phục và bồi thường những thiệt hại do nhà thầu không bảo đảm.
+an toàn lao động gây ra.
+2. Trách nhiệm bảo vệ môi trường xây dựng của mối bên phải thỏa thuận.
+trong hợp đồng và được quy định như sau:
+a) Nhà thần thì công xây dựng phải thực hiện các biện pháp bảo đảm về
+môi trưởng cho người lao động trên công trường và bảo vệ môi trường xung
+quanh, bao gồm có biện pháp chống họi, chống ồn và tha đọn hiện trường;
+nước thải, chất thải rắn và các loại chất thải khác phải được thu gom xử lý đạt
+tiêu chuẩn, quy chuẩn kỹ thuật về môi trường. Đối với những công trình xây
+dựng trong khu vực đô thị, ghải thực hiện các biện pháp bao che, thu đợn phế
+thải đưa đến đúng nơi quy định.
+b) Trong quá trình vận chuyển vật liệu xây dựng, phế thải phải có biện
+pháp cho chấn bảo đảm an toàn, vệ sinh môi trường.
+c) Nhà thầu thì công xây dựng, chủ đầu tư phải có trách nhiệm kiểm tra
+giám sát việc thực hiện bảo vệ môi trường xây dựng, đồng thời chịu sự kiểm tra
+giám sát của cơ quan quản lý nhà nước về môi trường. Trường hợp nhà thần thì
+công xây dựng không tuân thả các quy định về bảo vệ môi trường thì chủ đần
+tư, cơ quan quản lý nhà nước về môi trường có quyền tạm dùng thể công xây.
+dựng và yêu cầu nhà thầu thực hiện đúng biện pháp bảo vệ môi trường.
+d) Các tổ chức, cá nhân để xảy ra các hành vi làm tổn hại đến môi trường
+trong quá trình thi công xây dựng công trình phải chịu trách nhiệm trước pháp.
+luật và bồi thường thiệt hại do lỗi của mình gây ra.
+3. Các bên tham gia hợp đồng xây dựng phải tuân thủ các quy định hiện
+hành về phòng chống cháy nổ.
+39
+Điều 49. Điện, nước và an ninh công trường
+Trong hợp đồng các bên phải thỏa thuận về quyền, nghĩa vụ của mỗi bên
+trong việc cung cấp, thanh toán chi phí điện, nước và an ninh công trường.
+Điều 50. Vận chuyển thiết bị công nghệ
+1. Bên nhận thầu phải thông báo trước cho bên giao thầu trong một
+khoảng thời gian nhất định do các bên thóa thuận về thời điểm giao thiết bị,
+nhưng không được ít hơn hai mươi mốt (21) ngày.
+2. Bên nhận thầu phải chịu trách nhiệm về việc đóng gói, bốc xếp, vận
+chuyển, lưu kho và bảo quản thiết bị, trừ trường hợp các bên có thóa thuận khác.
+3. Bên nhận thầu phải bồi thường cho bên giao thầu đối với các hư hông,
+mất mát và chi phí phát sinh do việc vận chuyển thiết bị của bên nhận thẩn
+gây ra.
+Điều 51. Rủi ro và bất khả kháng
+1. Rhi ro là nguy cơ ảnh hưởng tiêu cực đến việc thực hiện hợp đồng xảy
+dựng trong tương lai. Trong hợp đẳng xây dựng các bên phải quy định trách.
+nhiệm của mỗi bên về quản lý và xử lý rủi ro của minh; trách nhiệm khắc
+phục hậu quả của mỗi bên trong trường hợp gặp rủi ro.
+2. Bất khả kháng là một sự kiện rủi re xảy ra một cách khách quan không
+thể lưởng trước khi ký kết hợp đồng xây dựng và không thể khắc phục được.
+khi nó xảy ra mặc đủ đã áp dụng mọi biện pháp cần thiết và khả năng cho
+phép như: Thiên tai, sự cố môi trường, dịch họa, hỏa hoạn và các yếu tổ bát
+khả kháng khác.
+2. Khi một bên bị rơi vào tình trạng bất khả kháng, thì phải thông báo
+bằng văn bản cho bên kia trong thời gian sóm nhất có thể.
+4. Trong hợp đồng các bên phải thỏa thuận về việc xử lý bất khả kháng
+như: Thông bảo và bất khả kháng; trách nhiệm của các bên đối với bất khả
+kháng; chấm dứt và thanh toán hợp đồng xây dựng trong trường hợp bất khả
+kháng (nếu có)
+Chương III
+ĐIỀU KHOẨN THI HÀNH
+Điều 52. Hiệu lực thì hành
+1. Nghị định này có hiệu lực thì hành kể từ ngày 15 tháng 6 năm 2015.
+40
+2. Nghị định số 48/2010/NĐ-CP ngày 07 tháng 5 năm 2010 của Chính
+phú về hợp đồng trong hoạt động xây dựng; Nghị định số 207/2013/NĐ- CP.
+ngày 11 tháng 12 năm 2013 của Chính phủ sửa đổi, bể sung một số điều của
+Nghị định số 48/2010/NĐ-CP ngày 07 tháng 5 năm 2010 của Chính phủ vế
+hợp đồng trong hoạt động xây dựng bết hiệu lực thi hành kể từ ngày Nghị
+định này có hiệu lực.
+Điều 53. Xử lý chuyển tiếp
+1. Các hợp đồng xây dựng đã ký và đang thực hiện trước ngày Nghị
+định này có hiệu lực thì thực hiện theo quy định về hợp đồng xây dựng trước
+ngày Nghị định này có hiệu lực thi hành.
+2. Các hợp đồng xây dựng đang trong quá trình đảm phán, chưa được ký.
+kết nếu có nội dung nào chưa phù hợp với quy định tại Nghị định này thì bảo.
+cáo người có thẩm quyền quyết định đầu tư xem xét, quyết định trên nguyên
+tắc bảo đảm chất lượng, tiến độ, hiệu quả của dự án đầu tư xây dựng và không
+làm phương hại đến quyền và lợi ích hợp pháp của các bên.
+3. Nội dung về hợp đồng xây dựng trong các hồ sơ mời thẩu, hồ sơ yêu
+cầu đã phê duyệt nhưng chưa phát hành nếu có nội dung nào chưa phù hợp.
+với quy định tại Nghị định này thì phải điều chỉnh tại cho phù hợp; trường
+hợp đã phát hành hồ sơ mời thầu, bổ sơ yêu cầu, nếu có thay đổi nội dung liên
+quan đến hợp đồng cho phù hợp với các quy định của Nghị định này, thì phải
+thông báo cho tất cá các nhà thầu đã mua hồ so dự thầu, hồ sơ yêu cầu biết để
+điều chỉnh các nội dung hồ sơ dự thầu, bồ sơ đề xuất cho phù hợp; trường hợp.
+đã đóng thầu thì thực hiện theo quy định tại Khoản 2 Điều này.
+Điều 54. Tổ chức thực hiện
+1. Các chú thể khi lập, thẩm định và phê duyệt hồ sơ mời thầu, hồ sơ.
+yêu cầu có các nội dung liên quan đến hợp đồng xây dựng; thương thảo, ký
+kết và quản lý thực hiện hợp đồng xây dựng phải tuân thủ các quy định tại
+Nghị định này.
+2. Bộ Xây dựng hướng dẫn, kiểm tra việc thực hiện các quy định của
+pháp luật về hợp đồng xây dựng; hướng dẫn điều chính hợp động xây dựng,
+phương pháp điều chỉnh giả hợp đồng xây dựng, các loại hợp đồng xây dựng,
+mẫu hợp đồng xây dựng và các nội dung cần thiết khác của Nghị định này để
+đáp ứng yêu cầu quản lý nhà nước về hợp đồng xây dựng.
+3. Khuyến khích các tổ chức, cá nhân vận dụng bộ mẫu điều kiện hợp
+đồng của Hiệp hội Quốc tế các kỹ sự tư vấn (FiDIC), hợp đồng xây dựng mẫu
+vào việc xác lập và thực hiện hợp đồng xây dựng. Khi vận dụng các hợp đồng
+xây dựng mẫu các bản phải xem xét hiệu chính nội dung hợp đồng cho phả
+hợp với các quy định của pháp luật Việt Nam.
+41
+4. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan.
+thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc
+Trung ương, Thủ trưởng các tổ chức chính trị, chính trị - xã hội, tổ chức chính
+trị xã hội - nghề nghiệp, Chủ tịch Hội đồng quản trị các Tập đoàn kinh tế, các
+Tổng công ty Nhà nước và các tổ chức, cá nhân có liên quan chịu trách nhiệm:
+thì hành Nghị định này./.
+Nơi nhận:   TM. CHÍNH PHỦ
+- Ban Bí thư Trung ương Đảng;   THỦ TƯỚNG
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
+- HĐND, UBND các tỉnh, thành phố trực thuộc Trung ương;
+- Văn phòng Trung ương và các Ban của Đàng;
+- Văn phòng Tổng Bí thư;
+- Văn phòng Chủ tịch nước;
+- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
+- Văn phòng Quốc hội;
+- Tòa án nhân dân tối cao;
+- Viện Kiểm sát nhân dân tối cao;
+- Kiểm toán Nhà nước;   Nguyễn Tấn Dũng
+- Ủy ban Giám sát tài chính Quốc gia;
+- Ngân hàng Chính sách xã hội;
+- Ngân hàng Phát triển Việt Nam;
+- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan Trung ương của các đoàn thể;
+- Các tập đoàn kinh tế và tổng công ty nhà nước;
+- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT,
+các Vụ, Cục, đơn vị trực thuộc, Công báo;
+- Lưu: Văn thư, KTN (3b). XH,
+42

@@ -1,0 +1,325 @@
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH BÌNH THUẬN   Độc lập - Tự do - Hạnh phúc
+Số: 19/2013/QĐ-UBND   Bình Thuận, ngày c7 tháng 5 năm 2013
+QUYẾT ĐỊNH
+Về việc ban hành Quy chế phối hợp kiểm tra, đối chiếu thông tin và sử dụng
+thông tin trong cơ sở dữ liện quốc gia về tài sản nhà nước thuộc phạm vi
+quản lý của tỉnh Bình Thuận
+ỦY BAN NHÂN DÂN TỈNH BÌNH THUẬN
+Căn cứ Luật Tổ chức Hội đồng nhân dân và Ủy ban nhân dân ngày 26
+tháng 11 năm 2003;
+Căn cứ Luật Quản lý, sử dụng tài sản nhà nước năm 2008;
+Căn cứ Nghị định số 52/2009/NĐ-CP ngày 03 tháng 6 năm 2009 của
+Chính phủ quy định cai tiết và hướng dẫn thì hành một số điều của Luật Quản lý.
+sử dụng tài sản nhà nước;
+Căn cứ Thông tư số 245/2009/TT-BTC ngày 31 tháng 12 năm 2009 của Bộ
+Tài chính quy định thực hiện một số nội dung của Nghị định số 52/2009/NĐ-CP
+ngày 03 tháng 6 năm 2009 của Chính phủ quy định chi tiết và hướng dẫn thì hành
+một số điều của Luật Quản lý, sử dụng tài sản nhà nước;
+Căn cứ Thông tư số 09/2012/TT-BTC ngày 19 tháng 01 năm 2012 của Bộ
+Tài chính sửa đổi, bổ sung Thông tư số 245/2009/TT-BTC ngày 31 tháng 12 năm
+2009;
+Căn cứ Thông tư số 123/2011/TT-BTC ngày 31 tháng 8 năm 2011 của Bộ
+Tài chính hướng dẫn việc quản lý, khai thác phần mềm quản lý đăng ký tài sản
+nhà nước;
+Theo đề nghị của Giám đốc Sở Tài chính tại Tờ trình số 371/1 Tr-STC.
+ngày 24 tháng 4 năm 2013,
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy chế phối hợp kiểm tra, đối
+chiến thông tin và sử dụng thông tân trong cơ sở đữ liệu quốc gia về tài sản nhà
+nước thuộc phạm vi quản lý của tỉnh Bình Thuận.
+Điều 2. Quyết định này có hiệu lực thi hành sau 10 ngày kể từ ngày ký ban
+hành.
+Điều 3. Chánh Văn phòng UBND tỉnh, Giám đốc Sở Tài chính, Giám đốc
+Só Tư pháp, Thủ trưởng các cơ quan thuộc UBND tỉnh, Thủ trưởng các tổ chức
+chính trì, tổ chức chính trị - xã bội, tổ chức chính trị - xã hội nghề nghiệp, tổ chức
+xã hội, tổ chức xã hội - nghề nghiệp, đơn vị sự nghiệp công lập; Chủ tịch UBND
+các huyện, thị xã, thành phố và thủ trưởng các tổ chức, cá nhân có liên quan căn
+cứ Quyết định thì hành./.
+Nơi nhận:   TM. ỦY BAN NHÂN DÂN
+- Bộ Tài chính;   CHỦ TỊCH
+- Cục kiểm tra văn bản (Bộ Tư pháp);
+- Thường trực Tỉnh ủy (báo cáo);
+- Thường trực HĐND tỉnh (báo cáo)
+- Chủ tịch, các PCT. UBND tỉnh;
+- Đoàn đại biểu QH tỉnh;
+- Ủy ban MTTQVN tỉnh;
+- Như điều 3;   Lê Tiến Phương
+- Đặi PTTH; Báo Bịnh Thuận;
+- Sở Tư pháp (trự kiểm tra);
+- Trung tâm CB&TTĐT;
+. Lưu VT, KT, NC, ĐTQH, TH, TTTH, Tùng.
+2
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH BÌNH THUẬN   Độc lập - Tự do - Hạnh phúc
+QUY CHẾ
+Phối hợp kiểm tra, đối chiếu thông tin và sử dụng thông tin trong
+cơ sở dữ liệu quốc gia về tài sản nhà nước thuộc phạm vi quản lý của
+tỉnh Bình Thuận
+(Ban hành kèm theo Quyết định số 13 /2013/QĐ-UBND ngày năm
+2013 của UBND tỉnh Bình Thuận)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+1. Quy chế này quy định mổi quan hệ phối hợp giữa các cơ quan hành chính.
+nhà nước, đơn vị sự nghiệp công lập, tổ chức chính trị, tổ chức chính trị - xã hội, tổ
+chức chính trị - xã hội nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp
+thuộc khối tinh; UBND các huyện, thị xã, thành phố thuộc tỉnh (sau đây gọi tắt là
+các cơ quan chủ quản) và các cơ quan, tổ chức, đơn vị được giao quập lý, sử dụng
+tâi sản phủ rước (sau, đây gọi tắt là các cơ quan, tổ chức, đơn vị) với Sở Tài chính
+trong việc:
+a) Cung cấp thông tin để kiểm tra, đối chiếu kết quả đăng nhập dữ liệu tài sản
+nhà nước thuộc diện phải kê khai đăng ký vào Phần mềm Quản lý đông ký tài sản.
+nhà nước;
+b) sư dụng thông tin lưu giữ trong Cơ sở do liệu quốc gia về tài sản nhà nước
+vào các mục dích: thực hiện báo cáo tính hình quản lý, sử dụng thi sản nhà nước
+hàng năm theo quy định của Luật Quản lý, sử dụng tài sản nhà nước và các báo cáo
+khác theo yêu cầu của cơ quan nhà nước có thân: quyên; lập dự toán, xét duyệt
+quyết toán: quyết định, kiểm tra, kiểm toàn, thanh tra việc đầu tư xây dựng, mua
+sắm, nâng cấp cải tạo, sản chữa, sử dụng, xử lý (thu hồi, bán, điều chuyển, thanh lý.
+tiêu hủy) tài sản nhà nước.
+2. Tài sản nhà nước phải thực hiện báo cáo kê khai và cập nhật thông tin kế
+khai về tài sản nhà nước vào Phần mềm Quản lý đăng ký tài sản nhà nước gôm:
+a) Trụ sở làm việc, quyền sử dụng đất để xây dựng tụ sở làn việc, tài sản
+khác gắn liền với đất;
+
+3
+c) Tài sản khác nguyên giá theo số sách kế toán từ 500 triệu đồng trở lên/01
+đơn vị tài sản.
+Điều 2. Nguyên tắc phối hợp
+Việc phối hợp giữa các cơ quan, tổ chức, đơn vị quy định tại Điều 1 Quy chế
+này phải tuân theo nguyên tắc chặt chẽ, kịp thời, thống nhất, đảm bản tính chính xác
+số liệu của cả tỉnh, từng cấp và các cơ quan, tổ chức, đơn vị trong Cơ sở dữ liệu:
+Điều 3. Trách nhậm các bên trong quan hệ phối hợp
+1. Sở Tài chính có trách nhiệm:
+a) Hướng dẫn chuyên môn nghiệp vụ liên quan đến Phần mềm Quản lý đăng
+ký tài sản nhà nước của Bộ Tài chính cho các đơn vị trong tỉnh;
+b) Xem xét, quyết định việc phân quyền khai thác thông tin (xem, ia) tài sản
+nhà nước cho các cơ quan, tổ chức, đơn vị có tài sản kê khai trong Cơ sở 42 liệu.
+e) Tổng hợp báo cáo tình hình quản lý, sử dụng tài sén nhà nước thuộc phạm
+Vị quản lý của tỉnh Bình Thuận trình UBND tỉnh báo các Bộ Tài chính theo định kỳ.
+đúng thời gian quy định;
+đ) Tham mưu cho UBND tỉnh, Chủ tịch UBND tỉnh xử lý những cơ quan, tổ
+chức, đơn vì vi phạm quy định trong việc lập Báo cáo kê khai, nhập dữ liệu, duyệt
+dữ liệu, khai thác, sử dụng thông tin theo quy định của pháp luật;
+đ) Thực hiện các nhiệm vụ khác theo hướng dẫn của Độ Tài chính và quy
+định cụ thể tại Quy chế này.
+2. Cơ quan chủ quản có trách nhiệm:
+a) Thực hiện và chỉ đạo, đôn đốc các cơ quan, tổ chức, đơn vị thuộc phạm vi
+quản lý thực hiện Quy chế này;
+b) Kiểm tra, rà soát, chuẩn bóa dữ liệu, xác nhận thông tin về tài sản và lập
+báo cáo tình hình quản lý, sử dụng tài sản nhà nước của các cơ quan, tổ chức thuộc
+phạm vi quản lý theo định kỹ đúng thời gian quy định.
+c) Thực hiện các nhiệm vụ khác theo quy định tại Quy chế này và quy định
+của pháp luật có liên quan.
+3. Các cơ quan, tổ chức, đơn vị có tài sản phải báo cáo, kê khai có trách
+nhiệm:
+a) Báo cáo, kê khai đầy đủ, hợp lý, đúng thời gian quy định, chịc trách nhiệm
+về tính chính xác của số liệu đối với các tài sản nhà nước thuộc diện phải kê khai.
+đăng ký;
+b) Thực hiện các nhiệm tr khác theo quy định tại Quy chế này và quy định
+của pháp luật có liên quan.
+4
+Chương II
+QUY ĐỊNH CỤ THỂ
+Điều 4. Phối hợp trong việc tập, xác nhận Báo cáo kê khai, cập nhật đử
+liệu tài sản nhà nước vào Cơ sở dữ liệu
+1. Trình tự kê khai lần đầu: áp dụng trong trường hợp cơ quan, tổ chức, đơn vị
+được giao quản lý, sử dụng tài sản nhà nước thuộc điện phải kê khai đăng ký nhưng
+chưa báo cáo kê khai.
+a) Cơ quan, tổ chức, đơn vị thực hiện:
+- Lập 03 bộ hồ sơ báo cáo kê khai tài sản, gửi 02 bộ hể sơ đến cơ quan chủ
+quản; 01 bộ hồ sơ lưu tại đơn vị. Hồ sơ gồm:
+- Danh mục tài sản theo mẫu ban hành kèm theo Thông tư số 09/2012/TT-
+BTC ngày 19/01/2012 của Bộ Tài chính; cụ thể:
++ Đối với trụ sở làm việc, cơ sở hoạt động sự nghiệp thực biện kê khai theo.
+Mẫu số 01-ĐK/TSNN; mỗi trụ sở lập riêng một báo cáo kê khai;
++ Đối với xe ô tô thực hiện kê khai theo Mẫu số 02- ĐK/TSNN; mỗi cơ quan,
+tổ chức, đơn vị lập một báo cáo kê khai;
++ Đối với tài sản khác có nguyên giá theo số kế toán từ 500 triệu đồng trệ
+lên/01 đơn vị tải sản thực hiện kê khai theo Mẫu số 03-ĐK/TSNN; mỗi cơ quan, tổ
+chức, đơn vị lập một báo cáo kê khai
+- Kèm theo bản cao các giấy tỏ có liên quan đến tài sản báo cáo kê khai, gồm:
+giấy tó liên quan đến nhá, đất đang sử dụng (đối với trụ sả tàm việc); giấy đăng ký
+xe ô tô, biên bản nghiệm: thu đưa tài sản vào sử dụng (đối với tài sản khác có nguyên
+giá theo số kế toán từ 500 triệu đồng trở lên/01 đơn vị tài sản.
+b) Cơ quan chủ quản xác nhận hồ sơ báo cáo kê khai tài sản của cơ quan, tổ
+chức, đơn vị thuộc phạm vi quản lý: gử 01 bộ hồ sơ đã có xác nhận đến Sở Tài
+chính, 01 bộ lư: tại cơ quan chủ qoán. Thời gian thực hiện châm nhất 15 ngày kế từ.
+ngày nhận được hồ sơ báo cáo kê khai tài sản của các cơ quan, tổ chức, đơn vị.
+c) Sở Tài chính nhập và duyệt tài sản (gồm nhập số dư ban đầu và biến động
+tài sản) vào Phận mềm Quản lý đảng ký tài sản nhà nước. Thời gian thực hiện chạm
+nhất 15 ngày kể từ khi nhận được báo cáo kê khai của các cơ quan, tổ chức, đen vị.
+Trường hợp dữ liệu các cơ quan, tổ chức, đơn vị báo cáo chưa đầy đủ, chưa
+chính xác hoặc khô ngợp lý, Sở Tài chính yêu cầu cơ quan, tổ chức, đơn vị rà soát,
+chỉnh lý trưức khi duyệt tài sản vào Cơ sở dữ liệu.
+Lổ cuáng ký khả bổ sung tuy thuy thu có thay đất thông tin về tài rán nhỏ
+nước thuộc diện phải kẽ khai đăng kỷ thu tư xây dựng; mua sắm mới; tiếp nhận.
+từ cơ quan, tổ chức, đơn vị khác về sử dạng thanh lý, điều chuyển, thu bồi, tiêu này
+5
+bản; thay đổi mục đích sử dụng của lài sản theo quyết định của cơ quan nhà nước cở
+thẩm quyền; cơ quan được giao quản lý, sử dụng tái sản thay đổi rên gợt, thay đổi cơ.
+quan chủ quán, chia tách, sát chập theo quyết định của cơ quan nhà nước có thẩm.
+quyền.
+a) Cơ quan, tổ chức, đơn vị thực hiện:
+- Lập 03 bộ hồ sơ báo cáo kê khai bổ sung theo mẫu quy định tại khoản 3
+Điều 4 Thông tư 09/2012/TT-BTC kèm theo bản sao các giấy tờ có liên quan, c)
+thể:
++ Tài sản được đầu tư xây dựng mới, mua sắm hoặc tiếp nhận về sử dụng tại
+cơ quan, tổ chức, đơn vị: Thực hiện kê khai theo Mẫu số 01- ĐK/TSNV, Mâu số 02-
+ĐK/TSNN, Mẫu số 03- ĐK/TSNN;
++ Thay đổi thông tin về đơn vị sử dụng tài sản: Thực hiện kê khai thec Mẫu
+Số 04a-ĐK/TSNN;
++ Thay đổi thông tin về tài sản là trụ sở làm việc, cơ sở hoạt động sự nghiệp:
+Thực hiện kê khai theo Mẫu số 04b-ĐK/TSNN;
++ Thay đổi thông tin về tài sản là xe ô tế: Thực hiện kê khai theo Mẫu số 04c-
+ĐK/TSNN;
+: Thay đổi thông tin về tài sản khác có nguyên giá từ 500 triệu đồng trở lên:
+Thực hiện kê khai theo Mẫu số 04A-ĐK/TSNN;
++ Xóa thông tin về tài sản trong Cơ sở dữ liện: Thực hiện kê khai theo Mẫu số.
+04đ-ĐK/TSNN.
+- Gửi 02 bộ hồ sơ đến cơ quan chủ quản; 01 bộ bổ sơ lưu tại đơn vị. Thời hạn
+báo cáo kê khai bổ sung là 30 ngày, kể từ ngày có sự thay đổi. Đối với tài sản đưa
+vào sử dụng do hoàn thành đầu tư xây dựng, cải tạo, năng cấp, sửa chữa lện thi thứi
+gian báo cáo tỉnh từ ngày ký biên bản nghiệm thu đưa vào sử dụng; giá trị tài sản sẽ
+được điều chỉnh sau khi quyết toán vốn đầu tư được cấp có thẩm quyền phê duyệt
+theo quy định hiện hành.
+b) Cơ quan chủ quản và Sở Tài chính thực hiện việc xác nhận báo cáo kã khai
+và cập nhật dủ liệu theo quy định tại điểm b, điểm c Khoản 1 Điều này.
+Điều 5. Phối hợp trong việc cung cấp thông tin, kiểm tra, đốt chiếu kết
+quả lê khai đăng ký tài sản nhà nước
+1. Trường hợp các cơ quan, tổ chức, đơn vị chưa được phân quyền khai thát:
+thông tin:
+a) Sở Tài chính gửi Phiếu xác nhận thông tin (dạng văn bôn hoặc file dữ liệu)
+đến của cơ quan, tổ chức, đơn vị chưa được phân quyền khai thác thông tin, Thời.
+gian thực hiện chậm nhất 15 ngày kế từ khi Sở Tài chính nhập và duyệt cử liện vác
+Phần mềm Quản lý đăng ký tài sản nhà nước.
+6
+b) Cơ quan chủ quán gửi 03 bộ Phiếu xác nhận thông tin đến các đơn vị trực
+thuộc. Thời gian thực hiện chậm nhất 15 ngày kể từ ngày Sở Tài chính gửi dữ liệu
+c) Các cơ quan, tổ chức, đơn vị có tài sản kiểm tra, ký xác nhận và gửi 02 bộ
+hồ sơ đã có xác nhận đến cơ quan chủ quán, 01 bộ lưu tại đơn vị. Trường hợp thông
+tin trong Phiếo xác nhận chưa chính xác, cơ quan, tổ chức, đơn và sử dụng các hiểu:
+mẫu nêu tại điểm a khoản 2 Điều 4 Quy chế nủy để điều chính số liệu. Thời gian
+thực hiện chậm nhất 15 ngày kể từ ngày nhận được Phiếu xác nhận thông tin các cơ.
+quan chủ quản.
+c) Cơ quan chủ quản ký xác nhận vàc Phiều xác nhận thông tin, gửi Phiếu xác
+nhận thông tin tài sản (hoặc báo cáo điều chỉnh số liệu) và Sở Tài chính, 01 bộ xưu
+tại cơ quan chủ quản. Thời gian thực hiện chậm nhất 15 ngày kể từ ngày nhận Phiểu
+xác phận thông tin có xác nhận của các đơn vị trực thuộc (hoặc báo cáo điều chính.
+số liệu).
+đ) Sở Tài chính căn cứ báo cáo điềc chính số liệu của các đơn vị, điều chính.
+dữ lệu đã nhập trong phần mêm. Sau khi chính lý, việc xác nhận dữ liệu được thực
+hiện theo quy trình nêu trên.
+2. Trường hợp các cơ quan, tổ chức, đơn vị đã được phân quyền khai thác:
+thông tin:
+a) Các cơ quan, tổ chức, đơn vị đã được phân quyền khai thác thông tin trong
+Cơ sở dữ liệo đáng nhập vào chương trình Quản lý đăng ký tài sản thà nước; tầy dử
+liệu và gửi 03 bộ Phiếu xác nhận thông tin đối với số liện biến động tài sản trong kỳ.
+đến các đơn vị trực thuộc (nếu có). Thời gian thực hiện chậm nhất 30 ngày kể từ
+ngày cơ quan, tổ chức, đơn vi gửi các báo cáo (gồm: báo cáo kê khai bổ sung; bảo
+cáo tình hình quản lý, sử dụng tài sản nhà nước hàng năm; báo cáo điều chỉnh số
+liệu...) về Sở Tải chính.
+b) Các cơ quan, tổ chức, đơn vị có tài sản xác nhận Phiếu xác nhận thông tin.
+theo trình tự quy định tại điểm c, đ, đ Khoản 1 Điều này.
+Điều 6. Phối hợp cung cấp thông tin phục vụ báo cáo tình hình quản lý,
+sử dụng tài sản nhà nước theo quy định của pháp luật về quản lý, sử dụng tài
+sản nhà nước
+1. Hàng năm, cơ quan, tổ chức, đơn vị được giao quản lý, sử dụng tải sản nhà
+nóc có trách nhiệm lập bào cáo tình hình quản lý, sử dụng tài sản nhà nước của năm
+trước đối với cáo tài sản quy định tại khoản 2 Đừu 32 Nghị định số 62/20099/NĐ-CP
+ngày 03/6/2009 của Chính phủ, gửi cơ quan chủ quên trước ngày 31 tháng 01.
+Nội dung báo cáo tình hình quản lý, sử dụng tài sản nhà nước thực hiện theo.
+quy định tại khoản 1 Điều 18 Thông tr số 245/2009/TT-BTC ngày 31/12/209 của Bộ
+Tài chính
+2. Cơ quan chủ quan lập Báo cáo tính hình quản lý, sử dụng tốt sản thả nược tại
+các cơ quan, tổ chức, đơn vị thuộc phạn vị quản tý gửi về Sở Tài chính trước ngày 28
+tháng 02 hàng năm.
+7
+Nội thang báo cáo tình hính quản lý, sử dụng tài sản nhà nước thực hiện theo quy
+định tại khoản 2 Điều 18 Thông tư số 245/2008/TT-BTC ngày 31/12/2009 của Bộ Tát
+chính
+3. Sở Tài chính tổng hợp và dự thảo Báo cáo tình hình quản lý, sử dụng tài sản.
+nhà nước thuộc phạm vi quản lý trình UBND tỉnh để UBND tỉnh báo cáo Bộ Tài chính
+trước ngày 15 tháng 3 hàng năm.
+Nội dung báo cáo tình hình quản lý, sử dụng tài sản nhà nước thực hiện theo quy.
+định tại khoản 2 Điều 18 Thông tư số 245/2009/TT-BTC ngày 21/12/2000 của Bộ Tát
+chính; biểu mắt kèm theo được kết xuất từ Cơ sở dữ liệu quốc gia về tài sản nhỏ Đước.
+Điều 7. Phối hợp cang cấp thông tin phục vụ cho công tác lập dự toán
+đầu tư xây dựng, mua xắm, nâng cấp, cải tạo, sửa chữa tài sản nhà nước
+1. Các cơ quan, tổ chức, đơn vị khi lập dự toán ngân sách nhà nước phân bố
+hàng năm cho hoạt động đầu tư xây dựng mua sắm, nâng cấp, cải tạo, sửa chữa tài
+sản nhà nước, phát trình kèm then Phiếu xác nhận thông tán tròng Cơ sở dữ liệu về
+tài sản nhà nước từ thời điểm hình thành đến thời điển lập dự toác, trình cấp có
+thẩm quyền thẩm định, tổng hợp, phê duyệt dự toán.
+2. Sở Tài chính kiểm tra hiện trạng và số lượng tài sản đã được trang cấp của
+các cơ quan, tổ chức, đơn vị đã đang ký trong Cơ sở dữ liệu quốc gia về tài sản nhà
+nước. Nếu cơ quan, tổ chức, đơn vị chưa kê khai, đăng ký tài sản (trụ sở làm việc, se
+ô độ tài sản khác có nguyên giả từ 500 triệu đồng trẻ lên/91 đơn vị tài sản) theo
+quy định, Sở Tài chính đề nghị cơ quan, tổ chức, đơn vị kê khai bổ sung đầy đó
+trước khi thực hiện thẩm định dự toán.
+3. Các cơ quan có thẩm quyền thẩm định, tổng hợp, phê duyệt dự toán sử
+dụng thông tin về tài sản nhà nước đã kê khai trong Cơ sở dữ liệu để làm cơ sở xem
+xét kế hoạch đầu tư xây dựng, mua sắm, nâng cấp, cải tạo, sửa chữa tài sản nhà
+nước.
+4. Trường hợp số liệu trong Cơ sở dữ liệu không phản ảnh đúng thực tế hiện
+trạng kiểm tra thì cơ quan, tổ chức, đơn vị được giao quản lý, sử dụng tài săn nhà
+nợc phải bác cáo điều chỉnh số liệc loậc kê khai bổ sung gửi cợ quan chủ quán,
+Sở TM chính để thực hiện điều chỉnh trong Cơ sở dữ liện trước khi xem xét kế hoạch.
+đầu tư xây dựng, nưa sắm, nâng cấp, cái tạo, sửa chữa tài sản nhà nước.
+5. Sở Tài chính có trách nhiệm cung cấp Phiếu xác nhận thông tin trong Cơ sở.
+dữ liệu về tài sản nhà nước cho cơ quan, tổ chức, đơn vị khi có yêu cầu.
+Đầu 4, Phố hợp cưng cấp thông cho phục vụ cho công vàc xát duyệt quyết
+toán đầu tư xây dựng, mua sắm, nâng cấp, cải tạo, sửa chữa tài sản nhà nước
+1. Cơ quan cố thẩm quyền xét duyệt quyết toân (Sở Tài chính, Phòng Tài
+phánh - Kế hoạch) chí xem xét, thực hiện quyết toán đối với các 48 kên thuộc đối:
+tượng kê khai đăng ký sau khí tài sản đó đã được đảng ký vào Lo sơ dữ liệu.
+8
+2. Sau khi quyết toán, nếu có chênh lệch về số liệu giữa Cơ sở dữ liệu với giá
+trê duyệt quyết toán, đoo vị thụ hưởng có trách thiệm lập bảo cáo điều chính sế hậu
+gửi cơ quan chủ quán, Sở Tài chính để thực hiện điều chính trong Cơ sở dữ liện.
+3. Sau khi có kết quả duyệt quyết toán, các đơn vị thực hiện đầu tư, mua sắn:
+có trách nhiệm bản giao đầy đủ hồ sơ liên quan đến tài sản nhà nước cho đơn vị thụ
+hưởng tiếp tục theo dõi.
+Điều 9. Phối hợp cung cấp thông tin phục vụ cho công tác xử lý (thu hồi,
+bán, điều chuyển, thanh lý, tiêu hủy) tài sản nhà nước
+1. Cơ quan, tổ chức, đơn vị được giao quản lý, sử dụng tài sản nhà nước khi
+đề nghị xử lý tài sản nhà nước (từu hồi, bản, điều chuyển, thanh lý, tiêu húy) phải
+lập 01 bộ hồ sơ đề nghị xử lý theo nội dung quy định tại các Điểu 17,21,28 Nghị
+định số 52/2009/NĐ CP ngày 03/6/2009 của Chính phủ và theo Chỉ đạo của UBND
+tỉnh tại Công văn số 4816/UBND-T3 ngày 13/12/2012 về việc hướng dẫn thực hiện
+một số nội dung về trình tự, thủ tục bản, thanh lý, điều chuyển tài sản nhà nước tại
+cơ quan nhà nước, đơn vị sự nghiệp, kèm theo Danh mục tài sản nhà nước đề nghị
+xử lý theo mẫn quy địch tại Thông tự sế 09/2012/TT-BTU ngày 19/01/2012 của Bộ
+Tài chính, được in trực tiếp tử Cơ sở dữ liệu; trình cơ quan có thẩm quyền xem xét,
+quyết định.
+2. Sở Tài chính có trách nhiệm cung cấp Danh mục tài sản nhà nước đề nghị
+xử lý cho cơ quan, tổ chức, đơn vị khi có yêu cầu.
+Điều 10, Phối hợp cung cấp thông thì phục vụ cho việc kiểm tra, kiểm
+toàn, thanh tra việc chấp hành chế độ quản lý, sử dụng tài sản nhà nước
+1. Cơ quan thanh tra, kiểm tra, kiểm toán sử dụng thông tia trong Cơ sở dữ
+liện để thực hiện công tác kiểm tra, kiển toán, thanh tra việc chấp hành chế độ quản
+lý, sử dụng tài sản nhà nước.
+2. Sở Tài chính chịu trách nhiệm cung cấp hồ sơ về tài sản in trực tiếp từ Cơ
+sở dữ liệu khi có yêu cầu của cơ quan thanh tra, kiểm tra, kiểm toán.
+Chương III
+TỔ CHỨC THỰC HIỆN
+Điều 11. Khen thưởng và xử lý vi phạm
+Các cơ quan, đơn vị, tổ chức, cá nhân thạc hiện tổi những nội dung của bàn
+quy chế này thì được khen thưởng. Cơ quan, đơn vị, tổ chức, cá nhận vi phạm các
+quy định tại Quy chế này thì trỷ theo mức độ vi phạm mà có hình thức xử lý theo.
+quy định của pháp luật.
+Điều 12. Trách nhiệm tổ chức thực hiện
+9
+1. Giao cho Sở Tài chính tổ chức hưởng dẫn, kiểm tra việc thực hiện Quy chế
+này; định kỳ hàng năm tổng hợp báo cáo kê khai tải sản nhà nước của các cơ quan.
+tổ chức, đơn vị trực thuộc báo cáo UBND tỉnh.
+2. Các Sở, ban, ngành; Chủ tịch UBND các huyện, thị xã, thành phố; thủ
+trưởng các cơ quan, tổ chức, đơn vị thuộc phạm vi quản lý của UBND tỉnh Bình.
+Thuận có trách nhiệm triển khai thực hiện những quy định tại Quy chế này.
+Trong quá trình thực hiện, nết có vướng mắc các cơ quan, tổ chức, đơn vị
+phản ảnh về UBND tỉnh (thông qua Sở Tài chính) để được hướng dẫn, giải quyết./.
+TM. ỦY BAN NHÂN DÂN
+CHỦ TỊCH
+Hê Tiến Phương
+10

@@ -1,0 +1,428 @@
+Ký bởi: Công Thông tin điện tử chính phủ
+Email: thongtinchinhphuạchinhphu.vn
+Cơ quan: Văn phòng Chính phủ
+Thời gian ký: 15.01.2016 14:57:29 +01
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+THÀNH PHỐ CẦN THơ   Độc lập - Tự do - Hạnh phúc
+Số:33 /2015/QĐ-UBND   Cần Thơ, ngày 18 tháng 12 năm 2015
+QUYẾT ĐỊNH
+Ban hành Quy chế quản lý, sử dụng hệ thống thư điện tử
+trong hoạt động của các cơ quan nhà nước
+
+Ngày.... Đị BAN NHÂN DÂN THÀNH PHỐ CẦN THƠ
+Căn cứ Luật Tổ chức Hội đồng nhân dân và Ủy ban nhân dân ngày 26 tháng 11
+năm 2003;
+Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005;
+Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006;
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính
+phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước:
+Căn cứ Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính
+phủ quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng;
+Căn cứ Quyết định số 72/2002/QĐ-TTg ngày 10 tháng 6 năm 2002 của Thủ
+tướng Chính phủ về việc thống phất đảng bộ mã các ký tự chữ Việt theo tiêu chuẩn
+TCVN 6909/2001 trong trao đổi thông tin điện tử giữa các tổ chức của Đảng và
+Nhà nước;
+Căn cứ Thông tư số 22/2013/TT-BTTTT ngày 23 tháng 12 năm 2013 của Bộ
+Thông an và Truyền thông ban hành danh mục tiêu chuẩn kỹ thuật về ứng dụng
+công nghệ thông tin trong cơ quan nhà nước;
+Theo đề nghị của Giám đốc Sở Thông tin và Truyền thông tại Tờ trình số
+1768/TTr-STTTT ngày 11 tháng 12 năm 2015,
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, sử dụng hệ
+thống thư điện tử trong hoạt động của các cơ quan nhà nước”.
+Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày 30 tháng 12 năm
+2015 và đảng trên Báo Cần Thơ chậm nhất ngày 25 tháng 12 năm 2015, đồng thời.
+thay thế Quyết định số 50/2009/QĐ-UBND ngày 07 tháng 9 năm 2009 của Ủy ban
+nhân dân thành phố Cần Thợ ban hành Quy chế sử dụng hệ thống thư điện tử trong
+hoạt động của các cơ quan nhà nước trên địa bàn thành phố Cần Thơ.
+Điều 3. Chánh Văn phòng Ủy ban nhân dân thành phố, Giám đốc sở, Thứ
+trường cơ quan, ban, ngành thành phố, Chủ tịch Ủy ban nhân dân quận, huyện, Chúi
+tịch Ủy ban nhân dân xã, phường, thị trấn và các tổ chức, cá nhân có liên quan chịn
+trách nhiệm thi hành Quyết định này./.
+Nơi nhận:   TM  ỦY BAN NHÂN DÂN
+- VP Chính phủ (HN-TP HCM);   - Bộ Tư pháp (Cục KTVB);   TT CHỦ TỊCH
+- Bộ TT&TT;
+- TT.Thành ủy;
+- TTHĐND TP;
+- CT, các PCT UBND TP;
+- UBMTTQ TP, các Ban Đảng và các Đoàn thể;
+- VP Đoàn ĐBQH và HĐND TP;
+- Sở, ban, ngành TP;
+- Websit Chính phú;
+- Báo Cần Thơ;
+- Đài PT và TH TP Cần Thơ;   Võ Thành Thống
+- UBND quận, huyện;
+- UBND xã, phường, thị trấn;
+- VP UBND TP (3C);
+- Trung tâm Tin học -Công báo;
+- Chỉ cục Văn thư Lưu trữ;
+- Lưu: VT,ND
+2
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIÊT NAM
+THÀNH PHỐ CẦN THƠ   Độc lập - Tự do - Hạnh phúc
+QUY CHẾ
+Quản lý, sử dụng hệ thổng thư điện tử trong hoạt động
+của các cơ quan nhà nước
+(Ban hành kèm theo Quyết định số 33/2015/QĐ-UBND
+ngày 18 tháng 12 năm 2015 của Ủy ban nhân dân thành phố Cần Thơ)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vì, đối tượng áp dụng
+1. Quy chế này quy định việc quản lý, sử dụng hệ thống thư điện tử thành.
+phố Cần Thơ.
+2. Quy chế này áp dụng cho tất cả các cơ quan nhà nước, cán bộ, công chức,
+viên chức, người lao động của các cơ quan nhà nước khi tham gia vận hành, số
+dụng hệ thống thư điện tử của thành phố.
+Điều 2. Giải thích từ ngữ
+Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:
+1. Cơ quan nhà nước” là các sở, ban, ngành, Ủy ban nhân dân (sau đây.
+được viết tắt là UBND) quận, huyện, UBND xã, phường, thị trấn, các tổ chức chỉnh
+trị, chính trị - xã hội thuộc thành phố Cần Thơ.
+2. Đơn vị là các phòng, ban, bộ phận trực thuộc cơ quan nhà nước.
+3. Người dùng là cán bộ, công chức, viên chức và người lao động của các.
+cơ quan nhà nước sử dụng máy vi tính, các thiết bị điện tử để sử dụng hộp thư điện.
+tử thành phố trong công việc.
+Điều 3. Hệ thống thư điện tử thành phố Cần Thơ
+1. Hệ thống thư điện tử là một trong các dịch vụ ứng dụng công nghệ thông
+tin nền tảng, quan trọng được UBND thành phố (sau đây được viết tắc là Thành
+phố) đầu tư xây dựng nhằm phục vụ các cơ quan nhà nước, cán bộ, công chức, viên
+chức và người lao động thuộc các cơ quan nhà nước sử dụng, gửi, nhận và khai thác
+thông tin (thông qua mạng truyền số liệu chuyên đảng của thành phố và mạng
+Intemet), phục vụ công tác, chuyên môn, nghiệp vụ theo chức năng, nhiệm vụ được.
+phân công.
+2. Cơ sở dữ liệu của hệ thống thư điện tử được xây dựng thành danh bạ điện
+từ lưu trữ tại Trung tâm Dữ liệu thành phố và thống nhất dảng để xác thực nội bộ
+cho việc đảng nhập một lần (Singte Sigr on - SSO) theo giao thức LDAT
+(Lghtocnghi Direstocy Acess Protocol) cho các ứng dụng dùng chung khác của
+thành phố. Các cơ quan nhà nước, người dùng không sử dụng tài khoản hộp thư.
+điện rử với tên miền (ycanho.gov.vn sẽ không được xác thực để tương tác, sử dụng
+các phần mềm ứng dụng dùng chung như: Cổng thông tin điện tử, quản lý văn bản
+và điều hành, chat nội bộ và các ứng dụng dùng chung khác trên môi trường mạng
+phục vụ công tác quản lý nhà nước của thành phố.
+3. Hệ thống thư điện tử được thiết lập và vận hành trên hạ tầng công nghệ
+thông tin của thành phố bao gồm: Trung tâm dữ liệu, mạng truyền số liệu chuyên
+dông, mạng Internet và các mạng nội bộ (LAN) của các sở, ban, ngành, UBND
+quận, huyện, UBND xã, phường, thị trấn thuộc Thành phố.
+4. Hệ thống thư điện tử thành phố cho phép người dùng đầu cuối gửi nhận
+thư điện tử bằng các phần mềm mã nguồn đóng và mã nguồi mở như: Vindeng
+Mat, Mierosot Offce Omlok, Morila Thundetbind và các phần mềm gửi nhận
+thự điện tử (Fmai Cient) khác hoặc gửi nhận thư điện tử thông qua giao diện trang
+thông tin điện tử (website) tại địa chỉ mail cantho.gov.vn.
+Chương II
+CẤP MÓI, THAY ĐỐI, HỦY BỔ HỘP THƯ ĐIỆN TỬ
+Điều 4. Phân loại, định dạng hộp thư điện tử
+1. Hộp thư điện tử được chia thành các loại như sau:
+a) Hộp thư chung của cơ quan nhà nước, có dung lượng không giới hạn.
+b) Hộp thư chung của đơn vị, có dung lượng tối đa 1GGB.
+c) Hộp thư người dùng, có dung lượng tối đa 05GB.
+2. Định dạng hộp thư điện tử:
+a) Hộp thư chung của cơ quan nhà nước có dạng - Tên cơ quan nhà
+nước ( thuanh gov sn. Trong đó, chó nước” là tên viết tắt của cơ
+quan nhà nước và được đặt sao cho không trùng nhau trên hệ thống.
+Ví dự:
+- Sở Nội vụ sẽ có địa chỉ hộp thư là sonv@cantho.gov.vn.
+- Trường hợp các cơ quan nhà nước có tên viết tắt trùng nhau (ví dụ: Sở Nội
+vụ và Sở Ngoại vụ), địa chỉ hộp thư của Sở Ngoại vụ là songaaww@@cando.gaX vn.
+b) Hộp thư chung của đơn vị có dạng - Tên đơn vịc, - Tên cơ quan nhà nước.
+chủ quản/(icamtho.gơn. vn; trong 46, -Tên cơ quan nhà nước chủ quán” là tên
+việt tắt đã được thiết lập trên hệ thống thư điện tử. Tên hộp thư chung của đơn vị có
+thể được đặt theo yêu cầu sau khi được đơn vị quản lý thống nhất.
+Ví dụ:
+- Văn phòng thuộc Sở Kế hoạch và Đầu tư thành phố Cần Thơ sẽ có địa chỉ
+hộp thư đơn vị là vanphong.sokhdl@tantho.gov.vn.
+- Văn phòng thuộc UBND quận Ninh Kiều sẽ có địa chỉ hộp thư đơn vị là
+vpubndninhkieu@cantho.gov.vn.
+c) Hộp thư người dùng (đối với trường hợp không có người trùng họ, tên lót
+tên) có dạng: Hạt- Tên/(Qcando gov.. nữ; trong đó, Họt và - Tên
+lótr được viết tắt.
+2
+Ví dụ: Ông Nguyễn Văn Minh sẽ có địa chỉ bộp thư điện tử người dùng là
+nvminh@cantho.gov. m.
+đ) Xử lý trường hợp nhiều người có họ, tên và tên lót trùng nhau:
+- Ưu tiên theo thứ tự thời điểm đăng ký: người đăng ký đầu tiên được giữ
+nguyên định dạng đã quy định ở trên.
+- Trường hợp người trùng tên (theo thứ tự thứ hai) được cấp phát hộp thư.
+Hộp thư người dùng có đạng - Học - Tên lát-- Tim/ (caanho.goy ơn; trong đó.
+
+Mi dự: địa chỉ bộp thư của ông Nguyên Văn Minh bị trúng, khi đó ông
+Nguyễn Văn Minh thử hai sẽ có địa chi hộp thư điện tử là
+nvanminh@cantho.gov.vn
+- Trường hợp người trùng tên (theo thứ tự thứ ba) được cấp phát hộp thư.
+Hộp thư người dùng có dụng “lọr- Tên lóp - Têna (car/too.go0.vn, trong đó
+
+Ví dụ: nguyervarminh@cantho. gov.vn
+- Trường hợp người trùng tên theo thứ tự thứ 04 trở về sau, cơ quan quản lý.
+hệ thống thư điện tử sẽ chủ động xem xét đặt tên sao cho phù hợp.
+đ) Tên biển thị của các hộp thư người dùng trên nền giao diện website hệ
+thống thư điện tử phải hiển thị đấy đủ họ, tên người dùng và tên của cơ quan nhà
+nước mà người dùng đó đang công tác để để phân biệt khi thao tác sử dụng hộp thu
+điện tử.
+Điều 5. Trường hợp cấp mới, thay đổi, hủy bỏ hộp thư điện tử
+Các cơ quan nhà nước phải thực hiện quy trình cấp mới, thay đổi, hủy bỏ
+bộp thư điện tử trong các trường hợp sau:
+1. Trường hợp yêu cầu cấp mới:
+a) Khi cơ quan nhà nước tiếp nhận, tuyển dụng mới cán bộ, công chức, viên.
+chức và người lao động mà chưa được cấp phát hộp thư điện tử của thành phố.
+b) Khi cơ quan nhà nước hoặc đơn vị trực thuộc mới được thành lập.
+2. Trường hợp yêu cầu thay đổi: Khi cơ quan nhà nước, đơn vị và người
+dùng có sự thay đổi thông tin.
+3. Trường hợp yêu cầu hủy bỏ:
+a) Khi người dùng thôi việc, nghỉ việc.
+b) Khi người dùng chuyển công tác đến nơi làm việc mới không phải là các.
+cơ quan nhà nước thuộc thành phố Cần Thơ.
+c) Khi cơ quan nhà nước, đơn vị trực thuộc cơ quan nhà nước bị sáp nhập.
+giải thể.
+4. Trường hợp tạm đình chỉ, thu hồi:
+Khi hộp thư không đăng nhập, sử dụng trong thời hạn 03 tháng, cơ quan
+quản lý hệ thống thư điện tử sẽ tạm thời đình chỉ hộp thư trên; đồng thời, thông báo
+3
+về cơ quan chủ quân của người dùng hộp thư đó. Sau 15 ngày làm việc kể từ khi
+thông báo, nếu cơ quan nhà nước không có xác nhận thì hộp thư điện tử trên sẽ
+được thu hồi, đảm bảo tiết kiệm tài nguyên hệ thống.
+Điều 6. Quy trình cấp mới, thay đổi, hủy bỏ hộp thư điện tử
+1. Lập và gửi yêu cầu:
+a) Khi cần cấp mới thay đổi, hủy bỏ hộp thư điện tử, cơ quan nhà nước lập
+yêu cầu thông qua văn bản điện tử được ký số đính kèm với danh sách các cá nhân,
+tổ chức cần cấp mới, thay đổi, hủy bỏ hộp thư (theo mâu Phụ lục 1 của Quy chế này).
+và gửi từ hộp thư chỉnh thức của cơ quan nhà nước đến địa chỉ
+sottt@cantho.gov.vn
+b) Khi có lại mật mã hộp thư điện tử do người dùng, đơn vị
+quên mật mã, cơ quan nhà nước cũng thực hiện quy trình như trên.
+e) Trường hợp cần điều chỉnh, thay đổi khác với yêu cầu ban đầu, Sở Thông
+tin và Truyền thông trực tiếp trao đối với có quan nhà nước gửi yêu cầu.
+2. Cập nhật, phản hồi thông tin:
+Sau khi xử lý, giải quyết xong yêu cầu của các cơ quan nhà nước, Trung tâm
+Công nghệ thông tin và Truyền thông thuộc Sở Thông tin và Truyền thông có trách
+nhiệm gửi thự điện tử trả lới, đính kèm văn bản được ký số thông báo kết quả thực
+hiện (hoặc nếu không thực hiện thì giải thích lý do) đếp cơ quan nhà nước đã gửi
+yêu cầu; đồng thời, gửi Sở Thông tin và Truyền thông để báo cáo.
+3. Thời gian cấp mới, thay đổi, hủy bỏ hộp thư điện tử với tên miền
+
+đầy đủ thông tin theo yêu cầu.
+Chương III
+SỬ DỤNG HỆ THỐNG THƯ ĐIỆN TỬ
+Điều 7. Gửi, nhận văn bản qua hệ thống thư điện tử
+1. Gửi, nhận qua hệ thống thư điện tử tất cả các loại văn bản hành chính (trừ
+văn bản mạt), văn bản chịu sự điều chính về tính chất thông tin tại các quy định do
+cơ quan có thẩm quyền ban hành. Khi phát hành văn bản giấy, ngoài việc gửi văn
+bản đến nơi nhận theo cách thông thường, phải gửi văn bản điện tử (ương ứng nội
+dung văn bản giấy đã được ban hành chính thức ngoại trừ những nơi đã triển khai
+các hệ thống thông tin điện tử khác hỗ trợ) vào địa chỉ hộp thư điện tử của cơ quan
+nhà nước có tên trong phần “nơi nhận” hoặc cung cấp địa chỉ liên kết (tinh) để có
+thể liên lạc, nhận văn bản điện tử.
+Đối với việc gửi, nhận thư điện tử của cơ quan nhà nước, đơn vị: Sau khi
+nhận được thư điện tử có nội dung mang tính chất công việc thì cơ quan nhà nước
+phải có trách nhiệm phán hồi xác nhận việc đã nhận thành công gửi, nhận thư điện.
+tử.
+2. Những văn bản được xác thực bằng chữ ký số, chứng thư số (do Ban Cơ
+yêu Chính phủ cấp) chuyển qua hệ thống thu điện tử phù hợp với quy định của pháp
+4
+luật về giao dịch điện tử có giá trị pháp lý tương đương với văn bản giấy trong giao
+dịch giữa các cơ quan nhà nước thuộc thành phố và không phải gửi thêm văn bản
+giấy. Cụ thể như sau:
+a) Lịch làm việc, Chương trình công tác (tuần, tháng, quý, năm) của lãnh
+đạo UBND các cấp, lãnh đạo các cơ quan nhà nước thành phố
+b) Giấy mời và các tài liệu kèm theo.
+c) Báo cáo chuyên đề, báo cáo tuần, tháng, quý, năm.
+d) Công văn, Tờ trình, Kế hoạch và tất cả các loại văn bản hành chính thông
+thường khác (trừ văn bản mật).
+Đối với các văn bản được ký số đã quy định bắt buộc chuyển bằng hệ thống
+thư điện tử hoặc bằng hệ thống phấn mềm quản lý văn bản - điều hành dùng chung
+của thành phố, các cơ quan nhà nước có quyền tử chối nhận văn bản đến bằng các.
+hình thức khác.
+3. Các cơ quan nhà nước có trách nhiệm bắt buộc phải sử dụng hệp thư điện.
+tử của cơ quan để thông báo, trao đối các loại văn bản, tài liệu với người dân, tổ.
+chức và doanh nghiệp khi cung cấp các dịch vụ công trực tuyến.
+Điều 8. Các hành vi bị cấm
+1. Truy nhập vào hộp thư người khác và không đề người khác tự ý sử dụng
+hộp thư điện ứử của mình (nếu đã cho phép người đăng khác sử dụng trong trưởng
+hợp khẩn cấp thì sau đó phải thay đối mật mã hộp thư điện tử).
+2. Lợi dựng hộp thư điện tử để phá hoại hệ thống thư điện tử của thành phố
+hoặc làm ảnh hưởng đến các hệ thống thông tin khác.
+3. Cố ý lan truyền, phát tán virus lên mạng, phát tán thư rác, sử dụng các.
+phần mềm bắt hợp pháp để truy xuất, phá hoại hệ thống; truyền bá văn hóa phẩm
+đổi trợy, nội dung không phù hợp với văn hóa Việt Nam, nội dung có ý xuyên tục.
+chống đối Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+4. Đánh cấp và sử dụng trái phép mặt mã, thông tin riêng của các cơ quan.
+nhà nước, đơn vì, người dùng hoặc phổ biến cho người khác sử dụng trên hệ thống
+thư điện tử thành phố.
+5. Các hành vi khác theo Điều 5 của Nghị định số 72/2013/NĐ-CP ngày 15
+tháng 7 năm 2013 của Chánh phủ về việc quản lý, cung cấp, sử dụng dịch vụ
+Internet và thông tin trên mạng.
+Chương IV
+QUẢN LÝ, DUY TRÌ HOẠT ĐỘNG HỆ THỐNG THƯ ĐIỆN TỬ
+Điều 9. Trách nhiệm của Sở Thông tin và Truyền thông
+1. Chịu trách nhiệm quản lý chung đối với việc khai thác, vận hành, sử dụng
+hệ thống thư điện tử của thành phố; chỉ đạo Trung tâm Công nghệ thông tin và
+Truyền thông Cần Thơ chịn trách nhiệm quản trị về mặt hạ tầng kỳ thuật còn hệ
+thống thư điện tử thành phố theo sự phân cấp quản lý của Sở Thông tin và Truyền
+thông.
+5
+2. Hướng dẫn các cơ quan nhà nước, đơn vị, người dùng thực hiện nghiêm
+Quy chế này.
+3. Xây dựng và thực hiện kế hoạch đào tạo, bồi dưỡng, tập huấn cho cán bộ,
+công chức, viên chức và người lao động sử dụng hệ thống thư điện tử của thành phố
+một cách có hiệu quả.
+4. Hàng năm, lập dự toán kinh phí cho việc quản lý, nâng cấp, bảo trì và
+phát triển hệ thông hộp thu điện tử và các dịch vụ công nghệ thông tin cơ bản dùng
+chung của toàn thành phố, trình UBND thành phố xem xét, phê duyệt.
+5. Thường xuyên kiểm tra, thống kê, đánh giá việc sử dụng hộp thư điện tử.
+của cán bộ, công chức, viên chức, người lao động trong công việc; tổng ghép vào
+các tiêu chí đánh giá mức độ ứng dụng công nghệ thông tin, mức độ cải cách hành
+chính của cơ quan nhà nước, coi đây là trách nhiệm, quyền hạn của cán bộ, công
+chức, viên chức, người lao động trong việc ứng dụng công nghệ thông tin tạo lập
+phương thức phát triển mới nâng cao hiệu lực, hiệu quả hoạt động cơ quan nhà nước
+các cấp, thực hành tiết kiệm, chống lãng phí.
+6. Cung cấp cho các cơ quan nhà nước và cán bộ, công chức, viên chức.
+người lao động trên địa bàn thành phố hộp thư điện tử, mật mã sử dụng; hỗ trợ khi
+có sự cố
+7. Quản lý, cập nhật danh bạ thư điện tử thành phố, giải quyết sửa đổi hoặc:
+hủy bỏ các bộp thơ nha người đăng khi nhận được văn bản yêu cấu của các cơ quản
+nhà nước thuộc Thành phố.
+8. Quản trị hệ thống thư điện tử, bảo đảm hệ thống hoạt động ổn định, thông
+suốt, liên tục; bảo đảm an toàn, báo mật thông tia, khả năng lưu trC dự phòng, ngăn.
+chặn thư rác (spam mai), cải đặt cơ chế bảo mật và phòng, chống virus tin học.
+9. Có quyền thu hồi, xóa hộp thư điện tử trong trường hợp khẩn cấp có ảnh
+hưởng đến an toàn, an ninh thông tin trên mạng của thành phố.
+10. Tham mưu, đề xuất UBND thành phố các giải pháp bảo mật, mã hóa
+đường truyền và nội dung hộp thư điện tử, đảm bảo an toán, an ninh thông tin khi sử
+dựng hệ thống thư điện tử của thành phố. Quản trị hệ thống phải đảm bảo quyền
+nhà nước, đơn vị hoặc người dung (trừ một số trường hợp đặt biệt nếu có sự cho
+phép của cấp có thẩm quyền).
+11. Báo cáo định kỳ 06 tháng/01 lần (ngày 15 tháng 6 và ngày 15 tháng 12
+bảng năm) hoặc đột xuất khi có yêu cầu của UBND thành phố về tình hình quản lý,
+cấp phát, sử dụng hệ thống hộp thư điện tử.
+Điều 10. Trách nhiệm của người dùng sử dụng hộp thư điện tử
+1. Bảo vệ mật mã sử dụng hộp thư điện tử.
+2. Quản lý và lưu trữ các thư điện tử của cá nhân; chịu trách nhiệm về nội
+dung thông tin của mình khi lưu trữ hoặc gửi lên mạng.
+3. Khi tiếp nhận hộp thư, người dùng phải thay đổi mật mã để đảm bảo tỉnh
+bảo mật, an toàn thông tin trong quá trình sử dụng; thường xuyên thay đổi mật mã
+tài khoản hộp thư điện tử (tối thiểu 03 tháng/01 lào phải đảm bảo các yêu cầu sau:
+6
+a) Độ dài: Các mật mã phải có độ dài ít nhất là 08 (tám) ký tự;
+b) Độ phức tạp: Các mật mã cần phải chứa cả ký tự in hoa, ký tự in thường
+và ít nhất có một kỷ tự đặc biệt, chữ số.
+Ví dụ: MatKhaus7894.
+4. Đối với các cơ quan nhà nước, đơn vị, người dùng đã được cấp hộp thư
+điện tử thì phái sử dụng địa chỉ thư điện tử với lên miên (canho.gov.va. Bạn chế
+việc sử dụng các hộp thư cá nhân công cộng (thư: Gmail Yahoc mai, Hotrail,..)
+để trao đổi công việc.
+5. Khi tài khoản hộp thư điện tử gặp sự cố (không truy cập được hoặc tài
+khoản bị chiếm dụng, đánh cấp...) thì cơ quan nhà nước, đơn vị, người đúng phát
+báo ngay cho chuyên viên được phân công theo dõi sử dụng thư điện tử trong cơ
+quan, phối hợp với Trung tâm Công nghệ thông tin và Truyền thông Cầp Thơ theo.
+địa chỉ: số 3B Nguyễn Trai, phường An Hội, quận Ninh Kiêu, thành phố Cần Trao,
+điện thoại: 080.71114 hoặc gửi thư điện tử về địa chỉ haim/doantha qunton để bỗ.
+trợ, khắc phục kịp thời.
+Điều 11. Trách nhiệm của người dùng xử dụng hộp thư điện tử của cơ
+quan nhà nước, đơn vị
+1. Hộp thư chung của cơ quan nhà nước, đơn vị là loại hộp thư đặc biệt, do
+Thủ trưởng cơ quan nhà nước, đơn vị quản lý và có thể ủy quyền cho một người
+khác trong cơ quan nhà nước, đơn vị quản lý hộp thư này.
+2. Người được giao trách nhiệm quản lý hộp thư chung của cơ quan nhà
+nước, đơn vị phải thường xuyên kiểm tra, nhận, chuyển thông tin để thông báo đến
+người có trách nhiệm xử lý nhằm bồi đáp kịp thời thư điện tử của công dân, tổ chức
+và doanh nghiệp.
+3. Người được giao trách nhiệm quản lý hộp thư chung của cơ quan nhà
+nước, đơn vị phải tổ chức lưu trữ các thư đến, thư đã gửi một cách khoa học để
+thuận lợi trong việc tìn kiểm, thống kê, xác thực lại thông tin khi có yêu cần; đồng
+thời, không được xóa nội dung các thư điện tử trong hộp thư đến và đi của cơ quan
+nhà nước, đơn vị mình (trừ các thư nặc danh không rõ địa chỉ, thư rác).
+4. Mật mã tài khoản hộp thư điện tử của cơ quan nhà nước, đơn vị phải được.
+thay đổi thường xuyên (02 tháng/01 làn) và mật mã phải được đảm báo theo các yếu
+cầu sau:
+a) Độ dài: Các mật mã phải có độ dài ít nhất là 08 (tám) ký tự;
+c) Độ phức tạp: Các mật mã cần phải chứa cả ký tự in hoa, ký tự án thưởng.
+và ít nhất có một ký tự đặc biệt, chữ số.
+Ví dụ: MatKhaus7894.
+5. Quản lý danh sách các địa chỉ hộp thư điện tử của người dùng thuộc mỗi.
+cơ quan nhà nước (malling lie): Địa chỉ matũng liai của cơ quan, đơn vị phải được
+quản lý, kiểm soát chặt chẽ bằng tài khoản hộp thư điện tử của cơ quan đơn vị hoặc
+một hộp thư điện tử cá nhân người đùng do Thủ trưởng cơ quan nhà nước ủy quyền.
+7
+Điều 12. Trách nhiệm của Thủ trưởng cơ quan nhà nước
+1. Lãnh đạo cơ quan nhà nước của thành phố phải gương mẫu trong việc.
+ứng dụng hệ thống thư điện tử trong công việc; chỉ đạo đơn vị, người dùng thuộc
+phạm vi quản lý thực hiện nghiêm theo Quy chế này.
+2. Đôn đốc, chỉ đạo cán bộ, công chức, viên chức và người lạo động tăng
+cường, thường xuyên sử dụng hộp thư điện tử của thành phố khi trao đối công việc.
+3. Phân công chuyên viên quản lý danh sách bộp thư điện tử người dùng
+(mating hat) thuộc cơ quan minh, phối hợp với Sở Thông tin và Truyền thông trong
+việc rà soát, cập nhật danh sách hộp thư, thông tin của người đúng, đơn vị trực
+thuộc được cấp hộp thư, đảm bảo tính đồng bộ giữa danh sách hộp thư được cấp và
+số lượng cán bộ, công chức, viên chức và người lao động của cơ quan.
+4. Đối với các cơ quan nhà nước đã có hệ thống thư điện tử riêng (ví dự như:
+Sở Giáo dục và Đào tạo, Sở Y tế) đang hoạt động hiệu quả, chỉ cần báo cáo định kỳ:
+hoặc báo cáo đột xuất về tình hình sử dụng hộp thư điện tử của cơ quan minh theo
+đúng nội dung về chế độ báo cáo theo Quy chế này.
+Điều 13. Trách nhiệm của các Sở: Tài chính, Kế hoạch và Đầu tư, Nội
+vụ
+1. Các Sở: Tài chính, Kế hoạch và Đầu tư, Nội vụ phối hợp với Sở Thông
+tin và Truyền thông về việc đầu tư, nâng cấp hệ thống thiết bị và đào tạo ngưồn
+nhân lực, đảm báo cho hệ thống thư điện tử thành phố hoạt động thông suốt, hiệu
+quả.
+2. Sở Nội vụ phối hợp với Sở Thông tin và Truyền thông-thực hiện cung cấp.
+thông tin tổ chức, bộ máy, cán bộ, công chức, viên chắc của các cơ quan nhà nước.
+thuộc phạm vi quản lý của UBND thành phố trong việc tạo lập, cập nhật danh bạ
+thư điện tử thành phố.
+Chương V
+TỔ CHỨC THỰC HIỆN
+Điều 14. Kiểm tra và xử lý vi phạm
+1. Cơ quan nhà nước, đơn vị, người dùng tham giá hệ thống thư điện tử phái
+chịu sự giám sát của Sở Thông tin và Truyền thông về việc sử dụng hộp thư điện tử
+đã được cung cấp.
+2. Cơ quan nhà nước, đơn vị, người dùng vi phạm các điều khoản trong Quy
+chế này, cơ quan quản lý hệ thống thư điện tử sẽ nhắc nhở bằng hình thức gửi thư
+điện tử hoặc thông báo trực tiếp dên cơ quạn nhà nước, đơn vị, người dùng vị phạm.
+Sau 03 tần thông báo nhắc nhớ nếu vẫn còn vi phạm, cơ quan quản lý hệ thống thư:
+điện tử sẽ thông báo đến Thủ trưởng cơ quan nhà nước quản lý đơn vị, người đúng
+đó xử lý nủy theo mức độ vi phạm; trường hợp cơ quan nhà nước, đơn vi, người.
+đùng vi phạm có tỉnh chất nghiêm trọng, sẽ bị tạm ngưng cung cấp dịch vụ và chịa
+hoàn toàn trách nhiệm trước pháp luật.
+8
+Điều 15. Quy định về công tác báo cáo
+1. Các cơ quan nhà nước có trách nhiệm rà soát và báo cáo định kỳ 06
+tháng/01 lần (ngày 05 tháng 6 và ngày 05 tháng 12 hàng năm, theo mẫu Phụ lục II
+đình kèm) và báo cáo đột xuất theo yêu cầu của Sở Thông tin và Truyền thông về
+tình hình sử dụng thư điện tử trong công việc của đơn vị, người dùng thuộc cơ quan
+nhà nước.
+2. Sở Thông tin và Truyền thông có trách nhiệm tổng hợp, báo cáo đình kỳ.
+06 tháng/01 lần (ngày 13 tháng 6 và ngày 15 tháng 12 hàng năm) hoặc đột xuất khi
+có yêu cầu về tình hình sử dụng hộp thư điện tử của tất cá cơ quan nhà nước, đơn vị.
+người dùng về UBND thành phố xem xét, chỉ đạo kịp thời.
+Điều 16. Khen thưởng
+1. Mỗi cơ quan nhà nước phải cụ thể hóa tiêu chí sử dụng thư điện tử vào.
+quy chế thi đua, khen thưởng của cơ quan, xem đây là một trong những tiêu chí lâm
+cơ sở để xét thi đua, khen thưởng đối với tập thể, cá nhân trong cơ quan nhà nước.
+2. Sở Nội vụ chủ trì, phối hợp với Sở Thông tin và Truyền thông và các cơ
+quan có liên quan tham mưa, để xuất UBND thành phố xem xét đưa hoạt động này.
+vào các phong trào thi đua, bình xét khen thưởng hàng năm./.
+TM ỦỊ BAN NHÂN DÂN
+CTC CICH
+Võ Thành Thống
+Tổ
+Phụ lục II
+MẪU BÁO CÁO TÌNH HÌNH SỬ DỤNG THƯ ĐIỆN TỬ
+(thời gian từ.../...... đến...../...)
+theo Quyết định số 33/2015/QĐ-UBND ngày 18 tháng 12 năm 2015
+của Ủy ban nhân dân thành phố Cần Thơ)
+1. Tổng số cán bộ công chức, viên chức (không kể tạp vụ, lái xé) của cơ quan:
+- Trong đó, số lượng công chức:   .; viên chức:
+- Tổng số đơn vị thuộc cơ quan:   trong đó: Phòng, ban:
+; Trung tâm, đơn vị sự nghiệp trực thuộc:
+2. Tổng số hộp thư điện tử đã được cấp đến thời điểm báo cáo:
+- Số lượng hộp thư điện tử người dùng: .
+- Số lượng hộp thư điện tử đơn vị (phòng ban/tổ chức/trung tâm): ..
+3. Danh sách đơn vị, người dùng đề nghị cấp mới, thay đổi, hủy bỏ tài khoản
+hộp thư điện tử trong kỳ báo cáo: (liệt kã dạng biểu bảng như phụ lục I).
+4. Họ tên người quản lý hộp thư điện tử chung của cơ quan nhà nước:
+chức vụ, diện thoại, địa chỉ hộp thư cá nhân.
+5. Họ tên người được phân công đầu mối phối hợp, quản lý danh sách hộp thư.
+điện tử của cơ quan nhà nước:..... , chức vụ, điện thoại, địa chỉ hộp thư cá nhân.
+6. Số lượng văn bản phát hành qua hộp thư điện tử của cơ quan nhà nước/tổng.
+số văn bản phát hành thực tế:.../...
+7. Thuận lợi, khó khăn, để xuất, kiến nghị (nếu có):
+8. Ghi chú khác (nếu có):
+Người lập   Thủ trưởng Cơ quan/Đơn vị
+(Ký, ghi rõ họ tên, đóng dấu)   (Ký, ghi rõ họ tên)

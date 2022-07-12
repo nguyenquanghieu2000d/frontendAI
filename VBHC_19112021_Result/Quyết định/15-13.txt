@@ -1,0 +1,1672 @@
+17   Đường Lê Văn Lương   6   Chân cầu An   Tảo   Trung Nghĩa   Giáp xã   5.700
+18   Đường Đoàn Thị Điểm   6   Lê Lai   Vũ Trọng   5.700
+Phụng
+19   Đường Hồ Xuân Hương   6   Nguyễn Huệ   Thiện Thuật   Nguyễn   5.700
+20   Đường Nguyễn Huệ   6   Nguyễn Trãi   Cống Cửa   5.700
+Gàn
+21   Đường Chu Mạnh Trinh   6   Phạm Bạch   Hổ   Triệu Quang   Phục   5.700
+22   Đường Vũ Trọng Phụng   6   Nguyễn Công   Chùa Chuông   5.700
+Hoan
+Trường Trung   Đốc Suối (phía
+23   Đường Nguyễn Văn Linh   6   cấp nghề   đông đến ngã 3   5.700
+GTVT   đường vào làng)
+24   Phố Tuệ Tĩnh   7   An Vũ   Trần Quang   4.500
+Khải
+25   Đường Phạm Bạch Hổ   7   Chùa Chuông   Đinh Điền   4.500
+Đường Nguyễn Đình Nghị   Nguyễn Thiện   Phạm Ngũ
+26   7   4.500
+Thuật   Lão
+Nguyễn Văn   Triệu Quang
+27   Đường An Vũ   7   4.500
+Linh   Phục
+Đường Đinh Điền   Ngã tư Chợ   Phạm Bạch
+28   7   4.500
+Gạo   Hổ
+Nguyễn Thiện
+29   Đường Đông Thành   7   Thuật   Nam Thành   4.500
+30   Đường Nguyễn Du   7   Điện Biên   Bãi Sậy   4.500
+31   Đường Lê Thanh Nghị   8   Nguyễn Văn   Linh   Phạm Bạch   Hổ   4.000
+32   Đường Trưng Nhị   8   Điện Biên   Bãi Sậy   4.000
+33   Đường Bãi Sậy   8   Chùa Chuông   Phố Hiến   4.000
+34   Đường Trần Quốc Toản   8   Nguyễn Du   Trưng Trắc   4.000
+35   Đường Trưng Trắc   8   Điện Biên   Bãi Sậy   4.000
+Chu Mạnh
+36   Đường Nguyễn Lương Bằng   9   Trinh   Đinh Điền   3.500
+Phạm Ngũ
+37   Đường Bùi Thị Cúc   9   Bắc Thành   3.500
+Lão
+
+2
+38   Đường Phố Hiến   9   Điện Biên   Phương Cái   3.500
+Nguyễn Văn
+39   Đường Hoàng Hoa Thám   9   Linh   Ngô Gia Tự   3.500
+Đường cạnh
+Nguyễn Thiện
+40   Đường Phó Đức Chính   9   Thuật   Hội Chữ   3.500
+Thập Đỏ
+41   Đường Dương Quảng Hàm   9   Bà Triệu   Đông Thành   3.500
+Nguyễn Quốc
+42   Đường Hoàng Văn Thụ   9   Bắc Thành   3.500
+Ân
+Nguyễn Thiện
+43   Đường Bà Triệu   9   Đông Thành   3.500
+Thuật
+44   Đường Kim Đồng   9   Bắc Thành   Bùi Thị Cúc   3.500
+Giáp Trung tâm
+45   Đường Nguyễn Quốc Ân   9   Đông Thành   Giáo dục thường   3.500
+xuyêntỉnh
+Đường Trần Quang Khải   Phạm Bạch   Triệu Quang
+46   9   Hổ   Phục   3.500
+Lê Văn   Hoàng Hoa
+47   Phố Trương Định   9   3.500
+Lương   Thám
+Ngõ44, Nguyễn   Vũ Trọng
+48   Đường Phạm Huy Thông   9   3.500
+Thiện Thuật   Phụng
+Đường từ Nguyễn Thiện Thuật   Nguyễn Thiện   Nguyễn Công
+49   - Nguyễn Công Hoan (ngõ 44)   9   Thuật   Hoan   3.500
+Phan Đình
+50   Đường Nguyễn Thiện Thuật   9   Bãi Sậy   3.500
+Phùng
+51   Đường Bắc Thành   10   Tây Thành   Đông Thành   3.000
+52   Đường Tây Thành   10   Bắc Thành   Nam Thành   3.000
+53   Đường Nam Thành   10   Tây Thành   Đông Thành   3.000
+Triệu Quang   Nguyễn Văn
+54   Phố Phùng Chí Kiên   10   3.000
+Phục   Linh
+Nguyễn Văn
+Phố Sơn Nam   Phạm Bạch
+55   10   Linh   Hồ   3.000
+Triệu Quang   Nguyễn Văn
+56   Phố Tôn Thất Tùng   10   Phục   Linh   3.000
+Nguyễn Văn
+57   Phố Ngô Tất Tố   10   Tuệ Tĩnh   3.000
+Linh
+Các đường QH 15m tại khu
+58   dân cư Bắc Tô Hiệu, Loan   10   Thuộc phường Hiến Nam, An Tảo   3.000
+Điệp, Lợi Mận
+4 3
+Phùng Chí   Hoàng Hoa
+59   Phố Ngô Gia Tự   10   Kiên   Thám   3.000
+60   Phố Nguyễn Phong Sắc   10   Phùng Chí   Trần Quang   3.000
+Kiên   Khải
+Phùng Chí   Trần Quang
+61   Phố Nguyễn Đức Cảnh   10   3.000
+Kiên   Khải
+Nguyễn
+62   Phố Huỳnh Thúc Kháng   10   Đinh Điền   Lương Bằng   3.000
+Phố Tô Chấn   Nguyễn   Lương Ngọc
+63   10   Lương Bằng   Quyến   3.000
+64   Phố Lương Văn Can   10   Nguyễn   Lương Ngọc   3.000
+Lương Bằng   Quyến
+Phố Đinh Gia Quế   Lê Thanh
+65   10   Đinh Điền   3.000
+Nghị
+66   Phố Lương Ngọc Quyến   10   Đinh Gia Quế   Trần Quang   3.000
+Khải
+67   Phố Nguyễn Hữu Huân   10   Trần Quang   Sơn Nam   3.000
+Khải
+Phố Lương Đình Của   Triệu Quang
+68   10   Tuệ Tĩnh   3.000
+Phục
+Phạm Ngọc
+69   Phố Tạ Quang Bửu   10   Hồ Đắc Di   3.000
+Thạch
+Phố Hồ Đắc Di   Lương Đình   Hải Thượng
+70   10   3.000
+Của   Lãn Ông
+Triệu Quang   Lương Định
+71   Phố Phạm Ngọc Thạch   10   3.000
+Phục   Của
+Triệu Quang   Lương Đình
+72   Phố Đặng Văn Ngữ   10   3.000
+Phục   Của
+Tôn Thất
+73   Phố Nguyễn Văn Huyên   10   Ngô Tất Tố   3.000
+Tùng
+74   Phố Đặng Thai Mai   10   Nguyễn Văn   Nguyễn   3.000
+Huyên   Khuyến
+75   Phố Nguyễn Huy Tưởng   10   Nguyễn Văn   Nguyễn   3.000
+Huyên   Khuyến
+76   Phố Nguyễn Khuyến   10   Ngô Tất Tố   Tôn Thất   3.000
+Tùng
+77   Phố Đào Tấn   10   Sơn Nam   Nam Cao   3.000
+Nguyễn
+78   Phố Xuân Diệu   10   Đào Tấn   3.000
+Lương Bằng
+Lê Thanh
+79   Phố Nam Cao   10   Sơn Nam   3.000
+Nghị
+2
+4
+80   Phố Nguyễn Văn Trỗi   10   Lê Thanh   Nghị   Lương Bằng   Nguyễn   3.000
+81   Phố Nguyễn Viết Xuân   10   Lê Thanh   Nghị   Nguyễn Văn   Trỗi   3.000
+82   Phố Lý Tự Trọng   10   Lương Bằng   Nguyễn   Hải Thượng   Lãn Ông   3.000
+Phố Nguyễn Thái Học   Triệu Quang   Nguyễn
+83   10   Phục   Thiện Kế   3.000
+Phố Cao Bá Quát   Nguyễn Thái   Đinh Công
+84   10   3.000
+Học   Tráng
+Nguyễn
+85   Phố Tống Duy Tân   10   Cao Bá Quát   Thiện Kế   3.000
+Phố Đinh Công Tráng   Triệu Quang   Nguyễn
+86   10   Phục   Thiện Kế   3.000
+Phố Nguyễn Thiện Kế   Hải Thượng
+87   10   Lãn Ông   An Vũ   3.000
+Phố Phạm Hồng Thái   Hải Thượng
+88   10   An Vũ   3.000
+Lãn Ông
+89   Phố Nguyễn Bình Khiêm   10   Hải Thượng   Lãn Ông   An Vũ   3.000
+Chu Mạnh
+90   Phố Hoàng Diệu   10   Nhân Dục   3.000
+Trinh
+91   Phố Mạc Thị Bưởi   10   Nhân Dục   Trần Thị Tý   3.000
+Nguyễn Chí
+92   Phố Bùi Thị Xuân   10   Trần Thị Tý   3.000
+Thanh
+Phố Trần Thị Tý   Chu Mạnh
+93   10   Nhân Dục   3.000
+Trinh
+94   Phố Trần Nhật Duật   10   Doãn Nỗ   Nguyễn Biểu   3.000
+Phố Doãn Nỗ   Triệu Quang
+95   10   Chùa Đông   3.000
+Phục
+Phố Nguyễn Cảnh Chân   Triệu Quang
+96   10   Doãn Nỗ   3.000
+Phục
+Phố Trần Khánh Dư   Chu Mạnh
+97   10   Nguyễn Biểu   3.000
+Trinh
+Phố Trần Khát Chân   Triệu Quang
+98   10   Chủa Đông   3.000
+Phục
+Trần Nhật
+99   Phố Nguyễn Gia Thiều   10   Nguyễn Biểu   3.000
+Duật
+Trần Nhật   Trần Khánh
+100   Phố Dã Tượng   10   3.000
+Duật   Dư
+đ
+5
+101   Phố Nguyễn Biểu   10   Triệu Quang   Phục   Chùa Đông   3.000
+102   Đường Chùa Đông   10   An Vũ   Tô Hiệu   3.000
+103   Đường QH < 15m   10   Thuộc khu dân cư mới Hiến Nam   3.000
+Đường Trần Bình Trọng   Phạm Ngũ
+104   10   Nguyễn Du   3.000
+Lão
+Đê sông
+105   Đường Trưng Trắc   10   Bãi Sậy   3.000
+Hồng
+106   Đường Phan Đình Phùng   10   Bạch Đằng   Đê sông   Hồng   3.000
+107   Đường 266   10   Bạch Đằng   Đê sông   Hồng   3.000
+108   Đường Lê Đình Kiên   10   Tô Hiệu   Phương Độ   3.000
+Triệu Quang   Nguyễn Văn
+109   Phố Mạc Đĩnh Chi   10   3.000
+Phục   Linh
+Đường từ Phạm Ngũ Lão -   Phạm Ngũ
+110   Khu TT. May
+Khu TT,May (Ngõ 120)   10   3.000
+Lão
+Trần Nhật
+111   Đường Trương Hán Siêu   10   Chùa Đông   3.000
+Duật
+Lê Thanh
+112   Đường Phan Chu Trinh   10   Sơn Nam   3.000
+Nghị
+113   Đường Lý Thường Kiệt   10   Sơn Nam   Đinh Điền   3.000
+Nguyễn   Lý Thường
+114   Đường Nguyễn An Ninh   10   Lương Bằng   Kiệt   3.000
+115   Đường Phan Bội Châu   10   Lương Bằng   Nguyễn   Phạm Bạch   Hổ   3.000
+Đường Trần Quý Cáp   Nguyễn   Lý Thường
+116   10   3.000
+Lương Bằng   Kiệt
+117   Đường Bạch Đằng   11   Bãi Sậy   Cửa Khẩu   2.500
+Đường Nguyễn Thiện Thuật   Đê sông   Phan Đình
+118   11   Hồng   2.500
+Phùng
+119   Phố Tô Hiến Thành   11   Nguyễn Văn   Nguyễn Chú   2.500
+Linh   Thanh
+120   Phố Bạch Thái Bưởi   11   Nguyễn Văn   Tô Ngọc Vân   2.500
+Linh
+Tộ Hiến
+Phố Lê Trọng Tấn   Hải Thượng
+121   11   2.500
+Lãn Ông   Thành
+Phố Yết Kiêu (Đường nghĩa   Lê Văn
+122   11   Nghĩa trang   2.500
+trang)   Lương
+2/6
+123   Đường Tống Trân   11   Đông Thành   Tây Thành   2.500
+Phố An Tảo   Nguyễn Văn   Bờ sông Điện
+124   11   2.500
+Linh   Biên
+Đường Nguyễn Đình Nghị   Phạm Ngũ
+125   11   Phương Độ   2.500
+Lão
+Đê Sông   Ngã ba bến
+126   Đường Dương Hữu Miên   11   Hồng   đò Nẻ   2.500
+Đường Hoàng Hoa Thám   Triệu Quang
+127   11   Ngô Gia Tự   2.500
+Phục
+Phố Chùa
+128   Phố Nguyễn Tri Phương   11   Phố An Tảo   2.500
+Diều
+129   Phố Nguyễn Trung Trực   11   Tô Ngọc Vân   Mai Hắc Đế   2.500
+Phố Nguyễn Chí Thanh   Hải Thượng   Chu Mạnh
+130   11   2.500
+Lãn Ông   Trinh
+Đường Đỗ Nhân   Chu Mạnh
+131   11   An Vũ   2.500
+Trinh
+132   Đường Phương Cái   12   Phương Độ   Phố Hiến   2.000
+133   Phố Nhân Dục   12   Nguyễn Văn   Phạm Bạch   2.000
+Linh   Hổ
+Đường từ Nguyễn Thiện Thuật   Nguyễn Thiện   Dân cư Lê
+134   - Khu dân cư Lê Lợi (Ngõ 97)   12   Thuật   Lợi   2.000
+Lê Văn   Bờ sông Điện
+135   Đường Hoàng Ngân   12   2.000
+Lương   Biên
+Đường từ Nguyễn Trãi - Bà
+136   12   Nguyễn Trãi   Bà Triệu   2.000
+Triệu (Ngõ 190)
+Đường từ Trưg Nhị - Trường   Trường PTCS
+137   12   Trưng Nhị   2.000
+PTCSLê Lợi (Ngõ 12)   Lê Lợi
+Đường từ Lê Văn Lương -   Lê Văn
+138   12   Dân cư   2.000
+Dân cư (Ngõ 19)   Lương
+139   Đường Lê Văn Lương (Ngõ   12   Phường An Tảo   2.000
+335)
+Đường từ Trưng Nhị - Khu
+140   12   Trưng Nhị   Dân cư   2.000
+dân cư (Ngõ 44)
+Đường từ Nguyễn Thiện
+Nguyễn Thiện   Phạm Huy
+141   Thuật - Phạm Huy Thông   12   2.000
+Thuật   Thông
+(Ngõ 56)
+Đường từ Điện Biên - Khu
+142   12   Điện Biên   Dân cư   2.000
+dân cư (Ngõ 178)
+
+7
+143   Phố Tân Nhân   12   Trưng Trắc   Bạch Đằng   2.000
+144   Phố Chi Lăng   12   Nguyễn Thiện   Trưng Trắc   2.000
+Thuật
+145   Phố Chùa Diều   12   Nguyễn Văn   Bờ sông Điện   2.000
+Linh   Biên
+Đường bờ sông Điện Biên   Lê Văn
+146   12   Tô Hiệu   2.000
+Lương
+Đê Sông
+147   Phố Trần Nguyên Hãn   12   Hồng   Tam Đằng   2.000
+148   Đường Quy hoạch < 15m   12   Phường Minh Khai   2.000
+Đường từ Nguyễn Thiện
+Thuật-Trường PTCS Lê Lợi   Nguyễn Thiện   Trường PTCS
+149   12   2.000
+(Ngõ 83)   Thuật   Lê Lợi
+Đường giao thông bê tông
+150   trong đê có mặt cắt từ 2,5m   12   Thuộc các phường   2.000
+trở lên
+Đường Hải Thượng Lãn   Phạm Bạch
+151   12   Mai Hắc Đế   2.000
+Ông   Hổ
+Đường từ Điện Biên -
+152   Nguyễn Trãi (Ngõ 109)   12   Điện Biên   Nguyễn Trãi   2.000
+Đường từ Điện Biên -
+153   Nguyễn Trãi (Ngõ 171)   13   Điện Biên   Nguyễn Trãi   1.500
+Đường từ Điện Biên - Khu
+154   13   Điện Biên   Khu dân cư   1.500
+dân cư (Ngõ 200)
+Đường từ Điện Biên - Bãi
+155   13   Điện Biên   Bãi Sậy   1.500
+Sậy (Ngõ 356 Điện Biên III)
+Đường từ Điện Biên - Bãi
+156   13   Điện Biên   Bãi Sậy   1.500
+Sậy (Ngõ 376 Điện Biên HI)
+157   Đường Mậu Dương   13   Điện Biên   Phố Hiến   1.500
+Nguyễn Đình
+158   Đường Hàn Lâm   13   Điện Biên   1.500
+Nghị
+Xã Hồng
+159   Đường Phương Độ   13   Mậu Dương   1.500
+Nam
+Đường từ Tây Thành - Dân
+160   13   Tây Thành   Dân cư   1.500
+cư (Ngõ 2)
+161   Đường từ Trưng Trắc -   Trưng Nhị (Ngõ 46)   13   Trưng Nhị   Trưng Trắc   1.500
+
+162   Phố Vọng Cung   13   Bãi Sậy   Nguyễn Du   1.500
+163   Phố Mai Hắc Đế   13   Đê Sông   Hải Thượng   1.500
+Hồng   Lãn Ông
+Đường chợ cũ Điện Biên -   Phạm Ngũ
+164   Phạm Ngũ Lão (Ngõ 27)   13   Điện Biên   1.500
+Lão
+165   Phố Tô Ngọc Vân   13   Tam Đằng   Đê sông   Hồng   1.500
+166   Phố Văn Miếu   13   Chùa Chuông   Đê sông   Hồng   1.500
+167   Phố Cao Xá   13   Nguyễn Văn   Đê sông   1.500
+Linh   Hồng
+168   Đường Đằng Giang   13   Bạch Đằng   Đê sông   Hồng   1.500
+169   Phố Tân Thị   13   Chi Lăng   Đê sông   Hồng   1.500
+170   Phố Tam Đằng   13   Đinh Điền   Đê sông   Hồng   1.500
+Phố Sơn Nam   Phạm Bạch   Đê Sông
+171   13   1.500
+Hổ   Hồng
+Bến phà cũ
+172   Đường Bạch Đằng   13   Cửa Khẩu   1.500
+(bờ sông)
+Phố Lê Quý Đôn   Phạm Bạch   Đê sông
+173   13   1.500
+Hổ   Hồng
+174   Đường Lương Điền   13   Hàn Lâm   Phương Độ   1.500
+Đường giao thông bê tông
+175   trong đê có mặt cắt dưới 2,5m   13   Thuộc các phường   1.500
+176   Đường Nam Tiến   14   Bạch Đằng   Xã Quảng   1.000
+Châu
+Đường GT và Bê tông ngoài   Thuộc các phường: Lam Sơn,
+177   15   800
+đê Sông Hồng   Minh Khai, Hiến Nam
+Trục đường xóm Bắc phường   Cuối xóm
+178   15   Nhà văn hoá   800
+Minh Khai   Bắc
+Mặt đường Nguyễn Lương
+6.500
+Bằng
+> 24m   5.500
+Khu đô thị Tân Sáng
+179
+15m - 24m   5.000
+< 15m   4.500
+đa
+9
+Mặt đường Phạm Ngũ Lão   6.500
+Khu đô thị SonNam Plara   > 24m   5.500
+180
+15m - 24m   5.000
+< 15m   4.500
+> 24m   5.000
+Khu đô thị Tân Phố Hiến
+181   15m - 24m   4.500
+< 15m   4.000
+Thị trấn Văn Giang,
+II   huyện Văn Giang và các   V
+khu đô thị mới
+Giáp đê sông   Giáp xã Cửu
+1   Đường 179   1   Hồng   Cao   8.000
+Giao đường   Giáp xã Liên
+2   Đường 205A   2   6.500
+179   Nghĩa
+Giao đường   Giao đường
+3   Đường 205B   3   5.000
+205A   379
+Giao đường   Giao đường
+4   Đường mới   3   5.000
+205B   379
+Đường trong khu dân cư có
+5   4   3.500
+mặt cắt >3,5m
+Đường trong khu dân cư có
+6   5   3.000
+mặt cắt từ 2,5 đến 3,5m
+Đường trong khu dân cư có
+7   mặt cắt < 2,5 m   6   1.800
+Khu đô thị dịch vụ thương
+8   8.000
+mại và du lịch Văn Giang
+9   Khu đô thị Hưng Thịnh   6.000
+Thị trấn Như Quỳnh,
+huyện Văn Lâm và các   V
+khu đô thị mới
+Cầu Như   Hết đất Bưu
+1   Quốc lộ 5A cũ (Bên phía chợ)   1   7.000
+Quỳnh   Điện
+Từ Công ty   Đầu Cầu Như
+2   Quốc lộ 5A cũ (Bên phía chợ)   2   5.000
+240   Quỳnh
+Tiếp giáp   Cầu vượt
+3   Quốc lộ 5A cũ( Bên phía chợ)   2   5.000
+Bưu Điện   Như Quỳnh
+Từ Công ty   Hất đất trạm ytế
+4   Quốc lộ 5A mới   2   5.000
+VAP   TTNhư Quỳnh
+
+10
+Khu dân cư mới thị trấn
+5   3   4.000
+Như Quỳnh
+Thuộc địa phận TT Như
+6   Quốc lộ 5A cũ (phía đường tầu)   3   4.000
+Quỳnh
+Đường 385 (đường 19 cũ)   Giáp xã Đình   Giáp xã Lạc
+7   thị trấn Như Quỳnh   3
+Đạo   4.000
+Dù
+8   Đường vào UBND thị trấn   Như Quỳnh   4   Quốc lộ 5A   UBND thị
+trấn   3.000
+9   Đường trong khu dân cư có   mặt cắt >,5m   5   1.400
+Đường trong khu dân cư có
+10   mặt cắt từ 2,5 đến 3,5m   6   1.000
+Đường trong khu dân cư có
+11   7   700
+mặt cắt < 2,5 m
+Trung tâm thương mại và
+12   4.500
+nhà ở Như Quỳnh
+Trung tâm thương mại và
+13   khu dân cư Ngọc Đà   4.500
+Thị trấn Bần Yên Nhân,
+IV   huyện Mỹ Hào và các khu   V
+đô thị mới
+Ngã Ba
+Ngã tư Phố
+1   Đường 196   1   Nối   đường rẽ vào   6.000
+Nhân Hoà
+Ngã tư Phố   Hết địa phận
+2   Đường 196 (39A cũ)   1   Nối   Mỹ Hào   6.000
+Quốc lộ 5A   Đường rẽ đi   Giáp địa phận
+3   1   6.000
+Từ Hồ   xã Nhân Hòa
+4   Quốc lộ 5A cũ   1   Phố Bần cũ   6.000
+Đường 196
+Đường Bệnh viện Đa khoa   (ngã tư chợ   Bệnh viện Đa
+5   2   4.500
+khoa
+Bao Bì)
+6   Đường Bệnh viên Đa khoa   3   Quốc lộ 5A   Bệnh viện Đa   4.000
+khoa
+Trường Mầm
+7   Đường gom   3   UBND Huyện   nơn Hoa Hồng   4.000
+3   Mặt cắt đường > 15m   4.000
+8   Khu tái định cư Phố Nối
+4   Mặt cắt đường < 15m   3.500
+Vào thônPhú
+9   Đường vào thôn Phú Đa   4   Quốc lộ 5A cũ   3.500
+Đa 300m
+
+11
+Hết địa phận
+Đường vào thôn Yên Thổ xã
+10   Nghĩa Hiệp - Yên Mỹ   4   Quốc lộ 5A   thị trấn Bần   3.500
+Yên Nhân
+Đường trong khu dân cư có
+11   5   2.000
+mặt cắt > 3,5m
+Đường trong khu dân cư có
+12   mặt cắt từ 2,5 đến 3,5m   6   1.000
+Đường trong khu dân cư có
+13   mặt cắt < 2,5 m   7   800
+> 15m   6.000
+Khu chung cư đô thị Phố
+14
+Nối
+< 15m   5.000
+> 15m   5.000
+15   Khu nhà ở Phúc Thành
+< 15m   4.000
+Thị trấn Khoải Châu,
+V   huyện Khoái Châu   V
+Giáp xã Bình
+1   Đường 209   1   Giáp xã An Vĩ   Kiều   4.500
+Quỹ tín dựng
+2   Đường 205   1   Giáp xã An Vĩ   4.500
+TTKhoái Châu
+Bưu điện thị
+3   Đường 205   1   trấn Khoái Châu   UBND thị trấn   4.500
+Tiếp giáp xã
+4   Đường 205   2   UBND thị trấn   3.000
+Phùng Hưng
+Đường trong khu dân cư có
+5   mặt cắt >,5m   3   1.500
+Đường trong khu dân cư có
+6   mặt cắt từ 2,5 đến 3,5m   4   900
+Đường trong khu dân cư có
+7   mặt cắt < 2,5 m   5   700
+Thị trấn Yên Mỹ, huyện Yên
+VI   Mỹ và các khu đô thị mới   V
+Tiếp giáp xã   Tiếp giáp xã
+1   Quốc lộ 39 cũ   1   Tân Lập   Trung Hưng   6.000
+Tiếp giáp xã
+2   Đường 206B   2   Quốc lộ 39 cũ   Thanh Long   3.500
+Đường trong khu dân cư có
+3   mặt cắt >,5m   2   3.500
+Đường trong khu dân cư có
+4   mặt cắt từ 2,5 đến 3,5m   3   2.500
+12
+Đường trong khu dân cư có
+5   mặt cắt < 2,5 m   4   2.000
+Đường từ QL39 mới vào thị
+6.000
+6   Khu đô thị mới Yên Mỹ   trấn Yên Mỹ
+Các vị trí còn lại   4.000
+Mặt QL39 cũ và đường từ
+QL39 mới đến QL39 cũ   6.000
+Khu chợ và khu ở thương mại
+7
+Các vị trí còn lại   5.000
+> 24m   6.000
+Khu bất động sản Thăng Long
+8   15m - 24m   5.000
+< 15m   4.000
+VII   Thị trấn Ân Thi, huyện Ân   Thi   V
+Cổng làng
+Hết đất bệnh
+1   Quốc lộ 38   1   thôn Thổ   3.000
+viện huyện
+Hoàng
+Cổng làng   Hết phố
+2   Quốc lộ 38   2   thôn Thổ   Phạm Huy   2.500
+Hoàng   Thông
+Cửahàng giới
+3   Đường 200   3   Giáp xã   thiệu sản phẩm   2.200
+Quang Vinh
+(biaHưng Yên)
+Đường 386 (Đường 200D   Giao cắt   Giáp xã
+4   4   Nguyễn Trãi   2.000
+cũ)   đường 200
+Cửa hàng giới
+5   Đường 200   5   thiệu sản phẩm   Nguyễn Trãi   Giáp xã   1.800
+(bia Hưng Yên)
+Đường Đỗ Sỹ Họa, Hoàng
+6   6   1.500
+Văn Thụ
+Đường trong khu dân cư có
+7   7   600
+mặt cắt >,5m
+Đường trong khu dân cư có
+8   8   500
+mặt cắt dưới 3,5m
+Thị trấn Vương, huyện
+VIII   Tiên Lữ   V
+Hết đất viện
+Cầu An Lạc vào
+1   Quốc lộ 38B   1   Kiểm sát   4.500
+khu Tiên Xá
+nhân dân
+Hết đất chi
+Trường THCS
+2   Đường 200   1   nhánh Điện   4.500
+Tiên Lữ
+Tiên Lữ
+
+3   Đường Nội thị khu Âu Bơm   2   Quốc lộ 38B   Tiếp giáp đường   Nội Thị 1   4.000
+Hết đất viện   Hết địa phận TT
+4   Quốc lộ 38B   2   Kiểm sát nhân   Vương (về phía   4.000
+dân huyện   TP.Hưng Yên)
+Hết đất bệnh
+Cầu An Lạc vào
+5   Quốc lộ 38B   2   khu Tiên Xá   viện huyện   4.000
+Tiên Lữ
+Tiếp giáp chỉ   chi Hết địa phận TT
+6   Đường 200   2   nhánh Điện   Vương (vể phía   4.000
+Tiên Lữ   tỉnh Thái Bình)
+Cầu An Lạc vào
+7   Đường bờ sông Hoà Bình   2   Cầu Phố Giác   4.000
+khu Tiên Xá
+8   Đường 200   2   Trường THCS   Tiên Lữ   vận độnghuyện   Tiếp giáp sân   4.000
+9   Đường Nội thị 1   3   Tiếp giáp   Tiếp giáp   3.200
+đường 200   đường 203C
+Hết địa phận
+Tiếp giáp sân
+10   Đường 200   4   TTVưong (về   3.000
+vận độnghuyện
+phía Ân Thi)
+Hết đất bệnh
+11   Quốc lộ 38B   4   viện huyện   Cầu Quán Đỏ   3.000
+Tiên Lữ
+Hết địa phận TT
+12   Đường bờ sông Hoà Bình   4   Cầu Phố Giác   Vương(về phía   3.000
+tpHng Yên)
+Tiếp giáp   Tiếp giáp
+13   Đường Nội thị 2   4   3.000
+đường 200   đường 203C
+Đường Nội thị khu tái định   Tiếp giáp   Tiếpgiáp đường
+14   cư số 3   4   đường Nội thị 1   Nội Thị2   3.000
+Đường Nội thị vào khu tái   Tiếp giáp đường
+15   định cư số 1 (gần Toà án)   4   Quốc lộ 38B   Nội Thị2   3.000
+Đường vào khu tái định cư   Khu dân cư số
+16   4   Đường 200   3.000
+số 2   2 xãD; Chế
+Hết địa phận
+17   Đường 203C   5   Quốc lộ 38B   TTVuong(về   2.000
+phíaDị Chế)
+Cầu AnLạc vào
+18   Đường bờ sông Hoà Bình   5   khu Tiên Xá   Cầu Quán Đỏ   2.000
+Đường trong khu dân cư có
+19   6   1.000
+mặt cắt >,5m
+Đường trong khu dân cư có
+20   mặt cắt từ 2,5 đến 3,5m   7   750
+
+14
+Đường trong khu dân cư có
+21   8   600
+mặt cắt < 2,5 m
+Thị trấn Lương Bằng,
+TX   V
+huyện Kim Động
+1   Quốc lộ 39A   1   Ngã tư đường   Hết đất công   4.500
+208   ty May và đay
+Đường khu dân cư mới mặt
+2   1   4.500
+cắt > 20m
+Ngã tư đường   Tiếp giáp xã
+3   Quốc lộ 39A   2   4.000
+208   Hiệp Cường
+Ngân hàng
+Tiếp giáp công
+4   Quốc lộ 39A   2   Chính sách   4.000
+ty May và đay
+xã hội huyện
+5   Đường 208   2   Từ ngã tư   Cầu Mai xá   4.000
+đường 208
+6   Đường 205   3   Cầu Mai Viên   Cầu Động Xá   3.500
+Đường khu dân cư mới mặt
+7   cắt < 20m   3   3.500
+Hết đất thị
+8   Đường 205   4   Cầu Động Xá   2.500
+trấn
+Cống Âu
+9   Đường 38B   5   Quốc lộ 39A   2.000
+Thuyền
+Đường trong khu dân cư có
+10   6   1.200
+mặt cắt > 3,5m
+Đường trong khu dân cư có
+11   7   900
+mặt cắt từ 2,5 đến 3,5m
+Đường trong khu dân cư có
+12   8   700
+mặt cắt < 2,5 m
+X   Thị trấn Trần Cao, huyện   V
+Phù Cừ và khu dân cư mới
+Giao cắt
+Công ty may
+1   Quốc lộ 38B   1   đường khu   5.000
+Beeah
+dân cư số 01
+Đường khu dân cư số 01 có   Nhà chợ
+2   mặt cắt > 15m   2   QL 38B   chính   3.000
+Đường vào
+Cầu qua sông
+3   Đường 386 (Đường 202 cũ)   2   nhà máy nước   3.000
+Hòa Bình
+Trần Cao
+4   Đường khu dân cư số 01 có   3   2.500
+mặt cắt 415m
+
+15
+Góc cua của   Tiếp giáp xã
+5   Đường bờ sông Hòa Bình   3   2.500
+đường   Đoàn Đào
+Đường khu dân cư số 02 có
+6   mặt cắt <15m   3   2.500
+Giao cắt
+Giáp xã
+7   Quốc lộ 38B   4   đường khu   2.200
+dân cư số 01   Quang Hưng
+Cầu qua sông
+8   Đường 386 (Đường 202 cũ)   5   UBND huyện   2.000
+Hòa Bình
+Ngã tư   Góc cua của
+9   Đường bờ sông Hòa Bình   6   1.500
+QL38B   đường
+Đường khu dân cư Xí   Xí nghiệp   Hết địa phận
+10   7   1.000
+nghiệp giống lúa   giống lúa   thị trấn
+Giáp xã   Cầu vào thôn
+11   Đường bờ sông Hòa Bình   7   1.000
+Quang Hưng   Cao Xá
+Đường trong khu dân cư có
+12   8   700
+mặt cắt >,5m
+Đường trong khu dân cư có
+13   9   500
+mặt cắt dưới 3,5m
+16
+Bảng số 04
+BẢNG GIÁ ĐẤT Ở TẠI NÔNG THÔN
+(Kèm theo Quyết định số 15 /2013/QĐ - UBND
+ngày 20 112/2013 của UBND tỉnh)
+Số   Đơn giá
+Tên đơn vị hành chính, đường   Điểm đầu   Điểm cuối   (1.000
+TT
+đồng/m2)
+I   Thành phố Hưng Yên
+A   Giá đất ven trục quốc lộ, tỉnh lộ, huyện lộ, đường có tên
+Giáp xã Phương
+1   Quốc lộ 39A (xã Liên Phương)   Lê Đình Kiên
+Chiểu   5.000
+Giáp phường An   Cây xăng quân
+2   Quốc lộ 38 (xã Trung Nghĩa)
+Tảo   đội   4.500
+Đến Nghĩa trang
+3   Quốc lộ 39A (xã Bảo Khê)   Từ Đốc Suối
+xã Bảo Khê   3.500
+4   Đường Dựng (xã Liên Phương)   Tô Hiệu   Đường Bãi
+3.500
+Giáp xã Liên   Giáp xã Thủ Sỹ,
+5   Quốc lộ 39A (xã Phương Chiểu)
+Phương   huyện Tiên Lữ   3.000
+Đường vào
+6   Đường Ma (xã Liên Phương)   Quốc Lộ 39A   UBND xã Liên
+3.000
+Phương
+Xóm bãi An
+7   Đường Bãi (xã Liên Phương)   Đường Dựng
+Chiểu   3.000
+Đường Quy hoạch > 15m (thuộc
+8   khu dân cư mới và đấu giá)   Các xã
+3.000
+Đường Quy hoạch < 15m (thuộc
+9   khu dân cư mới và đấu giá)   Các xã
+2.500
+Hết địa phận xã
+10   Đường 61 (xã Bảo Khe)   Quốc Lộ 39A   Bảo Khê   2.000
+Đường Đầm sen B (xã Liên   Giáp đất Hồng
+11   Phương)   Tô Hiệu   Nam   2.000
+Quỹ Tín dụng xã
+12   Đường 61   Phương Cái   Hồng Nam   2.000
+13   Đường 61   Quỹ Tín dụng xã   Hồng Nam   Hết địa giới xã   Hồng Nam   1.500
+
+1
+B   Các trục đường khác
+Các xã: Bảo Khê, Hồng Nam, Trung
+Nghĩa, Liên Phương và Quảng Châu   2.000
+1   Các đoạn đường ở vị trí gần   Xã Phương Chiểu
+trung tâm văn hóa xã, chợ   1.000
+Các xã: Tân Hưng, Hoàng Hanh   820
+Các xã còn lại   700
+Các xã: Bảo Khê, Hồng Nam, Trung
+Nghĩa, Liên Phương, Quảng Châu   1.500
+Phương Chiểu
+Các trục đường giao thông có   1.000
+2   mặt cắt >,5m
+Các xã: Tân Hưng, Hoàng Hanh   820
+Các xã còn lại   700
+Các xã: Bào Khê, Hồng Nam, Trung
+Các trục đường giao thông có   Nghĩa, Liên Phương và Quảng Châu   1.000
+3
+mặt cắt dưới 3,5m
+Các xã còn lại
+600
+II   Huyện Văn Giang
+A   Giá đất ven trục quốc lộ, tỉnh lộ, huyện lộ, đường có tên
+Trung tâm chợ   Cách 100m về hai
+1   Đường 25 (đường 199B cũ) xã Mễ Sở   Mễ   bên   8.000
+Giáp thị trấn   Giáp xã Kiêu Ky,
+2   Đường 179 xã Cửu Cao   Văn Giang   Gia Lâm, Hà Nội   8.000
+Đường 179 xã Phụng Công   Giáp thị trấn
+3   trong đê   Văn Giang   Đường 195
+8.000
+Giáp xã Liên   Giáp xã Bình
+4   Đường 25(đường 199B cũ) xã Mễ Sở
+Nghĩa   Minh   6.500
+Giáp xã Văn
+5   Đường 179 xã Xuân Quan   Giáp đường 195   Đức Gia Lâm   6.000
+Đường 179 xã Phụng Công
+6   ngoài đê   Giáp đường 195   Xã Xuân Quan
+6.000
+7   Đường 207A xã Long Hưng   Giáp đường 179   Giáp xã Tân Tiến
+4.500
+Giáp xã Long   Giáp xã Trưng
+8   Đường 207B xã Nghĩa Trụ   Hưng   Trắc   4.500
+Giáp đường   Giáp xã Nghĩa
+9   Đường 207B xã Long Hưng   207A   Trụ   4.500
+Giáp thị trấn
+10   Đường 205 xã Liên Nghĩa   Văn Giang   Giáp xã Tân Tiến   3.500
+2
+Giáp xã Long   Giáp xã Hoàn
+11   Đường 207A xã Tân Tiến
+Hưng   Long   3.500
+Giáp xã Liên   Giáp xã Đông
+12   Đường 205 xã Tân Tiến
+Nghĩa   Tảo   3.000
+Giáp thị trấn
+13   Đường 205B xã Long Hưng   Giáp xã Tân Tiến
+Văn Giang   3.000
+Đường 205B xã Tân Tiến   Giáp xã Long
+14   Hưng   Giáp đường 205   3.000
+15   Liên Nghĩa   Đường 25 (đường 199B cũ) xã   Giáp đê sông   Hồng   Giáp xã Mễ Sở   3.000
+Giáp đường   Giáp xã Vĩnh
+16   Đường 207C xã Tân Tiến
+207A   Khúc   3.000
+Đường 180 xã Vĩnh Khúc   Giáp xã Nghĩa   Giáp xã Đồng
+17
+Trụ   Than   3.000
+Đường 200 xã Vĩnh Khúc   Giáp xã Giai
+18   Giáp đường 200   Phạm   2.200
+Đường 207C xã Vĩnh Khúc   Giáp xã Tân
+19   Tiến   Giáp đường 200   2.200
+Giáp xã Tân   Giáp xã Vĩnh
+20   Đường 180 xã Nghĩa Trụ   Quang, Văn Lâm   Khúc   2.200
+B   Các trục đường khác
+Xã Mễ Sở   6.000
+Các vị trí ở gần trung tâm văn   Xã Phụng Công   5.000
+1   hoá xã, chợ
+Các xã còn lại   3.000
+Xã Mễ Sở   3.500
+Các xã: Xuân Quan, Phụng Công,
+Cửu Cao   3.000
+Các trục đường có mặt cắt >
+2   3,5m   Các xã: Liên Nghĩa, Thắng Lợi,
+Long Hưng, Tân Tiến, Nghĩa Trụ   1.800
+Các xã còn lại   1.500
+Các xã: Xuân Quan, Phụng Công,
+Các trục đường có mặt cắt từ   Mễ Sở, Cửu Cao   1.500
+3   2,5m đến 3,5m
+Các xã còn lại   1.200
+Các xã: Mễ Sở, Phụng Công, Xuân
+Các trục đường có mặt cắt dưới   Quan, Cửu Cao   1.200
+4
+2,5m
+Các xã còn lại   1.000
+
+3
+III   Huyện Văn Lâm
+A   Đất ở ven trục quốc lộ, tỉnh lộ, huyện lộ, đường có tên
+1   Quốc lộ 5A (thuộc địa phận các xã: Tân Quang, Trưng Trắc, Đình Đà,   Lạc Hồng)   6.500
+Đường vào Trường Nghiệp vụ Tài   UBND xã Tân
+2   Quốc lộ 5A cũ
+chính - QTKD(xã Tân Quang)   Quang   5.000
+3   Quốc lộ 5A cũ (phía đường tầu)   Thuộc địa phận xã Tân Quang
+4.500
+Cầu vượt Như   Giáp thị trấn Như
+4   Đường 385 (đường 19 cũ) xã ĐìnhDù   Quỳnh   Quỳnh   4.000
+Giáp thị trấn   Giao cắt đường
+5   Đường 385 (đường 19 cũ) xã Lạc Đạo   Như Quỳnh   206   3.000
+6   Đường vào chợ Đậu (xã Lạc Đạo)   Cổng chợ Đậu   Về các phía 500m
+2.500
+Các đường trục giao thông xã (Trưng
+7   Trắc, Lạc Hồng, Đình Dù,Lạc Đạo)   Từ trụ sở UBNDxã   Về các phía 500m
+2.500
+8   Đường 207B thuộc địa phận xã   Trưng Trắc   Quốc lộ 5A   Cầu Nghĩa Trụ   2.500
+9   Đường 200 xã Trưng Trắc   Quốc lộ 5A   Cầu Lác
+2.000
+Đường 206 mới các xã: Trưng
+Trắc, Đình Dù, Lạc Hồng, Minh   Đường vào Khu
+10   Quốc lộ SA
+Hải, Lạc Đạo   công nghiệp   2.000
+Giáp xã Kiêu Ky,
+11   Đường Khu CN xã Tân Quang   Từ UBND xã   Gia Lâm, Hà Nội   2.000
+12   Đường 196   Xã Minh Hải
+2.000
+Đường 385 (đường 19 cũ) xã   Ngã tư giao
+13   Chi Đạo   Giao đường 206   đường 196   1.500
+Đường vào trường Nghiệp vụ Tài
+14   chính - QTKD(xã Trưng Trắc)   Đường 5B   Cổng trường
+1.500
+Ngã tư giao   Giáp tỉnh Hải
+15   Đường 385 (đường 19 cũ)   đường 196   Dương   1.500
+Đường 5B thuộc các xã: Tân   Đình Nghĩa Trai   Hết đất xã Trưng
+16   Quang, Trưng Trắc   xã Tân Quang   Trắc   1.500
+17   Đường 196   Các xã: Chỉ Đạo, Đại Đồng
+1.500
+18   Đường 180   Xã Tân Quang
+1.300
+Đường 196B thuộc các xã: Việt
+19   Hưng, Đại Đồng   1.000
+Giáp huyện Mỹ
+20   Đường 387 (xã Lương Tài)   Quốc lộ 5
+Hào   900
+
+4
+B   Các trục đường khác
+Các đoạn đường ở vị trí trung
+1   tâm văn hoá xã, chợ   Các xã   2.000
+Các trục đường có mặt cắt >
+2   Các xã
+3,5m   1.500
+Các trục đường có mặt cắt từ
+3   2,5m đến 3,5m   Các xã   800
+Các trục đường có mặt cắt dưới
+4   Các xã
+2,5m   600
+IV   Huyện Mỹ Hào
+A   Đất ở ven trục quốc lộ, tỉnh lộ, huyện lộ, đường có tên
+1   Quốc lộ 5A cũ (phố chợ Thứa)
+3.000
+Ngã tư Quán
+2   Quốc lộ 38A (xã Minh Đức)   Đầu cầu Sặt
+Gỏi   3.000
+3   Đường 196 xã Nhân Hòa   Ngã ba rẽ vào xã   Hết địa phận xã
+Nhân Hòa   Nhân Hòa   3.000
+Giáp địa phận
+4   Quốc lộ 5A   thị trấn Bần   Ngã tư quán gỏi
+3.000
+5   Đường 196   Xã Phan Đình Phùng
+3.000
+Đi chợ Dầm
+6   Đường 215 (xã Dị Sử)   Quốc lộ 5A   500m   2.500
+Đi Dương Quang
+7   Đường 387 (đường 198 cũ)   Quốc lộ SA   500m   2.500
+Đường 215 (các xã: Nhân Hòa,   Cách quốc lộ 5A
+Cẩm Xá, Phan Đình Phùng và   500m về phía đi   Xã Phan Đình
+8
+đoạn còn lại của xã Dị Sử)   chợ Dầm   Phùng   2.000
+Đường 387 (đường 198 cũ) các   Cách quốc lộ 5A
+xã: Phùng Chí Kiên, Dương   500m về phía đi   Giáp huyện Văn
+9   Quang, Bạch Sam và Cẩm Xá   Dương Quang   Lâm   2.000
+Đi Dương Quang
+10   Đường 198B (xã Minh Đức)   Quốc lộ 5A   500m   2.000
+Cách quốc lộ 5A
+11   Đường 198B (xã Dương Quang   và đoạn còn lại xã Minh Đức)   500m về phía đi   Dương Quang   Điểm đường 387   2.000
+Đường 387 (đường 198 cũ) xã   Đi Hưng Long
+12   Phùng Chí Kiên   Quốc lộ 5A   500m   2.000
+Đường 387 (đường 198 cũ) các xã:   Cách quốc lộ 5A
+Cầu Thuần
+13   Hưg Long, Xuân Dục và đoạn   500m về phía đi
+còn lại của xã Phùng Chí Kiên   Hưng Long   Xuyên   2.000
+5
+Cách ngã ba phố
+14   Đường 197   Lạng 200m vếphía   Giao đường 198
+xã Phan Đình Phùng   2.000
+15   Đường vào UBND xã Nhân Hòa   Đường 196   Đường 215
+2.000
+B   Các trục đường khác
+Các đoạn đường có vị trí gần trung
+1   tâm văn hóa xã, chợ và các trục   Các xã   1.500
+đường có mặt cắt > 3, 5m
+Các trục đường có mặt cắt từ
+2   2,5m đến 3,5m   Các xã   800
+Các trục đường có mặt cắt
+3   Các xã   500
+dưới 2,5m
+V   Huyện Khoái Châu
+A   Đất ở ven trục quốc lộ, tỉnh lộ, huyện lộ, đường có tên
+1   Quốc lộ 39A (xã Dân Tiến)   huyện Yên Mỹ   Giáp địa phận   Cầu Đào Viên   4.500
+Quốc lộ 39A (các xã: Đồng Tiến
+2   Hồng Tiến)   Cầu Đào Viên   Giáp xã Việt Hòa
+4.500
+3   Đường 204 (xã Hồng Tiến)   Quốc Lộ 39A   Giáp xã Dân Tiến
+4.500
+Tiếp giáp Bưu   Hết trạm xá xã
+4   Đường 209 (xã Đông Kết)   điện xã Đông Kết   Đông Kết   4.500
+Đường 379 (đường 206 cũ) xã   Hết đất xã Dân
+5   Dân Tiến   Ngã ba Tô Hiệu
+Tiến   4.500
+Đường 384 (đường 204 cũ) xã   UBND xã Hồng
+6   Hồng Tiến   Quốc Lộ 39A   Tiến   4.500
+7   Đường 57 (đường công nghiệp)   Xã Dân Tiến
+4.000
+Trạm xá xã
+8   Đường 209 (xã Đông Kết)   Đông Kết   Dốc đê 200m   4.000
+Giáp xã Bình
+9   Đường 199 (xã Đông Tảo)   Chợ Đông Tảo   Minh   3.600
+Giáp xã Phùng   Giáp xã Hồng
+10   Đường 204 (xã Dân Tiến)   Hưng   Tiến   3.500
+Bưu điện xã   Về thị trấn Khoái
+11   Đường 209 (xã Đông Kết)   Đông Kết   Châu 200m   3.500
+Giáp xã Thuần   Giáp xã Nhuế
+12   Đường 208C (xã Thành Công)   Hưng   Dương   3.200
+
+6
+13   Hồng Tiến   Đường 384 (đường 204 cũ) xã   UBND xã Hồng   Tiến   Giáp xã Xuân Trúc.   huyện Ân Thi   3.000
+14   Đường huyện 57   Xã An Vĩ
+3.000
+15   Đường 379 (đường 206 cũ) xã   Tân Dân   Ngã 3 trường Tô   Ngã tư Quán Cà
+Hiệu   3.000
+16   Đường 205 (xã Phùng Hưng)   Giáp Thị trấn   Giáp đất xã Đại
+Khoái Chậu   Hưng   3.000
+Đường 199B (xã Bình Minh)   Nghĩa trang
+17   Đến xã Mễ Sở
+Bình Minh   3.000
+Giáp xã Hồng   Giáp huyện Kim
+18   Quốc lộ 39A (xã Việt Hòa)
+Tiến   Động   3.000
+19   Đường 204 (xã Phùng Hưng)   Giáp xã Bình   Kiều   Giáp xã Dân Tiến   3.000
+Hết đất trường tiểu
+20   Đường 199 (xã Bình Minh)   Đốc Thiết Trụ   học Bình Minh   2.500
+Hết đất xã   Hết đất xã Nhuế
+21   Đường 208C (xã Nhuế Dương)
+Thành Công   Dương   2.500
+Hết đất xã Đại
+22   Đường 208C (xã Thuần Hưng)   Đầu đường 208C
+Hưng   2.500
+Giáp xã Đại
+23   Đường 205D (xã Chí Tân)   Dốc đê
+Hưng   2.500
+24   Đường 205 (xã An Vĩ)   Tiếp giáp đất xã   Trung tâm Hướng
+Ông Đình   nghiệp và dạy nghê   2.500
+Đường 209 (xã An VI)   Giáp TT Khoái   Giáp xã Ông
+25
+Châu   Đình   2.000
+Giáp xã Ông   Giáp huyện Yên
+26   Đường 209 (xã Tân Dân)   Đình   Mỹ   2.000
+Hết đất xã An
+27   Đường 209 (xã Ông Đình)   Giáp xã Tân Dân
+Vĩ   2.000
+Giáp huyện Văn   Hết đất xã Đông
+28   Đường 205 (xã Đông Tảo)   Giang   Tảo   2.000
+Ngã ba Hàng
+29   Đường 209 (xã Đông Ninh)   Đường 205D
+Táo   2.000
+Ngã ba Ông
+30   Đường 205 (xã Ông Đình)   Đình   Giáp xã An Vĩ   2.000
+31   Đường 209 (xã Đông Kết)   Đoạn còn lại
+2.000
+32   Đường 205 (xã Đại Hưng)   Đoạn còn lại
+2.000
+
+7
+33   Đường 204 (xã Liên Khe)   Dốc kênh   Giáp xã Bình
+Kiều   2.000
+34   Đường 209 (xã Tân Châu)   Ngã ba Hàng   Bến đò Tân Châu
+Táo   2.000
+Giáp xã Bình
+35   Đường 199 (xã Đông Tảo)   Chợ Đông Tảo   Minh   2.000
+Ngã ba Ông
+36   Đường 205C (xã Dạ Trạch)   Đình   Dốc Vĩnh   2.000
+Giáp thị Trấn
+37   Đường 209 (xã Bình Kiều)   Hết xã Đông Kết
+Khoái Châu   1.500
+Đường 204 (xã Bình Kiều)   Giáp xã Liên   Giáp xã phùng
+38
+Khê   Hưng   1.500
+39   Đường 199C (xã Bình Minh)   Đốc Thiết Trụ   Dốc Đa Hoà
+1.200
+Giáp Cty Sông   Giáp xã Tân
+40   Đường 205D (xã Đông Ninh)
+Hồng   Châu   700
+B   Các trục đường khác
+Các xã: An Vĩ, Việt Hoà, Thành
+Công, Tứ Dân, Đại Tập, Tân Châu,
+Dạ Trạch, Bình Minh, Dân Tiến,   1.500
+Đồng Tiến, Đại Hưng, Chí Tân
+Các xã: Tân Dân, Đông Kết, Phùng
+1   Các đoạn đường ở vị trí gần   Hưng, Hồng Tiến, Thuần Hưng,
+trung tâm văn hóa xã, chợ   Nhuế Dương, Bình Kiều, Liên Khê,   1.200
+Ông Đình, Hàm Tử
+Thuộc địa phận xã Đông Tảo
+1.100
+Thuộc địa phận xã Đông Ninh
+1.000
+Các trục đường có mặt cắt >
+2   Các xã
+2,5m   900
+Các xã: Đông Kết, Phùng Hưng,
+Hồng Tiến, Thuần Hưng, Nhuê
+Dương, Bình Kiều, Liên Khê, Ông
+4   Các trục đường có mặt cắt dưới   Đình, Hàm Tử, Tứ Dân, Đại Tập,   Tân Châu, Dạ Trạch, Bình Minh,   700
+2,5m   Dân Tiến, Đồng Tiến, Đại Hưng, Chí
+Tân, Đông Tảo, Đông Ninh
+Các xã còn lại
+500
+8
+VI   Huyện Yên Mỹ
+A   Đất ở ven trục quốc lộ, tỉnh lộ, huyện lộ, đường có tên
+1   Đường 196 (xã Nghĩa Hiệp)   Giáp huyện Mỹ   Hào   Về Nghĩa Hiệp   500m   5.000
+2   Quốc lộ 5A (xã Giai Phạm)   Thuộc địa phận huyện Yên Mỹ
+4.500
+3   Khu Chợ Nghĩa Hiệp cũ
+4.500
+4   Đường 196 (xã Nghĩa Hiệp)   Đoạn còn lại của xã Nghĩa Hiệp
+4.500
+5   Đường 196 (xã Liêu Xá)   Tiếp giáp xã   Nghĩa Hiệp   Tiếp giáp xã Tân   Lập   4.500
+Tiếp giáp xã   Ngã Năm Yên
+6   Đường 196 (xã Tân Lập)   Liêu Xá   Mỹ   4.500
+7   Đường 39 cũ (xã Tân Lập)   Đường 196   Thị trấn Yên Mỹ
+4.500
+Tiếp giáp xã Tân   Giáp xã Nghĩa
+8   Quốc lộ 39A (xã Liêu Xá)
+Lập   Hiệp   4.000
+9   Quốc lộ 39A (xã Tân Lập)   Ngã 5 Yên Mỹ   Giáp xã Liêu Xá
+4.000
+Tiếp giáp TT
+10   Quốc lộ 39A (xã Trung Hưng)   Cầu Lực Điền
+Yên Mỹ   4.000
+Giáp huyện
+11   Quốc lộ 39A (xã Minh Châu)   Cầu Lực Điền   Khoái Châu   4.000
+12   Đường 206 (xã Yên Phú)   Đường 379   Giáp xã Đồng   Than   4.000
+Đường 379 (đường 206 cũ) xã   Giáp huyện
+13   Yên Hoà   Đường 206   Khoái Châu   4.000
+Tiếp giáp TT Yên
+14   Quốc lộ 39 cũ (xã Trung Hưng)   Quốc lộ 39
+Mỹ   3.500
+15   Khu dân cư mới xã Yên Phú
+3.500
+Tiếp giáp xã
+16   Đường 200 (xã Tân Lập)   Ngọc Long   Quốc lộ 39   3.500
+UBND xã Giai
+17   Đường 206A (xã Giai Phạm)   Quốc lộ 5
+Phạm   3.000
+Giáp TT Yên
+18   Đường 200 (xã Trung Hoà)   Giáp xã Tân Việt
+Mỹ   3.000
+Giáp xã Trung   Giáp huyện Ân
+19   Đường 200 (xã Tân Việt)   Hòa   Thị   3.000
+Giáp xã Thanh
+20   Đường 199 (xã Minh Châu)   Long   Quốc lộ 39   3.000
+2 9
+21   Minh Châu   Đường 382 (đường 199 cũ) xã   Quốc lộ 39   Thường Kiệt   Giáp xã Lý   3.000
+22   Đường 206 (xã Giai Phạm)   Các vị trí còn lại
+2.500
+23   Đường 206 (xã Đồng Than)   Giáp xã Giai   Phạm   Giáp xã Yên Phú   2.500
+24   Đường 207 (xã Hoàn Long)   Giáp xã Yên   Phú   Giáp huyện Văn   Giang   2.500
+Giáp xã Hoàn
+25   Đường 207 (xã Yên Phú)   Đường 199
+Long   2.500
+Giáp huyện
+26   Đường 199 (xã Yên Phú)   Cầu Từ Hồ 1
+Khoái Châu   2.500
+Giáp TT Yên
+27   Đường 206B (xã Thanh Long)   Mỹ   Ngã ba Lò Rèn   2.500
+Giáp xã Việt
+28   Đường 199 (xã Yên Phú)   Cầu Từ Hồ 1
+Cường   2.500
+Giáp xã Yên   Giáp xã Thanh
+29   Đường 199 (xã Việt Cường)   Phú   Long   2.500
+Giáp xã Việt   Giáp xã Minh
+30   Đường 199 (xã Thanh Long)   Cường   Châu   2.500
+Quốc lộ 39A   Giáp huyện
+31   Đường 209 (xã Minh Châu)   mới   Khoái Châu   2.500
+Giáp xã Ngọc
+32   Đường 200 (xã Giai Phạm)   Đường 206   Long   2.500
+Giáp xã Giai
+33   Đường 200 (xã Ngọc Long)   Phạm   Giáp xã Tân Lập   2.500
+Giáp xã Đồng
+34   Đường 206B (xã Thanh Long)   Ngã ba Lò Rèn   Than   2.500
+Đường 382 (đường 199 cũ) xã   Giáp xã Lý   Giáp xã Đào Dương,
+35   Tân Việt   Thường Kiệt   huyện Ân Thi   2.000
+Đường 382 (đường 199 cũ) xã   Giáp xã Minh
+36   Lý Thường Kiệt   Châu   Giáp xã Tân Việt   2.000
+37   Đường 206B (xã Đồng Than)   Giáp xã Thanh   Đường 206
+Long   1.800
+B   Các trục đường khác
+Các xã: Nghĩa Hiệp, Giai Phạm
+3.000
+Các xã: Hoàn Long Trung Hưng, Liêu
+Các trục đường có mặt cắt   Xá;Tân Lập,Yên Phú, Thanh Long   1.900
+1   >3,5m   Các xã: Tân Việt, Lý Thường Kiệt,
+Ngọc Long,Trung Hòa, Minh Châu   1.700
+Các xã còn lại   1.400
+
+10
+Các xã: Nghĩa Hiệp,Giai Phạm   2.000
+Các xã: Hoàn Long,Trung
+Hưng,Liêu Xá,Tân Lập,Yên Phú   1.500
+2   2,5m đến 3,5m   Các trục đường có mặt cắt từ   Các xã: Tân Việt, Lý Thường Kiệt,
+Ngọc Long,Trung Hòa, Minh Châu   1.100
+Các xã còn lại   800
+Các xã: Nghĩa Hiệp, Giai Phạm   1.500
+Các xã: Hoàn Long.Trung Hưng,
+Liêu Xá,Tân Lập,Yên Phú   1.000
+Các trục đường có mặt cắt
+3
+<2,5m   Các xã: Tân Việt, Lý Thường Kiệt,
+Ngọc Long,Trung Hòa, Minh Châu   800
+Các xã còn lại   500
+VII   Huyện Ân Thi
+A   Đất ở ven trục quốc lộ, tỉnh lộ, huyện lộ, đường có tên
+1   Quốc lộ 38 (xã Tân Phúc)   Ngã tư Tân Phúc về hai phía 500m
+2.000
+Giáp thị trấn Kẻ
+2   Quốc lộ 38 (xã Phù Ủng)   Giáp xã Bãi Sậy   Sặt, Bình Giang,
+Hải Dương   2.000
+Giáp xã Tân
+3   Quốc lộ 38 (xã Bãi Sậy)   Giáp xã Phù Ủng
+Phúc   2.000
+Đoạn còn lại giáp xã Quang Vinh và
+4   Quốc lộ 38 (xã Tân Phúc)
+giáp xã Bãi Sậy   2.000
+Hết đất nghĩa
+5   Đường 200 (xã Hồng Vân)   Đường 200C   trang liệt sỹ xã
+Hồng Vân   2.000
+Giáp xã Hồng
+6   Đường 200 (xã Hồng Quang)   Đường 205   Vân   2.000
+Giáp xã Hưng đạo.
+7   Đường 200 (xã Hồng Quang)   Đường 205   huyện Tiên Lã   1.500
+Giáp xã Vũ Xá
+8   Đường 205 (xã Hồng Quang)   Đường 205   huyện Kim động   1.500
+Giáp thị trấn Ân
+9   Quốc lộ 38 (xã Quang Vinh)   Thi   Giáp xã Tân Phúc   1.500
+Cống điều tiết giáp   Cống trạm bơm
+10   Đường 200 (xã Nguyễn Trãi)   thôn Nhân Vũ   qua đường 200   1.200
+Ngã ba vào thôn
+11   Đường 200 (xã Hồ Tùng Mậu)   Chùa Gạo Bắc   Mão Cầu   1.200
+Đường 384 (đường 204 cũ) xã   Giáp xã Đào
+12   Tân Phúc   Dương   Quốc Lộ 38   1.200
+Đường 382 (đường 199 cũ) xã   Giáp thị trấn Sặt, Bình
+13   Phù Ủng   Giáp xã Bắc Sơn   Giang Hải Dương   1.200
+
+11
+14   Đường 387 (đường 210 cũ) xã   Bãi Sậy   Giáp xã Bắc Sơn   Cầu Cậy   1.200
+15   Đường 200 (xã Vân Du)   Giáp huyện Yên   Giáp xã Quang
+Mỹ   Vinh   1.000
+16   Quốc lộ 38 (xã Đặng Lễ)   Giáp thị trấn Ân   Giáp xã Quảng
+Thi   Lãng   1.000
+17   Đường 200 (xã Nguyễn Trãi)   Đoạn còn lại giáp thị trấn Ân Thi và
+giáp xã Hồ Tùng Mậu   1.000
+18   Đường 200C (xã Tiền Phong)   Khu vục Chợcầu-   Hết đất Nghĩa
+Từ Trạm Bơm   trang liệt sỹ   1.000
+19   Quốc lộ 38 (xã Quảng Lãng)   Giáp thị trấn Ân   Giáp xã Nghĩa Dân,
+Thi   huyện Kim Động   900
+Từ đất Nghĩa
+Giáp xã Hồ Từng
+20   Đường 200 (xã Hồng Vân)   trang liệt sỹ
+Hồng Vân   Mậu   900
+Đường 382 (đường 199 cũ) xã   Giáp xã Đào
+21   Bắc Sơn   Dương   Giáp xã Phù Ủng   900
+22   Đường 384 (xã Đào Dương)   Giáp xã Vân Du   Giáp xã Tân Phúc   900
+Đường 382 (đường 199 cũ) xã   Giáp xã Tân Viêt,
+23   Đào Dương   huyện Yên Mỹ   Giáp xã Bắc Sơn   900
+Ngã ba về xã
+24   Đường 38B (xã Đặng Lễ)   Quốc lộ 38B   Cẩm Ninh   850
+25   Đường 200 (xã Quang Vinh)   Ấp Phú Cốc
+850
+26   Đường 200 (xã Hồ Tùng Mậu)   Đoạn còn lại
+850
+27   Đường 200B (xã Đào Dương)   Đường 199   Giáp xã Bắc Sơn
+800
+28   Đường 200B (xã Tân Phúc)   Giáp xã Bắc Sơn   Giáp xã Hoàng   Hoa Thám   800
+Giáp xã Hồng
+29   Đường 200C (xã Hồng Quang)   Đường 200   Vân   750
+Đường 387 (đường 210 cũ) xã   Cầu Thuần
+30   Bắc Sơn   Giáp xã Bãy Sậy   750
+Xuyên
+31   Đường 205B (xã Hồng Quang)   Điểm giao   Giáp xã Hạ Lễ
+đường 200   700
+Đường 384 (đường 204 cũ) xã   Giáp xã Xuân   Giáp xã Đào
+32   Vân Du   Trúc   Dương   700
+Giáp xã Chính
+33   Đường 38B (xã Đặng Lê)   Ngã ba về xã   Cẩm Ninh   Nghĩa, huyện   Kim Động   700
+
+12
+Giáp xã Dân
+34   Xuân Trúc   Đường 384 (đường 204 cũ) xã   Tiến, huyện   Giáp xã Vân Du   650
+Khoái Châu
+35   Đường 200C (xã Hồng Vân)   Đường 200   Giáp xã Tiền   Phong   650
+36   Đường 200C (xã Đa Lộc, Tiền   Phong)   Giáp xã Hồng   Vân   Đường 386   600
+37   Đường 386 (đường 200D, 202   Giáp xã Văn   Giáp huyện Phù
+cũ) xã Đa Lộc   Nhuệ   Cừ   600
+38   Đường 386 (đường 200D cũ) xã   Văn Nhuệ   Giáp xã Đa Lộc   Giáp đất Hoàng   Hoa Thám   600
+39   Đường 205B (xã Hạ Lễ)   Giáp Hồng   Giáp xã Minh
+Quang   Tân. Phù Cừ   600
+40   Đường 204B (xã Quảng Lãng)   QL38   Giáp xã Xuân
+Trúc   600
+Đường 200B (xã Hoàng Hoa   Giáp xã Tân   Giáp tỉnh Hải
+41   Thám)   Phúc   Dương   600
+Đường 200B (xã Bắc Sơn)   Giáp xã Đào
+42   Giáp xã Tân Phúc
+Dương   600
+B   Các trục đường khác
+Các đoạn đường ở vị trí gần trưng
+1   tâm văn hóa xã, chợ và các trục   Các xã
+700
+đường có mặt cắt > 3,5m
+Các trục đường có mặt cắt 2,5m
+2   đến 3,5m   Các xã
+550
+3   Các trục đường có mặt cắt < 2,5m   Các xã
+500
+VIII   Huyện Tiên Lữ
+A   Đất ở ven trục quốc lộ, tỉnh lộ, huyện lộ, đường có tên
+Giáp thị trấn   Qua cổng chợ
+1   Đường 200 (xã Dị Chế)
+Vương   Ché 150m   4.000
+Quốc lộ 39 (các xã: Thủ Sỹ,   GiápxãPhương   Hết địa phận xã
+2   Thiện Phiến)   Chiều, TPHmg Yên   Thủ Sỹ   3.000
+Tiếp giáp Đài
+Hết đất công ty
+3   Quốc lộ 38B   tưởng niệm liệt
+Hoàng Hiệp   3.000
+sỹ (xã Dị Chế)
+Giáp công ty   Đường 61 đi An
+4   Quốc lộ 38B (xã An Viên)
+Hoàng Hiệp   Viên   3.000
+Đường 61 đi An   Giáp TP Hưng
+5   Quốc lộ 38B (xã Nhật Tân)   Viên   Yên   3.000
+Qua cổng chợ   Giáp trường mầm
+6   Đường 200 (xã Dị Chế)   Ché 150m   non xã Dị Chế   3.000
+13
+7   Đường nội thị khu dân cư số 2   Xã Dị Chế
+3.000
+8   Đường 200 (xã Dị Chế)   Giáp trường mầm   Hết đất trường
+non Dị Chế   THCS Dị Chế   2.500
+9   Đường 61 (xã Thủ Sỹ)   Ngã tư Ba Hàng   Về hai phía 100m
+2.500
+10   Quốc lộ 39 (xã Thiện Phiến)   Đoạn còn lại
+2.000
+11   Đường bờ sông Hoà Bình   Các xã: Dị Chế, Ngô Quyền, Nhật Tân
+2.000
+12   Đường 200 (các xã: Dị Chế, Hải   Triều, Ngô Quyền và Hưng Đạo)   Đoạn còn lại
+1.500
+13   Đường 195 (xã Thuy Lôi)   Dốc Xuôi   Dốc Lệ
+1.500
+14   Đường 195   Đoạn còn lại thuộc các xã: Thuy   Lôi, Hải Triều, Thiện Phiến   1.500
+Đường 195   Đoạn còn lại thuộc các xã: Minh
+15
+Phượng, Cương Chính, Tân Hưng   1.500
+16   Đường 61   Đoạn còn lại thuộc các xã: Nhật Tân,   An Viên và Thủ Sỹ   1.400
+Trường Tiểu học
+17   Đường 203A (xã Thụy Lôi)   Dốc Xuôi
+Thụy Lôi   1.000
+18   Đường 203C (xã Đức Thắng)   Trụ sở UBND   Trường Tiểu học
+xã Đức Thắng   Đức Thắng   1.000
+19   Đường 203C   Xã Dị Chế
+1.000
+Đường 203A (xã Trung Dũng)   Trụ sở UBND   Về hai phía 200
+20
+xã Trung Dững   m   900
+21   Đường 203C   Đoạn còn lại thuộc xã Hải Triều và   đoạn còn lại xã Đức Thắng   850
+22   Đường 203A (xã Trung Dũng)   Đoạn còn lại
+850
+23   Đường 203A (xã Thụy Lôi)   Đoạn còn lại
+850
+Đoạn còn lại thuộc các xã: Thuy Lôi,
+24   Đường 203B
+Trung Dũng và Lệ Xá   850
+25   Đường 61B (xã Hưng Đạo)   Đường 200   Đường 61
+820
+Cách trụ sở UBND
+26   Đường 203B (xã Lệ Xá)   xã Lệ Xá150 m về   Cách chợ Nhài 150   về phía Cầu Cáp   820
+phía Đốc Lệ
+4/
+14
+B   Các trục đường khác
+Các xã: Ngô Quyền, An Viên, Nhật Tân,
+Các đoạn đường ở vị trí gần trung   Thủ Sỹ, Hải Triều, Thiện Phiến, Dị Chế   1.000
+1   tâm văn hoá xã, chợ và các trục
+đường có mặt cắt >,5m   Các xã còn lại
+820
+2   Các trục đường có mặt cắt từ
+2,5m đến 3,5m   Các xã
+600
+3   Các trục đường có mặt cắt < 2,5 m   Các xã
+500
+IX   Huyện Kim Động
+A   Đất ở ven trục quốc lộ, tỉnh lộ, huyện lộ, đường có tên
+Quốc lộ 39A (các xã: Toàn   Bưu điện   Hết đất Hạt Quản
+1   Thắng, Nghĩa Dân)   Trương Xá   lý đường bộ   4.500
+Giáp thị trấn   Giáp thành phố
+2   Quốc lộ 39A (xã Hiệp Cường)
+Lương Bằng   Hưng Yên   3.500
+3   Quốc lộ 38 (xã Toàn Thắng)   Quốc lộ 39A   Hết kho A34
+3.500
+4   Quốc lộ 39A (xã Toàn Thắng)   Đoạn còn lại
+3.000
+5   Quốc lộ 39A   Các xã: Chính Nghĩa và Phạm Ngũ Lão
+3.000
+Hết đất xã Nghĩa
+6   Quốc lộ 38 (xã Nghĩa Dân)   Kho A34
+Dân   2.000
+Đường 208 C (các xã Thọ Vinh   Giáp huyện
+7   và Phú Thịnh)   Đường 208   Khoái Châu   1.500
+8   Nghĩa và Nhân La)   Đường 38B (các xã Chính   Tiếp giáp TT   Lương Bằng   Tiếp giáp huyện   Ân Thi   1.500
+9   Đường 61 (các xã: Ngọc Thanh,   Hiệp Cường)   Giáp TPHưg Yên   Đê 195   1.500
+10   Đường 205 (xã Vũ Xá)   Tiếp giáp TT,   Lương Bằng   Tiếp giáp huyện   Ân Thi   1.200
+Đường 205 (xã Song Mai và   Giáp thị trấn   Giáp huyện
+11   Đồng Thanh)   Lương Bằng   Khoái Châu   1.000
+Đường 208 (các xã: Hùng An, Đức
+12   Hợp, Song Mai và Phú Thịnh)   Giao đê 195   Giáp TTLươngBằng   1.000
+13   Đường 208 B (các xã: Hùng An,   Đồng Thanh)   Giao đê 195   Quốc lộ 39 A   1.000
+14   Đường 74 (các xã: Vĩnh Xá,   Toàn Thắng)   1.000
+Đường 38C (các xã: Chính
+15   Quốc lộ 38B   Giao đường 205
+Nghĩa, Nhân La, Vũ Xá)   1.000
+15
+B   Các trục đường khác
+Các đoạn đường ở vị trí gần trưng
+1   tâm văn hóa xã, chợ và các trục   Các xã
+đường có mặt cắt > 3,5m   700
+2   Các trục đường có mặt cắt từ
+2,5m đến 3,5m   Các xã
+600
+3   Các trục đường có mặt cắt < 2,5m   Các xã
+500
+X   Huyện Phù Cừ
+A   Đất ở ven trục quốc lộ, tỉnh lộ, huyện lộ, đường có tên
+1   Quốc lộ 38B (xã Quang Hưng)   Chân cầu Tràng   Giáp đất Thị trấn
+Trần Cao   1.600
+Giáp đất Thị
+2   Quốc lộ 38B (xã Đoàn Đào)   trấn Trần Cao   Cầu Quán Đỏ   1.600
+Đường 386 (đường 202 cũ) xã
+3   Minh Tân   Cầu Minh Tân   Về hai phía 100m   1.200
+Đường cạnh Trung tâm y tế   Ngã năm chợ   Hết đất TT y tế
+4   (thuộc địa phận xã Đình Cao)   Đình Cao   huyện   1.000
+5   Đình Cao   Đường 386 (đường 202 cũ) xã   Ngã tư trung tâm   y tế huyện   Đường 201
+1.000
+6   Đường 386 (đường 202 cũ) xã   Điểm cách Đốc   Dốc La Tiến
+Nguyễn Hoà   La Tiến 400m   1.000
+Hết đất Trường
+7   Đường 203 (xã Đình Cao)   Đường 386   THCS Đình Cao   1.000
+Đường 386 (đường 202 cũ) xã   Giáp đất xã   Giáp đất thị trấn
+8   Phan Sảo Nam   Minh Tân   Trần Cao   1.000
+Đường 386 (đường 202 cũ) xã   Trạm bơm Tiên   Hết đất nhà ông
+9   Tiên Tiến   Tiến   Sông   1.000
+Đường 386 (đường 202 cũ) xã   Giáp đất xã Tam   Điểm cách Đốc
+10   Nguyên Hoà   Đa   La Tiến 400m   800
+Đường 386 (đường 202 cũ) xã   Giáp đất xã Tiên   Giáp đất xã
+11   Tam Đa   Tiến   Nguyên Hoà   800
+Đường 386 (đường 202 cũ) xã   Giáp đất nhà   Giáp đất xã Tam
+12   Tiên Tiến   ông Sông   Đa   800
+Giáp đất xã
+13   Đường 203B (xã Đoàn Đào)   Minh Hoàng   Quốc lộ 38B   800
+Đườngrrẽ vào cổng
+14   Đường 201 (xã Quang Hưng)   Ngã tư Tràng
+thôn ThọLão   800
+Giáp đất huyện
+15   Đường 203B (xã Đoàn Đào)   Quốc lộ 38B
+Tiên Lữ   800
+
+16
+16   Đường 202B (xã Đình Cao)   Đường 203B   Giáp đất xã Đoàn
+Đào   800
+17   Đường 203 (xã Đình Cao)   Giáp đất trường   Cầu Vóc
+THCS Đình Cao   800
+18   Đường 202B(xã Đoàn Đào)   Giáp đất xã   Đình Cao   Giáp đất xã Phan   Sào Nam   800
+19   Đường 202B (xã Phan Sào   Giáp đất xã   Giáp xã Minh
+Nam)   Đoàn Đào   Tân   800
+20   Minh Tân   Đường 386 (đường 202 cũ) xã   Giáp đất xã Đa   Lộc, Ân Thi   Cổng làng thôn   Tần Tiến   800
+Ngã tư thôn Quế   Giáp đất xã Đoàn
+21   Đường 203B (xã Minh Hoàng)
+Lâm   Đào   800
+22   Đường 201 (xã Nhật Quang)   Đường 202   Từ Cống Trầy
+800
+23   Đường 201 (xã Đình Cao)   Cống Tràng Cầy   Đường 202
+800
+Giáp đất xã
+24   Đường 201 (xã Tống Trân)   Minh Phượng   Cống Võng Phan   800
+Giáp đất xã
+25   Đường 201 (xã Minh Tiến)   Cống Tràng Cầy
+Minh Phượng   800
+Đườngrrẽ vào cổng   Giáp xã Tống
+26   Đường 201 (xã Quang Hưng)   thôn ThọLão   Phan   700
+Giáp đất xã Nhật   Giáp đất xã
+27   Đường 201 (xã Tống Phan)
+Quang   Quang Hưng   700
+Giáp đất xã Tống
+28   Đường 201 (xã Nhật Quang)   Từ Cống Trầy
+Phan   700
+B   Các trục đường khác
+Các đoạn đường ở vị trí gần trung
+1   tâm văn hóa xã, chợ và các trục   Các xã   700
+đường có mặt cắt >3,5m
+Các trục đường có mặt cắt từ
+2   2,5m đến 3,5m   Các xã
+600
+3   Các trục đường có mặt cắt < 2,5m   Các xã
+500
+17
+Bảng số 05
+BẢNG GIÁ ĐẤT SẢN XUẤT KINH DOANH
+PHI NÔNG NGHIỆP TẠI ĐÔ THỊ
+(Kèm theo Quyết định số 15 /2013/QĐ - UBND
+ngày 20 /12/2013 của UBND tỉnh)
+Đoạn đường
+Số   Đơn giá
+Tên đơn vị hành chính và
+(1.000   Ghi chú
+TT   đường   Điểm đầu   Điểm cuối   đồng/m2)
+1   Thành phố Hưng Yên
+Phạm Ngũ
+1   Đường Điện Biên   Tô Hiệu   Lão   3.000
+Lê Văn
+2   Đường Nguyễn Văn Linh   Tô Hiệu   2.500
+Lương
+Phạm Ngũ
+3   Đường Điện Biên   Phố Hiến   1.800
+Lão
+4   Đường Nguyễn Văn Linh   Lê Văn   Lương   Giáp xã Bảo   Khê   1.800
+Nguyễn
+5   Đường Tô Hiệu   Văn Linh   Lê Đình Kiên   2.500
+Nguyễn
+6   Đường Lê Văn Lương   Văn Linh   Cầu An Tảo   2.500
+Lê Văn
+7   Đường Triệu Quang Phục   Tô Hiệu   2.000
+Lương
+Giáp xã Trung
+8   Đường Lê Văn Lương   Cầu An Tảo   1.800
+Nghĩa
+Nguyễn Đình
+9   Đường Nguyễn Thiện Thuật   Bãi Sậy   1.800
+Nghị
+10   Đường Phạm Ngũ Lão   Bãi Sậy   Lê Đình Kiên   1.800
+Phạm Bạch   Triệu Quang
+11   Đường Chu Mạnh Trinh   Hổ   Phục   1.800
+Chùa
+12   Đường Phạm Bạch Hổ   Đinh Điền   1.800
+Chuông
+Chùa
+13   Đường Bãi Sậy   Phố Hiến   1.800
+Chuông
+Ngã tư Chợ   Phạm Bạch
+14   Đường Đinh Điền   Gạo   Hổ   1.800
+Các trục đường khác có mặt
+15   Thuộc các phường   1.500
+cắt > 15m
+Các trục đường còn lại có
+16   Thuộc các phường   1.000
+mặt cắt < 15m
+a/ 1
+II   Huyện Văn Giang
+1   Ven quốc lộ   2.000
+2   Ven đường tỉnh   1.500
+3   Các vị trí còn lại   1.000
+Huyện Văn Lâm
+1   Ven quốc lộ   2.000
+2   Ven đường tỉnh   1.500
+3   Các vị trí còn lại   1.000
+IV   Huyện Mỹ Hào
+1   Ven Quốc lộ   2.000
+2   Ven đường tỉnh   1.500
+3   Các vị trí còn lại   1.000
+V   Huyện Yên Mỹ
+1   Ven quốc lộ   2.000
+2   Ven đường tỉnh   1.500
+3   Các vị trí còn lại   1.000
+VI   Huyện Khoái Châu
+1   Ven quốc lộ   1.500
+2   Ven đường tỉnh   1.000
+3   Các vị trí còn lại   700
+VII   Huyện Kim Động
+1   Ven quốc lộ   1.500
+2   Ven đường tỉnh   1.000
+3   Các vị trí còn lại   700
+2
+VIII   Huyện Ân Thi
+1   Ven quốc lộ   1.500
+2   Ven đường tỉnh   1.000
+3   Các vị trí còn lại   700
+IX   Huyện Tiên Lữ
+1   Ven quốc lộ   1.500
+2   Ven đường tỉnh   1.000
+3   Các vị trí còn lại   700
+X   Huyện Phù Cừ
+1   Ven quốc lộ   1.500
+2   Ven đường tỉnh   1.000
+3   Các vị trí còn lại   700
+3
+Bảng số 06
+BẢNG GIÁ ĐẤT SẢN XUẤT KINH DOANH
+PHI NÔNG NGHIỆP TẠI NÔNG THÔN
+(Kèm theo Quyết định số 15 /2013/QĐ - UBND
+ngày 20 /12/2013 của UBND tỉnh)
+Đơn giá
+Số TT   Tên đơn vị hành chính và vị trí   (1.000   Ghi chú
+đồng/m2)
+1   Thành phố Hưng Yên
+1   Ven quốc lộ   1.500
+2   Ven đường tỉnh   1.000
+3   Các vị trí còn lại   700
+II   Huyện Văn Giang
+1   Ven quốc lộ   1.500
+2   Ven đường tỉnh   1.000
+3   Các vị trí còn lại   700
+III   Huyện Văn Lâm
+1   Ven quốc lộ   1.500
+2   Ven đường tỉnh   1.000
+3   Các vị trí còn lại   700
+IV   Huyện Mỹ Hào
+1   Ven quốc lộ   1.500
+2   Ven đường tỉnh   1.000
+3   Các vị trí còn lại   700
+V   Huyện Yên Mỹ
+1   Ven Quốc lộ   1.500
+3   Ven đường tỉnh   1.000
+Các vị trí còn lại   4   700
+VI   Huyện Khoái Châu
+1   Ven quốc lộ   1.000
+2   Ven đường tỉnh   700
+3   Các vị trí còn lại   500
+VII   Huyện Kim Động
+1   Ven quốc lộ   1.000
+2   Ven đường tỉnh   700
+3   Các vị trí còn lại   400
+VIII   Huyện Ân Thi
+1   Ven quốc lộ   1.000
+2   Ven đường tỉnh   700
+3   Các vị trí còn lại   400
+IX   Huyện Tiên Lữ
+1   Ven quốc lộ   1.000
+2   Ven đường tỉnh   700
+3   Các vị trí còn lại   400
+X   Huyện Phù Cừ
+1   Ven quốc lộ   1.000
+2   Ven đường tỉnh   700
+3   Các vị trí còn lại   400
+2
+Bảng số 07
+BẢNG GIÁ ĐẤT SẢN XUẤT KINH DOANH
+PHI NÔNG NGHIỆP TẠI CÁC KHU, CỤM CÔNG NGHIỆP
+(Kèm theo Quyết định số 15 /2013/QĐ - UBND
+ngày 20 /12/2013 của UBND tỉnh)
+Đơn giá
+Số   Khu, cụm công nghiệp   Huyện, thành   (1.000   Ghi chú
+TT   phố
+đồng/m2)
+Khu công nghiệp
+I
+1   Khu công nghiệp Phố Nối A   Văn Lâm, Mỹ Hào
+1.000
+2   Khu công nghiệp Phố Nối B   Mỹ Hào, Yên Mỹ
+1.000
+3   Khu công nghiệp Thăng Long II   Mỹ Hào, Yên Mỹ
+1.000
+4   Khu công nghiệp Như Quỳnh   Văn Lâm
+1.000
+5   Khu công nghiệp Minh Đức   Mỹ Hào
+1.000
+6   Khu công nghiệp Yên Mỹ   Yên Mỹ
+1.000
+II   Cụm công nghiệp
+1   Cụm công nghiệp Tân Tạo
+700
+2   Cụm công nghiệp sạch Văn Giang   Văn Giang
+700
+3   Cụm công nghiệp Xuân Quan
+700
+4   Cụm công nghiệp Làng nghề Minh Khai
+700
+5   Cụm công nghiệp Tân Quang   Văn Lâm
+1.000
+6   Cụm công nghiệp Đại Đồng
+700
+7   Cụm công nghiệp Làng nghề Liên Khê   Khoái Châu
+700
+8   Cụm công nghiệp thị trấn Lương Bằng   Kim Động
+700
+9   Cụm công nghiệp Quán Đỏ   Tiên Lữ
+700
+10   Cụm công nghiệp Làng nghề Đình Cao   Phù Cừ
+500
+1

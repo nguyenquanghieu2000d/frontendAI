@@ -1,0 +1,717 @@
+Ký bởi: Cổng Thông tin điện tử Chính phủ
+Email: thongtinchinhphu@chinhphu.vn
+Cơ quan: Vặn phòng Chính phủ
+Thời gian ký: 27.02.2014 16:18:01
++07:00
+
+CHÍNH PHỦ   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Số: 14/2014/NĐ-CP   Hà Nội, ngày 26 tháng 02 năm 2014
+
+NGHỊ ĐỊNH
+Quy định chi tiết thì hành Luật điện lực về an toàn điện
+Căn cứ Luật tổ chức Chính phủ ngày 25 tháng 12 năm 2001;
+Căn cứ Luật điện lực ngày 03 tháng 12 năm 2004 và Luật sửa đổi, bổ
+sung một số điều của Luật điện lực ngày 20 tháng 11 năm 2012;
+Theo đề nghị của Bộ trưởng Bộ Công Thương,
+Chính phủ ban hành Nghị định quy định chi tiết thi hành một số điều của
+Luật điện lực về an toàn điện.
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng
+1. Nghị định này quy định chi tiết thì hành một số điều của Luật diện lực.
+về an toàn điện, bao gồm: An toàn trong phát điện, truyền tái diện, phản phối
+điện, sử dụng điện trong sản xuất; bồi thường, hỗ trợ nhà ở, công trình, đất và
+cây trong hành lưng bảo vệ an toàn đường đây dân diện trên không khí xây
+dựng các công trình lưới điện cao áp.
+2. Nghị định này áp dụng đối với tổ chức, cá nhân tham gia hoạt động
+điện lực, sử dụng điện hoặc có các hoạt động khác liên quan đến điện lực tại
+Việt Nam. Trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa
+Việt Nam ký kết hoặc gia nhập có quy định khác với quy định của Nghị định
+này thì áp dụng quy định của điều ước quốc tế đó.
+Điều 2. Giải thích từ ngữ
+Trong Nghị định này, các từ ngữ dưới đây được hiếu như sau:
+1. Công trình lưới diện cao áp bao gồm lưới điện cao áp và hành lang
+bảo vệ an toàn lưới diện cao áp, áp dụng cho lưới diện có điện áp danh định.
+từ 6 kV trở lên.
+2. Khu dân cư là khu vực địa lý hiện có các hộ dân sinh sống tập trung
+hoặc đã được phê duyệt quy hoạch để các hộ dận chuyển đến sinh sống.
+Những khu vực địa lý không có các hộ dân sinh sống mặc đà có người hoặc
+phương tiện cơ giới qua lại, các vùng đồng ruộng, đổi trồng cây không được
+gọi là khu dân cư.
+3. Nơi thường xuyên tập trung đông người gồm chợ, quảng trường, bệnh.
+viện, trường học, nơi tổ chức hội chợ, triển lâm, trang tâm thương mại, khu
+vui chơi giải trị, bến tâu, bến xe, nhà ga và các công trình công cộng khác.
+4. Trạng thái vỡng cực đại của dây dẫn điện là trạng thái tính toán đây
+dẫn khi đồng thời chịu tác động khất nghiệt nhất của các yếu tổ ảnh hưởng
+như dòng điện qua dây dẫn, nhiệt độ môi trường xung quanh, tải trọng giớ.
+Điều 3. Quy định chung về an toàn đối với thiết bị điện và công trình
+điện lực
+1. Việc thiết kế, chế tạo thiết bị, xây dựng công trình điện lực phải thực.
+hiện theo tiêu chuẩn, quy chuẩn kỹ thuật hoặc tiêu chuần nước ngoài, quốc tế
+được cơ quan nhà nước có thẩm quyền cho phép áp dụng tại Việt Nam và
+phải đảm bảo các yêu cầu sau đây:
+a) An toàn về điện;
+b) An toàn về xây dựng;
+c) An toàn về công nghệ sử dụng nguồn năng lượng sơ cấp (thủy năng.
+than, đầu mỏ, khí đốt thiên nhiên và các dạng năng lượng khác);
+d) An toàn về phòng, chống cháy nổ;
+đ) Các quy định về bảo vệ môi trường.
+2. Các thiếi bị diện, dụng cụ điện mới sản xuất trong nước hoặc nhập
+khẩu phải có chứng chi chất lượng hoặc có nhãn hiệu hàng hóa, đăng ký chất
+lượng phù hợp với têu chuẩn, quy chuẩn kỹ thuật và các quy định khác có
+liên quan của pháp luật; phải có bản hướng dẫn sử dụng kém theo về các
+thông số kỹ thuật, tính năng, tác dụng căng như các điều khác cần lưu ý để
+hướng dẫn người sử dụng phòng tránh sự cố và tai nạn điện.
+Điều 4. Các hành vì bị nghiêm cấm
+1. Trộm cấp hoặc tháo gỡ dây néo, đây tiếp địa, trang thiết bị của lưới
+điện; trẻo lên cột diện, vào trạm điện hoặc khu vực bảo vệ an toàn công trình.
+điện khi không có nhiệm vụ.
+2. Sử dụng công trình lưới điện cao áp vào những mục đích khác khi
+chưa được sự thoá thuận với đơn vị quản lý công trình lưới điện cao áp.
+3. Thả điều, vật bay gần công trình lưới diện cao áp có khả năng gày sự.
+cố lưới điện.
+2
+4. Lấp đặt ăng ten thu phát sóng; dây phơi; giản giáo; biển, hộp đèn
+quảng cáo và các vật dụng kháo tại các vị trí mà khi bị đố, rơi có thể va chạm
+vào công trình lưới điện cao áp.
+5. Trồng cây hoặc để cây vi phạm khoảng cách an toàn đối với đường
+dây dẫn điện trên không, trạm điện.
+6. Bắn chím đậu trên đây điện, trạm diện hoặc quảng, ném bất kỷ vật gi.
+lên đường dây điện, trạm điện.
+7. Đào đất gây hìn sụt công trình lưới điện cao áp, trạm điện.
+8. Đấp đất, xếp các loại vật liệu, thiết bị hoặc đổ phế thải vi phạm
+khoảng cách an toàn.
+9. Sử dụng cột diện, trạm điện để làm nhà, lều, quán, buộc gia súc hoặc.
+sử dụng vào mục đích khác.
+10. Nố mìn, mở mô; xếp, chứa các chất để cháy nổ, các chất hoá học có
+khả năng gây ăn mòn hoặc hư hóng các bộ phận của công trình lưới điện.
+11. Đốt nương rẫy, sử dụng các phương tiện thì công gây chấn động hoặc
+có khả năng làm hư hông, sự cố công trình lưới điện, trạm điện, nhà máy điện.
+12. Điều khiển các phương tiện bay có khoảng cách đến bộ phận gần
+nhật của công trình lưới điện cao áp nhỏ hơn 100 a, trừ trường hợp phương
+tiện bay làm nhiệm vụ quản lý, bảo dưỡng, sửa chữa đường đây điện được
+phép theo quy định.
+13. Để cây đổ vào đường đây điện khi chặt tỉa cây hoặc lợi dựng việc
+bảo vệ, sửa chữa công trình tưới điện cao áp để chặt cây.
+14. Các hành vi khác vi phạm quy định về bảo vệ an toàn công trình lưới.
+điện cao áp.
+Chương II
+AN TOẦN ĐIỆN
+Điều 5. Yêu cầu chung về an toàn trong phát điệu, truyền tải điện,
+phân phối điện và sử dụng điện để sản xuất
+1. Đối với các nhà máy điện, rạm điện, đường dây dẫn điện chuẩn bị
+vận hành khai thác
+a) Chủ đầu tư phải có đầy đủ các tài liệu thiết kế kỹ thuật, thiết kế bản vẽ
+thi công, các tải liệc hoàn công xây lắp và các tài liệu kỹ thuật khác theo quy
+định của pháp luật về xây dựng bản giao cho đơn vị quản lý vận hành;
+3
+b) Chủ đầu tư các dự án nhà máy diện, trạm điện, đường dây dẫn điện
+phải thực hiện công tác thí nghiệm, hiệu chính trừng phần và toán bộ hệ thống
+các trang thiết bị trong dây chuyển công nghệ phát điện, truyền tài và phân
+phối điện để bảo đảm phù hợp với các tiêu chuẩn, quy chuẩn kỹ thuật, các
+thông số quy định trong thiết kế đã được duyệt. Hồ sơ thí nghiệm, hiệu chỉnh.
+phải được đưa vào biên bản nghiệm thủ từng phần và toàn bộ dự án.
+2. Trong khi vận hành,đường dây dận điện trên không đi qua khu dân cư,
+nơi thường xuyện tập trung đông người, không được cho đường dây mang tái
+vượt quá tiêu chuẩn, định mức theo quy định.
+3. Có đầy đủ các tài lệu về tiêu chuẩn; quy chuẩn kỹ thuật an toàn diện;
+các hướng dẫn như: Quy trình, nội quy và biện pháp tổ chức thực hiện các
+quy định về an toàn điện tại cơ quan, doanh nghiệp trên cơ sở tiêu chuẩn, quy
+chuẩn kỹ thuật về an toàn diện hiện hành. Thiết lập hồ sơ, lý lịch, tài liệu kỷ
+thuật liên quan đến thiết bị điện và tổ chức quản lý then quy định.
+4. Tại các vị trí vận hành phải có đầy đủ các quy trình: Vận hành thiết bị.
+xử lý sự cố điện; sơ đổ lưới điện, nội quy phòng cháy, chữa cháy, số nhật ký
+vận hành, dụng cụ, trang bị phương tiệp bảo vệ cá nhân, biển cẩm, biển báo
+và các dụng cụ, phương tiện khác theo quy định.
+5. Bố trí người lao động làm công việc vận hành, thí nghiệm, xây lắp.
+sửa chữa đường đây diện hoặc thiết bị điện phải đảm bảo đủ các điều kiện sau:
+a) Được đào tạo về nghiệp vụ, kỹ thuật đúng yêu cầu ngành nghề;
+b) Đức huấn luyện và cấp thẻ an toàn điện.
+6. Sử dụng các thiết bị điện có chứng chí chất lượng hoặc nhân mác đăng
+ký chất lượng phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật và các quy định
+pháp luật khác có liên quan.
+7. Xây dựng; bán hành kế hoạch phòng ngừa, ngăn chặn sự cố, tai nạn.
+Trường hợp xảy ra sự cố, tai nạn về điện, phải nhanh chóng áp dụng các biện
+pháp cần thiết để cấp cứu người bị nạn, giảm nhẹ thiệt hại về người, tài sản;
+phải tổ chức điều tra xác định, phân tích nguyên nhân; kiểm điểm, xác định.
+trách nhiệm.
+8. Tổ chức hoặc tham gia tuyên truyền, phổ biến rộng rãi về công tác an.
+toàn điện.
+9. Thực hiện việc thống kê, báo cáo về sự cố, tai nạn điện theo quy định.
+Điều 6. Quy định về huấn luyện và cấp thẻ an toàn điện
+1. Người lao động làm công việc vận hành, thí nghiệm, xây lắp và sửa
+chứa đường đây điện hoặc thiết bị điện phải được buấn luyện về an toàn điện
+và được cấp thẻ an toàn điện.
+2. Việc huấn huyện về an toàn điện phải được thực hiện theo định kỷ một
+năm một lần và có kiểm tra, sát hạch xếp bậc an toàn điện.
+4
+3. Người sử dụng lao động chịu trách nhiệm tổ chức huấn huyện và cấp
+thẻ an toàn điện cho người lao động được quy định tại Khoản 1 Điều này; đối.
+với người vận hành, sửa chữa điện ở nông thôn, miễn núi, biên giới, hài đảo,
+việc cấp thẻ an toàn điện được thực hiện theo quy định tại Điều 64 Luật điện lực.
+4. Chương trình huấn huyện phải có các nội dung chính sau:
+a) Quy trình vận hành, xử lý sự cố đường đây diện, thiết bị điện nơi
+người lao động làm việc;
+b) Quy định về an toàn khi kiểm tra, bảo dưỡng, sửa chữa, thí nghiệm.
+đường đây diện, thiết bị điện trong trường hợp có cắt điện và không cất điện;
+c) Cách nhận biết và biện pháp loại trừ nguy cơ gây sự cố, tai nạn tại nơi.
+làm việc và phương pháp cấp cứu người bị nạn do điện;
+d) Thiết lập vùng làm việc an toàn;
+đ) Tính năng, tác dụng, cách sử dụng, cách bảo quản, quy định về kiểm
+tra (thí nghiệm) các trang thiết bị an toàn, phương tiện, dụng cụ làm việc phú
+hợp với công việc của người lao động;
+c) Thực hành những nội dung có liên quan đến việc bảo đảm an toàn
+phù hợp với công việc của người lao động.
+5. Bộ Công Thương quy định chi tiết về công tác huấn luyện, xếp bậc:
+cấp thẻ an toàn điện.
+Điều 7. Cường độ điện trường trong trạm điện có điện áp từ 220 kV
+trở lên
+1. Cường độ điện trường tại khu vực có người thường xuyên làm việc.
+phải đảm bảo yêu cầu không được vượt quá 5 kV/m.
+2. Trường hợp cường độ điện trường lớn hơn quy định tại Khoản 1 Điều
+này thì phải áp dụng quy định về thời gian cho phép làm việc trong một ngày
+đêm như sau:
+a) Khi người lao động không sử dụng thiết bị phòng tránh tác động của
+điện trường, thời gian làm việc tại nơi có điện trường được quy định trong
+bảng sau:
+Cường độ điện
+20
+trường E   < 5   5   8   10   12   15   18   20
+<E <25   >=25
+(kV/m)
+Thời gian cho
+phép làm việc   Không
+hạn   480   255   180   130   80   48   30   10   0
+trong một ngày   chế
+đêm (phút)
+5
+Cường độ điện trường có trị số khác trong bảng thì tính thời gian cho.
+phép làm việc bằng (50/E - 2) giờ.
+b) Khi người lao động sử dụng thiết bị phòng tránh tác động của điện.
+trường thì thời gian làm việc được thực hiện theo hướng dẫn của nhà chế tạo
+thiết bị.
+3. Đơn vị sở hữu, quản lý vận hành trạm điện thực hiện do, lập bản đồ
+cường độ điện trường trên toán bộ diện tích mặt bằng trạm và niêm yết tại
+phòng điều khiển trung tâm của trạm.
+Bản đổ cường độ điện trường cần được lập lại khi trạm điện có một trong
+những thay đổi ở phần mang điện từ 220 kV trở lên như sau:
+a) Thay đổi phạm vi bố trí trang thiết bị;
+b) Thay đổi khoảng cách giữa các vật mang điện;
+c) Giảm khoảng cách từ vật mang điện đến mặt đất.
+Điều 8. Xử lý, quản lý an toàn đối với công trình điện lực không còn
+khai thác, sử dụng
+1. Các công trình điện lực, không bao gồm nhà máy điện hạt nhân, khi
+không còn khai thác, sử dụng phải được xử lý, quản lý theo quy định của pháp
+luật về xây dựng, về bảo vệ môi trường và pháp luật khác liên quan.
+2. Chủ sở hữu công trình phải tổ chức thực hiện các công việc sau:
+a) Thu gom chất thải nguy hại, tro xi, đầu mở các loại tồn đọng trong các
+đường ống, trang thiết bị, đầu cặn thải, các chất xút ăn da, amoniac,
+tyarasine, clo và axtt mạnh, các chất ăn mòn khác và các dung dịch của
+chúng và xử lý theo quy định của pháp luật về bảo vệ môi trường;
+b) Đối với lưới diện, phải tháo dỡ, thu hồi các kết cấu của lưới điện và
+hoàn trả mặt bằng trong vòng 06 tháng kể từ khi lưới điện được tách khỏi hệ
+thống điện;
+c) Đối với dập thủy điện, phải hoàn trả đòng chảy tự nhiên cho lưu vực
+sông (suối).
+3. Chủ sở hữu công trình phải lập phương án quản lý, tháo dỡ, xử lý đối.
+với công trình điện lực không còn khai thác sử dụng trong đó bao gồm nội
+dung tại Khoản 2 Điều này, trình duyệt theo quy định của pháp luật về xây
+dựng và tổ chức thực hiện theo phương án được duyệt.
+Điều 9. Xây dựng công trình lưới điện cao áp
+1. Khi dự án công trành lưới điện cao áp được cơ quan nhà nước có thẩm
+quyền phê duyệt mặt bằng xây dựng, chậm nhất sau mười lăm (15) ngày làm
+việc chủ đầu tư phải thông báo bằng văn bản cho Ủy ban nhân dân các cấp ở
+địa phương, tổ chức, hộ gia đình, cá nhân là chủ sử dụng đất, chủ sở hữu nhà,
+6
+công trình xây dựng và tài sán khác nắm trong phạm vi hành lang bảo vệ an
+toàn lưới diện cao áp biết. Việc bồi thường, hỗ trợ về đất, tài sản trên đất và
+hỗ trợ khác cho người đang sử dụng đất khi xây dựng công trình được thực.
+hiện theo quy định của pháp luật về bồi thường, hỗ trợ và tái định cư. Mọi tài
+sản hoặc công trình được tạo lập sau khi đã nhận được thông báo thực hiện dự.
+án má vi phạm hành làng an toàn theo quy định tại Nghị định này thì buộc
+phải tháo dỡ phần vi phạm và không được bồi thường, hỗ trợ.
+2. Khi xây dựng, cải tạo đoạn đường dây dẫn điện trên không, ở khu dân
+cư, nơi thường xuyên tập trung đông người, khu công nghiệp, khu công nghệ
+cao, khu chế xuất, công trình quan trọng liên quan đến an ninh, quốc phòng,
+khu di tích lịch sử - văn hoá, danh lam thắng cảnh đã được Nhà nước xếp
+hạng phải tăng cường các biện pháp an toàn về diện và xây dựng như sau:
+a) Cột phải là cột thép hoặc bê tông cốt thép; hệ số an toàn của cột, xà,
+móng cột không nhỏ hơn 1,2;
+b) Trong một khoảng cột, dây dẫn điện không được phép có mối nối, trừ
+đây dẫn điện có tiết điện tử 240 mm” trở lên cho phép có một mối nối cho một
+đấy. Hệ số an toàn của dây dẫn điện không nhỏ hơn 2,5;
+c) Cách điện phải bố trí kép cùng chủng loại và đặc tỉnh kỹ thuật. Đây
+dẫn diện, dây chống sét nếu mắc trên cách điện kiểu treo phải sử dụng khoá
+đỡ kiếu cố định. Hệ số an toàn của cách diện và các phụ kiện phải đáp ứng
+đúng tiêu chuẩn theo quy định hiện hành;
+d) Khoảng cách từ điểm thấp nhất của đây dẫn điện ở trạng thái võng cực
+đại đến mặt đất không nhỏ hơn quy định trong bảng sau:
+Điện áp   Đến 35 kV   110 kV   220 kV
+Khoảng cách   14 m   15 m   18 m
+đ) Trường hợp đặc biệt, khi xây dựng, cải tạo đường đây diện cấp điện
+áp đến 35 kV dọc theo hành lang đường giao thông nội bộ ở các khu dân cư,
+Khu công nghiệp, khu công nghệ cao, khu chế xuất, nếu sử dụng dây bọc thì
+cho phép khoảng cách từ điểm thấp nhất của đây dẫn điện ở trạng thái võng
+cực đại đến mặt đất không nhỏ hơn 11 m.
+3. Khoảng cách từ đây dẫn điện đến mật đất ở ngoài các khu vực được.
+quy định tại Khoản 2 Điều này được thực hiện theo quy định của Quy chuẩn
+kỹ thuật quốc gia về kỹ thuật điện.
+4. Đoạn cáp ngầm nối với đường đây dẫn điện trên không tính từ mật đất.
+trở lên đến độ cao hai mét phải được đặt trong ống bảo vệ.
+5. Trường hợp buộc phải xây dựng lưới diện cao áp trong phạm vi bảo.
+vệ kết cầu hạ tầng giao thống đường bộ, phải tuân thủ quy định của pháp luật
+về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ.
+7
+Điều 10. Khoảng cách an toàn phóng điện theo cấp điện áp
+1. Khoảng cách an toàn phóng điện theo cấp điện áp quy định tại Khoản 1
+Điều 51 của Luật điện lực được quy định trong bảng sau:
+Đến 22 kV   35 kV   110 kV   220 kV
+Điện áp   Dây   Dây   Dây   Dây   Dây   Dây
+bọc   trần   bọc   trần   trần   trần
+Khoảng cách an toàn
+phóng điện   1,0 m   2,0 m   1,5 m   3,0 m   4,0 m   6,0 m
+2. Khoảng cách an toàn phóng diện theo cấp điện áp quy định tại Khoản 4
+Điều 51 của Luật điện lực là khoảng cách tối thiểu từ đây dẫn điện đến điểm.
+gần nhất của thiết bị, dụng cụ, phương tiện làm việc trong hành lang bảo vệ
+an toàn lưới điện cao áp và được quy định trong bảng sau:
+Điện áp   Đến 22 kV   35 kV   110 kV   220 kV   500 kV
+Khoảng cách an
+4,0 m   4,0 m   6,0 m   6,0 m   8,0 m
+toàn phóng điện
+3. Khoảng cách an toàn phóng điện theo cấp điện áp quy định tại Khoản 5,
+Khoản 6 và Khoản 7 Điều 51 của Luật điện tực là khoảng cách tối thiểu tử
+dây dẫn điện khi đây ở trạng thái vông cực đại đến điểm cao nhất của đối
+tượng được bảo vệ và được quy định trong bàng sau:
+Điện áp
+Khoảng cách   Đến 35 kV   110 kV   220 kV   500 kV
+an toàn phóng điện
+Đến điểm cao nhất (4,5 m) của
+phương tiện giao thông đường bộ   2,5 m   2,5 m   3,5 m   5,5 m
+Đến điểm cao nhất (4,5 m) của
+phương tiện, công trình giao
+thông đường sắt hoặc đến điểm
+cao nhất (7,5 m) của phương   3,0 m   3,0 m   4,0 m   7,5 m
+tiện, công trình giao thông đường
+sắt chạy điện
+Đến chiều cao tỉnh không theo
+cấp kỹ thuật của đường thuỷ   1,5 m   2,0 m   3,0 m   4,5 m
+nội địa
+8
+Điều 11. Hành lang bảo vệ an toàn đường dây dẫn điện trên không
+1. Hành lang bảo vệ an toàn của đường dây dẫn điện trên không được
+quy định như sau:
+a) Chiều dải hành lang được tỉnh từ vị trí đường đây ra khởi ranh giới
+bảo vệ của trạm này đến vị trí đường đây đi vào ranh giới bảo vệ của trạm kế tiếp;
+b) Chiều rộng hành lang được giới hạn bởi hai mặt thắng đứng về hai.
+phía của đường đây, song song với đường dây, có khoảng cách từ đây ngoài
+cùng về mỗi phòa khi đây ở trạng thái tỉnh theo quy định trong bảng sao:
+Đến 22 kV   35 kV   110 kV   220 kV   500 kV
+Điện áp   Dây   Dây   Dây   Dây   Dây   Dây   Dây
+bọc   trần   bọc   trần   trần   trần   trần
+Khoảng
+1,0 m   2,0 m   1,5 m   3,0 m   4,0 m   6,0 m   7,0 m
+cách
+c) Chiều cao hành lang được tỉnh từ đảy móng cột đến điểm cao nhất của
+công trình cộng thêm khoảng cách an toàn theo chiều thầng đúng quy định
+trong bảng sau:
+Điện áp   Đến 35 kV   110 kV   220 kV   500 kV
+Khoảng cách   2,0 m   3,0 m   4,0 m   6,0 m
+2. Hành lang bảo vệ an toàn các loại cáp điện đi trên mặt đất hoặc treo.
+trên không được giới hạn về các phía là 0,5 m tỉnh từ mặt ngoài của sợi cáp
+ngoài cùng.
+Điều 12. Cây trong và ngoài hành lang bảo vệ an toàn đường đây
+dẫn điện trên không
+1. Trường hợp cây trong hành lang bảo vệ an toàn đường dây dẫn điện
+trên không, khoảng cách được quy định như sau:
+a) Đối với đường dây dẫn điện có điện áp đến 35 kV trong thành phố, thị
+xã, thị trấn thì khoảng cách từ điểm bất kỳ của cây đến dây dẫn điện ở trạng
+thải vông cực đại không nhỏ hơn khoảng cách quy định trong báng sau:
+Điện áp   Đến 35 kV
+Dây bọc   Dây trần
+Khoảng cách   0,7 m   1,5 m
+9
+b) Đối với đường dây có diện áp từ 110 kV đến 500 kV trong thành phố,
+thị xã, thị trấn thì không được để cây cao hơn đây dẫn thấp nhất trừ trường
+hợp đặc biệt phải có biện pháp kỹ thuật đảm bảo an toàn và được Ủy ban
+nhân dân tỉnh, thành phố trực thuộc Trung ương (Ủy ban nhân dân cấp tỉnh).
+cho phép. Khoảng cách từ điểm bắt kỷ của cây đến dây dẫn khi đây ở trạng
+thái võng cực đại không nhó hơn khoảng cách quy định trong bảng sau:
+Điện áp   110 kV   220 kV   500 kV
+Dây trần
+Khoảng cách   2,0 m   3,0 m   4,5 m
+c) Đối với đường đây ngoài thành phố, thị xã, thị trấn thì khoảng cách từ
+điểm cao nhất của cây theo chiều thắng đứng đến độ cao của dây dẫn thấp
+nhất khi đang ở trang thải vỡng cực đại không nhỏ hơn khoảng cách quy định
+trong bảng sau:
+Điện áp   Đến 35 kV   110 kV   220 kV   500 kV
+Dây bọc   Dây trần   Dây trần
+Khoảng cách   0,7 m   . 2,0 m   3,0 m   . 4,0 m   6,0 m
+đ) Đối với đường dây dẫn điện trên không vượt qua rừng đặc dụng, rừng
+phòng hộ, rừng sản xuất, vườn trồng cây thì khoảng cách theo phương thắng
+đứng từ chiếu cao trong bình của cây đã phát triển tối đa đến dây dẫn điện.
+thấp nhất khi đây ở trạng thái văng cực đại không nhô hơn quy định tại Điểm c
+Khoản 1 Điều này.
+2. Trường hợp cây ở ngoài hành lang bảo vệ an toàn đường dây dẫn điện
+trên không và ngoài thành phố, thị xã, thị trấn thì khoảng cách từ bộ phận bắt
+kỳ của cây khi cây bị đổ đến bộ phận bắt kỳ của đường đây không nhỏ hơn.
+khoảng cách quy định trong bảng sau:
+Điện áp   Đến 35 kV   110 và 220 kV   500 kV
+Khoảng cách   0,7 m   1,0 m   2,0 m
+3. Đối với cây phát triển nhanh trong khoảng thời gian 03 tháng có khả
+năng vi phạm khoáng cách quy định tại Khoản 1 và Khoản 2 Điều này và
+những cây không cón hiệu quả kinh tế nếu chặt ngọn, tia cảnh, thì phải chặt
+bỏ và cấm trồng mới.
+4. Lúa, hoa màu và cây chỉ được trồng cách mép móng cột diện, móng.
+néo ít nhất là 0,5 m.
+10
+Điều 13. Điều kiện tồn tại nhà ở, công trình trong hành lang bảo vệ
+an toàn đường dây dẫn diện trên không có điện áp đến 220 kV
+Nhà ở, công trình xây dựng được tồn tại trong hành lang bảo vệ an toàn
+đường đây dẫn điện trên không có điện áp đến 220 kV nến đáp ứng đủ các
+điều kiện sau:
+1. Mái lợp và tưởng bao phải làm bằng vật liệu không cháy.
+2. Không gây cản trở đường ra vào để kiểm tra, bảo dưỡng, thay thể các.
+bộ phận công trình lưới điện cao áp.
+3. Khoảng cách từ bắt kỳ bộ phận nào của nhà ở, công trình đến đây dẫn
+điện gần nhất khi đây ở trạng thái võng cực đại không nhỏ hơn quy định trong
+bảng sau:
+Điện áp   Đến 35 kV   110 kV   220 kV
+Khoảng cách   3,0 m   4,0 m   6,0 m
+4. Cường độ điện trường nhỏ hơn 5 kV/m tại điểm bất kỳ ở ngoài nhà
+cách mặt đất một (01) mét và nhữ hơn hoặc bằng 1 kV/m tại điểm bất kỳ ở
+bên trong nhà cách mặt đất một (01) mét.
+5. Đối với nhà ở, công trình trong hành lang bảo vệ an toàn đường đây.
+dẫn điện trên không có điện áp 220 kV, ngoài đáp ứng các điều kiện trên, các
+kết cấu kim loại của nhà ở, công trình còn phải được nối đất theo quy định về
+kỹ thuật nối đất.
+6. Bộ Công Thương quy định chi tiết về phạm vi, kỹ thuật nối đất kết cấu:
+kim loại của chả ở, công trình trong và liền kế hành lang bảo vệ an toàn
+đường dây dẫn điện trên không đối với điện áp từ 220 kV trở lên.
+Điều 14. Hành lang bảo vệ an toàn đường cáp điện ngầm
+Hành lang bảo vệ an toàn đường sáp điện ngằm được quy định như sau:
+1. Chiều dài hành lang được tính từ vị trí cấp ra khỏi ranh giới phạm vi
+bảo vệ của trạm này đến vị trí vào ranh giới phạm vi bảo vệ của trạm kế tiếp.
+2. Chiều rộng hành lang được giới hạn bởi:
+a) Mặc ngoài của mương cáp đối với cáp đặt trong mương cáp;
+11
+b) Hai mặt thằng đứng cách mặt ngoài của vỏ cáp hoặc sọi cáp ngoài.
+cùng về hai phía của đường cáp điện ngằm đối với cáp đặt trực tiếp trong đất,
+trong nước được quy định trong bảng sau:
+Đặt trực tiếp trong đất   Đặt trong nước
+Loại cáp
+Đất không   Nơi không có tàu   Nơi có tàu
+điện   Đất ổn định
+ổn định   thuyền qua lại   thuyền qua lại
+Khoảng
+1,0 m   1,5 m   20,0 m   100,0 m
+cách
+3. Chiều cao được tính từ mặt đất hoặc mặt nước đến
+a) Mặt ngoài của đáy móng mương cáp đối với cáp đặt trong mương cáp;
+b) Độ sâu thấp hơn điểm thấp nhất của vỏ cáp là 1,5 m đối với cáp đặt
+trực tiếp trong đất hoặc trong nước.
+Điều 15. Hành lang bảo vệ an toàn trạm điện
+1. Hành lang bảo vệ an toàn trạm điện được quy định như sau:
+a) Đối với các trạm điện không có tường, rào bao quanh, hành lang bảo
+vệ được giới hạn bòi không gian bao quanh trạm diện có khoảng cách đến các
+bộ phận mang điện gần nhất của trạm điện theo quy định trong bảng sau:
+Điện áp   Đến 22 kV   35 kV
+Khoảng cách   2,0 m   3,0 m
+b) Đối với trạm diện có tường hoặc hàng rào cố định bao quanh, hành
+hang bảo vệ được giới hạn đến điểm ngoài cùng của móng, kè bảo vệ tường
+hoặc hàng rảo; chiếu cao hành lang được tỉnh từ đáy móng sâu nhất của công
+trình trạm điện đến điểm cao nhất của trạm diện cộng thêm khoảng cách an
+toàn theo chiều thắng đảng quy định tại Điểm c Khoản 1 Điều 11 của Nghị
+định này;
+c) Đối với các trạm biến áp, trạm phân phối điện hợp bộ, có vỏ bằng kim
+loại thi hành lang bảo vệ được giới hạn đến mặt ngoài của phần vỏ kim loại.
+2. Nhà và công trình xây dựng gắn hành lang bảo vệ an toàn của trạm
+điện phải đảm bảo không làm hư hòng bất kỳ bộ phận nào của trạm điện;
+không xâm phạm đường ra vào trạm diện; đường cấp thoát nước của trạm.
+diện, hành lang bảo vệ an toàn đường cáp diện ngằm và đường dây dẫn điện
+trên không; không làm cản trở hệ thông thông gió của trạm diện; không để
+cho nước thải xâm nhập làm hư hồng công trình điện.
+12
+Điều 16. Biển báo, tín hiệu
+1. Đơn vị quản lý vận hành lưới điện cao áp phải đặt biển cấm, biển báo
+theo tiêu chuẩn, quy chuẩn kỹ thuật hiện hành.
+2. Các cột diện phải được sơn màu trắng, đó từ khoảng chiếu cao 50 m
+trở lên và phải đặt đèn tín hiệu trên đình cột trong các trường hợp sau:
+a) Cột điện cao từ 80 m trở lên;
+b) Cột điện cao trên 50 tm đến dưới 80 m nhưng ở vị trí có yêu cầu đặc biệt.
+3. Tại điểm thấp nhất nơi giao chéo giữa đường dây dẫn điện trên không
+diện áp 220 kV trở lên với đường tháy nội địa, phải có báo hiệu phù hợp để
+các phương tiện giao thông đường thủy nhận biết được về ban đêm.
+4. Trường hợp đường dây dẫn điện trên không nắm trong phạm vi vừng
+trời lân cận của sản bay việc sơn cột, đặt đên báo hiệu theo quy định của pháp
+luật về quản lý độ cao chướng ngại vật hàng không.
+5. Đọc theo đường cáp điện ngằm trong đất, chủ công trình phải đặt cột
+mốc hoặc đấu hiệu nhận biết đường cáp.
+6. Đường cáp ngầm đặt trong nước phải có báo hiệu chỉ vị trí đường cáp,
+theo quy định của pháp luật về giao thông đường thủy nội địa hoặc quản lý
+cảng biển và luồng hàng hải.
+Điều 17. Quản lý, vận hành lưới điện cao áp
+1. Đơn vị quản lý vận hành lưới điện cao áp có trách nhiệm
+a) Kiểm tra thường xuyên hành lang bảo vệ an toàn lưới diện cao áp.
+trong phạm vi quản lý của minh. Khi phát hiện hành vi vi phạm, phậi yêu cầu
+đối tượng vi phạm đứng ngay các hành vi vi phạm, báo cáo và phối hợp với
+cơ quan nhà nước có thẩm quyền tại địa phương lập biên bản xử lý các hành
+vi vi phạm đó;
+b) Kiểm tra, sửa chữa, bảo dưỡng lưới điện đúng thời hạn quy định.
+Không vận hành quá tài đối với đường dây phía trên nhà ở, công trình.
+xây dựng;
+c) Thống kê, theo dõi tai nạn điện, các vì phạm đối với hành lang bảo vệ
+an toàn lưới triện cao áp trong phạm vi quản lý và báo cáo cơ quan quản lý
+nhà nước về hoạt động điện lực và sử dụng điện tại địa phương, cơ quan cấp
+trên theo định kỳ 06 tháng, hàng năm; đối với tai nạn điện còn phải thực hiện.
+chế độ báo cáo nhanh đến cơ quan quản lý nhà nước về hoạt động điện lực và
+sử dụng điện tại địa phương, cơ quan cấp trên trong vòng 24 giờ kể từ khi tai
+nạn xảy ra;
+13
+đ) Công bổ công khai mốc giới hành lang bảo vệ an toàn lưới diện cao áp.
+2. Người quản lý vận hành, sửa chữa lưới diện phải thực hiện các quy.
+định về bảo đảm an toàn theo quy chuẩn kỹ thuật quốc gia về an toàn diện.
+3. Việc chặt, tỉa cây để bảo đảm an toàn lưới điện cao áp do đơn vị quản.
+lý vận hành lưới diện cao áp tổ chức thực hiện và phải thông báo cho tổ chức
+quản lý hoặc chủ sở hữu cây biết trước năm (03) ngày làm việc bằng hình
+thức thông bảo trực tiếp. Trường hợp cá nhân, tổ chức sở hữu cây cổ tỉnh.
+không nhận thông báo thì đơn vị quản lý vận hành lưới điện cao áp lấy xác
+nhận của Ủy ban nhân dân xã, phường, thị trấn sở tại (Ủy ban nhân dân cấp
+xã) về việc không nhận thông báo; các tổ chức, các nhân không nhận thông
+bảo vẫn phải chịu trách nhiệm thực hiện như các trường hợp khác.
+4. Trường hợp bắt buộc phải chặt cây để khắc phục sự cố, đơn vị quản lý
+vận hành lưới diện cao áp phải thông báo ngay số cây cần chặt và bồi thường
+cho chủ sở hữu cây. Nếu không thông bảo được cho chủ sở hữu cây thì phải.
+thông báo và được xác nhận với Ủy ban nhân dân cấp xã trước khi chặt cây.
+5. Đơn vị quản lý vận hành lưới điện cao áp thực hiện nhiệm vụ sửa chữa
+định ký phải thông báo trước ba (03) ngày cho tổ chức, cá nhân sử dụng đất
+nơi có cấp điện ngằm hoặc đường đây dân điện trên không đi qua bằng hình.
+thức giao thông bảo trực tiếp hoặc gửi bảo đảm qua bưu điện hoặc thông qua
+hệ thống phát thành, truyền thông của Ủy ban nhân dân cấp xã; sửa chữa đội
+xuất do sự cố phải thông báo trước khi thực hiện công việc, trường hợp không
+thông báo được thì phải thông báo với Ủy ban nhân dân cấp xã trước khi thực.
+hiện công việc.
+Công tác kiểm tra, sửa chữa kết thúc, đơn vị quản lý vận hành lưởi điện
+cao áp phải khôi phục tại mặt bằng như trước khi sửa chữa.
+6. Tổ chức, cá nhân sử dụng đất nơi có cáp điện ngằm hoặc đường đây
+dẫn điện trên không đi qua có trách nhiệm tạo điêu kiện thuận lợi cho đơn vị
+quản lý vận hành lưới điện cao áp tiến hành kiểm tra hoặc sửa chữa những hư:
+hỏng của công trình.
+Chương III
+BÔI THƯỜNG, HỔ TRỢ NHÀ Ủ, CÔNG TRÌNH, ĐẤT VÀ CÂY TRONG
+HÀNH LANG BÁO VỆ AN TOÀN DƯƠNG DÂY DÂN ĐIỆN TRÊN KHÔNG
+Điều 18. Bồi thường, hỗ trợ đối với nhà ở, công trình trong hành
+lang bảo vệ an toàn đường đây đẩn diện trên không
+1. Nhà ở, công trình phụ phục vụ sinh hoạt của hộ gia đình, cá nhân
+không phát di dời khôi hành lang bảo vệ an toàn đường dây dẫn diện trên.
+không có diện áp đến 220 kV theo quy định tại Điều 13 Nghị định này thì chủ
+14
+sở hữu nhà ở, công trình phụ phục vụ sinh hoạt được bồi thường, hỗ trợ do
+hạn chế khả năng sử dụng và ảnh hưởng trong sinh hoạt. Việc bồi thường, hỗ
+trợ được thực hiện một (01)lần như sau:
+a) Nhà ở, công trình phụ phục vụ sinh hoạt có một phần hoặc toàn bộ
+diện tích nằm trong hành lang bảo vệ an toàn đường dây dẫn điện trên không,
+được xây dựng trên đất đủ điều kiện bồi thường về đất beo quy định của pháp
+luật về đất đai trước ngày thông báo thực hiện dự án công trình lưới điện cao
+áp được cấp có thẩm quyền phê duyệt, thì được bồi thường, bỗ trợ phần diện
+tích trong hành lang bảo vệ an toàn đường dây dẫn điện trên không;
+b) Mức bồi thường, hỗ trợ cụ thể do Ủy ban nhân dân cấp tỉnh quy định
+nhưng không lớn hơn 70% giá trị phần nhà ở, công trình phụ phục vụ sinh
+hoạt tính trên diện tích nằm trong hành lang bảo vệ an toàn đường đây dẫn
+diện trên không, theo đơn giá xây dựng mới của nhà ở, công trình phụ phục
+vụ sinh hoạt có tiêu chuẩn tương đương do Ủy ban nhân dân cấp tỉnh ban hành;
+c) Trường hợp nhà ở, công trình phụ phục vụ sinh hoạt được xây dựng
+trên đất không đủ điều kiện bồi thường về đất theo quy định của pháp luật.
+Ủy ban nhân dân cấp tỉnh xem xét, hỗ trợ dựa trên điểu kiện thực tế của từng
+địa phương.
+2. Nhà ở, công trình được xây dựng trước ngày thông báo thực hiện dự.
+án công trình lưới điện cao áp được cấp có thẩm quyền phê duyệt:
+a) Nếu chưa đáp ứng các điều kiện quy định tại Điều 13 Nghị định này.
+thì chủ đầu tư công trình lưới diện cao áp phải chịu kinh phí và tổ chức thực.
+hiện việc cải tạo nhằm đáp ứng các điều kiện đó;
+b) Trường hợp phá dỡ một phần, phần còn lại vẫn bảo đảm tiêu chuẩn kỹ.
+nhuật theo quy định của pháp luật về xây dựng và đáp ứng được các điều kiện
+quy định tại Điều 13 Nghị định này thi chủ đầu tư lưới điện cao áp có trách
+nhiệm: Chi trả, bồi thường phần giá trị nhà, công trình bị phả đ8 và chi phí cải
+tạo hoàn thiện lại nhà, công trình theo điêu chuẩn tương dương của nhà, công
+trình trước khi bị phá dỡ hoặc bồi thường đi dời nhà ở công trình theo quyết
+định của Ủy ban nhân dân cấp tỉnh;
+c) Trường hợp nhà ở, công trình không thể cải tạo được để đáp ứng điều:
+kiện quy định tại Điều 13 Nghị định này, mã phải dỡ bỏ hoặc đi đời, thì chủ
+sở hữu nhà ở, công trình được bồi thưởng, hỗ trợ theo quy định của pháp luật
+về bồi thường, hỗ trợ và tái định cư khi Nhà nước thu hồi đất.
+15
+Điều 19. Đồi thường, hỗ trợ đối với đất trong hành lang bảo vệ an
+toàn đường dây dẫn điện trên không.
+1. Đết ở, các loại đất khác trong cùng thửa với đất ở của một chủ sử dụng
+trong hành lang bảo vệ an toàn đường day dẫn diện trên không điện áp đến.
+220 kV thuộc diện Nhà nước không tru bồi đất thì chủ sử dụng đất được bồi
+thường, hỗ trợ đo hạn chế khả năng sử dụng đất. Việc bồi thường, hỗ trợ được.
+thực hiện một lần như sau:
+a) Đất ở được bồi thường, hỗ trợ dọ hạn chế khá năng sử dụng là loại đất
+ở được quy định tại các văn bản pháp luật về đất đai;
+b) Diện tích đất ở được hồi thường, hỗ trợ đo hạn chế khả năng sử dụng
+là diện tích đất ở thực tế trong hành lang bảo vệ an toàn đường dây dẫn diện.
+trện không. Mức bồi thường, hỗ trợ không lón hơn 80% mức bồi thường thu
+hồi đất ở, tính trên diện tích đất nằm trong hành lang;
+c) Trên củng một thửa đất, bao gồm đất ở và các loại đất khác cửa một
+chủ sử dụng đất, khi bị hành tang bảo vệ an toàn đường dây dẫn diện trên
+không chiếm dụng khoảng không lớn hơn hạn mức đất ở thi phần diện tích
+các loại đất khác trên cùng thửa đất trong hành lang cũng được bồi thưởng, hỗ
+trợ. Mức bồi thường, hỗ trợ không lớn hơn 80% mức bồi thường thu hồi các
+loại đất khác đó tính trên diện tích các loại đất khác nằm trong hành lang;
+d) Trường hợp đất ở không đủ điều kiện như quy định tại Điểm a Khoản 1
+Điều này, Ủy ban nhân dân cấp tỉnh xem xét, hỗ trợ dựa trên điều kiện thực tế
+của từng địa phương.
+2. Đất trồng cây lâu năm, đất rùng sản xuất trong hành lang bảo vệ an
+toàn đường đây dẫn điện trên không thì chủ sử dụng đất được hỗ trợ do hạn
+chế khả năng sử dụng đất. Việc hỗ trợ được thực hiện một lầu, không lớn hon.
+30% mức bồi thường thu hồi đất trồng cây lâu nâm, đất rừng sản xuất, tính
+trên diện tách đất trong hành lang bảo vệ an toàn đường dây dẫn điện trên không.
+3. Mức bồi thường, hỗ trợ quy định tại Khoản 1, Khoản 2 Điều này do
+Ủy ban nhân dân cấp tỉnh quy định cụ thể. Kinh phí chỉ trả từ nguồn vốn đầu
+tư của chủ đầu tư công trình lưới điện cao áp.
+Điều 20. Bồi thường hỗ trợ đối với nhà ở, công trình ngoài hành lang
+bảo vệ am toàn đường dây dẫn điện trên không nhưng năm giữa bai
+đường dây dẫn điện trên không điện áp từ 500 kV trở lên
+1. Nhà ở, công trình phụ phục vụ sinh hoạt của hộ gia đình, cá nhân nắm
+ngoài hành lang bảo vệ an toàn đường dây dẫn điện trên không, nhưng nắm
+giữa hai đường đây dân điện trên không tiện áp 500 kV trở lên được xem xét
+bồi thường, hỗ trợ và di dời khi có một trong các điều kiện sau:
+a) Cường độ điện trường lớn hơn quy định tại Khoản 4 Điều 13 Nghị
+định này;
+16
+b) Khoảng cách theo phương nằm ngang giữa hai đây dẫn pha ngoài
+cùng gần nhất của hai đường dây dẫn điện 5 60 mét.
+2. Trường hợp nhà ở, công trình phụ phục vụ sinh hoạt của hộ gia đình,
+cá nhân có khoảng cách như quy định tại Điểm b Khoản 1 Điều này và cường
+độ điện trường đảm bảo theo quy định tại Khoản 4 Điều 13 Nghị định này.
+nếu chủ sử dụng đất, chủ sở hữu tài sản gắn liền với đất có văn bản đề nghị
+được 6 tại gửi Ủy ban nhân dân cấp huyện thì được xem xét ở lại và được bồi
+thưởng, hỗ trợ đối với toàn bộ diện tích đất ở, diện tích nhà ở và công trình.
+phụ phục vụ sinh hoạt như đối với đất ở, nhà ở, công trình phụ phục vụ sinh.
+hoạt trong hành lạng bảo vệ an toàn đường dây dân điện trên không quy định.
+tại Điều 18 và Điều 19 Nghị định này.
+3. Trong thời hạn 15 ngày làm việc, kể từ ngày nhận được văn bản đề
+nghị được quy định tại Khoản 2 Điều này, Ủy ban nhân dân cấp huyện phải
+có văn bản trả lời bằng hình thức giao trực tiếp hoặc gửi bảo đảm qua bưu
+điện tới người có đề nghị.
+Điều 21. Chuyển đổi mục đích sử dụng các loại đất khác sang đất ở
+Khi chủ sử dụng đất phải di chuyển nhà ở ra ngoài hành lang bảo vệ an.
+toàn đường dây dẫn điện trên không và có nhu cầu chuyển mục đích sử dụng
+các loại đất khác bên ngoài hành lang thành đất ở mà phù hợp với quy hoạch.
+thì cơ quan quản lý đất đai tại địa phương làm thủ tục trình cấp có thẩm quyền
+quyết định cho phép chuyển mục đích sử dụng đất. Chủ sử dụng đất phải thực
+hiện đầy đủ các quy định của pháp luật khi chuyển đổi mục đích sử dụng đất.
+Điều 22. Hỗ trợ chi phí di chuyển
+Ngoài việc được bồi thường, hỗ trợ đối với nhà ở, công trình được quy
+định tại Điều 18 và đất được quy định tại Điều 19 Nghị định này, nếu chủ sở
+hữu nhà ở tự tìm được đất ở mới và có nguyện vọng đi chuyển khỏi hành lang
+bảo vệ an toàn đường dây dẫn điện trên không, thì tự thực hiện việc di chuyển
+và được hỗ trợ chi phí di chuyển theo quy định của pháp luật về bồi thường,
+hỗ trợ và tái định cư khi Nhà nước thu hồi đất.
+Điều 23. Bồi thường đối với cây trong và ngoài hành lang bảo vệ an
+toàn đường dây dẫn điện trên không
+1. Cây có trước khi thông báo thực hiện dự án công trình lưới điện cao.
+áp và trong hành lang an toàn lưới diện, nếu phải chặt bỏ và cấm trồng mới.
+theo quy định tại Khoản 3 Điều 12 Nghị định này thì được bồi thường theo
+quy định hiện hành.
+2. Cây có trước khi thông bảo thực hiện dự án công trình lưới điện cao.
+áp và trong hành lang thuộc loại không phải chặt bỏ và cấm trồng như quy.
+định tại Khoản 3 Điểu 12 hoặc cây ngoài hành lang có nguy cơ vi phạm.
+17
+khoáng cách an toàn quy định tại Khoản 2 Điều 12 Nghị định này thì đơn vị
+quản lý vận hành có quyền kiểm tra, chặt, tịa cây để đảm bảo an toàn cho
+đường dây dẫn điện trên không và thực hiện bồi thường theo quy định.
+3. Mức bồi thường đối với các trường hợp quy định tại Khoản 1 và
+Khoản 2 Điều này được thực hiện một (01) lần đối với một cây và do Ủy ban
+nhân dân cấp tỉnh quy định, phù hợp với thực tế của địa phương.
+Chương IV
+TỔ CHỨC THỰC HIỆN
+Điều 24. Trách nhiệm quản lý nhà nước về an toàn điện
+1. Bộ Công Thương có trách nhiệm
+a) Xây dựng, ban hành, hướng dẫn, tổ chức thực hiện quy chuẩn kỹ thuật
+quốc gia về an toàn điện;
+b) Chủ trì, phối hợp với các Bộ, cơ quan liên quan chuẩn bị hồ sơ dự.
+thảo các tiêu chuẩn quốc gia về an toàn điện, gửi Bộ Khoa học và Công nghệ
+để thẩm định và cống bố;
+c) Chủ trì, phối hợp với các Bộ, ngành, địa phương thực hiện quản lý nhà
+nước các hoạt động về an toàn điện;
+d) Ban hành quy định hướng dẫn việc tổ chức kiểm định chất lượng các.
+thiết bị, dụng cụ và sản phẩm điện về tiêu chuẩn an toàn;
+đ) Thanh tra, kiểm tra về an toàn điện đối với các tổ chức, cá nhân trong
+hoạt động điện lực và sử dụng điện; phát hiện, xử lý các hành vi vi phạm theo.
+quy định của pháp luật.
+2. Bộ Khoa học và Công nghệ có trách nhiệm
+a) Quản lý việc nghiên cứu và ứng dụng khoa học kỹ thuật về an toàn điện;
+b) Chủ trì việc thẩm định và công bố các tiêu chuẩn quốc gia về an toàn
+điện theo đề nghị của Bộ Công Thương;
+c) Chủ trì, phối hợp với Bộ Công Thương xây dựng, thẩm định, ban
+hành và quản lý hệ thống quy chuẩn quốc gia về an toàn điện.
+3. Bộ Xây dựng có trách nhiệm
+a) Hướng dẫn thực hiện quy chuẩn kỹ thuật quốc gia về an toàn điện
+trong việc lấp đặt đường đây, trạm điện trong các công trình dân dựng: trong
+các khu đô thị;
+18
+b) Ban hành, hướng dẫn thực hiện việc nối đất an toàn trong các công
+trình dân dụng.
+4. Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương có trách nhiệm:
+a) Thực hiện quản lý nhà nước về an toàn điện tại địa phương theo quy.
+định của Bộ Công Thương và các Bộ chuyên ngành;
+b) Xây dựng các mục tiêu bảo đảm an toàn điện đưa vào kế hoạch phát
+triển kinh tế - xã hội và ngân sách của địa phương;
+c) Tổ chức quản lý, bảo vệ an toàn công trình diện lực theo quy định của
+pháp luật;
+d) Công bố mộc giới sử dụng đất trong hành lang bảo vệ an toàn công
+trình điện lực;
+d) Cung cấp thông tin về hiện trạng sử dụng đất, quy hoạch sử dụng đất
+cho các tổ chức, cá nhân đầu tư xây dựng lưới điện cao áp trên địa bàn tỉnh;
+e) Phát hiện, ngăn chặn và xử lý kịp thời những trường hợp lấn, chiếm,
+sử dụng trái phép hành lang bảo vệ an toàn lưới điện, phạm vi bảo vệ các
+hạng mục xây dựng của công trình điện lực.
+Điều 25. Trách nhiệm bảo vệ an toàn lưới điện cao áp
+1. Khi phát hiện lưới điện cao áp bị xâm phạm, bị phá hoại, bị cháy, bị
+sự cố nghiêm trọng thì đơn vị quản lý vận hành lưới diện cao áp, Ủy ban nhân
+dân các cấp, công an, lực lượng vũ trang trên địa bàn có trách nhiệm phối hợp
+khẩn trương khắc phục để hạn chế thiệt hại và đưa công trình vào hoạt động.
+2. Chủ tịch Ủy ban nhân dân cấp tỉnh có trách nhiệm chỉ đạo các cơ quan
+chức năng kiểm tra, ngăn chặn và xử lý kịp thời các hành vi vi phạm quy định.
+về bảo vệ an toàn lưới điện cao áp trong phạm vi quản lý của minh.
+3. Căn cứ tình hình ở từng địa phương, Chủ tịch Ủy ban nhân dân cấp
+tỉnh thành lập Ban Chỉ đạo cấp tỉnh nhằm giải quyết các vấn đề liên quan đến
+công tác bảo vệ an toàn lưới điện cao áp. Thành phần và quy chế hoạt động
+của Ban Chỉ đạo do Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định.
+Điều 26. Hiệu lực thì hành
+Nghị định này có hiệu lực thi hành kể từ ngày 15 tháng 4 năm 2014;
+thay thể các Nghị định số 106/2005/NĐ-CP ngày 17 tháng 8 năm 2005 quy
+định chi tiết và hướng dẫn thì hành một số điều của Luật điện lực về bảo vệ
+công trình lưới điện cao áp, Nghị định số 81/2009/NĐ-CP ngày 12 tháng 10
+năm 2009 sửa đổi, bổ sung một số điều của Nghị định số 106/2005/NĐ-CP
+ngày 17 tháng 8 năm 2005.
+19
+Điều 27. Tổ chức thực hiện
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc
+Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương
+và các tổ chức, cá nhân có liên quan chịu trách nhiệm thì hành Nghị định này...
+Nơi nhận:   TM. CHÍNH PHỦ
+- Ban Bí thư Trung ương Đàng;   PHỦ TƯỚNG
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;
+- HĐND, UBND các tỉnh, TP trực thuộc TW;
+- Văn phòng Tự và các Ban của Đảng;
+- Văn phòng Tổng Bí thư;
+- Văn phòng Chủ tịch nước;
+- Hội đồng Dân tộc và các UB của Quốc hội;
+- Văn phòng Quốc hội;
+- Tòa án nhân dân tối cao;
+- Viện Kiểm sát nhân dân tối cao;
+- Kiểm toán Nhà nước;   Nguyễn Tấn Dũng
+- Ủy ban Giám sát tài chính QG;
+- Ngân hàng Chính sách xã hội;
+- Ngân hàng Phát triển Việt Nam;
+- Ủy ban TW Mặt trận Tổ quốc Việt Nạm;
+- Cơ quan Trung ương của các đoàn thể;
+- VPCP: BTCN, các PCN, Trợ lý TTCP, TGĐ Cống TTĐT,
+các Vụ, Cục, đơn vị trực thuộc, Công báo;
+- Lưu: Văn thư, KTN (3b).KN 240
+20

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>PDFViewer</title>
+    <script type="text/javascript" src="/static/js/pdfobject.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="static/css/materialize.css" media="screen,projection" />
+    <link type="text/css" rel="stylesheet" href="static/css/custom.css" />
+    <link rel="stylesheet" href="./static/style.css">
+</head>
+
+<body>
+
+    <div>
+        <div class="pdf_header">
+            <span>Xem nhanh văn bản</span>
+        </div>
+        <div class="pdf_body" style="">
+            <div class="pdf_container">
+                <div class="pdf_preview">
+
+
+
+                    <div class="pdf_view">
+                        <div id="pdfwindow"></div>
+                        <div id="contents" class="hide">{{contents}}</div>
+                    </div>
+
+                    <div class="pdf_sidebar" style="">
+                        <div class="head_sidebar">
+                            <span><b>Thông tin</b></span>
+                        </div>
+                        <div class="cart_sidebar">
+                            <dl class="metadata_sidebar">
+                                {% if metadata["loai_hop_dong"] != "undefined" %}
+                                <dt><b>Loại hợp đồng:</b></dt>
+                                <dd>{{metadata["loai_hop_dong"]}}</dd>
+                                {% endif %} {% if metadata["so_hop_dong"] != "undefined" %}
+
+                                <dt><b>Số :</b></dt>
+                                <dd>{{metadata["so_hop_dong"]}}</dd>
+                                {% endif %} {% if metadata["ngay lap"] != "undefined" %}
+
+                                <dt><b>Ngày lập:</b></dt>
+                                <dd>{{metadata["ngay lap"]}}</dd>
+                                {%endif%} {% if metadata["Ben A"] != "undefined" %}
+
+                                <dt><b>Bên A:</b></dt>
+                                <dd>{{metadata["Ben A"]}}</dd>
+                                {% endif %} {% if metadata["Ben B"] != "undefined" %}
+
+                                <dt><b>Bên B:</b></dt>
+                                <dd>{{metadata["Ben B"]}}</dd>
+                                {% endif %} {% if metadata["dai dien A"] != "undefined" %}
+
+                                <dt><b>Đại diện bên A:</b></dt>
+                                <dd>{{metadata["dai dien A"]}}</dd>
+                                {% endif %} {% if metadata["dai dien B"] != "undefined" %}
+
+                                <dt><b>đại diện bên B:</b></dt>
+                                <dd>{{metadata["dai dien B"]}}</dd>
+                                {% endif %} {% if metadata["dia_chi"] != "undefined" %}
+
+                                <dt><b>Địa chỉ:</b></dt>
+                                <dd>{{metadata["dia_chi"]}}</dd>
+                                {% endif %} {% if metadata["chuc vu"] != "undefined" %}
+
+                                <dt><b>Chức vụ:</b></dt>
+                                <dd>{{metadata["chuc vu"]}}</dd>
+                                {% endif %} {% if metadata["phu luc"] != "undefined" %}
+
+                                <dt><b>Phụ lục:</b></dt>
+                                <dd>{{metadata["phu luc"]}}</dd>
+                                {% endif %} {% if metadata["gia tri hop dong"] != "undefined" %}
+
+                                <dt><b>Giá trị hợp đồng:</b></dt>
+                                <dd>{{metadata["gia tri hop dong"]}}</dd>
+                                {% endif %}
+
+                            </dl>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="static/js/materialize.js"></script>
+<script type="text/javascript" src="/static/js/custom.js"></script>
+
+</html>

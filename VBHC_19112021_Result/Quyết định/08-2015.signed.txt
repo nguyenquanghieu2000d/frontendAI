@@ -1,0 +1,719 @@
+Ký bở: Công Thông tin điện tử Chính phủ
+Cơ quan kăn phòn201511033 +07:00
+THỦ TƯỚNG CHÍNH PHỦ   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Số: 08/2015/QĐ-TTg   Hà Nộ2, ngày 09 tháng 3 năm 2015
+CÔNG THÔNG TIN TIỆN TỦ CHÍNH PHỦ
+QUYẾT ĐỊNH
+Thí điểm về giao dịch điện tử trong việc thực hiện
+thủ tục tham gia bảo biểm xã hội, bảo biểm y tế, bảo hiểm thất nghiệp
+và đề nghị cấp sổ bảo hiểm xã hội, thẻ bảo hiểm y tế
+Căn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001-
+Căn cứ Luật Giao dịch điện từ ngày 29 tháng 11 năm 2005):
+Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006;
+Căn cứ Luật Bảo hiểm xã hội ngày 29 tháng 6 năm 2006;
+Căn cứ Luật Bảo hiểm y tế ngày 14 tháng 11 năm 2008 và Luật sửa đối,
+bổ sung một số điều của Luật Bảo kiểm y tế ngày 13 tháng 6 năm 2014;
+Căn cứ Luật Việc làm ngày 16 tháng 11 năm 2013;
+Căn cứ Nghị định số 26/2007/NĐ-CP ngày 15 tháng 02 năm 2007 của.
+Chính phủ quy định chi tiết thi hành Luật Giao dích điện tử về chữ ký số
+và dịch thực chữ tý số: Nghị định số 106/2011/NĐ-CP ngày 29.
+tháng 11 năm 2011 của Chính phủ sửa đổi, bổ sung một cố điều Nghị định
+số 26/2007/NĐ-CP của Chính phủ ngày 15 tháng 02 năm 2007 quy định chí
+tiết thi hành Luật Giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số:
+Nghị định số 1 70/2013/NĐ-CP ngày 18 tháng 11 năm 2013 của Chính phủ sửa
+đết, bổ sung một số điều của Nghị định số 36/2007/NĐ-CP ngày 15 tháng 02
+năm 2007 của Chính phủ quy định chí tiết thi hành Luật Gao dịch điện tử về
+chỉ ký số và dịch vụ cháng thực chỉ ký số và Nghị định số 106/2011/NĐ-CP
+ngày 23 tháng 11 năm 2011 của Chính phủ rửa đối, bổ sung mật số điều của
+Nghị định số 26/2007/NĐ-CP ngày 15 tháng 02 năm 2007;
+Theo đề nghị của Tổng Giám đốc Bảo hiểm xã hội Việt Nam,
+Thủ tướng Chính phủ ban hành Quyết định thí điểm về giao dịch điện tử
+trong việc thực hiện thủ tạc tham gia bảo hiểm xã hội, bảo hiểm y tế bản
+hiểm thất nghiệp và đề nghị cấp số bảo hiểm xã hội, thẻ bảo hiểm y tế.
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Quyết định này quy định về giao dịch điện tử trong việc thực hiện thủ
+tục tham gia bảo tiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và đề nghị
+cấp số bảo hiểm xã hội, thả bảo biểm y tế (sau đây gọi chung là giao dịch điện
+tử trong lĩnh vực bảo hiểm xã hội).
+Điều 2. Đối tượng áp dụng
+1. Doanh nghiệp, cơ quan nhà nước, đơn vị sự nghiệp và các tổ chức.
+tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp theo quy định.
+của pháp luật (sau đây gọi chung lá người sử dụng lao động lựa chọn phương
+thức giao dịch điện tử trong lĩnh vực bảo hiểm xã hội.
+2. Tổ chức cung cấp dịch vụ giao dịch điện tử trong lĩnh vực bảo hiểm.
+xã hội (sau đây gọi tắt là Tổ chức I-VAN).
+3. Cơ quan Bảo hiểm xã hội.
+Điều 3. Giải thích từ ngữ
+Trong Quyết định này, các từ ngữ dưới đây được hiểu như sau:
+1. Giao dịch điện tử trong lĩnh vực bảo hiểm xã hội là việc thực hiện thủ
+tục tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và để nghị
+cấp số bảo hiểm xã hội, thể bảo hiểm y tế được thực hiện bằng phương liện
+điện tử.
+2. Thông diệp dữ liệu giao dịch điện tử trong lĩnh vực bảo hiểm xã hội là
+thông tin được tạo ra, gửi đi, nhận và lưu trữ bằng phương tiện điện tử.
+3. Hồ sơ bảo hiểm xã hội điện tử là các thông điệp dữ liệu giao dịch điện:
+tử về toam gia bảo biểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và đề
+nghị cấp sổ bảo biểm xã hội, thẻ bảo hiểm y tế.
+4. Tải khoản giao dịch bảo hiểm xã hội điện tử là tài khoản do Bảo.
+hiểm xã hội Việt Nam cấp cho người sử dụng lao động để đâng nhập vào
+Công thông tin điện tử Bảo hiểm xã hội Việt Nam hoặc Cảng giao dịch diện
+từ của Tổ chức LVAN để thực hiện giao dịch điện tử trong tĩnh vực bảo hiểm
+xã hội.
+5. Tổ chức LVAN là tổ chức hoạt động trong lĩnh vực công nghệ thông
+tân được Bảo hiểm xã hội Việt Nam ký hợp đồng cung cấp dịch vụ giá trị gia
+tăng về giao dịch điện tử trong lĩnh vực bảo hiểm xã hội.
+2
+6. Dịch vụ giá trị gia tăng về giao dịch điện tử trong lĩnh vực bảo hiểm.
+xã hội (Tiếng Anh lô Insorarnec - Value addicd netwerk) sau đây aọi là dịch vụ
+LVAN là dịch vụ nhận, truyền, lưn trữ, phục hồi thông điệp dử liện giao dịch.
+điện tử trong lĩnh vực bảo hiểm xã hội giữa người sử dụng lao động với cơ
+quan Bảo hiểm xã hội thông qua Tổ chức I-VĂN sau khi người sử dụng lao.
+động trả một khoản tiền để sử dụng dịch vụ về giao dịch điện tử.
+7. Cổng thông tin điện tử Bảo hiểm xã hội Việt Nam là điểm truy cập
+duy nhất trên môi trường mạng, để liên kết, tích hợp các kành thông tin, các
+ứng dụng và dịch vụ của Bảo hiểm xã hội Việt Nam mô qua đó người dùng có
+thể khai thác, sử dụng.
+8. Cổng giao dịch điện tử của Bảo hiểm xã hội Việt Nam là điểm tray.
+cập duy nhất trên môi trường mạng của hệ thống công nghệ thông tin của Bảo
+hiểm xã hội Việt Nam để nhận, truyền, lưu trữ, thông diệp dữ liệu giao dịch
+điện tử trong lĩnh vực bảo hiểm xã hội với Tổ chức I-VAN.
+Điều 4. Nguyên tắc giao dịch điện tử trong lĩnh vực bảo hiểm xã hội
+1. Thực hiện đúng quy định của pháp luật về giao dịch điện tử, bảo hiểm:
+xã hội, bảo hiểm y tế, bản hiểm thất nghiệp và pháp mật có liêu quan.
+2. Bảo đảm tính liên tục, kịp thời, rõ ràng, chính xác, công bằng, trung
+thực, an toàn, hiệu quả, tuân thủ các quy định của pháp luật về bảo mật và
+toàn vẹn thông tin.
+3. Có chứng thư số đang còn hiệu lực do tổ chức cung cấp dịch vụ chứng
+thực chữ ký số cấp theo quy định của pháp luật khi tham gia giao dịch điện tử
+trong lĩnh vực bảo hiểm xã hội.
+Điều 5. Điều kiện và lựa chọn thực hiện giao dịch điện tử trong lĩnh
+vực bảo hiểm xã hội của người sử dụng lao động
+1. Người sử dụng lao động thực hiệp giao dịch điện tử trong lĩnh vực bảo.
+hiểm xã hội phải đáp ứng đủ các điều kiện sau:
+a) Có chứng thư số theo quy định tại Khoản 3 Điều 4 của Quyết định này;
+b) Có khả năng truy cập, sử dụng mạng Internet; có địa chỉ thư điện tử.
+liên lạc ổn định và đăng ký với Bảo hiểm xã hội Việt Nam.
+2. Người sử dụng lao động được lựa chọn giao dịch điện tử trong lĩnh.
+vực bảo hiểm xã hội trực tiếp qua Công thông tin điện tử Bảo hiểm xã hội
+Việt Nam theo quy định tại Điều 18 của Quyết định này hoặc thông qua
+Cổng giao dịch điện tử của Tổ chức (VAN theo quy định tại Điều 23 của
+Quyết định này.
+3
+Điều 6. Tiêu chí lựa chọn tổ chức hoạt động trong lĩnh vực công
+nghệ thông tin để ký hợp đồng cung cấp địch vụ I-VAN
+1. Về chủ thể:
+a) Là doanh nghiệp được thành lập theo quy định của Luật Doanh
+nghiệp, Luật Đầu tư hoạt động trong lĩnh vực công nghệ thông tin tại
+Việt Nam;
+b) Có tối thiểu 03 năm hoạt động trong lĩnh vực công nghệ thông tin; đã
+triển khai thành công hệ thống trao đổi dỡ liệu điện tử với ít nhất 10 cơ quan,
+tổ chức.
+2. Về tài chính, trụ sở làm việc:
+a) Có đó năng lực tài chính để thiết lập hệ thống trao đối dữ liệu điện tử,
+trang thiết bị kỹ thuật, tổ chức và duy trì hoạt động phù hợp với quy mô cung
+cấp dịch vụ I-VAN;
+b) Có giấy bảo lãnh của tổ chức tín dụng hoạt động hợp pháp tại Việt
+Nam để giải quyết các rủi ro và bồi thường thiệt hại có thể xảy ra trong quá
+trình cung cấp dịch vụ;
+c) Có trụ sở làm việc, địa điểm đặt trang thiết bị bảo đảm an toàn, phủ
+hợp với loại hình dịch vụ cung cấp.
+3. Về nhân sự:
+a) Có tối thiểu 05 cán bộ trình độ đại học chuyên ngành công nghệ thông
+tin, có kinh nghiệm thực tiễn về quản trị mạng, bảo mật về hệ thống trao đổi
+dữ liệu điện tử, quản trị cơ sở dữ liệu, am hiểu pháp luật bảo hiểm xã hội, báo.
+hiểm y tế, bảo hiểm thất nghiệp;
+b) Có đội ngũ nhân viên kỹ thuật, thường xuyên trực 24 giờ trong ngày
+để duy trì hệ thống trao đối dỡ liệu điện tử và hỗ trợ người sử dụng dịch vụ
+I-VAN.
+4. Về kỹ thuật:
+a) Hệ thống, trang thiết bị thiết bị kỹ thuật phải bảo đảm các yêu cầu sau:
+- Cung cấp dịch vụ cho người sử dụng lao động và kết nối với Công giao
+dịch điện tử của Bảo hiểm xã hội Việt Nam 24 giờ trong ngày và 7 ngày trong
+mần, kể cả ngày nghỉ, ngày lễ, ngày Tét, trừ thời gian bảo trí. Thời gian dừng
+hệ thống trao đổi dữ liệu điện tử để bảo trì không quá 3% tổng số giở cung
+cấp dịch vụ trong một năm;
+4
+- Có khả năng phát hiện, cảnh báo và ngăn chặn các truy nhập bất hợp
+pháp, các hình thức tấn công trên môi trường mạng để bảo đảm tính bảo mật.
+toàn vẹn cửa dữ liệu trao đổi giữa các bên tham gia;
+- Có các quy trình thực hiện sao lưu đã liệu, sao lưu trực tuyến dữ liệu,
+khôi phục dữ liệu; có khả năng phục bồi dữ liệu chậm nhất là 08 giờ, kể từ.
+thời điểm hệ thống trao đổi dữ liệu điện tử gặp sự cố.
+b) Giao dịch, lưu trữ hồ sơ bảo hiểm xã hội phải đáp ứng yêu cầu sau:
+- Lưu trữ kết quả giao dịch, lưu trữ hồ sơ bảo hiểm xã hội điện tử trong
+thời gian giao dịch chưa hoàn thành;
+- Thông điệp dữ liệu giao dịch điện tử gốc phải được lưu giữ trên hệ
+thống trao đỗi dữ liệu diện tử và được truy cập trực tuyến;
+- Có phương án và hệ thống dự phòng để xử lý tình huống bắt thường,
+khắc phục sự cố nhằm bảo đản duy trì hoạt động an toàn, liên tục của hệ
+thống trao đổi dữ liệu điện tử.
+c) Yêu cầu về nhật ký giao dịch điện tử:
+- Nhật ký giao dịch điện tử phải được lưu trữ trong thời gian tối thiểu
+10 năm, kể từ thời điểm thực hiện giao dịch thành công;
+- Bảo đảm việc theo dõi nhật ký giao dịch điện tử và tra cứu thông tin.
+trên hệ thống trao đổi dữ liệu điện tử trong thời gian lưu trữ.
+đ) Bảo đảm tiêu chuẩn kết nối dữ liệu do Bảo hiểm xã hội Việt Nam:
+quy định.
+Chương II
+QUYỀN VÀ NGHĨA VỤ CỦA NGƯỜI SỬ DỤNG LAO ĐỘNG,
+TỔ CHỨC LVAN VÀ CƠ QUAN BẢO HIỂM XÃ HỘI
+Điều 7. Quyền của người sử dụng lao động
+1. Được thực hiện giao dịch điện tử trong lĩnh vực bảo hiểm xã hội theo
+quy định của Luật Giao dịch điện tử, Quyết định này và các quy định pháp.
+luật có liên quan.
+2. Lựa chọn một trong hai công giao dịch điện tử trong lĩnh vực bảo.
+hiểm xã bội theo quy định tại Khoản 2 Điều 5 của Quyết định này.
+3. Được Bảo hiểm xã hội Việt Nam hoặc Tổ chức I-VAN hướng dẫn, hỗ
+trợ và giải quyết kịp thời khi gặp sự cố trong quá trình thực hiện giao dịch
+điện tử.
+5
+4. Được Bảo hiểm xã hội Việt Nam, Tổ chức I-VAN bảo đảm bí mật,
+tính toàn vẹo về dữ liệu các thông tin giao địch điện tử theo quy định của
+pháp luật.
+Điều 8. Nghĩa vụ của người sử dụng lao động
+1. Tạo lập, gửi, nhận các hồ sơ bảo hiểm xã hội điện tử trực tiếp tại Cổng
+thông tin điện tử Bảo hiểm xã hội Việt Nam hoặc thông qua Cổng giao dịch.
+điện tử của Tổ chức I-VAN.
+2. Không thực hiện giao dịch bằng hồ sơ giấy đối với các thủ tục đã đăng
+ký bằng hình thức giao dịch điện tử trong thời gian đang thực hiện giao dịch.
+điện tử, trừ trường hợp quy định tại Khoản 6 Điều này.
+3. Quản lý chữ ký số và bảo đảm tính chính xác của chữ ký số trên hồ sơ.
+bảo biểm xã hội điện tử; quản lý rên và mật khẩu của tài khoản giao dịch báo.
+hiểm xã hội điện tử để bảo đảm tính an toàn, bảo mật thông tin dữ liệu trên hệ
+thống trao đổi dữ liệu điện tử của Tổ chức I-VAN và bệ thống công nghệ
+thông tin của Bảo hiểm xã hội Việt Nam.
+4. Lưu trữ và bảo đảm tính toàn vạn toàn bộ hồ sơ bảo hiểm xã hội điện
+tử theo quy định của pháp luật về lưu trữ, giao dịch điện tử, bảo hiểm xã hội.
+bảo biểm y tế, bản hiểm thất nghiệp và pháp luật có liên quan.
+5. Thực hiện các quy định bảo đảm an toàn, an ninh hệ thống trao đối dữ
+liệu điện tử của Tổ chức (VAN và hệ thống công nghệ thông tin của cơ quan
+Bảo hiểm xã hội.
+6. Lập hồ sơ bảo hiểm xã hội bằng giấy nộp cho cơ quan Bảo hiểm xã hội
+trực tiếp quản lý chậm nhất 05 ngày làm việc, kể từ ngày tết hạn nộp hồ sơ bảo
+hiểm xã bội trong trường hợp đến hạn nộp bồ sơ bảo hiểm xã hội điện tử mà hệ
+thống trao đồi dữ liệu điện tử, hạ tầng kỹ thuật chưa khắc phục được sự cố.
+7. Thực hiện các điều khoán ký kết trong hợp đồng với Tổ chức I-VAN
+và trả tiền sử dụng dịch vụ I-VAN trên cơ sở hợp đồng đã ký.
+8. Chấp hành thanh tra, kiểm tra của các cơ quan nhà nước có thẩm
+quyền về việc thực hiện bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp.
+theo quy định của pháp luật.
+9. Chịu trách nhiệm trước pháp luật về kê khai hồ sơ bảo hiểm xã hội
+điện tử của mình theo quy định của pháp luật về giao dịch điện tử, báo hiểm
+xã hội, bảo hiểm y tế, bác hiểm thất nghiệp và pháp luật có liên quan.
+10. Thực hiện các nghĩa vụ khác theo quy định của pháp luật.
+6
+Điều 9. Quyền của Tổ chức I-VAN
+1. Được kết nối với Cổng giao dịch điện tử của Bảo hiểm xã hội.
+Việt Nam để thực hiện cung cấp dịch vụ giao địch điện tử trong lĩnh vực bảo
+hiểm xã hội.
+2. Được Bảo hiểm xã hội Việt Nam hỗ trợ nghiệp vụ về bảo hiểm xã hội.
+bảo hiểm y tế, bảo hiểm thất nghiệp để thực hiện các giao dịch nhận, truyền
+dữ liệu điện tử trong lãnh vực bảo hiểm xã hội giữa người sử dụng lao động
+với Bảo hiểm xã hội Việt Nam; được dụng cấp các mẫu, khuôn dạng chuẩn để
+thực hiện hoạt động cung cấp dịch vụ L VAN.
+3. Được Bảo hiểm xã hội Việt Nam hỗ trợ để giải quyết các vướng mắc:
+về nghiệp vụ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp phát sinh
+trong quá trình cung cấp dịch vụ I-VAN.
+4. Được chấm dứt hợp đồng cung cấp dịch vụ L-VAN với Bảo hiểm xã hội
+Việt Nam theo thoả thuận trong hợp đồng phù hợp với quy định của pháp luật.
+3. Được ký, chấm dứt hợp đồng với người sử dụng lao động về việc
+cung cấp và sử dụng dịch vụ IVAN theo quy định của pháp luật: được thư:
+tiền sử dụng dịch vụ của người sử dụng tao động theo hợp đồng đã ký phủ
+hợp với quy định của pháp luật.
+6. Được từ chối cung cấp dịch vụ L VAN đối với tổ chức không đủ điểu:
+kiện tham gia giao dịch hoặc vi phạm hợp đồng đã ký phù hợp với quy định
+của pháp luật.
+Điều 10. Nghĩa vụ của Tổ chức I-VAN
+1. Thiết lập kênh kết nối với Cổng giao dịch điện tử của Bảo hiểm xã hội
+Việt Nam theo đúng tiêu chuẩn kết nối do Bảo hiểm xã hội Việt Nam
+quy định.
+2. Công khai thông báo phương thức hoạt động, chất lượng dịch vụ trên
+website giời thiệu dịch vụ của Tổ chức I-VAN.
+3. Cung cấp dịch vụ IVAN cho người sử dụng lao động đã ký hợp đồng
+với tổ chức mình.
+4. Bảo đảm kết nối liên tục, bảo mật, toàn vẹn thông tin về hồ sơ và các
+điều kiện cần thiết để thực hiện giao dịch điện tử trong lĩnh vực bảo hiểm xã hội.
+7
+5. Thực hiện việc nhận, truyền, lưu trữ, phục hồi thông điệp dữ liệu giao.
+dịch điện tử trong lĩnh vực bảo hiểm xã hội bảo đám đúng thời hạn, chính xác,
+toàn viện của hồ sơ bảo hiểm xã hội điện tử; chuyển hồ sơ bảo hiểm xã hội.
+điện tử đến Công giao dích điện tử của Bảo hiểm xã hội Việt Nam trong thời
+hạu 02 giờ, kể từ khi nhận được hồ sơ bảo hiểm xã hội điện tử của người sử.
+dựng lao động; thông báo xác nhận nộp hồ sơ bảo hiểm xã hội diện tử cho
+người sử dụng lao động sử dụng dịch vụ I-VAN theo quy định.
+6. Tuân thủ các quy định pháp luật về công nghệ thông tin, viễn thông và
+các quy định kỹ thuật, nghiệp vụ, bảo mật thông tin do cơ quan có thẩm
+quyền ban hành.
+7. Lưu giữ kết quả của các lần nhận, truyền dữ liệu điện tử trong lĩnh vực.
+bảo hiểm xã hội; lưu giữ bồ sơ bảo hiểm xã hội điện tử trong thời gian giao
+dịch chưa hoàn thành.
+8. Lưu trữ nhật ký giao dịch điện tử trên hệ thống trao đổi dữ liệu điện tử
+theo đúng quy định tại Điểm c Khoản 4 Điều 6 của Quyết định này.
+9. Thông báo qua địa chỉ thư điện tử cho người sử dụng lao động và Bảo.
+hiểm xã hội Việt Nam trước 10 ngày khi đừng hệ thống trao đổi dữ liệu diện tử
+để bảo trì và có biện pháp xử lý để bản đảm quyền lợi của các bên có liên quan.
+10. Cung cấp đầy đó thông tin, dữ liệu và thực hiện chế độ báo cáo định
+kỳ và dột xuất về hoạt động cung cấp dịch vụ I VAN theo yêu cầu của Bảo
+hiểm xã hội Việt Nam.
+11. Thường xuyên cập nhật các quy định mới của Bảo hiểm xã hội Việt
+Nam về các mẫu, khuôn dụng chuẩn liên qoan đến giao dịch điện tử trong lĩnh
+vực bảo hiểm xã hội
+12. Phối hợp với Bảo hiểm xã hội Việt Nam thực hiện hỗ trợ người sử
+dụng lao động để sử dụng dịch vụ và thực hiện giao dịch điện tử trong lĩnh
+vực bảo hiểm xã hội.
+Điều 11. Quyền của cơ quan Bảo hiểm xã hội
+1. Yêu cầu Tổ chức I-VAN thiết lập kênh kết nối theo đúng quy định về
+tiêu chuẩn kết nối của Bảo hiểm xã hội Việt Nam bảo đảm liên tục, an ninh,
+an toàn và thực hiện cung cấp dịch vụ I- VAN cho người sử dụng lao động kế
+từ ngày hợp đồng cung cấp dịch vụ L VAN ký với Bảo hiểm xã hội Việt Nam.
+có hiệu lực.
+2. Yêu cầu Tổ chức LVAN chuyển hồ sơ bảo hiểm xã hội điện tử tới.
+Cổng giao dịch điện tử của Bảo hiểm xã hội Việt Nam trong thời hạn 0à gié, kế
+từ khi nhận được hồ sơ bảo hiểm xã hội điện tử của người sử dụng lao động.
+8
+3. Yêu cầu Tổ chức LVAN thực hiện cung cấp dịch vụ theo đúng hợp
+đồng đã ký.
+4. Ký hợp đồng và chấm dứt hợp đồng về giao dịch điện tử với Tổ chức
+I-VAN theo quy định của pháp luật.
+Điều 12. Trách nhiệm của cơ quan Bảo hiểm xã hội
+1. Thiết lập, duy trì, bảo đảm kết nối, tiêu chuẩn kết nối giữa Cổng giao
+dịch điện tử của Bảo hiểm xã hội Việt Nam với Tổ chức I-VAN để thực hiện.
+cung cấp dịch vụ giao dịch điện tử trong lĩnh vực bảo hiểm xã hội. Vận hành
+hệ thống tiếp nhận và xử lý dử liệu bảo hiểm xã hội diện tử bảo đảm liên tục,
+toàn vẹn, an ninh, an toàn và bảo mật.
+2. Tiếp nhận hồ sơ và giải quyết yêu cầu của người sử dụng lao động về
+giao dịch điện tử trong lĩnh vực bảo hiểm xã hội.
+3. Hỗ trợ người sử dụng lao động trong việc nhận, truyền, lưu trữ, phục
+hồi thông điệp dữ liệu giao dịch điện tử khi được yêu cầu.
+4. Hỗ trợ về nghiệp vụ bảo hiểm xã hội cho Tổ chức L-VAN để thực hiện
+các giao dịch nhận, truyền, lưu trữ, phục hồi thông diệp dữ liệu giao dịch điện
+tử giữa người sử dụng lao động với Bảo hiểm xã hội Việt Nam.
+5. Thông tin kịp thời tới Tổ chức L-VAN và người sử dụng lao động các
+quy định mới của Bảo hiểm xã hội Việt Nam về các mẫu, khuôn dạng chuẩn
+của dịch vụ giao dịch điện tử trong lĩnh vực bảo hiểm xã hội trên Cổng giao
+dịch điện tử của Bảo hiểm xã hội Việt Nam.
+6. Phối hợp với Tổ chức LVAN hỗ trợ nghiệp vụ cho người sử dụng lao.
+động để thực hiện giao dịch điện tử trong lĩnh vực bảo hiểm xã hội khí được
+yêu cầu.
+7. Hỗ trợ Tổ chức I-VAN và người sử dụng lao động giải quyết các
+vướng mắc phát sinh liên quan đến nghiệp vụ bảo hiểm xã hội, bảo hiếm y tế:
+bảo biểm thất nghiệp trong quá trình thực hiện giao dịch điện tử trong lĩnh.
+vực bảo hiểm xã hội khi được yêu cầu.
+8. Thông báo và trả kết quả giải quyết theo quy định của pháp luật về
+giao dịch điện tử, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và các
+quy định pháp luật có liên quan.
+9. Công khai danh sách các tổ chức cung cấp dịch vụ E-VAN trên
+Cổng thông tin điện tử Bảo hiểm xã hội Việt Nam đề người sử dụng lao động
+lựa chọn.
+9
+10. Ngừng giao dịch hồ sơ bảo hiểm xã hội điện tử khi người sử dụng
+lao động vi phạm quy định về an toàn, an ninh hệ thống công nghệ thông tin
+của Bảo hiểm xã hội Việt Nam.
+11. Kiểm tra việc thực hiện bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm
+thất nghiệp đối với người sử dụng lao động theo quy định của pháp luật.
+Chương III
+HỒ SƠ BẢO HIỂM XÃ HỘI ĐIỆN TỬ
+Điều 13. Hồ sơ bảo hiểm xã hội điện tử
+1. Hồ sơ bảo hiểm xã hội điện tử bao gồm: Tờ khai và các tài liệu theo
+quy định của pháp luật bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp ở
+dạng điện tử.
+2. Các tài liệu kèm theo ở dạng giấy phải được chuyển đổi sang dạng
+điện tử và đáp ứng đầy đủ các điều kiện sau:
+a) Phản ánh toàn vẹn nội dung của tài liệu giấy;
+b) Có ký hiệu riêng xác nhận đã được chuyển tài liệu tử dạng giấy sang.
+thông điệp dữ liệu giao dịch điện tử;
+c) Cá chữ kỳ số và họ tên của người thực hiện chuyển từ tài liệu giấy.
+sang thông điệp dữ liệu giao dịch điện tử.
+3. Khi tài liệu giấy không còn giá trị pháp lý thi những nội dung liên
+quan tại thông điệp dữ liệu giao dịch điện tử cũng không còn giá trị pháp lý.
+Điều 14. Yên cầu và giá trị pháp lý của hồ sơ bảo hiểm xã hội điện tử.
+1. Yêu cầu đối với hồ sơ bảo hiểm xã hội điện tử:
+a) Hồ sơ bảo hiểm xã hội điện tử phải đáp ứng được các yêu cầu về quản
+lý, phù hợp với quy định của pháp luật về giao dịch điện tử, bảo hiểm xã hội,
+bảo hiểm y tế, bảo hiểm thất nghiệp. Trong trường hợp pháp luật quy định
+văn bản cần có chữ ký thì thông điệp dữ liệu giao dịch điện tử được coi là hợp.
+pháp khi thông điệp dữ liệu đó được ký bằng chữ ký số;
+b) Hồ sơ bảo hiểm xã hội điện tử phải có đủ chữ ký số của những người
+có trách nhiệm kỷ thông điệp dữ liệu giao dịch điện tử theo quy địch. Trong
+trường hợp pháp luật quy định văn bản phải được đóng dấu của cơ quan, tổ.
+chức có thẩm quyền thì thông điệp dữ liệu giao dịch điện tử đó được cơi là
+10
+hợp pháp khi thông diệp dữ liệu đó được ký bằng chữ ký số của người có.
+thẩm quyền theo quy định của pháp luật về quản lý và sử dụng con đấu và chữ
+ký số.
+2. Giá trị pháp lý của hồ sơ bảo hiểm xã hội điện tử
+Hồ sơ bảo hiểm xã hội điện tử có giá trị pháp lý như hồ sơ bằng giấy khi
+đáp ứng các điều kiện quy định tại Khoản 1; Khoản 2 Điều 13 và Khoản 1
+Điều 14 của Quyết định này.
+Điều 15. Thời gian nộp hồ sơ bảo hiểm xã hội điện tử
+1. Người nộp bồ sơ bảo hiểm xã hội điện tử được thực hiện các giao dịch
+điện tử qua Cổng thông tin điện tử Bảo hiểm xã hội Việt Nam hoặc Cổng giao
+dịch điện tử của Tổ chức I-VAN 24 giờ trong ngày và 7 ngày trong tuần, kể
+cả ngày nghỉ, ngày lễ, ngày Tết.
+2. Bảo hiểm xã hội Việt Nam hoặc Tổ chức I-VAN gửi thông báo xác.
+nhận đã nhận được hồ sơ bảo hiểm xã hội điện tử đến địa chỉ thư điện tử của
+người nộp hồ sơ bảo hiểm xã hội chậm nhất 15 phút sau khi nhận được hồ sơ.
+bảo hiểm xã hội điện tử của người nộp gửi đến.
+Điều 16. Lưu trữ hồ sơ bảo hiểm xã hội điện tử
+Thời hạn lưu trữ hồ sơ bảo hiểm xã hội điện tử được thực hiện theo quy
+định của pháp luật về lưu trữ. Trường hợp hồ sơ bảo hiềm xã hội điện tử hết
+thời hạn lưu trữ theo quy định nhưng có liên quan đến tỉnh toàn vẹn về thông
+tin của hệ thống thông tin và các hồ sơ bảo hiểm xã hội điện tử đang tưu hành.
+thi tiếp tục được lưu trở cho đến khi việc hủy hồ sơ bảo hiểm xã hội điện tử.
+mà không làm ảnh hưởng đến các giao dịch điện tử khác.
+Điều 17. Hủy và tiêu huỷ hồ sơ bảo hiểm xã hội điện tử
+1. Hồ sơ bảo hiểm xã hội điện tử chỉ được hủy khi có sự đồng ý và xác.
+nhận của các bên tham gia giao dịch, phù hợp với quy định của pháp luật hoặc
+theo kết luận của cơ quan nhà nước có thẩm quyền. Hồ sơ bảo hiểm xã hội.
+điện tử đã hủy phải được tưu trữ phục vụ việc tra cứu của cơ quan nhà nước
+có thẩm quyền.
+2. Hồ sơ bảo hiểm xã hội điện tử đã hết thời hạn lưu trữ theo quy định thì
+được phép tiêu hóy, trừ trường hợp có quy định khác của cơ quan nhà nước
+có thẩm quyền. Việc tiêu hủy hồ sơ bảo biểm xã hội điện tử khởng được làm
+ảnh hưởng đến tỉnh toàn vẹn của các hồ sơ bảo hiểm xã hội điện tử chưa tiêu:
+hủy và phải bảo đảm sự hoạt động bình thường của hệ thống thông tin.
+11
+Chương IV
+THỰC HIỆN GIAO DỊCH ĐIỆN TỬ
+TRONG LĨNH VỤC BẢO HIỂM XÃ HỘI QUA CÔNG THÔNG TIN
+ĐIỆN TỦ BẢO HIỂM XÃ HỘI VIỆT NAM
+Điều 18. Đăng ký sử dụng phương thức giao dịch điện tử
+1. Người sử dụng lao động lập Tờ khai đăng ký sử dụng phương thức
+giao dịch điện tử trong lĩnh vực bảo biểm xã hội theo Mẫn số 01/08-Gi Đại.
+Phụ lục ban hành kèm theo Quyết định này và gửi đến Cổng thông tin điện tử
+Bảo hiểm xã hội Việt Nam.
+2. Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được Tờ khai đăng
+ký sử dụng phương thức giao dịch điện tử trong lĩnh vực bảo hiểm xã hội của
+người sử dụng lao động, trường hợp chấp thuận, Bảo hiểm xã bội Việt Nam
+thông báo kèm theo việc cấp tài khoản để thực hiện giao dịch điện tử qua địa
+chỉ thư điện tử của người sử dụng lao động; trường hợp không chấp thuận,
+Bảo hiểm xã hội Việt Nam thông báo lý do cho người sử dụng lao động.
+Điều 19. Thay đổi, bổ sung thông tin tờ khai đăng ký sử dụng
+phương thức giao dịch điện tử
+1. Trường hợp thay đổi, bổ sung thông tin về chứng thư số, địa chỉ thư
+điện tử, điện thoại và người liên hệ tại Tờ khai đăng ký sử dụng phương thức.
+giao dịch điện tử, trong thời bạn 05 ngày làm việc, kể từ ngày phát sinh thay
+đổi, bổ sung, người sử dụng lao động tray cập vào tài khoản giao dịch báo
+hiểm xã hội điện tử của mình để lập Tô khai thay đổi, bổ sung thông tin đăng
+ký sử dụng phương thức giao dịch điện tử trong lĩnh vực bảo hiểm xã hội theo.
+Mẫu số 02/SD-GD tại Phụ lục ban hành kèm theo Quyết định này.
+2. Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được Tờ khai thay.
+đổi, bổ sung thông tin đăng ký sử dụng phương thức giao dịch điện tử, Báo
+hiểm xã hội Việt Nam gửi thông bảo xáo nhận thay đổi, bổ sung thông tin đến
+địa chỉ thư điện tử của người sử dụng lao động.
+Điều 20. Đăng ký ngừng giao dịch điện tử trong lĩnh vực bảo hiểm
+xã hội
+1. Người sử dụng lao động muốn ngừng giao dịch điện tử trong lĩnh vực
+bảo hiểm xã hội phải lập Tờ khai đăng kỷ ngừng sử dụng phương thức giao
+dịch điện tử trong lĩnh vực bảo hiểm xã hội theo Mẫu số 03/NG- GD tại Phụ
+lực ban hành kèm theo Quyết định này và gửi đến Cổng thông tin điện tử Bảo
+hiểm xã hội Việt Nam.
+12
+2. Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được Tờ khai đăng
+ký ngừng sử dụng phương thức giao dịch điện tử trong lĩnh vực bảo hiểm xã.
+hội của người sử dụng lao động, Bảo hiểm xã hội Việt Nam gửi thông báo xác
+nhận ngừng giao dịch điện tử trong lĩnh vực bảo biểm xã bội đến địa chỉ thư.
+điện tử của người sử dụng lao động.
+3. Kể từ thời điểm Bảo hiểm xã hội Việt Nam thông báo xác nhận ngừng
+giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, người sử dụng lao động thực
+hiện giao dịch bảo hiểm xã hội bằng hồ sơ giấy theo quy định. Trường hợp.
+người sử dụng lao động muốn tiếp tục sử dụng lại phương thức giao dịch điện.
+tử trong lĩnh vực bảo hiểm xã hội thi phải thực hiện đăng ký theo quy định tại
+Điều 18 của Quyết định này.
+Điều 21. Nộp hồ sơ bảo hiểm xã hội điện tử qua Cổng thông tin điện
+tử Bảo hiểm xã hội Việt Nam
+1. Người sử dụng lao động thực hiện nộp hồ sơ bảo hiểm xã hội điện tử
+theo một trong hai cách sau:
+a) Người sử dụng lao động tray cập tải khoản giao dịch bảo hiểm xã hội.
+điện tử, thực hiện lập hồ sơ bảo hiểm xã hội điện tử trực tuyến tại Cổng thông
+tin điện tử Bảo hiểm xã hội Việt Nam và gửi hồ sơ bảo hiểm xã hội điện tử
+cho Bảo hiểm xã hội Việt Nam;
+b) Người sử dụng lao động lập hồ sơ bảo hiểm xã hội điện tử bằng các
+phần mềm, công cụ hỗ trợ giao dịch bảo hiểm xã hội điện tử đáp ứng chuẩn
+định đạng dữ liệu của Bảo hiểm xã hội Việt Nam; sau đó truy cập vào tải
+khoản giao dịch bảo hiểm xã hội điện tử để thực hiện gửi hồ sơ bảo hiểm xã.
+hội điện tử cho Bảo hiểm xã hội Việt Nam.
+2. Trong thời hạn 02 giờ, kể từ khi nhận được hồ sơ bảo hiểm xã hội điện
+từ của người sử dụng lạo động, Bảo hiểm xã hội Việt Nam gửi thông bảo xác
+nhận nộp hồ sơ bảo hiểm xã bội điện tử qua địa chỉ thu điện tử cho người sử
+dụng lao động.
+Chương V
+THỰC HIỆN GIAO DỊCH ĐIỆN TỬ TRONG LĨNH VỰC
+BÁO HIỂM XÃ HỘI THÔNG QUA TỔ CHỨC IVAN
+Điều 22. Đăng ký sử dụng dịch vụ I-VAN
+1. Người sử dụng lao động lập Tờ khai đăng ký sử dụng dịch vụ I- VAN
+theo Mẫu số 04/ĐK-VVAN tại Phụ lục ban hành kèm theo Quyết định này và
+gửi đến Cổng giao dịch điện tử của Tổ chức l-VAN. Trong thời hạn 02 giờ.
+kể từ khi nhận được Tờ khai, Tổ chức LVAN gửi đến Cổng giao dịch điện tử
+của Bảo hiểm xã hội Việt Nam.
+13
+2. Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được Tờ khai đăng
+ký sử dụng dịch vụ LVAN của người sử dụng lao động. Bảo hiểm xã hội.
+Việt Nam gửi thông báo xác nhận đến Tổ chức IVAN; trường hợp không
+chấp thuận, Báo hiểm xã hội Việt Nam thông báo lý do cho Tổ chức LVAN.
+3. Trong thời hạn 02 giờ, kể từ khi nhận được thông báo của Bảo hiểm
+xã hội Việt Nam, Tổ chức LVAN gửi thông báo cho người sử dụng lao động.
+Điều 23. Thay đổi, bổ sung thông tin tờ khai đăng ký sử dụng dịch
+vụ I-VAN
+1. Trường hợp thay đổi, bổ sung thông tin trên Tờ khai đăng ký sụng
+dịch vụ I-VAN, người sử dụng lao động truy cập vào tài khoản giao dịch bảo
+hiểm xã hội điện tử của mình để lập Tờ khai thay đổi, bổ sung thông tin đăng
+ký sử dụng dịch vụ Lẫu số 05/SĐ- TVAN tại Phụ lọc ban hành.
+kèm theo Quyết định này gửi đến Cổng giao dịch điện tử của Tổ chức I-VAN
+Tổ chức LVAN chuyển đến Cổng giao dịch điện rử của Bảo hiểm xã hội Việt
+Nam trong thời hạn 02 giờ, kể từ khi nhận được Tờ khai.
+2. Trường hợp thay đổi Tổ chức LVAN, người sử dụng lao động phải
+thực hiện đăng ký ngờng sử dụng dịch vụ L VAN theo quy định tại Điều 24 và
+thực hiện thủ tục đăng ký sử dụng dịch vụ IVAN theo quy định tại Điều 22
+của Quyết định này.
+Điều 24. Đăng ký ngừng sử dụng dịch vụ I-VAN
+1. Người sử dụng lao động muốn ngừng sử dụng dịch vụ kVAN, phải lập
+Tờ khai đăng ký ngừng sử dụng dịch vụ I VAN theo Mẫu số 06/NG- IVAN tại.
+Phụ lục ban hành kèm theo Quyết định này gửi đến Cổng giao dịch điện tử
+của Tổ chức l-VAN; Tổ chức L VAN chuyển đến Cổng giao dịch điện tử của
+Bảo hiểm xã hội Việt Nam chậm nhất là 02 giờ, kể từ khi nhận được Tờ khai.
+2. Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được Tờ khai đăng
+ký ngừng sử dụng dịch vụ lVAN, Bảo hiểm xã hội Việt Nam gửi thông báo
+xác nhận ngừng sử dụng dịch vụ kVAN đến người sử dụng lao động qua Tổ
+chức 1-VAN đang cung cấp dịch vụ cho người sử dụng lao động.
+3. Trong thời hạn 02 giờ, kể từ khi nhận được thông báo xác nhận ngừng
+sử dụng dịch vụ IVAN của Bảo hiểm xã hội Việt Nam, Tổ chức I-VAN gửi
+thông báo cho người sử dụng lao động.
+14
+4. Kể từ thời điểm nhận được thông báo xác nhận ngừng sử dụng dịch vụ
+IVAN, người sử dụng lao động thực hiện thủ tục đăng ký giao dịch bảo hiểm
+xã hội bằng hồ sơ giấy.
+Điều 25. Nộp hồ sơ bảo hiểm xã hội điện tử qua Tổ chức LVAN
+1. Người sử dụng lao động thực hiện khai và nộp hồ sơ bảo hiểm xã hội
+điện tử theo một trong hai cách sau:
+a) Người sử dụng lao động truy cập tài khoản giao dịch bảo hiểm xã hội điện.
+tử, thực hiện lập hồ sơ bảo hiểm xã hội điện tử trực tuyến tại Cổng giao dịch điện
+tử của Tổ chức I-VAN và gửi hồ sơ bảo hiểm xã hội diện tử cho Tổ chức LVAN
+b) Người sử dụng lao động lập hồ sơ bảo hiểm xã hội điện tử bằng các
+phần mềm, công cụ hỗ trợ giao dịch bảo hiểm xã hội điện tử đáp ứng chuẩn
+định đạng dữ liệu của Bảo hiểm xã hội Việt Nam; sau đó truy cập vào tài
+khoản giao dịch bảo hiểm xã hội điện tử để thực hiện gửi hồ sơ bảo hiểm xã
+hội điện tử cho Tổ chức I-VAN.
+2. Sau khi nhận được hồ sơ bảo hiểm xã hội điện tử của người sử dụng.
+lao động, Tổ chức I-VAN thực hiện việc gửi bồ sơ đến Cổng giao dịch điện tử.
+của Bảo hiểm xã hội Việt Nam và gửi thông báo xác nhận nệp hồ sơ bảo hiểm.
+xã hội điện tử qua địa chỉ thư điện tử cho người sử dụng lao động trong thời
+hạn 02 giờ.
+Chương VI
+TỔ CHỨC THỰC HIỆN
+Điều 26. Hiệu lực thì hành
+Quyết định này có hiệu lực thi hành kể từ ngày 01 tháng 5 năm 2015 đến
+khi Nghị định của Chính phủ quy định trình tự, thủ tục tham gia và giải quyết
+các chế độ bảo hiểm xã hội bằng phương thức giao dịch điện tử trong lĩnh vực.
+bảo hiểm xã hội có hiệu lực thi hành.
+Điều 27. Tổ chức thực hiện
+1. Bảo hiểm xã hội Việt Nam có trách nhiệm hướng dẫn hồ sơ, thủ tục,
+quy trình giao dịch điện tử trong lĩnh vực bảo hiểm xã hội theo quy định của
+pháp luật về giao dịch điện tử, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất
+nghiệp và các quy định pháp luật có liên quan để tổ chức thực hiện Quyết
+định này.
+15
+2. Bảo biểm xã hội Việt Nam có trách nhiệm tổng kết, đánh giá kết quả
+thực hiện thí điểm giao dịch điện cử trong lĩnh vực bảo hiểm xã hội và để xuất:
+ý kiến báo cáo Thủ tướng Chính phủ trước ngày 01 tháng 01 năm 2016, đồng
+thời gửi Bộ Lao động - Thương binh và Xã hội, Bộ Y tế, Bộ Tài chính./.
+Nơi nhận:
+- Ban Bí thư Trung ương Đảng;
+- Thủ tướng, các Phó Thủ tướng Chính phủ;   THỦ TƯỚNG
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
+- HĐND, UBND các tỉnh, TP trực thuộc Trúng ương;
+- Văn phòng Trung ương và các Ban của Đảng;
+- Văn phòng Tổng Bí thư;
+- Văn phòng Chủ tịch nước;
+- Hội đồng dân tộc và các Ủy ban của Quốc hội;
+- Văn phòng Quốc hội;
+- Toà án nhân dân tối cao;
+- Viện kiểm sát nhân dân tối cao;
+- Ủy ban Giám sát tài chính Quốc gia;   - Kiểm toán Nhà nước;   Nguyễn Tấn Dũng
+- Ngân hàng Chính sách Xã hội;
+- Ngân hàng Phát triển Việt Nam;
+- UBT V Mặt trận Tổ quốc Việt Nam;
+- Cơ quan Trung ương của các đoàn thể:
+- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT,
+các Vụ, Cục, đơn vị trực thuộc, Công báo;
+- Lưu Văn thư, KTTH (3b). XH 240
+16
+Phụ lục
+Bát hệnh bành theo Quyết định số 08/2015/QĐ-TTg
+năng 2015 của Thủ tướng Chính phủ)
+Mẫu số 01/ĐK-GD   Tờ khai đăng ký sử dụng phương thức giao dịch điện
+tử trong lĩnh vực bảo hiểm xã hội
+Tờ khai thay đổi, bổ sung thông tin đăng ký sử dụng
+Mẫu số 02/SĐ-GD   phương thức giao dịch điện tử trong lĩnh vực bảo hiểm
+xã hội
+Mẫu số 03/NG-GD   Tờ khai đăng ký ngừng sử dụng phương thức giao.
+dịch điện tử trong lĩnh vực bảo hiểm xã hội
+Mẫu số 04/ĐK-IVAN   Tờ khai đăng ký sử dụng dịch vụ I-VAN
+Tờ khai thay đổi, bổ sung thông tin đăng ký sử dụng
+Mẫu số 05/SĐ-TVAN
+dịch vụ I-VÁN
+Mẫu số 06/NG-IVAN   đâu số 06/NG-IVAN Tờ khai đăng ký ngừng sử dụng dịch vụ l-VAN
+Mẫu số 01/ĐK-GD
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+.......... ngày ... tháng ... năm......
+TỜ KHAI
+Đăng ký sử dụng phương thức giao dịch điện tử
+trong lĩnh vực bảo hiểm xã hội
+Kính gửi: Bảo hiểm xã hội Việt Nam
+Tên người sử dụng lao động (đơn vị sử dụng lao động):
+Mã số bảo hiểm xã hội:
+Địa chỉ liên hệ: (Ghi rõ địa chỉ nơi đơn vị đóng trụ sở)..
+Số chứng thư số:
+Tên tổ chức chứng thực chữ ký số:
+Thời hạn sử dụng chứng thư số từ ngày... tháng... năm...đến ngày......
+tháng .. năm....
+Địa chỉ thư điện tử:
+Điện thoại: .
+Người liên hệ:
+Điện thoại của người liên hệ:
+Theo Quyết định số .... /20../QĐ-TTg ngày .../..../20... của.
+Thủ tướng Chính phủ, đơn vị chứng tới có đủ các điểu kiện sử dụng phương
+thức nộp hồ sơ, giao dịch bảo hiểm xã hội điện tử. Chúng tôi đăng ký với cơ
+quan Bảo hiểm xã hội được sử dụng phương thức giao dịch điện tử trong lĩnh
+vực bảo hiểm xã hội, cụ thể như sau:
+2
+- Đăng ký sở dụng phương thức giao dịch điện tử trong lĩnh vực Bảo.
+hiểm xã hội từ ngày ..tháng....
+- Đăng ký giao dịch tại:
++ Cổng thông tin điện tử Bảo hiệm xã hội Việt Nam
++ Cổng giao dịch điện tử của Tổ chức I-VAN
+(Tên tổ chức cung cấp dịch vụ I-VAN:   ..(trong trường hợp
+giao dịch qua Tổ chức I-VAN).
+Chúng tôi cam kết hoàn toàn chịu trách nhiệm trước pháp luật về tính
+chính xác, trung thực của nội dung nêu trên và thực hiện nộp hồ sơ, giao dịch
+điện tử trong lĩnh vực bảo hiểm xã hội theo đúng quy định của pháp luật về
+bảo hiểm xã hội./.
+Chữ ký số của
+người sử dụng lao động
+3
+Mẫu số 02/SĐ-GD
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+....... , ngày .... tháng .... năm....
+TỜ KHAI
+Thay đổi, bổ sung thông tin đăng ký sử dụng
+phương thức giao dịch điện tử trong lĩnh vực bảo hiểm xã hội
+Kính gửi: Bảo hiểm xã hội Việt Nam
+Tên người sử dụng lao động (đơn vị sử dụng lao động):
+Mã số bảo hiểm xã hội:
+, chúng tôi đã gửi Tờ khai đăng ký sử
+dụng phương thức giáo dịch điện tử trọng lĩnh vực bảo hiểm xã hội cho cơ
+quan Bảo hiểm xã hội Việt Nam. Nay đề nghị Bảo hiểm xã hội Việt Nam cho
+thay đổi, bổ sung thống tin đã đăng ký, cụ thể như sau:
+- Số chứng thư số: ..
+- Tên tổ chức chứng thực chữ ký số: .
+- Thời hạn sử dụng chứng thư số: Từ ngày...tháng... năm... đến ngày...
+tháng ... năm...
+- Địa chỉ thư điện tử: .
+(Chi ghi những nội dung có thay đổi, bổ sung)
+- Các thông tin trên đề nghị thay đổi kể từ ngày....... tháng.......
+năm
+Chúng tôi cam kết hoàn toàn chịu trách nhiệm trước pháp luật về tỉnh
+chính xác, trung thực của nội dung nêu trên./.
+Chữ ký số của
+người sử dụng lao động
+Mẫu số 03/NG-GD
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+....... ngày .... tháng ... năm......
+TỜ KHAI
+Đăng ký ngừng sử dụng phương thức
+giao dịch điện tử trong lĩnh vực bảo hiểm xã hội
+Kính gửi: Bảo hiểm xã hội Việt Nam
+Tên người sử dụng lao động (đơn vị sử dụng lao động):
+Mã số bảo hiểm xã hội:
+Đang tham gia giao dịch với cơ quan Bảo hiểm xã hội (tỉnh hoặc huyện):
+Chúng tôi là đơn vị đã được cơ quan Bảo hiểm xã hội chấp thuận việc.
+đăng ký sử dụng phương thức giao dịch điện tử trong tỉnh vực bảo hiểm xã
+hội kể từ ngày... tháng ... năm......
+Nay đề nghị Bảo hiểm xã hội Việt Nam cho đăng ký ngừng sử dụng
+phương thức giao dịch điện tử trong lĩnh vực bảo hiểm xã hội từ ngày
+tháng ... năm....
+Lý do ngừng:
+Chúng tôi cam kết chịu trách nhiệm hoàn toàn trước pháp luật về tính
+chính xác, trung thực của nội dung nêu trên./.
+Chữ ký số của
+người sử dụng lao động
+5
+Mẫu số 04/ĐK-IVAN
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+....... , ngày .... tháng ... năm.......
+TỜ KHAI
+Đăng ký sử dụng dịch vụ I- VAN
+Kính gửi: Bảo hiểm xã hội Việt Nam
+Tên người sử dụng lao động (đơn vị sử dụng lao động):
+Mã số bảo hiểm xã hội:..
+Địa chỉ liên hệ:
+Qua xem xét và nhận thấy chúng tôi có đủ các điều kiện sử dụng dịch vự
+kVAN, chúng tôi đăng ký với cơ quan Bảo hiểm xã hội được sử dụng dịch vụ
+I-VAN, cụ thể như sau:
+1. Thông tin về người sử dụng lao động (đơn vị sử dụng lao động):
+- Số chứng thư số:
+- Tên tổ chức chứng thực chữ ký số: .
+- Thời hạn sử dụng chứng thư số: từ ngày..... tháng...... năm..........................................................................................................................
+đến ngày........ tháng ....... năm.......
+- Địa chỉ thư điện tử:
+- Điện thoại:
+- Sử dụng dịch vụ I-VAN để thực hiện thủ tục (ghi tên các thủ tục):
+6
+2. Thông tin về Tổ chức I-VAN:
+Tên tổ chức: (ghi rõ tên đầy đủ tổ chức)...
+Chúng tôi cam kết hoàn toàn chịu trách nhiệm trước pháp luật về tính
+chính xác, trang thực của nội dung nêu trên và thực hiện theo đúng quy định.
+của pháp luật về giao dịch điện tử trong lĩnh vực bảo hiểm xã hội./.
+Chữ ký số của tổ chức   Chữ ký số của
+cung cấp dịch vụ I-VAN   người sử dụng lao động
+7
+Mẫu số 05/SĐ-TVAN
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+...... ngày.... tháng..... năm......
+TỜ KHAI
+Thay đổi, bổ sung thông tin đăng ký sử dụng dịch vụ I-VAN
+Kính gửi: Bảo hiểm xã hội Việt Nam
+Tên người sử dụng lao động (đơn vị sử dụng lao động):
+Mã số bảo hiểm xã hội:..
+Căn cứ Tờ khai đăng ký sử dụng dịch vụ l-VAN ngày.
+năm....... , chủng tôi đề nghị được thay đổi, bổ sung thông tin đã đăng ký, cự
+thể như sau:
+- Số chứng thư số:
+- Tên tổ chức chúng thực chữ ký số:..
+- Thời hạn sử dụng chứng thư số: từ ngày..... tháng....... năm........
+đến ngày........ tháng...... năm.........
+- Địa chỉ thư điện tử:
+(Chi ghi những nội dung có thay đổi, bổ sung)
+Chúng tôi cam kết hoàn toàn chịu trách nhiệm trước pháp luật về tính
+chính xác, trung thực của nội dung nêu trên./.
+Chữ ký số của tổ chức   Chữ ký số của
+cung cấp dịch vụ I-VAN   người sử dụng lao động
+8
+Mẫu số 06/NG-IVAN
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+....... , ngày...... tháng ..... năm......
+TỜ KHAI
+Đăng ký ngừng sử dụng dịch vụ I-VAN
+Kính gửi: Bảo hiểm xã hội Việt Nam
+Tên người sử dụng lao động (đơn vị sử dụng lao động):
+Mã số bảo hiểm xã hội:.
+Địa chỉ liên hệ:
+Chứng tôi đăng ký với Bảo hiểm xã hội Việt Nam để được ngừng sử
+dụng dịch vụ T-VAN của Tổ chức I-VAN đã đăng ký sau:
+- Tên Tổ chức L-VAN: (ghi rõ tên đầy đủ tổ chức) ...
+- Thời điểm ngừng từ ngày...tháng... năm....
+- Lý do ngừng:
+Chúng tôi cam kết chịu trách nhiệm hoàn toàn trước pháp luật về tính
+chính xác, trung thực của nội dung nêu trên./
+Chữ ký số của tổ chức   Chữ ký số của
+cung cấp dịch vụ I-VAN   người sử dụng lao động
+9.

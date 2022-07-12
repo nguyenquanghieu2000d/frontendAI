@@ -1,0 +1,549 @@
+Kỷ bởi: Công Thông tin điện tư Chính phư
+Email: thongtinchinhphuạchinhphu.vn
+Cơ quan: Văn phòng Chính phủ
+Thời gian ký: 69.06.2014 15:28:52 +07:00
+ỦY BAN NHÂN DÂN   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH QUẢNG TRỊ   Độc lập - Tự do - Hạnh phúc
+Số:19 /2014/QĐ-UBND   Quáng Trị, ngày 26 tháng 4 năm 2014
+QUYẾT ĐỊNH
+V/v Ban hành Quy định xây dựng và sử dụng chung cơ sở hạ tầng
+kỹ thuật viễn thông trên địa bàn tỉnh Quảng Trị
+Căn cứ Luật Tổ chức HĐND và UBND ngày 26/11/2003;
+Căn cứ Luật Xây dựng ngày 26/11/2003;
+Căn cứ Luật Viễn thông ngày 23/11/2009;
+Căn cứ Luật Quy hoạch đô thị ngày 17/6/2009;
+Căn cứ Nghị định số 25/2011/NĐ-CP ngày 06/4/2011 của Chính phủ về Quy
+định chi tiết và hướng dẫn thi hành một số điều của Luật Viễn thông; Nghị định.
+số 73/2012/NĐ CP ngày 24/9/2012 của Chính phủ về quản lý và sử dụng chung
+công trình hạ tầng kỹ thuật; Nghị định số 39/2010/NĐ-CP ngày 074/2010 của
+Chính phủ về Quản lý không gian xây dựng ngầm đô thị; Nghị định số
+12/2009/NĐ-CP ngày 12/02/1009 của Chính phủ về quản lý dự án đầu tư xây dựng
+công trình; Nghị định số 19/2013/NĐ-CP ngày 06/07/2013 của Chính phủ về quản
+lý chất lượng công trình xây dựng;
+Căn cứ Chỉ thị số 422/CT-TTg ngày 02/4/2010 của Thủ tướng Chính phủ về
+việc tăng cường quản lý và phát triển bền vững cơ sở hạ tầng viễn thông;
+Căn cứ Thông tư số 14/2013/TT-BTTTT ngày 21/6/2013 của Bộ Thông tin.
+và Truyền thông về việc lập, phê duyệt và tổ chức thực hiện quy hoạch hạ tầng.
+viễn thông thụ động;
+Xét đề nghị của Giám đốc Sở Thông tin và Truyền thông tại Tờ trình số:
+13/TTr-STTTT, ngày 08/4/2014,
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy định xây dựng và sử dụng
+chung cơ sở hạ tầng kỹ thuật viễn thông trên địa bàn tỉnh Quảng Tr”.
+Điều 2. Quyết định này có hiệu lực thi hành sau 10 ngày, kể từ ngày ký.
+Chánh Văn phòng UBND tỉnh; Giám đốc các Sở: Thông tin và Truyền
+thông, Kế hoạch và Đầu tư. Tài chính, Xây dựng, Giao thông - Vận tài, Tài nguyên
+và Môi trường, Công Thương; Giám đốc Đài Phát thanh - Truyền hình tỉnh. Tổng,
+biên tập Bảo Quảng Trị; Chủ tịch UBND các huyện, thị xã, thành phố; Trưởng Ban.
+quản lý khu kinh tế tỉnh; Giám đốc các doanh nghiệp viễn thông trên địa bàn tỉnh
+và các tế chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.
+Nơi nhận:   TM. ỦY BAN NHÂN DÂN
+- Như Điều 2;   CHỦ TỊCH
+- Bộ Thông tin và Truyền thông;
+- Cục Kiểm tra văn bản QPPL - Bộ Tư pháp;
+- TT/Tỉnh ủy, TT/HĐND tỉnh;
+- Đoàn ĐBQH tỉnh;
+- Chủ tịch, các PCT UBND tỉnh;
+- Lưu: VT, VX
+Nguyễn Đức Cường
+2
+
+ỦY BAN NHÂN DÂN   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH QUẢNG TRỊ   Độc lập - Tự do - Hạnh phúc
+QUY ĐỊNH
+Xây dựng và sử dụng chung cơ sở hạ tầng kỹ thuật viễn thông
+trên địa bàn tỉnh Quảng Trị
+(Ban hành kèm theo Quyết định số: 19 /2014/QĐ-UBND
+ngày 26 /4/2014 của UBND tỉnh Quảng Trị)
+1
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Quy định này quy định việc xây dựng, cải tạo, lắp đát, vận hành, khai thác,
+quản lý và sử dụng chung các công trình hạ tầng viễn thông, công trình hạ tầng ký.
+thuật thuộc các lĩnh vực viễn thông, phát thanh, truyền hình, Internet trên địa bàn.
+tỉnh Quảng Trị.
+Điều 2. Đối tượng áp dụng
+Quy định này áp dụng đối với tổ chức, cá nhân có liên quan đến xây dựng và
+dùng chung tư sở hạ tầng kỹ thuật viên thông; các đo vị sở hữu các công trình hạ
+tầng kỹ thuật có liên quan trên địa bàn tỉnh Quảng Trị.
+Điều 3. Giải thích từ ngữ:
+Tại quy định này các từ ngữ dới đây đợc hiểu nhưsau:
+- Nhà trạm là công trình xây dựng để bảo vệ thiết bị viễn thông và các thiết
+bị phụ trợ khác.
+- Cống, bể cáp là hệ thống công, ổng, bể cáp phục vụ việc bảo vệ cáp, kéo
+cáp, chứa các măng song và dự trữ cáp thông tin ngầm dới mặt đất.
+- Cột treo cáp là cột bằng thép hoặc bê tông cốt thép đúng để treo cáp viễn
+thông, cáp truyền hình.
+- Trạm thu, phát sóng thông tin đi động (BTS) bao gồm cột ăng ten, nhà
+trạm, các trang thiết bị đảm bảo việc thu, phát sóng thông tin di động và các thiết
+bị phụ trợ khác.
++ Trạm BTS loại 1: Là công trình xây dựng bao gồm nhà trạm và cột ăng
+ten, thiết bị thu, phát sông thông tin di động đọc xây dựng, lắp đặt trên mặt đất.
++ Trạm BTS loại 2: Là công trình trạm thu, phát sóng thông tin di động và
+cột ăng ten, thiết bị đợc lấp đặt trên các công trình đã đọc xây dựng.
+3
+- Một đối một là các doanh nghiệp chía số, trao đổi cơ sở hạ tầng cho nhan:
+theo nguyên tắc đơn vị A sử dụng chung hạ tầng của đơn vị B và ngược lại đơn vị
+B được đơn vị A cho phép sử dụng chung hạ tầng tại các vị trí tương ứng,
+- Doanh nghiệp viễn thông, doanh nghiệp xây dựng cơ sở hạ tầng viễn
+thông, doanh nghiệp truyền hình cáp: Gợi chung là doanh nghiệp viễn thông.
+- Cáp, dây thuê bao và các thiết bị của doanh nghiệp viễn thông; cáp và thiết
+bị của doanh nghiệp truyền hình cáp: đợi chung là cấp, đấy thuê bao và các thiết bị
+viễn thông.
+Điều 4. Quy định chung
+1. Việc xây dựng, sử dụng chung các công trình hạ tầng kỹ thuật viễn thông
+phải tuân thủ đúng các quy choản, tiêu chuẩn, quy định, quy hoạch về viễn thông
+và của các ngành có liên quan; đảm bảo yêu cầu về an toàn, cánh quan, môi
+trường, quyền và lợi ích hợp pháp của các bên tham gia. Việc sử dụng chung công
+trình hạ tầng kỹ thuật viên thông phải được thực hiện thông qua hợp đồng và giả
+thuê theo quy định hiện hành của Nhả nước.
+2. Cơ quan quản lý Nhà nước chuyên ngành về viễn thông quyết định việc
+bắt buộc sử dụng chung cơ sở hạ tầng viên thông giữa các doanh nghiệp trong các
+trường hợp sau:
+a) Các doanh nghiệp không tự thỏa thuận được với nhau trong việc sử dụng.
+chung phương tiện thiết yếu.
+b) Sử dụng chung cơ sở hạ tầng viễn thông để đảm bảo yêu cầu về cảnh.
+quan, môi trường và quy hoạch đô thị.
+c) Sở dụng chung cơ sở hạ tầng viễn thông để phục vụ hoạt động viễn thông
+công ích, phòng chống thiên tai và quốc phòng, an ninh.
+3. Đối với các doanh nghiệp đã có sẵn cơ sở hạ tầng viễn thông trên địa bàn
+tỉnh phải có trách nhiệm chỉa sẽ hạ tầng viễn thông theo hình thức một đối một”
+hoặc tự thỏa thuận cho thuê lại.
+4. Trong trường hợp các đơn vị không thỏa thuận được việc dùng chung hạ
+tầng thí đơn vị muôn dùng chung báo cáo Sở Thông tin và Truyền thông chủ trì,
+phối hợp giải quyết hoặc tham mưu cho UBND tỉnh phương án giải quyết phù hợp.
+5. Các cơ quan chức năng xem xét cấp giấy phép xây dựng hạ tầng viễn
+thông khi doanh nghiệp thực hiện đầy đủ những nội dung sau:
+a) Cam kết tuân thủ đúng Quy hoạch phát triển Bưu chính, Viễn thông và
+Công nghệ thông tin; Quy định của UBND tỉnh về ngầm hóa cáp thông tin trên địa
+bản tỉnh Quảng Trị và quy định khu vực phải xin giấy phép xây dựng đối với trạm
+thu phát sông thông tin di động loại 2; quy hoạch của các địa phương, các ngành có
+liên quan; các quy chuẩn, tiêu chuẩn, quy định của pháp luật hiện hành liên quan.
+b) Đã đảm phán với các doanh nghiệp khác trong việc sử dụng chung các.
+công trình hạ tầng kỹ thuật mà không thỏa thuận được với lý do chính đảng (phải
+có văn bản giải trình cụ thể).
+4
+c) Cam kết xây dựng hạ tầng viễn thông đủ khả năng đáp ứng cho các doanh
+nghiệp viên thông khác trên địa bàn tỉnh sử dụng chung cơ sở hạ tầng khi có như
+cầu.
+Chương II
+XÂY DỰNG CƠ SỞ HẠ TẦNG VIỄN THÔNG
+Điều 5. Xây dựng và sử dụng chung các công trình hạ tầng kỹ thuật
+1. Nguyên tắc xây dựng và sử dụng chung các công trình hạ tầng kỹ thuật:
+1.1. Các hình thức xây dựng và sử dụng chung bao gồm:
+a) Nhà nước đầu tư xây dựng các công trình họ tầng kỹ thuật sau đó cho các
+doanh nghiệp sử dụng bằng hình thức thu phí sử dụng để lắp đại các đường đây,
+cáp viễn thông, cáp diện lực, chiếu sáng và cáp truyền dẫn tín hiệu khác.
+b) Nhà nước và các doanh nghiệp cùng đầu tư xây dựng các công trình hạ
+tầng ký thuật sau đó phân chia dưng lượng cho các doanh nghiệp sử dụng để lắp.
+đặt các đường đây, cấp viên thông, cáp diện lực, chiếu sáng và cáp truyền dẫn tán.
+hiệu khác theo tỷ lệ đầu tư.
+c) Khuyến khích các tổ chức, cá nhân có đủ năng lực theo quy định của pháp.
+Luật tham gia đầu tư xây dựng các công trình hạ tầng kỹ thuật sau đố cho các doanh.
+nghiệp thuế lại để lắp đặt các viễn thông, cáp điện lực, chiếu sáng
+và cáp truyền dẫn tín hiệu khác.
+1.2. Cáp, đây thuê bao, thiết bị viễn thông được phép lấp đặt trong các công
+trình bạ tầng kỹ thuật Việc sử dụng chong các công trình hạ tầng kỹ thuật giao.
+thông, cung cấp năng lượng, chiếu sảng công cộng, cấp nước, thoát nướp, viễn
+thông và các công trình hạ tầng kỹ thuật khác được thực hiện theo nguyên tắc hiệu
+quá, tiết kiệm, đảm bảo cảnh quan, môi trường, phù hợp với quy hoạch đô thị và
+quy hoạch phát triển kinh tế - xã hội của tỉnh.
+1.5. Việc sử dụng chung các công trình hạ tầng kỹ thuật được thực hiện.
+thông qua hợp đồng trên cơ sở đâm bảo quyền, lơi ích hợp pháp của các bến tham
+gia; đồng thối đảm bảo nguyên tác giúp người tử dung dịch vụ được tự do lựa
+chọn doanh nghiệp cung cấp dịch vụ nhằm thúc đẩy cạnh tranh lành mạnh giữa các
+doanh nghiệp
+1.4. Khi di đời các công trình hạ tầng kỹ thuật để giải phóng mặt bằng theo.
+quyết định thu bồi đất của Nhà nước, các đơn vị sử dụng chung các công trình hạ
+tầng kỹ thuật phải chấp hành theo phương án mà chủ dự án đã thống nhất với đơn.
+vị cho thuê theo quy định của pháp luật.
+1.5. Bên thuê sử dụng chung các công trình hạ tầng kỹ thuật được thực hiện.
+đầy đủ quyền và nghĩa và chủ sở hữu đối với việc đầu tư các công trình hạ tầng ký
+thuật, việc quản lý, vận hành, báo dưỡng, thu hồi theo quy định của pháp luật và
+quy định này.
+5
+1.6. Nghiêm cắm mọi hành vi lợi dụng Quy định về việc xây dựng và sử
+dụng chung hạ tầng viễn thông để gây sức ép, cạnh tranh không lành mạnh, phá
+hoại tài sản hoặc làm gián đoạn tín hiệu thông tin của các doanh nghiệp cùng sử
+dụng chung các công trình hạ tầng kỹ thuật.
+2. Nội dung xây dựng và sử dụng chung các công trình hạ tầng kỹ thuật:
+a) Tổ chức, cá nhân đầu tư xây dựng tòa nhà có nhiều chủ sử dụng (chong
+sư, tòa nhà văn phòng, khách sạn...), công trình xây dựng công cộng có trách
+nhiệm thiết kể, lắp đặt hệ thống cáp, điểm tray nhập cấp, thiết bị viễn thông trong
+tòa nhá; đồng thời bố trí mặt bằng để doanh nghiệp viễn thông lấp đặt cột ang ten.
+trên nóc tòa nhà, lập đặt thiết bị thu, phát sông trong tòa nhà, trong công trình xây
+dựng công cộng nếu việc lắp đặt là khả thi về kỹ thuật và phù hợp với quy hoạch.
+b) Chủ đầu tư xây dựng các khu đô thị, khu công nghiệp, cụm công nghiệp.
+khu chế xuất, khu công nghệ cao, trung tâm dịch vụ, thương mại và các công trình
+giao thông có trách nhiệm bố trì mặt bằng để các tổ chức, cá nhân có đủ năng lực.
+theo quy định của pháp luật xây dựng công trình hạ tầng kỹ thuật viễn thông.
+c) Chủ đầu tư các công trình hạ tầng kỹ thuật có trách nhiệm trình cấp có
+thẩm quyền phê duyệt quy hoạch, thiết kế; đầu tư, xây dựng hạ tầng kỹ thuật đảm.
+bảo việc sử dụng chung để tấp đặt cáp, dây thuê bảo và các thiết bị viễn thông phủ.
+hợp với quy hoạch.
+đ) Đối với các khu vực: Đô thị, các khu, cụm công nghiệp, khu chế xuất, khu.
+công nghệ cao, trong tâm dịch vụ, thương mại và các công trình giao thông đã có
+các công trình ngầm hạ tầng kỹ thuật đảm bảo cho việc sử dụng chung các doanh.
+nghiệp viễn thông không được xây dựng hệ thống công, bể cáp mà phải phối hợp
+sử dụng chung cơ sở hạ tầng với các công trình ngâm hạ tầng ký thuật sẵn có.
+đ) Đối với các khu vực đã có các công trình ngầm hạ tầng kỹ thuật nhưng
+không đáp ứng được cho việc sử dụng chung thì khi nhận được đề nghị thuê sử
+dụng chung cơ sở hạ tầng, đơn vị sở hữu công trình ngắm hạ tầng kỹ thuật chủ trả,
+phối hợp với các doanh nghiệp cùng cải tạo, nâng cấp, mở rộng sau đó phân chía
+dung lượng sử dụng theo tỷ lệ đầu tư và chi phí quản lý vận hành, bảo trì.
+e) Các đơn vị sở hữu các công trình hạ tầng kỹ thuật có trách nhiệm công bố
+các thông tin về hạ tầng như: dung lượng thiết kế, lấp đật, mức giá cho thuê, các.
+điều kiện kỹ thuật trong quá trình vận hành, khai thác cho các cơ quan quản lý
+chuyên ngành và các doanh nghiệp có nhu cầu sử dụng chung cơ sở hạ tầng biết
+t) Giá thuê công trình hạ tầng kỹ thuật để lắp đặt cáp, đây thuê bao và các
+thiết bị viễn thông được xác địch trên cơ sở giá thành nhằm thúc đẩy sử dụng
+chung cơ sử hạ tầng kỹ thuật giao thông, cung cấp năng lượng, chiếu sáng công.
+cộng, cấp nước, thoát nước, viễn thông và các cơ sở hạ tầng ký thuật khác.
+g) Chủ đầu tư các công trình hạ tầng kỹ thuật sử dụng vốn ngân sách nhà
+nước trong đó có đầu tư hạng mục xây dựng cơ sở hạ tầng dùng chung bào kỹ.
+thuật, công kỹ thuật, hệ thống cống, bể cấp...trước khi triển khai thi công phát
+thông báo chu Sở Thông tin và Truyền thông các thông tin về cơ sở hạ tầng dúng
+chung để thống nhất về mặt quản lý nhà nước.
+6
+Điều 6. Xây dựng và sử dụng chung hệ thống cống, bể cáp.
+1. Nguyên tắc xây dựng và sử dụng chung hệ thống cống, bể cáp.
+1.1. Đối với các khu vực chưa có các công trình ngằm hạ tổng kỹ thuật hoặc
+các công trình ngầm hạ tầng kỹ thuật không đáp ứng được việc sử dụng chung, các
+doanh nghiệp viễn thống được pháp xây dựng hệ thống cống, bế cáp trên cơ sở
+đảm bảo các nguyên tắc sau:
+a) Các doanh nghiệp khi xây dựng hệ thống công trình ngằm hạ tầng kỷ.
+thuật, công, bể cáp phải thiết kế đản báo cho việc sử dụng chong cơ sở lạ tầng của
+các doanh nghiệp khác (bao gồm cáp viễn thông, cáy điện lực, chiếu sáng và cáp
+truyền dẫn tín hiệu khác).
+b) Các doanh nghiệp sở bữu hệ thống cồng, bế cáp phải công bố dung lượng
+và mức giá cho thuê của từng tuyến tương ứng cho các doanh nghiệp viễn thông
+khác khi có nhu cầu và báo cáo Sở Thông tin và Truyền thông.
+c) Doanh nghiệp chưa có hệ thống cống, bể cáp phải thỏa thuận để sử dụng
+chong hệ thống công, bể cáp của các doanh nghiệp có sẵn trên trình thần hợp tác
+cùng có lợi.
+d) Những khu vực chưa có hệ thống cống, bể ngằm hoặc hệ thống công, hề
+ngầm không đảm bảo năng lực để dùng chung CH UBND tỉnh khuyến khích các
+thành phần kinh tế tham gia đầu tư hệ thống cổng, bổ ngâm sau đó cho các doanh.
+nghiệp khác thuế lại. Không cấp phép việc đầu tư, xây dựng cho những dự án,
+công trình xây dựng hệ thống công, bề ngằm dùng riêng cho từng doanh nghiệp.
+1.2. Nghiêm cắm việc đầu tư, xây dựng hai hệ thống cồng, bế cáp trên cùng
+một tuyển (trở trường hợp công tranh ngằm hạ tầng kỹ thuật viễn thông đã có sắn
+không đáp ứng được cho việc sử dụng chong, nhưng tối đa không quả tai tuyển).
+2. Nội dung xây dựng và sử dụng chung hệ thống cống, bể cáp:
+a) Trên cơ sở các tuyến công trình cổng, bể ngấm, các doanh nghiệp khi có
+nức cầu sử dụng chung hệ thống công, bề cáp phải gửi văn bản đề nghị kèn theo.
+hồ sơ thiết kế cho doanh nghiệp sở hữu hệ thống công, bể cáp để xem xét, giải
+nghiệp sở hữu hệ thống công, bể cáp phải có văn bản trả lời doanh nghiệp cô như
+cầu thuê sử dụng chung cơ sở hạ tầng.
+b) Trong trường hợp thực hiện việc thuê dùng chung hạ tầng công bể mà
+không thành công với lý do chính đáng, Sở Thông tin và Truyền thông chủ trì phối
+hợp với các cơ quan liên quan xem xét chấp thuận cấp phép xây dựng hệ thống
+cổng, bể mới theo quy định tại khoản 4, Điều 4 của Quy định này.
+c) Các khu vực đã có hệ thống cổng, bể cáp nhưng không đáp ứng được cho
+việc sử dụng chung thì khi nhận được để nghị thuê lại sử dụng chung cơ sở hạ
+tầng, các doanh nghiệp phối hợp, bản bạc cùng sải tạo, nâng cấp hệ thống cống. bố
+cáp sau đó phân chỉa dung lượng sử dụng theo tỷ lệ đầu tư.
+d) Khi thi công, vận hành, bảo dưỡng cáp, dây thuê bao ngằm phải đảm bảo
+yêu cầu kỹ thuật, các quy chuẩn, tiêu chuẩn ngành và an toàn cho mạng lưới.
+7
+Điều 7. Xây dựng và sử dụng chung cột treo cáp
+1. Nguyên tắc xây dựng và sử dụng chung cột treo cáp:
+a) Nghiêm cấm các doanh nghiệp trồng cột treo cáp hoặc sử dụng hệ thống
+cột diện lực để kéo cáp treo ở các khu vực bát buộc ngằm hóa 100% mạng cáp, đây
+thuê bao trên địa bàn các huyện, thị, thành phố đã được quy định.
+b) Nghiêm cấm việc đầu tư, xây dựng hai hệ thống cột treo cáp trên cùng
+một tuyến.
+c) Nghiêm cấm mọi hành vi tự ý treo cáp lên hệ thống cột diện lực, cột treo.
+cáp khi chưa được đơn vị sỡ hữu cột diện lực, cột treo cáp cho phép.
+đ) Đối với các tuyến đường đã có hệ thống cột treo cáp: Các doanh nghiệp
+khác khi có nhu cầu kéo cáp trao phải phối hợp sử dụng chung cơ sở hạ tầng sản
+có. Nếu trên một tuyến cùng tồn tại tuyển cột treo cáp và tuyển cổng, bế ngần thì
+việc sử dụng chung hạ tầng phải được ưu tiên sử dụng quyến cống, bể ngằm (với
+điểu kiện tuyến cống, bế ngằm đủ năng lực để cho thuê, sử dụng chung).
+2. Nội dung xây dựng và sử dụng chung cột treo cáp:
+a) Cáp, dây thuê bao viễn thông được phép lắp đột trên cột diện lực tại các
+khu vực chư thể hạ ngằm hoặc không thể xây dựng cột treo cáp viên thông riêng.
+biệt. Các Sở, ban, ngành có liên quan hướng dẫn các tổ chức, cá nhân quản lý, khai
+thác hệ thống cột diện lực cho doanh nghiệp viễn thông, sử dụng chung cột điệu.
+lực để lấp đặt cáp, dây thuê bao và các thiết bị viễn thông.
+h) Cáp, đây thuê bao viễn thông lắp đặt trên cột diện lực, cột treo cáp phải
+toân thủ đúng các quy chuẩn, tiêu chuẩn, quy định của ngành thông tin và truyền
+thông, các ngành khác có liên quan.
+c) Việc sử dụng chung cột treo cáp phải đảm bảo an toàn, ra quan. Cáp.
+băng ngang đường phải đản bảo độ cao cho phép và gắn thẻ cheo quy định. Câp.
+treo đọc tuyến phải dâm bảo kết cầu và độ võng cho phép của các tiêu chuẩn ngành.
+liên quan và có gắn thẻ ghi dung lượng và doanh nghiệp sở hữu.
+đ) Khi thì công, vận hành, bảo dưỡng cáp treo, trụ treo cáp phải đảm bảo yếu.
+cầu kỹ thuật và an toàn cho mạng lưới.
+đ) Đối với mạng câp, đây thuê bao treo hiện có chưa thể ngằm hóa được, các
+doanh nghiệp phải chủ động cải tạo, sắp xếp lại; tổ chức thu hồi, tráo dỡ các cáp,
+đây thuê bao không sử dụng trên mạng để đảm bảo tuyến cáp, đây thuê bao vững
+chắc, an toàn và mỹ quan.
+Điều 8. Xây dựng và sử dụng chung cột, nhà trạm BTS
+1. Nguyên tắc xây dựng và sử dụng chung cột, nhà trạm BTS:
+a) Các doanh nghiệp khi xây dựng cột, nhà trạm BTS phải tuân thủ dung quy
+hoạch phát triển hạ tầng viễn thông của doanh nghiệp, quy hoạch Đưa chính Viên
+thông, công nghệ thông tin của tỉnh, quy hoạch họ tổng kỹ thuật viên thông thụ
+động; các quy chuẩn, tiêu chuẩn, quy định của pháp luật hiện hành và Quy định
+8
+khu vực phải xin giấy phép xây dựng đối với trạm thu phát sóng thông tin di động
+loại 2
+b) Trước khi xây dựng cột, nhà trạm BTS các doanh nghiệp phải thiết kế kết
+cấu, độ rộng nhà trạm, chiếu cao anten đảm bảo cho việc sử dụng chung cơ sở hạ
+tầng; đồng thời phải công bố khả năng đáp ứng và mức giả cho thuê của từng vị trí
+tương ứng cho các doanh nghiệp viễn thông khác và báo cáo Sở Thông tin và
+Truyền thông.
+c) Các doanh nghiệp sở hữu các trạn: BTS phải chia sẻ hạ tầng cột, nhà trạm.
+BTS với các doanh nghiệp khác trên cơ sở đảm bảo quyền, lợi ích hợp pháp của
+các bên tham gia. Đối với các trạm BTS đang hoạt động không đáp ứng được như.
+cầu sử dụng chung, các doanh nghiệp có thế cải tạo, nâng cấp cột, nhà trạm BTS
+đảm bảo cho việc sử dụng chung cơ sở hạ tầng khi có nhu cầu.
+2. Nội dung xây dựng và sử dụng chung cột, nhà trạm BTS:
+a) Ngoài việc tuân thủ quy hoạch Đưu chính Viễn thông, công nghệ thông
+tin, các cột BTS phải cách nhau rối thiểu trong phạm vi bán kính 200m đối với khu
+vực nội thị và bán kinh 500m đối với khu vực ngoài đô thị, dưới khoảng cách này
+các doanh nghiệp không được xây dựng lắp đặt cột BTS mà phải thực hiện đảm
+phán với doanh nghiệp sở hữu trước đó để thuê lại dùng chung cột, nhà trạm BTS.
+b) Trong trường hợp thực hiện việc thuê dùng chung cột, nhà trạm BTS nêu.
+tại điểm a, khoản 2 của Điều này mà không thành công với tý do chính đảng thì Sở
+Thông tin và Truyền thông chủ trì, phối hợp với các cơ quan liên quan xem xét
+chấp thuận vị trí đầu tư xây dựng trạm BTS.
+c) Chủ đầu tư xây dựng các trạm BTS phải thiết kể kết cấu và chiều cao cột
+BTS đảm bảo tối thiểu lấp được hệ thống antên cho 03 trạm đối với cột BTS loại 1
+và 92 trạm đối với cộ: Bì8 loại 2 và phải đảm bảo về độ an toàn của công trình.
+Nhà trạm BTS có diện tích đảm bảo tương xứng với số trạm BTS sử dụng chung.
+Các trường hợp không đáp ứng các yêu cầu kỹ thuật trước khi xây dựng phải có ý
+kiến của cơ quan quản lý nhà nước có thẩm quyền và văn bản đồng ý của Sở
+Thông tin và Truyền thông.
+d) Hồ sơ xin cấp phép xây dựng trựm BTS của doanh nghiệp phải có cam kết
+cho các doanh nghiệp khác sử dụng chung hạ tầng viễn thông; năng lực trụ anten
+thiết kế phải đảm bảo dùng chung cho các doanh nghiệp khác. Phần nội dung san.
+kết được thể hiện trong đơn xin cấp phép của doanh nghiệp.
+Điều 9. Thẩm định hồ sơ
+Thực hiện thao quy định hiện hành của Chính phủ và các bộ, ngành trung
+ương về quản lý dự án đầu tư xây dựng cộng trình; Quy định hiện hành của UBND
+tỉnh Quảng Trị về việc phân cấp, ủy quyền quyết định đầu tư và phân công nhiệm
+vụ trong quản lý đầu tư các dự án sử dụng nguồn vốn ngân sách do địa phương
+quản lý trên địa bàn tỉnh.
+Điều 10. Các điều kiện về cấp Giấy phép hạ tầng kỹ thuật viễn thông
+9
+1. Cam kết tuân thủ đúng Quy hoạch phát triển Bưu chính, Viễn thông và
+Công nghệ thông tin; Quy định của UBND tỉnh về việc ban hành quy định ngằm
+hóa cáp thông tin trên địa bàn tỉnh Quảng Tr; quy định khu vực phải xản giấy pháp
+xây dựng đối với trạm thu phát sông thông tin đi động loại 21 quy hoạch của các
+địa phương, các ngành liên quan; các quy chuẩn, tiêu chuẩn, quy định của pháp
+luật hiện hành.
+2. Đã đảm phán với các doanh nghiệp khác trong việc sử dụng chung các
+công trình hạ tầng kỹ thuật mà không thủa thuận được với tỷ do chính đảng (phái
+có văn bản giải trình cụ thể).
+3. Cam kết xây dựng hạ tầng viễn thông đủ khả năng đáp ứng cho các doanh.
+nghiệp viễn thông khác trên địa bàn tỉnh sử dụng chung cơ số hạ tầng khi có như:
+cầu.
+Chương III
+SỬ DỤNG CHUNG CƠ SỞ HẠ TÀNG VIỄN THÔNG
+Điều 11. Quy định về công bố thông tin
+1. Công bố thông tin
+a) Việc công bổ thông tin phải được thực hiện minh bạch và chính xác.
+b) Các tổ chức, doanh nghiệp đang quản lý hạ tầng viễn thông trên địa bàn
+tỉnh phải thống kê, đăng ký với Sở Thông tin và Truyền công về cơ sở hạ tầng
+viễn thông có khả năng chía sở, dùng chung như: hệ thống cống bể, công cáp, các
+tuyến cáp, hệ thống cột cáp, trạm BTS.
+c) Các tổ chức, doanh nghiệp có trách nhiệm xây dựng các nội dung thông
+tin cần công bố về cơ sở hạ tầng viễn thông cho thuê hoặc dùng chưng gồm: dung
+lượng, các điều kiện kỹ thuật trong quá trình vận hành, khai thác, mức giá cho thuế
+báo cáo Sở Thông tin và Truyền thông, Sở Tài chính vào quý 1 hàng năm để quân
+lý, giám sát và hướng dẫn. Ngoài ra, các tổ chức, doanh nghiệp có cơ sở hạ tầng
+viên thông cho thuê hoặc dùng chung phải công bố, niêm yết công khai trên
+phương tiện thông tin đại chúng, trên trang thông tin điện tử và tại các điểm phục
+vụ của doanh nghiệp.
+đ) Nếu có những thay đổi thông tin về cơ sở hạ tầng viễn thông cho thuê
+hoặc dùng chung thi doanh nghiệp, sở hữu công trình phải báo cáo kịp thời cho Sở
+Thông tin và Truyền thông.
+đ) Sở Thông tin và Truyền thông là cơ quan đầu mối tiếp nhận và xử lý ban
+đầu về yêu cầu được dùng chung cơ sở hạ tầng viễn thông của các doanh nghiệp;
+thực hiện quản lý, lưu giữ thông tin theo quy định của pháp luật.
+2. Quy tắc công bố thông tin
+a) Khi có yêu cầu cung cấp thông tin để sử dụng chung hạ tầng viễn thông,
+đơn vị cho thuê (hoặc đi thuê) họ tầng viễn thông phải gửi văn bản cho đơn vị đang.
+thuê (hoặc cho thuế) và Sở Thông tin và Truyền thông. Trong thời hạn tối đa 07.
+10
+ngày làm việc, đơn vị cho thuê (hoặc đi thuê) phái trả lời bằng văn bản gửi cho đơn.
+vị đề nghị và báo cáo cho Sở Thông tin và Truyền thông.
+b) Đơn vị cho thuê (hoặc đi thuê) hạ tầng viễn thông phải thiết lập đường
+đây nông 24b/2nh, công bổ số điện thoại, cán bộ phụ trách để liên hệ phối hợp xử
+lý khi có sự cố cũng như các tình huống khẩn cấp xảy ra.
+Điều 12. Quy tắc ứng xử
+1. Trên cơ sở hạ tầng viễn thông đã xây dựng, các đơn vị có nhu cầu sử dụng
+phải gửi văn bản đến chủ sở hữn công trìoh để nghị cho thuê hoặc sử dụng nhờ hạt
+Tảng viên thông để được xem xét, chấp thuận. Trong thời gian không quá 10 ngày
+làm việc kể từ ngày nhận đủ hồ so, đơn vị quản lý công trình hạ tầng viễn thông
+phải có văn bản trả lời cho đơn vị đề nghị, đếng thời phải báo cáo cho Sở Thông
+tin và Truyền thông. Nếu quả thời hạn nếu trên mà doanh nghiệp só hữu công trình.
+không có văn ban trả lời, doanh nghiệp có nhu cầu sử dụng gửi văn bản đề nghị Sở
+Thông tin và Truyền thông xem xét, giải quyết.
+2. Đơn vị cho thuê (hoặc thuê) hạ tầng viễn thông khi tiến hành sửa chữa,
+nâng cấp. lắp đặt thiết bị liên quan phải có thông báo bằng văn bản cho đơn vị
+đang thuê thoặc cho thuê) trước 07 ngày. Trường hợp ứng cứu thông tin đột xuất
+thì thực hiện thông báo bằng điện thoại hoặc Pax, nhưng sau đó phải có thông báo
+bằng văn bản cho đơn vị liên quan đang sử dụng chung hạ tầng.
+Chương IV
+TỔ CHỨC THỰC HIỆN
+Điều 13. Thanh tra, kiểm tra
+1. Sở Thông tin và Truyền thông chủ trì, phối hợp với các Sở, ban, ngành có
+liên quan, UBND các huyện, thị xã, thành phố tiến hành thanh tra, kiểm tra việc.
+tuân thủ Quy định này và các quy định khác có liên quan đối với các doanh nghiệp
+viễn thông, trên địa bàn tỉnh.
+2. Các tổ chức, cá nhân được thanh kiểm tra phải cung cấp những thông tin.
+tài liệu cần thiết; chịu trách nhiệm về tính chính xác của thông tin, tài liệu đã cung
+cấp; tạo điều kiện thuận lợi đo công tác than, tra, kiểm tra dùng theo quy định của
+pháp luật.
+Điều 14. Giải quyết khiếu nại, tố cáo và xử lý vi phạm
+1. Giải quyết khiếu nại, tố cáo:
+a) Sở Thông tin và Truyền thông là cơ quan tiếp nhận và giải quyết các.
+khiếu nại, tố cáo với nội dung:
+- Khiểu nại trong quá trình đàm phán giữa các bên do không thống nhất
+được việc sử dụng chung cơ sở hạ tầng.
+- Tố cáo hành vi vi phạm các quy định về sử dụng chung hạ tầng viễn thông,
+được ban hành tại quy định này.
+11
+b) Các khiếu nại, tố cáo khác có liên quan thi túy nội dung, tỉnh chất công
+việc mà chuyển đến cơ quan có thẩm quyền giải quyết theo quy định của pháp luật.
+2. Xử lý vi phạm
+a) Các hành vi vi phạm các quy định về xây dựng và sử dụng chung cơ sở hạ
+tầng viến thông sẽ bị xử lý theo quy định của pháp luật.
+b) Nghiêm cấm các tổ chức, cá nhân có hành vi gây rối, cản trở trái phép
+hoạt động xây dựng các công trình viễn thông của các doanh nghiệp. Các hành vi
+vi phạm tuỷ theo tính chất, mức độ vi phạm sẽ bị xử lý theo quy định của pháp luật
+hiện hành.
+c) Sở Thông tin và Truyền thông chịu trách nhiện tiếp nhận thông tin, lập
+hồ sơ tiến thành thanh tra, kiểm tra, kết loận để xử lý các vi phạm theo thẩm quyền,
+hoặc tham mưu cho Ủy ban nhân dân tỉnh xử lý các vi phạm trong việc dùng chung
+hạ tầng viễn thông trên địa bàn tỉnh
+đ) Trường hợp vi phạm thuộc sự điều chỉnh của các luật khác (như Luật
+Doanh nghiệp, Luật Thương mại, Luật Xây dựng,..) bên cạnh việc áp dụng biện
+pháp tạm thời để hạn chế hậu quả, phải chuyển hồ sơ vi phạm đó đến cơ quan có
+thẩm quyền giải quyết.
+Điều 15. Trách nhiệm của các cấp, các ngành
+1. Sở Thông tin và Truyền thông
+a) Chủ trì tuyên truyền, phổ biến và triển khai thực hiện Quy định này; hàng
+năm định kỳ báo cáo UBND tỉnh kết quả thực hiện theo quy định.
+b) Tham mao xây dựng và trình UBND tỉnh ban hành quy hoạch họ tầng kỹ.
+thuật viễn thông thụ động trên địa bàn tỉnh.
+c) Chủ trì, phối hợp với các Sở, ban, ngành liên quan, UBND các huyện, thị
+xã, thành phố tổ chức triển khai thục hiện nghiêm Khoản 2, Điều 4, Quy định này
+nhằm tạo điều kiện thuận lợi cho các doanh nghiệp sử dụng chong cơ sở hạ tầng
+viễn thông, đặc biệt là hệ thống công, bế cáp; cột treo cáp; cộp, nhà trạm BT8
+đ) Chỉ đạo, hướng dẫn và tổ chức thẩm định, có văn bản chấp thuận sự phú
+hợp với quy hoạch bau chính viễn thông và công nghệ thông tin với quy chuẩn,
+tiêu chuẩn, quy định hiện hành đối với các dự án xây dựng mời, cải tạo, nâng cấp,
+mó rộng hoặc sử dụng chung cơ sở hạ tầng viễn thông của các doanh nghiệp trên
+địa bàn tỉnh.
+đ) Chủ trì, phối hợp với Sở Xây dựng, Sở Giao thông Vận tải và UBND các.
+huyện, thị xã, thánh phố lập danh mục các tuyển đường phố cần phải xây dựng hệ
+thống công, bể kở thuật, bảo và tuynet kỹ thuật để hạ ngắm các đường đây đi nối
+và các tuyển đường phố cần phải cải tạo, sáp xếp lại các tuyển đường đây đi nổi,
+trình UBND tỉnh phê duyệt.
+c) Phối hợp với Sở Tài chính và các doanh nghiệp thẩm định giá khi có yêu.
+cầu thẩm định giả cho thưê sử dụng chưng cơ sở hạ tầng viễn thông.
+12
+Đ Chủ trì, phối hợp với các cơ quan liên quan thanh tra, kiểm tra và giám sát
+các doanh nghiệp thực hiện việc xây dựng và sử dụng chung cơ sở hạ tầng viễn.
+thông theo Quy định này.
+g) Tham mưu UBND tỉnh về cơ chế mu đãi, hỗ trợ cho các doanh nghiệp chủ
+động xây dựng, sử dụng chung cơ sở hạ tầng viên thông. Đề xuất UBND tỉnh bổ
+sung, sửa đổi Quy định này theo tình hình thực tế và các quy định hiện hành khác
+liên quan.
+b) Chỉ đạo các đơn vị viễn thông, truyền thanh, truyền hình tăng cường sử
+dụng chung cơ sở hạ tầng viễn thông với tính thần hợp tác cùng phát triển và vi lợi
+ích cộng đồng.
+i) Định kỳ vào tháng 12 hàng năm hoặc đột xuất theo yêu cầu, Sở Thông tin
+và Truyền thông tổng hợp, báo cáo UBND tỉnh kết quả thực hiện Quy định này.
+2. Sở Xây dựng
+a) Chỉ đạo, hướng dẫn việc xây dựng quy hoạch đô thị, quy hoạch khu dân.
+cư, quy hoạch khu công nghiệp mới phải có nội dung quy hoạch hạ tầng thông tin
+và truyền thông đồng bộ với quy hoạch về điện, cấp nước, thoát nước.
+a) Chỉ đạo, hướng dẫn các đơn vị tư vấn thiết kể các công trình hạ tầng kỹ.
+thuật đảm bảo các yêu cầu kỹ thuật để lắp đặt các đường dây, cáp viễn thông, cáp
+truyền hình, cáp điện lực, chiếu sảng và cấp truyền dẫn tín hiệu khác.
+c) Chỉ đạo, hướng dẫn các chủ đầu tư khi lập dự án đầu tư bắt buộc phải có
+nội dung đầu tư hạ tầng kỹ thuật viễn thông thụ động.
+đ) Phối hợp với Sở Thông tin và Truyền thông, các Sở, ban, ngành liên
+quan, UBND các huyện, thị xã, thành phố trong việc thẩm định, cấp phép xây dựng
+môi, cải tạo, nâng cấp, mổ rộng boặc sử dụng chung các công trình hạ tầng ký.
+thuật trên địa bàn tỉnh thuộc thẩm quyền quản lý theo quy định.
+3. Sở Giao thông Vận tải
+a) Chỉ đạo, hướng dẫn các đơn vị tư vấn thiết kể các công trình giao thông
+có thiết kế kỹ thuật viễn thông phù hợp thiết kế hạ tầng kỹ thuật giao thông dâm
+bảo các yêu cầu ký thuật để lấp đặt cáp, đây thuê bao và các thiết bị viễn thông.
+b) Chỉ đạo đưa nội dung quy hoạch hạ tầng kỹ thuật viễn thông thụ động vào.
+quy hoạch kết cấu hạ tầng kỹ thuật giao thông.
+c) Phối hợp với Sở Thông tin và Truyền thông, các Sở, ban, ngành liên quan.
+UBND các huyện, thị xã, thành phố trong việc thẩm định, cấp phép theo thẩm
+quyền để thi công các công trình hạ tầng kỹ thuật theo quy định pháp luật.
+4. Sở Công Thương
+a) Phối hợp với Sở Thông tin và Truyền thông, các Sở, ban, ngành liên quan,
+UBND cấp huyện, thị xã, thành phố trong việc giải quyết việc sử dụng chung hệ
+thống cột diện lực khi nhận được đề nghị của các doanh nghiệp.
+13
+b) Chỉ đạo, hướng dẫn Công ty Điện lực và các tổ chức, cá nhân quản lý,
+khai thác hệ thống cột diện lực cho doanh nghiệp viễn thông sử dụng chung cột
+điện lực để lấp đặt cáp, dây thuê bao và các thiết bị viễn thông.
+5. Sở Tài nguyên và Môi trường
+Phối hợp với Sở Thông tin và Truyền thông, các Sở, ban, ngành liên quan:
+UBND cấp huyện, thị, thành phố trong việc giải quyết các thủ tục liễn quan đến đất
+đai và môi trường khi nhận được đề nghị của các doanh nghiệp.
+6. Sở Tài chính
+Phối hợp với các Sở, ban, ngành liên quan xác định giá, phí cho thuê theo.
+thẩm quyền và quản lý giá cho thuê theo quy định pháp luật.
+7. Ban quản lý Khu kinh tế tỉnh
+a) Chỉ đạo xây dựng quy hoạch và đầu tư xây dựng hạ tầng khu, cụm công
+nghiệp có hạng mục đầu tư hạ tầng viễn thông.
+b) Tạo điều kiện thuận lợi để các doanh nghiệp viễn thông tham gia đầu tư,
+phát triển, kinh doanh hạ tầng viễn thông và cung cấp dịch vụ viễn thông cho các
+khu, cụm công nghiệp.
+c) Phối hợp với Sở Thông tin và Truyền thông trong công tác kiểm tra, kiểm
+80át việc đầu tư phát triển hạ tầng viễn thông trong các khu, cụm công nghiệp thực
+hiện theo Quy định này.
+8. UBND các huyện, thị xã, thành phố
+a) Tổ chức tuyên truyền, phổ biến cho các tổ chức, cá nhân có liên quan hiểu.
+rõ chủ trương, mục đích, yêu cầu của việc sử dụng chúng hạ tầng viễn thông trên
+địa bàn.
+b) Tạo điều kiệu thuận lợi cho các doanh nghiệp đầu tư xây dựng hạ tầng
+viên thông dùng chong trên địa bàn; thực hiện việc thẩm định, cấp phép xây dựng.
+mớt; cái tạc, năng cấp, mở rộng hoặc sử dụng chung các công trình hạ tầng kỹ
+thuật thuộc thẩm quyền quản lý theo quy định.
+c) Chủ trì, phối hợp với Sở Thông tin và Truyền thông và các cơ quan liên
+quan xây dựng quy hoạch, kế hoạch, đề án, dự án để thực hiện ngầm hóa và chỉnh
+trang hệ thống cáp viễn thông tại địa phương
+đ) Chỉ đạo, thanh tra, kiểm tra, giám sát, phát hiện và xử lý vi phạm về đầu.
+tư và dùng chung hạ tầng viễn thông trên địa bàn.
+9. Đài Phát thanh - Truyền hình tỉnh, Báo Quảng Trị
+Tích cực đưa tin, tuyên truyền mục đích, ý nghĩa, lợi ích kinh tế, xã hội, an. xã hồ trì hiện. thà tếi, thà tiên. thà tiên. thà tiên. thà tiên. thà tiên. thà tiên. thà ti trình tếi, a
+ninh, quốc phòng trong việc xây dựng, dùng chung hạ tầng viễn thông và trách.
+nhiệm bảo vệ công trình trên địa bàn tỉnh.
+10. Các doanh nghiệp viễn thông
+e) Thực hiện đúng Quy định này và các quy định của pháp luật khác có liên.
+quan.
+14
+b) Tăng cường liên hệ, hợp tác với các doanh nghiệp, đơn vị sở hữu các.
+công trình bự tầng kỹ thuật để sử dụng chung cơ sở hạ tầng trên nguyên tắc đảm.
+phán hai bên cùng có lợi.
+c) Chủ động phối hợp với các đơn vị liên quan, các cấp chính quyền địa
+phương để giải quyết các vấn để liên quan đến việc đầu tư hạ tầng kỹ thuật viễn
+thông.
+d) Báo cáo kịp thời, đầy đủ, chính xác các thông tin về hạ tầng viễn thông
+theo đúng quy định.
+11. Các doanh nghiệp khác sử dụng chung hạ tầng kỹ thuật viễn thông
+Phối hợp với các Sở, ngành liên quan, đơn vị quản lý công trình hạ tầng kỹ.
+thuật viễn thông thực hiệc đúng Quy định này và các quy định của pháp luật khác.
+có liên quan.
+Điều 16. Điều khoản thì hành
+Trong quá trình thực hiện nếu có vướng mắc hoặc phát sinh những vấn để
+phới cần sửa đổi, bổ sung, điều chỉnh Quy định này, yêu cầu các tổ chức, các nhân.
+phản ánh kịp thời về Sở Thông tin và Truyền thông để công hợp, báo cáo UBND
+tỉnh xem xét, quyết định.
+TM. ỦY BAN NHÂN DÂN
+CHỦ TỊCH
+Nguyễn Đức Cường
+15

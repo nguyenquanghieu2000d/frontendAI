@@ -1,0 +1,1672 @@
+Ký bởi: Công Thông tin điện tử chính phủ
+Email: thongtinchinhphuạchinhphuvn
+Cơ quan: Văn phòng Chính phủ
+Thời gian ký: 20.01.2017 16:38:55 +07:00
+THỦ TƯỚNG CHÍNH PHỦ   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Số: 02/2017/QĐ-TTg   Hà Nội, ngày 17 tháng 01 năm 2017
+THUNG TIN ĐIỆN TU CHÍNH PHỦ)
+QUYẾT ĐỊNH
+Sữa đổi, bổ sung Quy hoạch phổ tần số vô tuyến điện quốc gia
+ban hành kèm theo Quyết định số 71/2013/QĐ-TTg
+ngày 21 tháng 11 năm 2013 của Thủ tướng Chính phủ
+Căn cứ Luật tổ chức Chính phủ ngày 19 tháng 6 năm 2015;
+Căn cứ Luật tần số vô tuyển điện ngày 23 tháng 11 năm 2009;
+Theo đề nghị của Bộ trưởng Bộ Thông tin và Truyền thông;
+Thủ tướng Chính phủ ban hành Quyết định sửa đối bổ sung Quy hoạch.
+phố tần số vó tuyến diện quốc gia ban hành kèm theo Quyết định số
+21/2013/QĐ-TTg ngày 21 tháng 11 năm 2013 của Thủ tướng Chính phủ.
+Điều 1. Sửa đổi, bổ sung khoản 4 Điều 1 Quy hoạch phổ tần số vô tuyến
+diện quốc gia ban hành kèm theo Quyết định số 71/2013/QĐ-TTg ngày 21
+tháng 11 năm 2013 của Thủ tướng Chính phủ như sau:
+4. Thể lệ vô tuyến điện (Radio Regulatione):
+Thể lệ vô tuyến điện được để cập trong Quy hoạch này là Thể lệ vệ.
+tuyển điện do Liên minh Viễn thông quốc tế ban hành, phiên bản năm 2016,
+được sửa đổi, bổ sung sau Hội nghị Thông tin vô tuyến thế giới năm 2018
+(WRC-15).
+Điều 2. Sửa đổi, bổ sung khoản 1, 2 và 3 Điều 9 Quy hoạch phổ tần số.
+vô tuyển điện quốc gia ban hành kèm theo Quyết định số 71/2013/QĐ-TTg
+ngày 21 tháng 11 năm 2013 của Thủ tướng Chính phô như Phụ tục ban hành.
+kèm theo Quyết định này.
+Điều 3. Điều khoản thì hành
+1. Quyết định này có hiệu lực thi hành từ ngày 05 tháng 3 năm 2017.
+2
+2. Các Bộ trưởng, Thà trưởng cơ quan ngang bộ, Thủ trưởng cơ quan.
+thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc
+trung ương chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:   THỦ TƯỚNG
+- Ban Bí thư Trung ương Đảng;
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;
+- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương
+- Văn phòng Trung ương và các Ban của Đảng;
+- Văn phòng Tổng Bí thư;
+- Văn phòng Chủ tịch nước;
+- Hội đồng dân tộc và các Ủy ban của Quốc hội;
+- Văn phòng Quốc hội;
+- Tòa án nhân dân tối cao;   Nguyễn Xuân Phúc
+- Viện kiểm sát nhân dân tối cao;
+- Kiểm toán nhà nước;
+- Ủy ban Giám sát tài chính Quốc gia;
+- Ngân hàng Chính sách xã hội;
+- Ngân hàng Phát triển Việt Nam;
+- Ủy ban trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan Trung ương của các đoàn thể;
+- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT,
+các Vụ, Cục, đơn vị trực thuộc, Công báo;
+- Lưu: VT, KGVX (3). 205
+THỦ TƯỚNG CHÍNH PHỦ   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Phụ lục
+SỬA ĐỐI, HỒ SUNG ĐIỀU 9 QUY HOẠCH PHỐ TÀN SỐ VỐ TUYÊN ĐIỆN
+QTÓC GIA BAN HÀNH KẾM THEO QUYẾT ĐỊNH SỐ 71/2013/QĐ-TTg
+NGÀY 21 THÁNG II NĂM 2013 CỦA THỦ TƯỚNG CHÍNH PHỦ
+(Kèm theo Quyết định số 02/2017/QĐ-TTg
+ngày 17 tháng 01 năm 2017 của Thủ tướng Chính phủ)
+1. Sửa đổi, bổ sung khoản 1 Điều 9 như sau:
+Tần số (kHa)   Phân chía của Khu vực 3   Phân chỉa của Việt Nam
+5275-5351,5   CỐ ĐỊNH   CỐ ĐỊNH
+DI ĐỘNG trừ Di động hàng không   DI ĐỘNG trừ Di động hàng không
+VTN1A
+5351,5-5366,5   CÔ ĐỊNH   CỐ ĐỊNH
+DI ĐỘNG trừ Di động hàng không   DI ĐỘNG trừ Di động hàng không
+Nghiệp dư 5.133B   Nghiệp dư 5.133B
+5366,5-5450   CỐ ĐỊNH   CÓ ĐỊNH
+DI ĐỘNG trừ Di động hàng không   DI ĐỘNG trừ Di động hàng không
+10150-11175   CỐ ĐỊNH   CÓ ĐỊNH
+DI ĐỘNG trừ Di động hàng không.   DI ĐỘNG trừ Di động hàng không
+(R)   (R)
+VTN1A
+Tần số (MHa)   Phân chia của Khu vực 3   Phân chia của Việt Nam
+50-54   NGHIỆP DƯ   NGHIỆP DƯ
+5.162A 5.167 5.167A 5.168 5.170   Cố định VTN3
+5.167A
+54 - 68   CÓ ĐỊNH   CỐ ĐỊNH
+DI ĐỘNG   DI ĐỘNG
+QUẢNG BÁ   QUẢNG BÁ
+5.162A   VTN3A
+2
+Tần số (MHa)   Phân chỉa của Khu vực 3   Phân chỉa của Việt Nam
+87 - 100   CỐ ĐỊNH   CỐ ĐỊNH
+DI ĐỘNG   DI ĐỘNG
+QUẢNG BÁ   QUẢNG BÁ
+VTN3A
+100 - 108   QUẢNG BÁ   QUẢNG BÁ
+5.192 5.194   VTN3A
+149,9-150,05   DI ĐỘNG QUA VỆ TINH (Chiều từ   DI ĐỘNG QUA VỆ TINH (Chiều
+Trái đất tới Vũ trụ) 5.209 5.220   từ Trái đất tới Vũ trụ) 5.209
+5.220
+154-156,4875   CỐ ĐỊNH   DI ĐỘNG
+DI DỘNG   VÔ TUYẾN ĐỊNH VỊ
+Cổ định
+5.225A 5.226   5.225A 5.226 VTN1 VTNSB
+VTNSC VNT20
+156,5625-   DI ĐỘNG   DI ĐỘNG
+156,7625   CỔ ĐỊNH   Cố định
+5.225 5.226   5.226 VTNSB VTN 20
+156,8375-   CỐ ĐINH   CÓ ĐỊNH
+161,9375   DI ĐỘNG   DI ĐỘNG
+5.226   5.226 VTN1 VTNSB VTN20
+161,9375-   CÓ ĐỊNH   CÓ ĐỊNH
+161,9625   DI ĐỘNG   DI ĐỘNG
+Di động hàng hải qua vệ tinh (chiều   Di động hàng hải qua vệ tinh (chiều
+từ Trái đất tới Vũ trụ) 5.228AA   từ Trái đất tới Vũ trụ) 5.228AA
+5.226   5.226 VTNSB VTN20
+161,9875-   CỐ ĐỊNH   CỐ ĐỊNH
+162,0125   DI ĐỘNG   DI ĐỘNG
+Di động hàng hải qua vệ tỉnh (chiều   Di động hàng hải qua vệ tinh (chiều
+từ Trái đất tới Vũ trụ) 5.228AA   từ Trái đất tới Vũ trụ) 5.228AA
+5.226   5.226 VTNSB VTN20
+162,0375-174   CÔ ĐỊNH   CÓ ĐỊNH
+DI ĐỘNG   DI ĐỘNG
+5.226 5.230 5.231   5.226 5.230 5.231 VTNSB VTN20
+3
+Tần số (MHa)   Phân chỉa của Khu vực 3   Phân chỉa của Việt Nam
+399,9-400,05   DI ĐỘNG QUA VỆ TINH (Chiều từ   DI ĐỘNG QUA VỆ TINH (Chiều
+Trái đất tới Vũ trụ) 5.209 5.220   từ Trái đất tới Vũ trụ) 5.209
+5.220
+403-406   TRỢ GIÚP KHÍ TƯỢNG   TRỢ GIỨP KHÍ TƯỢNG
+Cố định   Cố định
+Đi động trừ Di động hàng không   Di động trừ Di động hàng không
+5.265   5.265 VTN22
+406-406,1   DI ĐỘNG QUA VỆ TINH (Chiều từ   DI ĐỘNG QUA VỆ TINH (Chiều
+Trái đất tới Vũ trụ)   từ Trái đất tới Vũ trụ)
+5.265 5.266 5.267   5.265 5.266 5.267 VTN22
+406,1-410   CÓ ĐỊNH   CỐ ĐỊNH
+DI ĐỘNG trừ Di động hàng không   DI ĐỘNG trừ Di động hàng không
+VỐ TUYẾN THIÊN VĂN   Vô tuyến thiên văn
+5.149 5.265   5.149 5.265 VTN22
+410-420   CÔ ĐỊNH   CỐ ĐỊNH
+DI ĐỘNG trừ Di động hàng không   DI ĐỘNG trừ Di động hàng không
+NGHIÊN CỨU VŨ TRỤ (Chiều từ   NGHIÊN CỨU Vữ TRỤ (Chiều tử
+Vũ trụ tới Vũ trụ) 5.268   Vũ trụ tới Vũ trụ) 5.268
+456-459   CỔ ĐỊNH   CỐ ĐỊNH
+DI ĐỘNG 5.286AA   DI ĐỘNG
+5.271 5.287 5.288   5.287 VTNGA
+460-470   CÔ ĐỊNH   CÔ ĐỊNH
+DI ĐỘNG 5.286AA   DI ĐỘNG 5.286AA
+Khí tượng qua vệ tỉnh (Chiều từ Vũ   Khí tượng qua vệ tỉnh (Chiều từ Vũ
+trụ tới Trái đất)   trụ tới Trái đất)
+5.287 5.288 5.289 5.290   5.287 5.288 5.289 5.290 VTNGA
+470-585   CÓ ĐỊNH   QUẢNG BÁ
+DI ĐỘNG 9.296A   Cố định
+QUẢNG BÁ   Di động
+5.291 5.298   5.291
+585-610   CỐ ĐỊNH   QUẢNG BÁ
+DI ĐỘNG 5.296A   Cố định
+QUẢNG BÁ   Di động
+4
+Tần số (MHr)   Phân chia của Khu vực 3   Phân chỉa của Việt Nam
+VÔ TUYẾN DĂN ĐƯỜNG   Vô tuyến dẫn đường
+5.149 5.305 5.306 5.307   5.149 5.305 5.306
+610-890   CỐ ĐỊNH   610-694
+DI ĐỘNG 5.296A 5.313A 5.317A   QUẢNG BÁ
+QUẢNG BÁ   Cố định
+5.149.5.305 5.306 5.307 5.311   Di động
+5.320   5.149 5.305 5.306 5.311A 5.320
+694-806
+CỐ ĐỊNH
+DI ĐỘNG 5.313A 5.317A
+QUẢNG BÁ
+5.149 5.306 5.311A 5.320 VTN7
+VTN8B
+806-824
+CỐ ĐỊNH
+DI ĐỘNG 5.317A
+Quảng bá
+5.149 5.306 5.311A 5.320 VTN8
+VTN8B
+824.890
+CỐ ĐỊNH
+DI ĐỘNG 5.317A
+5.149 5.306 5.311A 5.320 VTN8
+VTN8B
+960-1164   DI ĐỘNG HÀNG KHÔNG (R)   DI ĐỘNG HÀNG KHÔNG (R)
+5.327A   5.327A
+VÔ TUYẾN DÂN ĐƯỜNG HẢNG   VÔ TUYẾN DĂN ĐƯỜNG
+KHÔNG 5.328   HÀNG KHÔNG 5.328
+5.328AA   5.328AA VTNSA
+1427-1429   KHAI THÁC VŨ TRỤ (Chiều từ   CÓ ĐỊNH
+Trái đất tới Vũ trụ)   DI ĐỘNG trừ Di động hàng không
+CÓ ĐỊNH   5.341C
+DI ĐỘNG trừ Di động hàng không   Khai thác Vũ trụ (Chiều từ Trái đất
+5.341C   tới Vũ trụ).
+5.338A 5.341 VTN9   5.338A 5.341
+5
+Tần số (MHr)   Phân chía của Khu vực 3   Phân chỉa của Việt Nam
+1429-1452   CỐ ĐỊNH   CÓ ĐỊNH
+DI ĐỘNG 5.341C 5.343   DI ĐỘNG 5.341C
+5.338A 5.341   5.338A 5.341 VTN9
+1452-1492   CÓ ĐỊNH   CỐ ĐỊNH
+DI ĐỘNG 5.343 5.346A   QUẢNG BÁ
+QUẢNG BÁ   QUẢNG BÁ QUA VỆ TINH
+QUẢNG BÁ QUA VỆ TINH   5.208B
+5.208B   DI ĐỘNG 5.346A
+5.3415.344 5.345   5.341 5.345 VTN9
+1492-1518   CÔ ĐỊNH   CỐ ĐỊNH
+DI ĐỘNG 5.341C   DI ĐỘNG 5.341C
+5.341   5.341 VTN9
+1559-1610   VÔ TUYẾN DĂN ĐƯỜNG   VÔ TUYẾN DĂN ĐƯỜNG
+HÀNG KHÔNG   HÀNG KHÔNG
+VÔ TUYẾN DÂN ĐƯỜNG QUA   VÔ TUYẾN DĂN ĐƯỜNG QUA
+VỆ TINH (chiều từ Vã trụ tới Trái   VỆ TINH (chiều từ Vũ trụ tới
+đất) (chiều từ Vũ trụ tới Vũ trụ)   Trái đất) (chiều từ Vũ trụ tới Vũ
+5.208B 5.328B 5.329A   trụ) 5.208B 5.328B 5.329A
+5.341   5.341
+1980-2010   DI ĐỘNG   DI ĐỘNG
+DI ĐỘNG QUA VỆ TINH (chiều từ   Di động qua vệ tinh (chiều từ Trái
+Trái đất tới Vũ trụ) 5.351A   đất tới Vũ trụ) 5.351A
+CỐ ĐỊNH   Cố định
+5.388 5.389A 5.389B 5.389F   5.388 5.389A VTN9
+2170-2200   DI ĐỘNG   DI ĐỘNG
+DI ĐỘNG QUA VỆ TINH (chiều từ   Di động qua vệ tỉnh (chiều từ Trái
+Vũ trụ tới Trái đất) 5.351A   đất tới Vũ trụ) 5.351A
+CỐ ĐỊNH   Cố định
+5.388 5.389A 5.389F   5.388 5.389A VTN9
+2300-2450   CỐ ĐỊNH   CÓ ĐỊNH
+DI ĐỘNG 5.384A   DI ĐỘNG 5.384A
+VÔ TUYẾN ĐỊNH VỊ   Vô tuyến định vị
+Nghiệp dư   Nghiệp dư
+5.150 5.282 5.393 5.394 5.396   VTN9 VTN11 5.150 5.282 5.396
+6
+Tần số (MHa)   Phân chỉa của Khu vực 3   Phân chia của Việt Nam
+2500-2520   CỐ ĐỊNH 5.410   CÔ ĐỊNH 5.410
+CÔ ĐỊNH QUA VỆ TINH   Cố định qua vệ tinh(chiều từ Vũ trụ
+(chiều từ Vũ trụ tới Trái đất) 5.415   tới Trái đất) 5.415
+DI ĐỘNG QUA VỆ TINH (chiều từ   Di động qua vệ tinh(chiều từ Vũ trụ
+Vũ trụ tới Trái đất)   tới Trái đất) 5.351A 5.414
+5.414A
+DI ĐỘNG trừ Di động   DI ĐỘNG trừ Di động
+hàng không 5.384A   hàng không 5.384A
+5.404 5.415A   VTN9
+2520-2535   CỐ ĐỊNH 5.410   CỐ ĐỊNH 5.410
+CỐ ĐỊNH QUA VỆ TINH   Cố định qua vệ tinh(chiều từ Vũ trụ
+(chiều từ Vũ trụ tới Trái đất) 5.415   tới Trái đất) 5.415
+DI ĐỘNG trừ Di động
+hàng không 5.384A   DI ĐỘNG trừ Di động
+QUẢNG BÁ QUA VỆ TINH 5413   hàng không 5.384A
+5.416   Quảng bá qua vệ tỉnh 5.413 5.416
+5.403 5.415A 5.414A   VTN9 5.403
+2535-2655   CÔ ĐỊNH 5.410   CỐ ĐỊNH 5.410
+DI ĐỘNG trừ Di động   DI ĐỘNG trừ Di động
+hàng không 5.384A   hàng không 5.384A
+QUẢNG BÁ QUA VỆ TINH 5.413   Quảng bá qua vệ tỉnh 5.413 5.416
+5.416   5.339 5.418A 5.418B 5.418C
+5.339 5.418 5.418A5.4188 5.418C   VTN9
+2655-2670   CỐ ĐỊNH 5.410   CỐ ĐỊNH 5.410
+DI ĐỘNG trừ Di động   DI ĐỘNG trừ Di động
+hàng không 5.384A   hàng không 5.384A
+CỐ ĐỊNH QUA VỆ TINH   Cố định qua vệ tỉnh 5.415
+(chiều từ Trái đất tới Vũ trụ) 5.415   (chiều từ Trái đất tới Vũ trụ) 5.415
+QUẢNG BÁ QUA VỆ TINH   Quảng bá qua vệ tinh 5.208B 5.413
+5.208B 5.413 5.416   5.416
+Thăm dò Trái đất qua vệ tỉnh   Thăm dò Trái đất qua vệ tỉnh
+(thụ động)   (thụ động)
+Vô tuyến thiên văn   Vô tuyến thiên văn
+Nghiên cứu Vũ trụ (thụ động)   Nghiên cứu Vũ trụ (thụ động)
+5.149 5.420
+VTN9 5.149 5.420
+7
+Tần số (MHa)   Phân chỉa của Khu vực 3   Phân chia của Việt Nam
+2670-2690   CÓ ĐỊNH 5.410   CỐ ĐỊNH 5.410
+CỐ ĐỊNH QUA VỆ TINH   Cố định qua vệ tỉnh (chiều từ Trái
+(chiều từ Trái đất tới Vũ trụ) 5.415   đất tới Vũ trụ) 5.415
+DI ĐỘNG trừ Di động   DI ĐỘNG trừ Di động
+hàng không 5.384A   hàng không 5.384A
+DI ĐỘNG QUA VỆ TINH (chiều từ   Di động qua vệ tinh (chiều từ Trái
+Trái đất tới Vũ trụ) 5.351A 5.419   đất tới Vũ trụ) 5.351A
+Thăm dò Trái đất qua vệ tinh   5.419
+(thụ động)   Thăm dò Trái đất qua vệ tỉnh
+Vô tuyến thiên văn   (thụ động)
+Nghiên cứu Vũ trụ (thụ động)   Vô tuyến thiên văn
+5.149   Nghiên cứu Vũ trụ (thụ động)
+VTN9 5.149
+3300-3400   VÔ TUYẾN ĐỊNH VỊ   CỐ ĐỊNH
+Nghiệp dư   DI ĐỘNG
+5.149 5.429 5.429E 5.429F   VÔ TUYẾN ĐỊNH VỊ
+Nghiệp dư
+5.429F 5.149 VTN15A
+3400-3500   CỐ ĐỊNH QUA VỆ TINH   CỐ ĐỊNH QUA VỆ TINH
+(chiều từ Vũ trụ tới Trái đất)   (chiều từ Vũ trụ tới Trái đất)
+CÓ ĐỊNH   CÔ ĐỊNH
+Nghiệp dư   Nghiệp dư
+Di động 5.432 5.432B   Di động 5.432B
+Vô tuyến định vị 5.433   Vô tuyến định vị 5.433
+5.282 5.432A   5.282 5.432A VTN16
+3500-3600   CỐ ĐỊNH   CỐ ĐỊNH
+CỐ ĐỊNH QUA VỆ TINH   CỐ ĐỊNH QUA VỆ TINH
+(chiều từ Vũ trụ tới Trái đất)   (chiều từ Vũ trụ tới Trái đất)
+DI ĐỘNG trừ Di động   DI ĐỘNG trừ Di động
+hàng không 5.433A   hàng không 5.433A
+Vô tuyến định vị 5.433   Vô tuyến định vị 5.433
+VTN16
+3600-3700   CỐ ĐỊNH   CỐ ĐỊNH
+CÓ ĐỊNH QUA VỆ TINH   CỐ ĐỊNH QUA VỆ TINH
+8
+Tần số (MHr)   Phân chỉa của Khu vực 3   Phân chỉa của Việt Nam
+(chiều từ Vũ trụ tới Trái đất)   (chiều từ Vũ trụ tới Trái đất)
+DI ĐỘNG trừ Di động   DI ĐỘNG trừ Di động
+hàng không   hàng không
+Vô tuyến định vị   Vô tuyến định vị
+5.435   VTN16
+4200-4400   DI ĐỘNG HÀNG KHÔNG (R)   DI ĐỘNG HÀNG KHÔNG (R)
+5.436   5.436
+VÔ TUYẾN DĂN ĐƯỜNG   VÔ TUYẾN DÂN ĐƯỜNG
+HÀNG KHÔNG 5.438   HÀNG KHÔNG 5.438
+5.437 5.439 5.440   5.437 5.440
+4800-4990   CỐ ĐỊNH   CỐ ĐỊNH
+DI ĐỘNG 5.442 5.440A 5.441B   DI ĐỘNG 5.442 5.441B
+Vô tuyến thiên văn   Vô tuyến thiên văn
+5.149 5.339 5.443   5.149 5.339 VTN18
+5030 - 5091   DI ĐỘNG HÀNG KHÔNG (R)   DI ĐÔNG HÀNG KHÔNG (R)
+5.443C   5.443C
+DI ĐỘNG HÀNG KHÔNG QUA   DI ĐỘNG HÀNG KHÔNG QUA
+VỆ TINH (R) 5.443D   VỆ TINH (R) 5.443D
+VÔ TUYẾN DÂN ĐƯỜNG   VÔ TUYẾN DĂN ĐƯỜNG
+HÀNG KHÔNG   HÀNG KHÔNG
+5.444   5.444 VTN21
+5091 -5150   CỔ ĐỊNH QUA VỆ TINH (Trái đất   CÔ ĐỊNH QUA VỆ TINH (Trái
+tới Vũ trụ) 5.444A   đất tới Vũ trụ) 5.444A
+DI ĐỘNG HÀNG KHÔNG 5.444B   DI ĐỘNG HÀNG KHÔNG 5.444B
+DI ĐỘNG HÀNG KHÔNG QUA   DI ĐỘNG HÀNG KHÔNG QUA
+VỆ TINH (R) 5.443AA   VỆ TINH (R) 5.443AA
+VÔ TUYẾN DÂN ĐƯỜNG   VÔ TUYẾN DÂN ĐƯỜNG
+HÀNG KHÔNG   HÀNG KHÔNG
+5.444   5.444
+5925-6700   CỐ ĐỊNH 5.457   CÓ ĐỊNH
+CỐ ĐỊNH QUA VỆ TINH   CÔ ĐỊNH QUA VỆ TINH
+(chiều từ Trái đất tới Vũ trụ)   (chiều từ Trái đất tới Vũ trụ)
+5.457A5.468 5.457B   5.457A 5.457B
+DI ĐỘNG 5.457C   DI ĐỘNG
+5.149 5.440 5.458 VTN16   5.149 5.440 5.458
+9
+Tần số (MHa)   Phân chỉa của Khu vực 3   Phân chỉa của Việt Nam
+6700 - 7075   CỐ ĐỊNH   CỐ ĐỊNH
+CỐ ĐỊNH QUA VỆ TINH (chiều từ   CÔ ĐỊNH QUA VỆ TINH (chiều
+Trái đất tới Vũ trụ) (chiều từ Vũ   từ Trái đất tới Vũ trụ) (chiều từ
+trụ tới Trái đất) 5.441   Vũ trụ tới Trái đất) 5.441
+DI ĐỘNG   DI ĐỘNG
+5.458 5.458A 5.458B   5.458 5.458A 5.458B VTN16
+7 145-7 190   CỐ ĐỊNH   CÓ ĐỊNH
+DI ĐỘNG   DI ĐỘNG
+NGHIÊN CỨU VŨ TRỤ(không   NGHIÊN CỨU VŨ TRỤ (không
+gian xa) (chiều từ Trái đất tới Vũ   gian xa) (chiều từ Trái đất tới Vũ
+trụ)   trụ)
+5.458 5.459   5.458
+7 190-7 235   THĂM DÒ TRÁI ĐẤT QUA VỆ   THĂM DỒ TRÁI ĐẤT QUA VỆ
+TINH (Trái đất tới Vũ trụ)   TINH (Trái đất tới Vũ trụ)
+5.460A 5.460B
+CỐ ĐỊNH   CỐ ĐỊNH
+DI ĐỘNG   DI ĐỘNG
+NGHIÊN CỨU VŨ TRỤ (chiều từ   NGHIÊN CỨU VŨ TRỤ
+Trái đất tới Vũ trụ) 5.460   (chiều từ Trái đất tới Vũ trụ)
+5.460
+5.548 5.459
+5.458
+7235-7250   THĂM DỒ TRÁI ĐẤT QUA VỆ   THĂM DỒ TRÁI ĐẤT QUA VỆ
+TINH (Trái đất tới Vũ trụ)   TINH (Trái đất tới Vũ trụ)
+5.460A   5.460A
+CỐ ĐỊNH   CỐ ĐỊNH
+DI ĐỘNG   DI ĐỘNG
+5.458   5.458
+7300 - 7375   CỐ ĐỊNH   CỐ ĐỊNH
+CÓ ĐỊNH QUA VỆ TINH (Vũ trụ   CỐ ĐỊNH QUA VỆ TINH (Vũ trụ
+tới Trái đất)   tới Trái đất)
+DI ĐỘNG trừ di động   DI ĐỘNG trừ di động hàng không
+hàng không
+5.461   5.461
+10
+Tần số (MHa)   Phân chia của Khu vực 3   Phân chỉa của Việt Nam
+7375 - 7450   CỐ ĐỊNH   CỐ ĐỊNH
+CÓ ĐỊNH QUA VỆ TINH (Vũ trụ   CỔ ĐỊNH QUA VỆ TINH (Vũ trụ
+tới Trái đất)   tới Trái đất)
+DI ĐỘNG trừ di động hàng không   DI ĐỘNG trừ di động hàng không
+DI ĐỘNG HÀNG HẢI QUA VỆ   DI ĐỘNG HÀNG HẢI QUA VỆ
+TINH (Vũ trụ tới Trái đất)   TINH (Vũ trụ tới Trái đất)
+5.461AA 5.461AB   5.461AA 5.461AB
+7450 - 7550   CỐ ĐỊNH   CỐ ĐỊNH
+CỐ ĐỊNH QUA VỆ TINH (Vũ trụ   CÓ ĐỊNH QUA VỆ TINH (Vũ trụ
+tới Trái đất)   tới Trái đất)
+KHÍ TƯỢNG QUA VỆ TINH (Vũ   KHÍ TƯỢNG QUA VỆ TINH (Vũ
+trụ tới Trái đất)   trụ tới Trái đất)
+DI ĐỘNG trừ di động hàng không   DI ĐỘNG trừ di động hàng không
+DI ĐỘNG HÀNG HẢI QUA VỆ   DI ĐỘNG HÀNG HẢI QUA VỆ
+TINH (Vũ trụ tới Trái đất)   TINH (Vũ trụ tới Trái đất)
+5.461AA 5.461AB   5.461AA 5.461AB
+5.461A   5.461A
+7550 - 7750   CỐ ĐỊNH   CỐ ĐỊNH
+CỐ ĐỊNH QUA VỆ TINH (Vũ trụ   CỐ ĐỊNH QUA VỆ TINH (Vũ trụ
+tới Trái đất)   tới Trái đất)
+DI ĐỘNG trừ di động hàng không   DI ĐỘNG trừ di động hàng không
+DI ĐỘNG HÀNG HẢI QUA VỆ   DI ĐỘNG HÀNG HẢI QUA VỆ
+TINH (Vũ trụ tới Trái đất)   TINH (Vũ trụ tới Trái đất)
+5.461AA 5.461AB   5.461AA 5.461AB
+8025-8175   CỐ ĐỊNH   CỐ ĐỊNH
+CỔ ĐỊNH QUA VỆ TINH (chiều từ   CỐ ĐỊNH QUA VỆ TINH
+Trái đất tới Vũ trụ)   (chiều từ Trái đất tới Vũ trụ)
+DI ĐỘNG 5.463   DI ĐỘNG 5.463
+THĂM DÒ TRÁI ĐẤT QUA VỆ   THĂM DÒ TRÁI ĐẤT
+TINH (chiều từ vũ trụ   QUA VỆ TINH (chiều từ Vũ trụ
+đến trái đất)   tới Trái đất)
+5.462A   5.462A VTN23
+8175-8215   CỐ ĐỊNH   CỐ ĐỊNH
+CÔ ĐỊNH QUA VỆ TINH (chiều từ CỔ ĐỊNH QUA VỆ TINH
+11
+Tần số (MHa)   Phân chia của Khu vực 3   Phân chỉa của Việt Nam
+Trái đất tới Vũ trụ)   (chiều từ Trái đất tới Vũ trụ)
+KHÍ TƯỢNG QUA VỆ TINH   KHÍ TƯỢNG QUA VỆ TINH
+(chiều từ Trái đất tới Vũ trụ)   (chiều từ Trái đất tới Vũ trụ)
+DI ĐỘNG 5.463   DI ĐỘNG 5.463
+THĂM DỒ TRÁI ĐẤT QUA VỆ   THĂM DÒ TRÁI ĐẤT QUA
+TINH (chiều từ Vũ trụ tới Trái   VỆ TINH (chiều từ Vũ trụ tới
+đất)   Trái đất)
+5.462A   5.462A VTN23
+8215-8400   CỐ ĐỊNH   CỐ ĐỊNH
+CỔ ĐỊNH QUA VỆ TINH (chiều từ   CÓ ĐỊNH QUA VỆ TINH
+Trái đất tới Vũ trụ)   (chiều từ Trái đất tới Vũ trụ)
+DI ĐỘNG 5.463   DI ĐỘNG 5.463
+THĂM DỒ TRÁI ĐẤT QUA VỆ   THĂM DỜ TRÁI ĐẤT QUA
+TINH (chiều từ vũ trụ tới Trái   VỆ TINH (chiều từ Vũ trụ tới
+đất) 5.462A   Trái đất) 5.462A VTN23
+9200 - 9300   THĂM DỒ TRÁI ĐẤT QUA VỆ   THĂM DÒ TRÁI ĐẤT QUA VỆ
+TINH (chủ động) 5.474A 5.474B   TINH (chủ động) 5.474A 5.474B
+5.474C   5.474C
+VÔ TUYẾN ĐỊNH VỊ   VÔ TUYẾN ĐỊNH VỊ
+VÔ TUYẾN DĂN ĐƯỜNG HÀNG   VÔ TUYẾN DĂN ĐƯỜNG
+HẢI 5.472   HÀNG HẢI 5.472
+5.473 5.474 5.474D   5.474 5.474D
+9900 - 10000   THĂM DÒ TRÁI ĐẤT QUA VỆ   THĂM DỒ TRÁI ĐẤT QUA VỆ
+TINH (chủ động) 5.474A 5.474B   TINH (chủ động) 5.474A
+5.474C   5.474B 5.474C
+VÔ TUYẾN ĐỊNH VỊ   VÔ TUYẾN ĐỊNH VỊ
+Cố định   Cố định
+5.477 5.474D 5.478 5.479   5.479 5.474D
+Tần số (GHa)   Phân chỉa của Khu vực 3   Phân chỉa của Việt Nam
+THĂM DỒ TRÁI ĐẤT QUA VỆ   THĂM DÒ TRÁI ĐẤT QUA VỆ
+10 - 10,4
+TINH (chủ động) 5.474A 5.474B   TINH (chủ động) 5.474A
+5.474C   5.474B 5.474C
+CỐ ĐỊNH   CỐ ĐỊNH
+DI ĐỘNG   DI ĐỘNG
+VÔ TUYẾN ĐỊNH VỊ   VÔ TUYẾN ĐỊNH VỊ
+12
+Nghiệp dư   Nghiệp dư
+5.479 5.474D   5.479 5.474D
+CÔ ĐỊNH   CỐ ĐỊNH
+10,4-10,45
+DI ĐỘNG   DI ĐỘNG
+VÔ TUYẾN ĐỊNH VỊ   VÔ TUYẾN ĐỊNH VỊ
+Nghiệp dư   Nghiệp dư
+CÔ ĐỊNH   CỐ ĐỊNH
+10,7 - 10,95
+CÔ ĐỊNH QUA VỆ TINH (Vũ trụ   CÔ ĐỊNH QUA VỆ TINH (Vũ trụ
+tới Trái đất) 5.441   tới Trái đất) 5.441 5.484A
+DI ĐỘNG trừ di động hàng không   DI ĐỘNG trừ di động hàng không
+CỐ ĐỊNH   VTN16
+10,95 - 11,2
+CỐ ĐỊNH QUA VỆ TINH (Vũ trụ
+tới Trái đất) 5.484A 5.484B
+DI ĐỘNG trừ di động hàng không
+CỐ ĐỊNH
+11,2 - 11,45
+CỐ ĐỊNH QUA VỆ TINH (Vũ trụ
+tới Trái đất) 5.441
+DI ĐỘNG trừ di động hàng không
+CỐ ĐỊNH
+11,45 - 11,7
+CỐ ĐỊNH QUA VỆ TINH (Vũ trụ
+tới Trái đất) 5.484A 5.484B
+DI ĐỘNG trừ di động hàng không
+CỐ ĐỊNH   CỐ ĐỊNH
+12,2 - 12,5
+CÓ ĐỊNH QUA VỆ TINH (chiều từ   CỐ ĐỊNH QUA VỆ TINH (chiều
+Vũ trụ tới Trái đất) 5.484B   từ Vũ trụ tới Trái đất) 5.484A
+DI ĐỘNG trừ Di động hàng không   DI ĐỘNG trừ Di động hàng không
+QUẢNG BÁ   QUẢNG BÁ
+5.487 5.484A   5.487
+CỔ ĐỊNH   CỐ ĐỊNH
+12,5 - 12,75
+CÔ ĐỊNH QUA VỆ TINH (chiều từ   CÓ ĐỊNH QUA VỆ TINH (chiều
+Vũ trụ tới Trái đất) 5.484A   từ Vũ trụ tới Trái đất) 5.484A
+5.484B   DI ĐỘNG trừ Di động hàng không
+DI ĐỘNG trừ Di động hàng không   QUẢNG BÁ QUA VỆ TINH 5.493
+QUẢNG BÁ QUA VỆ TINH 5.493
+
+13
+THĂM DÒ TRÁI ĐẤT   THĂM DÒ TRÁI ĐẤT
+13,4 - 13,65
+QUA VỆ TINH (chủ động)   QUA VỆ TINH (chủ động)
+VÔ TUYẾN ĐỊNH VỊ   VÔ TUYẾN ĐỊNH VỊ
+NGHIÊN CỬU VŨ TRỤ 5.499C   NGHIÊN CỨU VŨ TRỤ 5.499C
+5.499D   5.499D
+Tần số chuẩn và tín hiệu thời gian   Tần số chuẩn và tín hiệu thời gian
+qua vệ tỉnh (chiều từ Trái đất tới   qua vệ tinh (chiều từ Trái đất tới
+Vũ trụ)   Vũ trụ)
+5.499 5.500 5.501 5.501B   5.501B
+THĂM DỒ TRÁI ĐẤT   THĂM DÒ TRÁI ĐẤT
+13,65 - 13,75
+QUA VỆ TINH (chủ động)   QUA VỆ TINH (chủ động)
+VÔ TUYẾN ĐỊNH VỊ   VÔ TUYẾN ĐỊNH VỊ
+NGHIÊN CỨU VŨ TRỤ 5.501A   NGHIÊN CỨU VŨ TRỤ 5.501A
+Tần số chuẩn và tín hiệu thời gian   Tần số chuẩn và tin hiệu thời gian
+qua vệ tinh (chiều từ Trái đất tới   qua vệ tỉnh (chiều từ Trái đất tới
+Vũ trụ)   Vũ trụ)
+5.499 5.500 5.501 5.501B   5.501B
+CỔ ĐỊNH QUA VỆ TINH (chiều từ   CỐ ĐỊNH QUA VỆ TINH (chiều
+14 - 14,25
+Trái đất tới Vũ trụ) 5.457A   từ Trái đất tới Vũ trụ) 5.457A
+5.457B 5.484A 5.484B 5.506   5.484A 5.506
+5.506B   VÔ TUYẾN DÂN ĐƯỜNG 5.504
+VÔ TUYẾN DẨN ĐƯỜNG 5.504   Di động qua vệ tỉnh (chiều từ Trái
+Di động qua vệ tinh (chiều từ Trái   đất tới Vũ trụ) 5.504B 5.504C
+đất tới Vũ trụ) 5.504B 5.504C   5.506A
+5.506A   Nghiên cứu Vũ trụ
+Nghiên cứu Vũ trụ   5.504A 5.505
+5.504A 5.505
+CỐ ĐỊNH QUA VỆ TINH (chiều từ   CỐ ĐỊNH QUA VỆ TINH (chiều
+Trái đất tới Vũ trụ) 5.457A   từ Trái đất tới Vũ trụ) 5.457A
+5.457B 5.484A 5.506 5.506B   5.484A 5.506
+5.484B
+VÔ TUYẾN DĂN ĐƯỜNG 5.504   VÔ TUYẾN DĂN ĐƯỜNG 5.504
+Di động qua vệ tinh (chiều từ Trái   Di động qua vệ tinh (chiều từ Trái
+đất tới Vũ trụ) 5.504B 5.506A   đất tới Vũ trụ) 5.506A 5.508A
+5.508A
+Nghiên cứu Vũ trụ
+Nghiên cứu Vũ trụ
+5.504A 5.505 5.508
+5.504A VTN16
+14
+CÓ ĐỊNH   CỐ ĐỊNH QUA VỆ TINH (chiều
+14,3 - 14,4   từ Trái đất tới Vũ trụ) 5.457A
+CÓ ĐỊNH QUA VỆ TINH (chiều từ
+Trái đất tới Vũ trụ) 5.457A   5.484A 5.506
+5.484A 5.506 5.506B 5.484B   CỐ ĐỊNH
+DI ĐỘNG trừ Di động hàng không   DI ĐỘNG trừ Di động hàng không
+Di động qua vệ tinh (chiều từ Trái   Di động qua vệ tinh (chiều từ Trái
+đất tới Vũ trụ) 5.504B 5.506A   đất tới Vũ trụ) 5.506A 5.509A
+5.509A   Vô tuyến dẫn đường qua vệ tinh
+Vô tuyến dẫn đường qua vệ tỉnh   5.504A VTN16
+5.504A
+CỐ ĐỊNH   CỐ ĐỊNH
+14,4 - 14,47
+CỐ ĐỊNH QUA VỆ TINH (chiều từ   CÓ ĐỊNH QUA VỆ TINH (chiều
+Trái đất tới Vũ trụ) 5.457A   từ Trái đất tới Vã trụ) 5.457A
+5.457B 5.484A 5.484B 5.506   5.484A 5.506
+5.506B   DI ĐỘNG trừ Di động hàng không
+DI ĐỘNG trừ Di động hàng không   Di động qua vệ tỉnh (chiều từ Trái
+Di động qua vệ tỉnh (chiều từ Trái   đất tới Vũ trụ) 5.506A 5.509A
+đất tới Vũ trụ) 5.504B 5.506A
+5.509A   Nghiên cứu Vũ trụ (chiều từ Vũ trụ
+Nghiên cứu Vũ trụ (chiều từ Vũ trụ   tới Trái đất)
+tới Trái đất)   5.504A
+5.504A
+CỐ ĐỊNH   CỔ ĐỊNH
+14,47 - 14,5
+CỔ ĐỊNH QUA VỆ TINH   CỐ ĐỊNH QUA VỆ TINH
+(chiều từ Trái đất tới Vũ trụ)   (chiều từ Trái đất tới Vũ trụ)
+5.457A 5.457B 5.484A 5.506   5.457A 5.484A 5.506
+5.506B   DI ĐỘNG trừ Di động hàng không
+DI ĐỘNG trừ Di động hàng không   Di động qua vệ tinh (chiều từ
+Di động qua vệ tinh (chiều từ   Trái đất tới Vũ trụ) 5.504B
+Trái đất tới Vũ trụ) 5.504B 5.506A   5.506A 5.509A
+5.509A   Vô tuyến thiên văn
+Vô tuyến thiên văn
+5.149 5.504A   5.149 5.504A VTN16
+CỐ ĐỊNH   CÔ ĐỊNH
+14,5 - 14,8
+CÓ ĐỊNH QUA VỆ TINH (chiều từ   CÓ ĐỊNH QUA VỆ TINH (chiều
+Trái đất tới Vũ trụ) 5.509B   từ Trái đất tới Vũ trụ) 5.509B
+5.509C 5.509D 5.509E 5.509F   5.509C 5.509D 5.509E 5.509F
+15
+5.510   5.510
+DI ĐỘNG   DI ĐỘNG
+Nghiên cứu vũ trụ 5.509G   Nghiên cứu Vũ trụ 5.509G
+VÔ TUYẾN ĐỊNH VỊ 5.511E   VÔ TUYẾN ĐỊNH VỊ 5.511E
+15,4 = 15,43
+5.511F   5.511F
+VÔ TUYẾN DĂN ĐƯỜNG HÀNG   VÔ TUYẾN DÂN ĐƯỜNG
+KHÔNG   HÀNG KHÔNG
+CỐ ĐỊNH QUA VỆ TINH (chiều từ   CỐ ĐỊNH QUA VỆ TINH (chiều
+15,43 - 15,63
+Trái đất tới Vũ trụ) 5 5IIA   từ Trái đất tới Vũ trụ) 5.511A
+VÔ TUYẾN ĐỊNH VỊ 5.511E   VÔ TUYẾN ĐỊNH VI 5IIE
+5.511F   5.511F
+VÔ TUYẾN DĂN ĐƯỜNG HÀNG   VÔ TƯYẾN DĂN ĐƯỜNG
+KHÔNG   HÀNG KHÔNG
+5.511C   5.511C
+VÔ TUYẾN ĐỊNH VỊ 5.511E   VÔ TUYẾN ĐỊNH VỊ 5.511E
+15,63 - 15,7
+5.511F   5.511F
+VÔ TUYẾN DÂN ĐƯỜNG HÀNG   VÔ TUYẾN DẨN ĐƯỜNG
+KHÔNG   HÀNG KHÔNG
+CÓ ĐỊNH QUA VỆ TINH (chiều từ   CỐ ĐỊNH QUA VỆ TINH (chiều
+19,7 - 20,1   Vũ trụ tới Trái đất) 5.484A 5.484B   từ Vũ trụ tới Trái đất) 5.484A
+5.516B 5.527A   5.516B 5.527A
+Di động qua vệ tinh (chiều từ vệ tinh   Di động qua vệ tinh (chiều từ Vũ
+tới Trái đất)   trụ tới Trái đất)
+5.524   5.524
+CỔ ĐỊNH QUA VỆ TINH (chiều từ   CÓ ĐỊNH QUA VỆ TINH (chiều
+20,1 - 20,2   Vũ trụ tới Trái đất) 5.484A 5.484B   từ Vũ trụ tới Trái đất) 5.484A
+5.516B 5.527A   5.516B 5.527A
+DI ĐỘNG QUA VỆ TINH (chiều từ   DI ĐỘNG QUA VỆ TINH (chiều
+vệ tinh tới Trái đất)   từ Vũ trụ tới Trái đất)
+5.524 5.525 5.526 5.527 5.528   5.524 5.525 5.526 5.527 5.528
+CỐ ĐỊNH   CÔ ĐỊNH
+21,4 - 22
+DI ĐỘNG   DI ĐỘNG
+QUẢNG BÁ QUA VỆ TINH   QUẢNG BÁ QUA VỆ TINH
+5.208B   5.208B
+5.530A 5.530B 5.530D 5.531   5.530A
+CÔ ĐỊNH QUA VỆ TINH (chiều từ   CÓ ĐỊNH QUA VỆ TINH (chiều
+29,5 - 29,9
+16
+Trái đất tới Vũ trụ) 5.484A 5.484B   từ Trái đất tới Vũ trụ) 5.484A
+5.516B 5.527A 5.539   5.516B 5.539 5.527A
+Thăm dò Trái đất qua vệ tỉnh (chiều   Thăm dò Trái đất qua vệ tinh (chiều
+từ Trái đất tới Vũ trụ) 5.541   từ Trái đất tới Vũ trụ) 5.541
+Di động qua vệ tinh (chiều từ Trái   Di động qua vệ tinh (chiều từ Trái
+đất tới Vũ trụ)   đất tới Vũ trụ)
+5.540 5.542   5.540 5.542
+CÓ ĐỊNH QUA VỆ TINH (chiều từ   CÓ ĐỊNH QUA VỆ TINH (chiều
+29,9 - 30   Trái đất tới Vũ trụ) 5.484A 5.484B   từ Trái đất tới Vũ trụ) 5.484A
+5.516B 5.527A 5.539   5.516B 5.539 5.527A
+DI ĐỘNG QUA VỆ TINH (chiều từ   DI ĐỘNG QUA VỆ TINH (chiều
+Trái đất tới Vũ trụ)   từ Trái đất tới Vũ trụ)
+Thăm dò Trái đất qua vệ tỉnh (chiều   Thăm dò Trái đất qua vệ tỉnh (chiều
+từ Trái đất tới Vũ trụ) 5.541 5.543   từ Trái đất tới Vũ trụ) 5.541 5.543
+5.525 5.526 5.527 5.538 5.540 5.542   5.525 5.526 5.527 5.538 5.540
+5.542
+NGHIỆP DƯ   NGHIỆP DƯ
+77,5 - 78
+NGHIỆP DƯ QUA VỆ TINH   NGHIỆP DƯ QUA VỆ TINH
+VÔ TUYẾN ĐỊNH VỊ 5.559B   VÔ TUYẾN ĐỊNH VỊ 5.559B
+Vô tuyến thiên văn   Vô tuyến thiên văn
+Nghiên cứu Vũ trụ (chiều từ Vũ trụ   Nghiên cứu Vũ trụ (chiều từ Vũ trụ
+tới Trái đất)   tới Trái đất)
+5.149   5.149
+2. Sửa đổi, bổ sung khoản 2 Điều 9
+a) Sửa đổi các chủ thích VTNA, VTNB, VTNA, VTNA, VTNS,
+VTNSA, VTN9, VTN15A, VTN18, VTN20 như sau:
+VTNA: Các hệ thống thông tin vô tuyến điện dành cho phương tiện nghề cá
+và đài bờ liên lạc với các phương tiện nghề cá được sử dụng các
+băng tấn 4438-4538 kHa, 5250 - 5350 kHa; 7100-7200 kHa; 7900-
+8100 kHa; 10745,5-10949,5 kHa; 13410-13510 kHa; 14350-14450
+kHa. Cơ quan quản lý xác định các đoạn băng tần và các điều kiện
+sử dụng cụ thể để phù hợp với thực tế.
+Các đài thuộc nghiệp vụ Vô tuyển định vị không được gây nhiễu có
+hại cho, hoặc kháng nghị nhiễu có hại từ các đài hoạt động thuộc
+17
+nghiệp vụ Cố định, Di động. Các ứng dụng của nghiệp vụ Vô tuyển
+định vị chỉ giới hạn cho ra-đa hải đương học hoạt động tuân theo
+Nghị quyết 612 (ReV. WRC-15).
+VTN3A:   Băng tần 54-68 Mix được ưu tiên sử dụng cho các đải truyền
+thanh không đây tuân theo các tiêu chuẩn, quy chuẩn hiện bảnh.
+Các đài thuộc nghiệp vụ Cố định và Di động trong băng tần này.
+không được gây nhiễu có hại cho và không được bảo vệ khỏi nhiễu
+có hại từ các dài truyền thanh không đãy. Không triển khai hệ
+thống truyền thanh không dây trên băng tần 87-108 MHa.
+VTN6A:   Băng tần 450-470 MHa được xác định cho các hệ thống thông tin đi
+động MT. Hệ thống thông tin vô tuyến điện băng hẹp (Băng thông
+BW = 25 kha) phục vụ mục đích kinh tế-xã hội trong băng tần này
+được sử dụng tạm thời đến hết ngày 31 tháng 12 năm 2022 và phải
+chuyển đổi sử dụng băng tần khác theo thông báo của Bộ Thông tân
+và Truyền thông. Hệ thống thông tin vô tuyến thuộc nghiệp vụ Đi
+động hàng hải giới hạn sử dựng cho các đải liên tạc trên boong, không
+được gây nhiễu có hại hoặc kháng nghị nhiễu có hại từ hệ thống
+thông tin vô tuyến thuộc nghiệp vụ Cố định, Di động mặt đất.
+VTN8:   Các băng tần 806-845 MH2; 851-915 MHa; 925-960 MHa; 1710-
+1785 MHr và 1805-1880 MHr được dành cho các hệ thống thông
+Tin di động IMT. Trong trưởng hợp cần thiết, cơ quan quản lý sẽ
+điều chỉnh các đoạn băng tần cụ thể trong các quy hoạch băng tần
+có liên quan. Không phát triển mới hệ thống vô tuyến điện thuộc
+nghiệp vụ Cố định, Di động trên băng tần 806-824 MHa, 851-869
+MHa. Các tổ chức, cá nhân hiện đang sử dụng các hệ thống vô
+tuyển điện hoạt động trong băng tần 806-824 M11, 851-869 MHa
+phải có kế hoạch chuyến đổi theo thông báo của Bộ Thông tin và
+Truyền thông. Riêng các hệ thống phục vụ mục đích an ninh được.
+tiếp tục sử dụng các băng tần 806-821 MHa, 851 866 MHa đến khi
+có hệ thống thay thế.
+VTNSA:   Việc sử dụng băng tần 960-1164 Mi2. cho nghiệp vụ Di động hàng
+không (R) được giới hạn cho các hệ thống hoạt động tuân theo các
+tiêu chuẩn hàng không quốc tế. Việc sử dụng nây phải tuân thủ
+Nghị quyết 417 (Rev, WRC-15) Khi ấn định tần số cho nghiệp vụ.
+Di động hàng không (R), cần lưu ý phối hợp để đảm bảo không gây
+18
+nhiễu có hại tới nghiệp vụ Vô tuyến dẫn đường hàng không đã
+được triển khai ở băng tần này.
+VTN9:   Các băng tần 1427-1518 MHr; 1900-2010 MHa; 2110-2200 MHa;
+2300-2400 MH và 2500-2690 MHa được đảnh cho các hệ thống
+thông tin đi động IMT để phát triển kinh tế-xã hội. Việc sản xuất,
+nhập khẩu thiết bị vô tuyến điện để sử dụng tại Việt Nam trong các.
+băng tần này phải tuân thủ quy định này và các quy định khác của.
+pháp luật có liên quan.
+VTNSA: Băng tần 3300 3400 Mia được đánh cho hệ thống thông tin đi
+động MT và hệ thống truy cập vô tuyến bằng rộng. Việc sản xuất,
+nhập khẩu thiết bị vô tuyến điện để sử dụng tại Việt Nam trong
+băng tần này phải tuân thủ quy định này và các quy định khác của
+pháp luật có liên quan.
+VTN18:   Băng tần 4800-4990 MHa được dành cho hệ thống thông tin di
+động IMT. Băng tần 4940-4990 M1d cũng được sử dụng cho các
+hệ thống thông tin phục vụ an ninh công cộng và phòng chống
+thiên tai (PPDR). Việc sản xuất, nhập khẩu thiết bị vô tuyến điện để
+sử dụng tại Việt Nam trong băng tần 4800-4990 MHa phải tuân thủ
+quy định này và các quy định khác của pháp luật có liên quan.
+VTN20:   Các hệ thống thuộc nghiệp vụ Di động hàng hải hoạt động trong
+các băng tần 156,00 - 157,45 MHư và 160,60 - 162,05 MH2 thực
+hiện việc chuyển đổi theo quy định tại Phụ lục 18 của Thể lệ vô
+tuyến điện. Kể từ ngày 01 tháng 01 năm 2019, tần số 161,95 MHa
+(kênh 2027) và tần số 162 MHư (kênh 2028) được dành cho kênh
+ASM1 và kênh ASM2 tương ứng.
+b) Bổ sung các thích VTNSB, VTNSC, VTN7, VTN2I, VTN22, VTN23
+như sau:
+VTNS: Các băng tấn 156 - 156,48/5 MHợ; 156,6625 - 156,7625 MHa;
+156,8375 - 157,4375 MHa; 160,6 - 160,975 MHa; 161,475
+161,9625 MHa; 161,9875 - 162,0125 MHợ; 162,0375 - 162,05
+MHa được ưu tiên sử dụng cho hệ thống thuộc nghiệp vụ Di động
+hàng hải. Các hệ thống thuộc nghiệp vụ Cố định và Di động mặt
+đất trong băng tần này không được gây nhiễu có hại cho hoặc.
+kháng nghị nhiễu từ các hệ thống thông tin VIIP thuộc nghiệp vụ
+19
+Di động hàng hải sử dụng các băng tần này.
+VTNSC:   Không triển khai mới hệ thống thông tin vô tuyển thuộc nghiệp vụ
+Cố định, Di động sử dụng băng tần 154-156,4875 MIr. Hệ thống
+vô tuyến nghiệp vụ Cổ định, Di động đang sử dụng băng tần này
+không được gây nhiễu có hại và kháng nghị nhiễu từ hệ thống
+thông tin thuộc nghiệp vụ Vô tuyến định vị.
+VTN7:   Băng tần 694 - 806 MIla sẽ được sử dụng cho các hệ thống thông
+tin di động TMT. Các tổ chức, cá nhân hiện đang sử dụng các hệ
+thống vô tuyến điện hoạt động trong băng tần 694 - 806 MHa phải
+có kế hoạch chuyển đổi. Hệ thống truyền hình mặt đất được sử
+dụng băng tần 694-806 MH đến hết năm 2020. Trong trường hợp.
+triển khai hệ thống TMT trên băng tần 694-806 MHn trước năm
+2020 tại một số khu vực, hệ thống thông tin di động không gây
+nhiễu có hại cho hệ thống truyền hình mặt đất hoạt động hợp pháp.
+VTN21:   Bảng tần 5030-5091 MHe được định hướng sử dụng cho hệ thống
+thông tin vô tuyển điều khiển máy bay không người lái theo nghiệp
+vụ di động hàng không (R).
+Không ấn định mới tần số trong băng tần 405,9-406,0 MHa và
+406,1-406,2 MHa cho hệ thống thuộc nghiệp vụ Di động và Cố
+định. Cấm tất cả phát xạ có khả năng gây nhiễu có bại cho thiết bị
+thông tin vô tuyến an toàn cứu nạn sử dụng băng tần 406-
+406,1MHa.
+VTN23:   Đối với việc lắp đặt mới trạm mặt đất thu tin hiệu từ hệ thống thông
+tin vô tuyến thuộc nghiệp vụ Thăm dò Trái đất qua vệ tỉnh (chiều:
+từ Vũ trụ tới Trái đất), cơ quan, đơn vị có thẩm quyền trong quá
+trình thẩm định, cấp phép vị trí đặt trạm, cần lấy ý kiến của Bộ
+Thông tin và Truyền thông về vị trí đặt trạm, tần số thu, phát của
+trạm mặt đất để bảo đảm an toàn cho các hệ thống vô tuyến điện
+hoạt động cùng băng tần.
+c) Bãi bỏ các chủ thích VTNA, VTN9A,VTN12.
+3. Sửa đổi, bổ sung khoản 3 Điều 9
+a) Sửa đổi các chủ thích 5.54B, 5.55, 5.68, 5,140, 5,141B, 5.167, 5.167A
+5.170, 5.201, 5.202, 5.208B, 5.220, 5.221, 5.256A, 5.268, 5.276, 5.279A,
+5.286AA, 5.287, 5.288, 5.313A, 5.317A 5.327A,5.338A, 5.352A, 5.359,
+20
+5.384A, 5.386, 5.388, 5.391, 5.393, 5.401, 5.418, 5.428, 5.429, 5.432B,
+5.433A, 5.438, 5.442, 5.4438, 5.444, 5.444A, 3.444B, 5.446, 5.447,
+5.447, 5.450A, 5.457A 5.457B, 5.459, 5.460, 5.468, 5.471, 5.477, 5481,
+5.500, 5.591A, 5.504B, 5.504C, 5.505, 5.506B, 5.508A, 5.509A, 5.510,
+5.511A, 5.511C, 5.512, 5.514, 5.521,524, 5.530A, 5.536B, 5.543A,
+5.551H, 5.562D như sau:
+5.54B Phân chỉa bổ sung: ở An giêr A-rập Xế át, Ba-ranh, Ai Cập,
+A-tập thống nhất, Liên bảng Nga, Tran, Lrắc, Có- oát, Li-băng, Mauốc, Ca:
+Ta, Cộng hòa A rập Xyari, Xu đăng và Tuy-ni-di, băng tần 8,3-9 kHa cũng
+được phân chia cho nghiệp vụ Và tuyển dẫn đường, Cổ định, Di động làm
+nghiệp vụ chính. (WRC-15)
+5.58 Phân chía bổ sung: ở Ác-mê-rica, Liên bang Nga, Giêcoócnha,
+Cư to- gt-xtan, Tát-gi-ki-xtan và Tuốc-mê-mi-xhan, băng tần 14-17 kha cũng
+được phân chỉa cho nghiệp vụ Vô tuyển dẫn đường làm nghiệp vụ chính.
+(WRC-15)
+5.68 Phân chủa thay thể: ở Cộng hòa Công gô, Cộng hòa Dân chủ Công-
+gô và Nam Phí, băng tần 160-200 kHả được phân chia cho nghiệp vụ Cổ định
+làm nghiệp vụ chính. (WRC-15)
+5.140 Phân chia bổ sung: ở Nng-gô-la, Lrắc, Xô- ma-lira và Tô-gô, băng
+tần 7000-7950 kHa cũng được phân chia cho nghiệp vụ Cổ định làm nghiệp vụ.
+chính. (WRC-15)
+5.141B Phân chỉa bổ sang: tại An giêtr, A-rập Xẻ-út, o xto - tây tra,
+Ba-ranh, Bốt-XOa-Ta, Bru nây, Trang Quốc, Cô-mô- Tối, Hàn Quốc, Đi- gô.
+Gác-xir, Gi-buat, Ai Cập, x-tập thống nhất, Eai- trên, Công hòa Chi trê,
+Irr4- nẽ-xi- L tran, Nhật Bản, Giooc-đs-ti, Cô- oét, Làbi, Ma-li. Ma-rốc, Mô-
+từ Là-ti, Ni giê. Nin-Di-lân, O-man, Pa-ptaa Nâu Ghi-nê, Cata, Xeri, Xig -
+gapo. Xu-đăng. Nam Xu-đăng, Tuy-ni-di, Việt Nam và Y-émer, băng tần.
+7100-7200 kha cũng được phân chỉa cho nghiệp vụ Cố định và Đi động, tử.
+Di động hàng không (R), làm nghiệp vụ chính. (WRC-15)
+5.167 Phân chỉa thay thế: ở Băng-la-dét, Beu nây Đa-rút-xa-lem, An Độ,
+Tran, Pa-k-xtan và Xing sa- po, băng tân 50.54 MTtu được phân chia đao
+nghiệp vụ Cố định, Di động và Quảng bá làm nghiệp vụ chính. (WRC-15)
+5.167A Phân chủa bổ sung: ở Io-đô nê xira và Thái Lan, băng tần số 50--
+54 Mil cũng được phân chía cho nghiệp vụ Cổ định, Di động và Quảng bá
+làm nghiệp vụ chính. (WRC-15)
+21
+5.170 Phân chia bổ sung: ở Nin-Di-lân, băng tần số 51- 54 MHa cũng
+được phân chỉa cho nghiệp vụ Cố định và Di động lâm nghiệp vụ chính.
+(WRC-15)
+5.201 Phân chía bổ sung: ở Ac-mê-nia, A-die-bai gian, Bê- - rút, Ban -
+gaai, 2xtô-tia, Liên bang Nga, Giê cóc-gia, Hung-ga-ti, (tran, Lrắc, Nhật
+Bản, Ca đăc-xtan, Mô-na cô, Mông Cổ, Mô-dăm-bích, Udo-bê ki-xtan, Pa-
+phủa Nia Ghi: Lế, Ba Lan, Cu-rongaxtan, Ru-ma-ai, Tát gi ki-xtan, Tuốc-mê-
+nh-xtan và Uerai na, băng tần 132-136 MHa cũng được phân chủa cho nghiệp.
+vụ Di động hàng không (OR) làm nghiệp vụ chính. Khi ấn định các tần số cho.
+các đải thuộc nghiệp vụ Dí động hàng không (OR), các cơ quan quản lý tần số
+phải chú ý đến các tần số được ấn định cho các đải thuộc nghiệp vụ Đi động
+hàng không (R). (WRC-15)
+5.202 Phân chủa bổ sung: ở Anập Xê át, Ác-mê-niva, A-dóc-bai gian,
+Bê la-rút, Bun-gaari, Tiêp thống nhất, Liên bang Nga, Giê oóc gia, Iran,
+Gioóc đa ai, o ran, U do-bêki-xtan, Ba Lan, Xyai, Curo-gư-xtan, Rt-mB-
+ni, Tángi-ki-xtan, Tuốc-mê--- xan và Uerai-ra, băng tần số 136-137 MHa
+cũng được phân chỉa cho nghiệp vụ Di động hàng không (OR) làm nghiệp vụ
+chính. Khi ấn định các tần số cho các đài thuộc nghiệp vụ Di động hàng không
+(OR), các cơ quan quản lý tần số phải chủ ý đến các tần số được ấn định cho
+các đài thuộc nghiệp vụ Dí động hàng không (R). (WRC-15)
+5.208B Trong các băng tần:
+137-138 MHa,
+387-390 MHa,
+400,15-401 MH2,
+1452-1492 MHa,
+1525-1610 MHa,
+1613,8-1626,5 MHa,
+2655-2690 MH2,
+21,4 -22 GHa,
+Nghị quyết 739 (Rev. WRC-15) được áp dụng. (WRC-15).
+5.220 Việc sử dụng băng tần 1499-150,05 MiL và 399,9-400,05 MHA
+cho nghiệp vụ Di động qua vệ tỉnh phải thực hiện phối hợp theo khoản 9.11A.
+(WRC-15)
+5.221 Các dài thuộc nghiệp vụ Di động qua vệ tính trong băng tần 148-
+149,9 MHa không được gây nhiễu có hại cho, hoặc kháng nghị nhiễu có hại từ,
+các đài thuộc nghiệp vụ cố định hoặc nghiệp vụ di động đang hoạt động phủ.
+22
+hợp với Bảng phân chỉa tần số ở các quốc gia sau đây: An-ba-ni, An-giêr.
+Đức, A-tập Xe-tt, 6-xtorây-lia, Áo, Baranh, Băng/la đét, Bác-ba-đốt, B5dt-
+rút, B, Bêmạch, Bó-xnia Héc: đó gô-vt-ma, Bốt xos-na, Btn nây, Bun gaa ti.
+Ca-m4-run, Trung Quốc, Sịp, Công gô, Hàn Quốc, Bở Biển Ngà, Chô- tria,
+Cuba, Dan Mạch, Gi-bu- ủ, Ai cập, Anập Thống nhất, Đar-tr-rêra, Tây Ban
+Nha, E-xtô-ti- Bt- pia, Nga, Phần Lan, Pháp, Ga-bông, Gru-đia, Giara)
+IIy Lạp, Ghi-rê, Chi -nê Bí-xao, Hung- peri, Ân Độ, Lran, kilen, Ai-xtr-len, L
+XEarn, Ha-lha, Gia-mai-ca, Nhật Bản, Gioóc- đami, Ca-đắc xtan, Kê-mia, Cá-
+nét, Mac-xe-đó tría thuộc Nam Tư cũ, Lêxộ thô, Lácvva, Lo băng, L2bi, Tát-
+toA-xv-tên, Lám- bua, Ma-lai xia, Madl, Man-aa, Mô-rt-tami, Môr-
+đô-va, Mông Cố, Môn tê- mà gô, Môdâm-bích, Nam-mi-bóa, Na Uy, Nhu Đi-
+lân, o-man, Uagan-da, Ddo-bê-ki-xtan, Pa-ki-xtan, Para-Tna, Parpu- Núu.
+Ghiinê, Te-rangoay, Hà Lan, Phi-lịp-pìn, Ba Lan, Bổ Đào Nha, Caca, Xyai.
+Ctrongextan, Triểu Tiên, Xiô va -kha, Rt+ m4-ai, Anh, Xê- nê gan, Xéc bia,
+Xi- Ta Lê ôn, Xing ga- 20, Xiả-vê- mia a, Xua dảng, Xri Lan- ca, Nam Phí, Thuy
+Điển, Thuy Sĩ, Xoadi-ten, Tan-damiu, Sát, Tô gô, Tôn ga. Tò triai- đát và Tà Tội
+Tò ba-gộ, Tuy-tn di, Thổ Nhữ Kỳ, (--rmaira, Việt Nam, Y - men, Dăm bia và
+Dim-ba-bu- &. (WRC-15)
+5.256A Phân chủa bổ sung: ở Trung Quốc, Nga, Cộng hoà Ca-đắc-xtan,
+băng tần 258-261 Min cũng được phân chủa cho nghiệp vụ Nghiên cứu Vũ trụ
+(chiều từ Trái đất tới Vũ trụ) và nghiệp vụ Khai thác vữ trụ (chiều từ Trái đất
+tới Và trụ) làm nghiệp vụ chính. Các đải thuộc nghiệp vụ Nghiên cứu Vũ trụ
+(chiều tử Trái đất tới Vũ trụ) và nghiệp vụ Khai thác vũ trụ (chiểu từ Trái đất
+ới Vũ trụ) không được gây nhiễu có hại cho, hoặc yêu cầu bảo vệ, hoặc hạn
+chế sự hoạt động và phát triển của các hệ thống thuộc nghiệp vụ Di động và Di
+động qua vệ tính khai thác trong băng tần này. Các đài thuộc nghiệp vụ Nghiện
+cứu Vũ trụ (chiều tử Trái đất tới Vũ trụ) và nghiệp vụ Khai thác vũ trụ (chiều:
+từ Trái đất tới Vũ trụ) không được hạn chế sự phát triển trong tương lai của các.
+hệ thống thuộc nghiệp vụ cố định của các nước khác. (WRC-15)
+5.268 Việc sử dụng băng tần 410-420 MHa bời nghiệp vụ Nghiên cứu.
+Vũ trụ chỉ giới hạn để liên lạc giữa các tàu vũ trụ trên quỹ đạo. Mật độ thông
+lượng công suất trên bề mặt trái đất gây ra bời các phát xạ từ các dải phát
+thuộc nghiệp vụ nghiên cứu Và trụ (từ Vũ trụ tới Vũ tru) trong băng tần 410-
+420 MHa sẽ không vượt quá -153 aB(W/n2) đối với 09 8 8 5 153 + 0,077
+(8 -5) đ(N/m2) đối với 3 148 aB(W/m2) đối với 70 4 8 907.
+trong đó 8 là góc tới của sông vô tuyến và băng thông tham chiếu là 4 kIa.
+23
+Trong băng tần này các đài thuộc nghiệp vụ Nghiên cứu Vũ trụ (chiểu từ Vê
+trụ tới Vã trụ) sẽ không được yêu cầu bảo vệ từ, hoặc hạn chế việc sử dụng và
+phát triển của các đải thuộc nghiệp vụ Cố định và Di động. Chí thích 4.10 không áp
+dựng. (WRC-15)
+5.276 Phân chủa bổ sung ở Áp-ga-mi-xtan, An ngiệ- tỉ, A-rập X&-út, Bản
+ranh, Báng-la-đet, Bm-nây, Buốc-kima Pha-xô, Gi- Đu-ti, Ai Cập, A-rập Thống
+nhất, B-ctra do, trai đơn têu, Ett- pia, Iý Lạp, Ghi-nê, Ân Độ, In đô-nx-xi-
+a, 1-ran, Loắc, I-xracn, L4dlia, Gioóc dami, Kê-tira, Cô-oét, Líbi, Ma-lai- - Mai- - Mai - , Mai - , Mai - , Ma Mai - , Mi Mai - Côa - Côa - Côa - Côa - Côa - Côa - Côa - Côa - Côa -
+xia, Ni giê, Nigiê-ra, o-man, Pa-ki-xtan, Phi-lip-pòn, Ca-la, Xy-ri, Bắc
+Triểu Tiên, Xảng ga-po, Xô-ma-1, Xu dâng, Thuy sĩ, Thái Lan, Tô gô, Tổ
+NH Kỳ và Y-3-mer, băng tần 40-440 MHa cũng được phân chỉa cho nghiệp
+vụ Cổ định làm nghiệp vụ các băng tần 430 435 MHa và 438-440
+MHa cũng thược phân chủa, trừ tại Đcv- do, cho nghiệp vụ Đi động trừ Dì
+động hàng không làm nghiệp vụ chính. (WRC-15)
+5.279A Việc sử dụng băng tần 432-438 MHu bời các bộ cảm biến thuộc
+nghiệp vụ Thăm đò trái đất qua vệ tỉnh (chủ động) phải phù hợp với Khuyến
+nghị TTC-R RS.1260-1. Hơn nữa, nghiệp vụ Thăm đó Trái đất qua vệ tỉnh (chủ
+động) trong băng tần 432-438 MHa không được gây nhiễu có hại cho nghiệp
+vụ Vô tuyến dẫn đường hàng không ở Trung Quốc. Các điều khoản trong chủ
+thích này không làm giảm bót trách nhiệm của nghiệp vụ Thăm dô Trái đối quả
+vệ tinh (chủ động) khi hoạt động như là một nghiệp vụ phụ theo các chủ thích
+5.29 và 5.30. (WRC-15)
+5.286AA Băng tần 450-470 MHa được xác định để các cơ quan quản lý.
+có mong muôn triển khai hệ thống thông tin di động IMT sử dụng. Xem Nghị
+quyết 224 (Rer XRC-15). Việc triển khai hệ thống MT không hạn chế việc
+sử dụng băng tần cho các hệ thống thuộc các nghiệp vụ đã được phân chía và
+không đặt ra tưu tiên trong Thể lệ vô tuyến điện. (WRC-15).
+5.287 Việc sử dụng các băng tần 457,5125-457,5875 MHa; 467,5125-
+467,5875 MTt trong nghiệp vụ Đí động hàng hái được giới han cho các đài liên.
+lạc trên boong. Các đặc tỉnh của thiết bị và phân kênh tần số sử dụng phải phủ.
+hợp với Khuyến nghị TTU-R M1174-3. Việc sử dạng các băng tần này trong vùng
+lãnh hải phải tuân theo Thể lệ vệ tuyển điện quốc gia của các nước liên quan.
+(WRC-15)
+5.288 Trong vùng lãnh hải của Hoa Kỷ và Phi-lịp-pìn, các tần số được ưu
+tiên sử dụng cho các đải thông tin trên boong là 457,525 MHa; 457.550 MHa;
+457,575 MHu và 457,600 Mila, được cặp tương ứng với các tần số 467,750.
+24
+MFa, 467,775 MHr; 467,800 MFa và 467,825 MHa. Các đặc tỉnh của thiết bị
+phải phù hợp với Khuyến nghị TTU-R M.1174-3. (WRC-15)
+5.313A 0 o-xto rây-la, Băng ta-đet, Bru-nây Đa-rút-xa- tam, Cam-pt-
+chủa, Trung Quốc, Hàn Quốc, Phúng, An Độ, Ia-đó-nêxửa, Nhật Bản, Khii-
+bati, Láo, Ma lay-xira, Miranema, Nửa Dân, Pa-ki-xtan, Pa-ptra Niu Ghi-
+nê, Phi:pip pin, Quần đảo Xô lô -mông, Nhà nước Độc lập Xa- moa, Xing ga po,
+Thái Lan, Tông ga, Tuva-lo, Va-m-stu và Việt Nam, các cơ quan quản lý.
+muốn triển khai hệ thống thông tin di động IMT được sử dụng bảng tần 694.790
+MHa hoặc một phần của băng tần này. Việc triển khai IMT không đặt ra ưu tiên
+trong Thể lệ vô tuyển diện và không hạn chế việc sử dụng băng tân cho các lệ
+thống thuộc các nghiệp vụ đã được phân chỉa ô Trung Quốc, việc sử dụng
+IMT trong băng tần này sẽ chưa thực hiện cho tới 2015. (W/RC-15).
+5.317A Các phần của băng tần 698.960 MH2 ở Khu vực 2 và băng tần
+694--790 MH9 ở Khu vực 1 và 790-960 MH ở Khu vực 1 và Khu vực 3 đã
+được phân chía cho nghiệp vụ Di động làm nghiệp vụ chính, được xác định
+đảnh cho các cơ quan quản lý (nếu có mong muổn) sử dụng để triển khai hệ
+thống thông tin đi động 1MT (xem Nghị quyết 224 (Rev.WRC-15), Nghị quyết
+761 (Rew.WRC-15) và 749 (Rev WWRC-15). Việc triển khai MT không hạn.
+chế việc sử dụng các bảng tần đó bởi bắt kỷ ứng dụng nào của các nghiệp vụ
+đã được phân chia cho băng tần này và không đặt ra quyền ưu tiên trong Thể lệ
+vô tuyến điện. (WRC-15)
+5.327A Việc sử dụng băng tần 960-1164 MHa cho nghiệp vụ 1Đi động.
+hàng không (R) được giới hạn cho các hệ thống hoạt động tuân theo các tiêu:
+chuẩn hàng không quốc tế Việc sử dụng này phải tuân thủ Nghị quyết 417
+(ReV. WRC-15). (WRC-15)
+5.338A Các băng tần 1350-1400 MHa; 1427-1452 MHa; 22,55-23,55
+GHa 30.31,3 GH; 49,7-502 GHo, 50,4.50,9 GHa 514-52,6 GHa; 81-86
+GHa và 92-94 GHa áp dụng Nghị quyết 750 (Rev. WRC-15). (WRC-15)
+5.352A Trong băng tần 1525-1530 MHa, các đài thuộc nghiệp vụ DT
+động quả vệ tính, trừ các đải thuộc nghiệp vụ Di động hàng hải qua vệ tỉnh,
+không được gây nhiếu có hại cho, hoặc kháng nghị nhiễu có hại từ các đài.
+thuộc nghiệp vụ Cổ định ở Angiêri, Anập Xert, Ai Cập, Pháp và các lãnh.
+thổ ở nước ngoài của Pháp trong Khu vực 3, Ghi-nê, Ân Độ, Lxra-en, LdeEla,
+Gicó: &ari, Cô cát; Ma-l, Marốc, Mô-riami, Nigiêria, oeman, Parki xtan,
+Phả-lpppin, Ca ta. Xy-ri, Việt Nam và Y. - men đã thông báo trước ngày
+01/4/1998. (WRC-15)
+25
+5.359 Phân chía bổ sung: ở Đức, A-rập Xê-t, Ác-mê-nia, Adét-bai gian,
+Bể-la-rút, Bê-ranh, Ca-mo-rm, Nga, Pháp, Giê- oóc-gia, Ghi trê, Ghi-nê Hìa-
+xao, Giobcđaani, Ca đác xtan, Cô- oét LAt-va, Mô-r-- nia, U-ganda, LLdbbe.
+k-xtan, Pa-ki-xtan, Ba Lan, Xy- t, Carongư-xtan, Hản Quốc, Ru-ma-mi, Tác
+gikh:xtan, Tuy-nidi, Tuốc mê mi man và Uersi: na, các bảng tần 1550-1539 MHa,
+1610-1645,5 MHa và 1646,5-1660 MHa căng được phân chia cho nghiệp vụ.
+Cổ định làm nghiệp vụ chính. Khuyến nghị các cơ quan quản lý thực hiện mọi
+nỗ lực để tránh triển khai các đài mới thuộc nghiệp vụ Cố định trong các băng tần
+này. (WRC-15)
+5.384A Các băng tần, hoặc các phần của các băng tần 1710-1885 Mid,
+2300 2400 MEn và 2500-2699 MHa được xác định cho việc sử dụng bỏi các cơ
+quan quản lý mong muốn triển khai hệ thống thông tin đi động IMT theo Nghị
+quyết 223 (VRC-15). Việc triển khai này không hạn chế việc sử dụng báng tần
+này bời bất kỳ ứng dụng nào của các nghiệp vụ đã được phân chỉa cho hăng tần
+này và không đặt ra quyền ưu tiên trong Thể lệ vô tuyển điện. (WBC-15).
+5.386 Phân chía bổ sung: băng tần 1750-1850 MHa cũng được phân chia
+cho các nghiệp vụ Khai thác vã trụ (chiều từ Trái đất tới Và trụ) và Nghiên
+cứu Vũ trụ (chiều từ Trái đất tới Vũ trụ) 6 Khu vực 2 (trừ Mê-xt-cô), ở 0-xtr-
+rây lia, Gu-am, Ấn Độ, In đô - nẻ xia và Nhật Bản làm nghiệp vụ chính, tây
+thuộc vào thỏa thuận đạt được theo khoản 9.21, đặc biệt chú ý đến các hệ
+thống tán xạ tầng đối lưu. (WRC-15)
+5.388 Các băng tần 1885-2025 MHa và 2110-2200 MHia được dự kiến sử
+dựng trên phạm vi toàn cầu bời các cơ quan quản lý mong muổn triển khai bệ
+thống thông tin đi động IMT. Việc sử dụng băng tần này cho hệ thống IMT
+không hạn chế việc sử dụng các bảng tần này bời các nghiệp vụ khác mà
+chúng được phân chia. Các băng tần này nên được chuẩn bị để có thể đúng cho
+hệ thống IMT theo Nghị quyết 212 (Rav.V/RC-15). (Xem thêm Nghị quyết
+223 (WRC-15)).
+5.391 Khi thực hiện các ấn định cho nghiệp vụ Dí động trong các băng tần
+2025-1110 MHa và 2200- -2290 MHơ, các cơ quan quản lý không được triển
+khai các hệ thống di động mật độ cao, như được mô tả trong Khuyến nghị
+TTU-8 SA.1154.1, và lưu ý khuyến nghị này khi triển khai bắt kỷ loại hệ
+thống di động nào khác. (WRC-15).
+8.393 Phản chỉa bổ sung: ở Ca-ra-da, Hoa Kỳ và An Độ, băng tần 2310-
+2360 Mila cũng được phản chân cho nghiệp vụ Quảng bá qua vệ tỉnh (phát.
+thanh) và nghiệp vụ Phát thanh mặt đất bố trợ làm nghiệp vụ chính. Việc sử
+26
+dụng này được hạn chế cho phát thanh kỹ thuật số và tủy thuộc vào các quy
+định trong Nghị quyết 528 (Rev: NRC- 5), ngoại trừ quyết định 03 liên quan
+đến giới hạn của các hệ qua vệ tình trên 25 MH2. (WRC-13)
+5.401 0 các nước Ăng gõ ta, óxto- nây-lia, Băng-la - đét, Trung Quốc,
+Eari- đottsa, An Độ, Lran, Li bảng, La-bê- tia, Litbi, Ma-dangát-
+xea, Maal, Cộng hoà Hồi giáo Vakixtan, Par pua Nhu Ghi mê, Cộng hoà A.
+rập Xy rộ Cộng hỏa dân chủ Công- gõ, Xt-đăng, Xoa-di len, cộng hoà Tông
+và Đảm-bia, băng tần 2483,5-2500 MHa đã được phân chia cho nghiệp vụ Vô
+quyên xác định qua vệ tính làm nghiệp vụ chính từ trước WRC-12, tuân theo
+thỏa thuận nhận được theo khoản 9.21 từ các nước không được liệt kê tại điểu
+này. Các lệ thống trong nghiệp vụ Vô tuyển xác định qua vệ tính trong đó hồ
+sơ yêu cầu phối hợp đã được gửi đầy đủ cho Cục Vỏ tuyển điện trước ngày 18
+tháng 2 năm 2012 thì ngày gửi hồ sơ đó vẫn được giữ nguyên. (WRC-15)
+5.418 Phân chủa bổ sung: ở Ân Độ, băng tần 2535-2655 MHa cũng.
+được phân chia cho nghiệp vụ Quảng bá qua vệ tình (phát thanh) và nghiệp vụ
+Quảng bá mặt đất bổ sung làm nghiệp vụ chính. Việc sử dụng như vậy được.
+giới giới hạn cho phát thanh số và tuân thủ vào các quy định trong Nghị quyết
+528(Rev. VRC-15). Các quy định trong chủ thích 5.416 và Bảng 21-4 của
+Điều 21, không được áp dụng cho phân chỉa bổ trợ này. Việc sử dạng các bệ
+thống vệ tình phí địa tỉnh thuộc nghiệp vụ Quảng bá qua vệ tính (phát thanh)
+phù hợp với Nghị quyết 539(Rer. WKC-15). Các bệ thống thuộc nghiệp vụ
+Quảng bá qua vệ tỉnh địa tỉnh (phát thanh) mà thông in phối hợp đầy đủ theo
+Phụ lục 4 đã được nhận sau ngày 01/6/2005 được giới hạn cho các hệ thống
+phủ sông quốc gia. Mật độ thông lượng công suất tại bề mặt trái đất tạo bởi.
+các phát xạ của một dải vũ trụ thuộc nghiệp vụ Quảng bá qua vệ tính địa tỉnh
+(phát thanh) đang khai thác trong băng tần 2630-2655 MTa, và toàn bộ thông
+tín phối hợp trong Phụ lạc 4 của đài này đã được nhận sau ngày 01/6/2005.
+không được vượt quả các giới hạn dưới đây, trong mọi điều kiện và mọi
+phương thức điều chế:
+- 130 dBW/(m - MHa) với 09 0 5 5   với 09 < 0 5 59
++130 + 04 (8 - 5) &B(V/(m2 - MHa) với 59 s = 5 25   với 59 < 9 < 259
+-122 dB(W/(m2 - MHa))   với 259 < 9 < 909
+Trong đó 0 là góc tới của sông tới so với mặt phảng ngang, đơn vị là độ.
+Có thể được vượt quá các giới hạn này ở lãnh thổ của bất kỳ nước nào nếu cơ
+quan quản lý ở nước đó đồng ý. Như một ngoại lệ, giá trị mật độ thông lượng
+27
+công suất - 122 4B (W(m2 sHa) phải được sử dụng như giá trị ngưỡng để
+thực hiện phối hợp theo khoản 9.11 trên một kho vực 1500 km xung quanh.
+lãnh thổ của cơ quan quản lý gửi thông báo bệ thống phát thanh qua vệ tỉnh.
+Ngoài ra, cơ quan quản lý được liệt kê trong quy định này không được.
+đồng thời có hai ấn định tần số chồng nhau, một ấn định theo quy định này và
+ần định còn tại theo chủ thích 5.416 cho các hệ thống mà thông tin phối hợp
+trong Phụ lục 4 đã được nhận đầy đủ sau ngày 01/6/2005. (WRC-15).
+5428 Phân chủa bổ sang: ô A-dóc-bai-gian, Ctarongu-de-xtan và Tuốc.
+mẽ-ni-xtạn, băng tần 3100-3300 MHa cũng được phân chỉa cho nghiệp vụ Ve
+tuyến dẫn đường làm nghiệp vụ chính. (WRC-15)
+5.49 Phân chỉa bổ sung: ở A rập Xe tút, Barranh, Băng-la-đét, Be-manh,
+Bru nây, Cam-pt-chia, Caa mê rưu, Trung Quốc, Công gó, Hàn Quốc, Bờ Biển
+Ngà, Ai Cập, A-vập Thống nhất, Ân Độ, Irđô mê xia, Tran, Loắc, Twta-co,
+Nhật Bản, Gioce-đami, Kê mia, Cô cét, La-băng, Lá-bi, Ma--. xai-xia. 0man,
+L ngan đa, Ta-kixtan, Ca-ta, Xy-r. Cộng hoà Dân chủ Công gô, CHDCND
+Triều Tiên, Xu đăng và Ye-men, băng tần 3300-3400 MHa cũng được phân
+chủa cho nghiệp vụ Cổ định và 191 động lâm nghiệp vụ chính. Các nước đếp
+giáp với Địa trung bải không được yêu cầu bảo vệ cho các nghiệp vụ Dí động
+và Cố định của mình từ nghiệp vụ Vô tuyển định vị. (VRC-15).
+5.32B Loại nghiệp vụ khác ; ở 0 xto rây lia, Bằng-laa-đét, Trung
+Quốc, vùng lãnh thổ hài ngoại trên Khu vực 3 của Pháp, Ân Độ, Iran, Nia Dì-
+Lân, Phi-úp pin và Xing giapo, băng tần 3400-3500MH được phân chủa cho
+nghiệp vự Đi động, trừ Đì động hàng không làm nghiệp vụ chính, phụ thuộc
+vào thỏa thuận đạt được theo khoản 9.21 với các cơ quan quản lý liên quan và
+được xác định cho IMT. Việc xác định này không hạn chế việc sử dụng các
+băng tần này bỏi bất kỷ ứng dụng nào của các nghiệp vụ mà chúng được phân
+chủa và không thiết lập sự ưu tiên trong Thể lệ vô tuyển diện. o giai đoạn phối
+hợp áp dụng các khoản 9.17 và 9.18. Trước khi một cơ quan quản lý muốn
+đưa một đài (trạm gốc hoặc di động) thuộc nghiệp vụ Đì động vào sử dụng
+trong băng tần này, phải đảm bảo rằng mật độ thông lượng công suất (pa);
+sinh ra tại 3m trên bề mặt trái đất không được vượt quá -154,SBBV/(n2 (KHa)
+với hơn 20 phần trăm thời gian tại biên giới lãnh thổ của cơ quan quản lý
+khác. Giới hạn này có thể rượt quá trên lãnh thổ của nước mà cơ quan quản lý.
+của nước đó đồng ý. Để đảm bảo đáp ứng giới han pũa tại biên giới lãnh thổ
+của một cơ quan quản lý bất ký khác, phải thực hiện việc tính toán và kiểm
+tra, tỉnh đến tất cả các thông tin liên quan, với thỏa thuận sung phương của hai
+28
+cơ quan quản lý (cơ quan quản lý chịu trách nhiệm về đài mặt đất và cơ quan.
+quản lý chịu trách nhiệm về đải trái đất), với sự giúp đỡ của Cục Vê tuyến điện
+nếu cần thiết. Trong trường hợp không thóa thuận được, Cục Vỏ tuyển diện sẽ
+thực hiện tỉnh toàn và kiểm tra, tỉnh đến các thông tin được để cập ở trên. Các
+đài thuộc nghiệp vụ Di động trong băng tần 3400-3500MHa không được yêu:
+cần việc bảo vệ thêm từ các đài vã trụ ngoài các quy định trong Bảng 21-
+4 (Xuất bản năm 2004). (WRC-15)
+5.433A Ở 0-xtơ rây Ha, Băng-la-đét, Trung Quốc, vùng lãnh thổ hái.
+ngoại trên Khu vực 3 của Pháp, Hản Quốc, Ân Độ, 1ran, Nhật Bản, Nhu Đi-
+Lân, Paki-xtan và Pbi-lpppm, băng tần 3500-3600MHa được xác định cho
+MT. Việc xác định này không bạn chế việc sử dụng các bảng tần nây bởi bất
+kỳ ứng dụng nào của các nghiệp vụ mà chúng được phân chia và không thiết
+lập sự ưu tiên trong Thể lệ vô tuyến điện. ở giai đoạn phối hợp áp dụng
+các khoản 9.17 và 9.18. Trước khi một cơ quan quản lý muốn đưa một đài
+(trạm gốc hoặc di động) thuộc nghiệp vụ Di động vào sử dụng trong băng tần
+này, phải đảm bảo rằng mật độ thông lượng công suất (ptt)) sinh ra tại 3m trên
+bề mặt trái đất không được vượt quả - 154,5dlW/(m2.4kHa) với hơn 20 phần
+năm thời gian tại biên giới lãnh thổ của cơ quan quản lý khác. Giới hạn này có
+thể vượt quả trên lãnh thể của nước mà cơ quan quản lý của nước đó đồng y.
+Để đảm bảo đáp ứng giới hạn pốt tại biên giới lãnh thổ của một cơ quan quản:
+lý bất ký khác, phải thực hiện việc tỉnh toàn và kiểm tra, tính đến tất cả các
+thông tin liên quan, với thóa thuận song phương của hai cơ quan quản lý (cơ.
+quan quản lý chịu trách nhiệm dài mặt đất và cơ quan quản lý chịu trách nhiệm
+về đải trái đấp, với sự giáp đỡ của Cục Vô tuyến điện nếu cần thiểt. Trong
+trưởng hợp không thủa thuận được, Cục Vô tuyến điện sẽ thực hiện tỉnh toán.
+và kiểm tra, tỉnh đến các thông tin được để cập tại trên. Các đài thuộc nghiệp
+vụ Di động trong băng tần 3500 3600 Ml4u không được yêu cầu việc bảo vệ
+thêm từ các đải vũ trụ ngoài các quy định trong Bảng 21-4 (Xuất bản năm.
+2004). (WRC-15)
+5.48 Việc sử dụng băng tần 4200-4400 MHa cho nghiệp vụ Vô tuyển
+dẫn đường hàng không được đánh riêng cho các cao kế vô tuyến đặt trên tàu.
+bay và các bộ phát đáp liên kết đặt trên mặt đất. (VRC-15).
+5.442 Nghiệp vụ Đi động, trừ Di động hàng không, bị hạn chế trong các.
+băng tần 4825-4835 MEn và 4950-4990 MHa. Ở Khu vực 2 (trừ Ban xin, Cư
+ba, Goa- tê-mala, Mê-h/cô, Pa-ra goay, Uưunoay và Ve-nê-du-2-k), và tại 6-
+xt rây lia, băng tấn 4825-4835 Mila cũng được phản chủa cho nghiệp vụ Di
+29
+động hàng không, hạn chế cho các dải táu bay đo xa để kiểm tra chuyển bay.
+Việc sử dụng này phải phù hợp với Nghị quyết 416 (WRC-07) và không được.
+gây nhiễu có hại cho nghiệp vụ Cố định. (W/RC-15)
+5.443B Để không gây nhiễu có hại cho hệ thống hạ cánh sử dụng vi ba
+hoạt động ở tần số trên 5030 MHợ, tổng mật độ thông tượng công suất sinh ra
+tại bề mặt Trái Đất trong băng tần 5030-5150 MHa của tất cả các đài và trụ
+trong hệ thống thuộc nghiệp vụ Vô tuyến dẫn đường qua vệ tỉnh (chiều từ Vũ
+trụ tới Trái đất) khai thác trong bảng tần 5010-5030 MIL không được vuợt
+quá -124,5 dB;W/m2) trong 150 kha bất kỳ. Để không gây nhiễu có hại cho
+nghiệp vụ Vô tuyến thiên văn trong băng tần 4990-5000 MTa, các hệ thống
+thuộc nghiệp vụ Vỏ tuyển dẫn đường qua vệ tỉnh đang khai thác trong băng rần.
+5010-5030 MHa phải tuân thủ các giới hạn trong băng tần 4990-5000 Miên
+được xác định trong Nghị quyết 741 (Rev. VRC-15). (WRC-15).
+5.44 Băng tần 5030-5150 MHa được sử dụng cho việc khai thác các hệ
+thống chuẩn quốc tế (hệ thống hạ cánh sử dụng viba) để tiếp đất và hạ cánh
+chính xác. Trong băng tần 5030-5091 MHa, các yêu cầu của hệ thống này sẽ
+được ưu tiên hơn các sử dụng khác trong băng tần. Để sử dụng băng tần 5091-
+5150 MH, áp dụng chủ thích 544AA và Nghị quyết 114 (Rev. V/RC-15). (WBC-
+15)
+5.444A Phân chỉa cho nghiệp vụ Cố định qua vệ tỉnh (từ Trái đất tới Vũ
+trụ) trong băng tần 5091-5150 MHa được sử dụng giới bạn cho đường tiếp.
+sóng của các hệ thống vệ tình phí địa tỉnh thuộc nghiệp vụ Di động qua vệ tỉnh.
+và tùy thuộc vào việc phối hợp theo Khoản 9.11A. Việc sử dụng băng tần
+5091-5150 MHa bời đường tiếp sóng của các hệ thống vệ tình phí địa tỉnh
+thuộc nghiệp vụ Đi động qua vệ tình phù hợp với các ứng dụng tại Nghị quyết
+114 (đã được xem lại tại WRC-15). Thêm vào đó, để đảm bảo nghiệp vụ Dần.
+đường hàng không được bảo vệ can nhiễu có hại, yêu cầu việc phối hợp đối
+với đài mặt đất của đường tiếp sóng của hệ thống vệ tình phí địa tỉnh thuộc
+nghiệp vụ Di động qua vệ tỉnh tại khoảng cách dưới 450 km tỉnh từ lãnh thổ
+của nước có đài mặt đất thuộc nghiệp vụ Dẫn đường hàng không qua vệ tỉnh.
+(WRC-15)
+544B Việc sử dụng băng tần 5091-5150 MH cho nghiệp vụ Di động
+hàng không được giới hạn cho:
+Các hệ thống thuộc nghiệp vụ Di động hàng không (R) và phù hợp với
+các tiêu chuẩn hàng không quốc tế, dánh cho các ứng dụng trên mặt đất tại sân
+bay. Việc sử dụng như vậy phải phù hợp với Nghị quyết 748 (Rev. WRC-15):
+30
+Các truyền dẫn đo xa hàng không từ các đải tâu bay (xem Khoản 1.83).
+phù hợp với Nghị quyết 418 (Rev. VRC-15). (WRC-15)
+5446 Phân chía bổ sung: ở các nước được liệt kê tại Chú thích 5.369,
+băng tần 5150- 5216 MHa cũng được phân chủa cho nghiệp vụ Vô uyến xác
+định qua vệ tỉnh (chiều từ Vĩ trụ tới Trái đất đất) làm nghiệp vụ chính phù hợp.
+với thỏa thuận nhận được tại Khoản 9.21. ở khu vực 2 (trừ Mê-hi-cô), băng tần.
+này còn được phân chia cho nghiệp vụ Vô tuyển xác định qua vệ tính (chiếu từ
+Vũ trụ tới Trái đât) tàm nghiệp vụ chính. ở khu vực 1 và khu vực 3, trừ các
+nước được liệt kê tại Chủ thích 5.369 và Băng-la-đét, băng tần này cũng được:
+phân chủa cho nghiệp vụ Vô tuyển xác định qua vệ tỉnh (chiều từ Vũ trụ tới Trát
+đất làm nghiệp vụ phụ. Việc sử dụng nghiệp vụ Vô tuyển xác định qựa vệ tỉnh
+được giới hạn cho các đường tiếp sóng của nghiệp vụ Vỏ tuyến xác định qua
+vệ tỉnh hoạt động trong băng tần 1610-1626,5 MHx và hoặc 2483,5-2500
+MTTa. Tổng mặt độ thông lượng công suất tại bề mặc Trái đất không được vượt
+quả -159 BBV/m trong bất cứ 4 kHa nào đối với mọi góc tới. (VRC-15)
+5.447E Phân chủa bổ sung: băng tần 5250-5350 MHa cũng được phân
+chủa cho nghiệp vụ Cổ định làm nghiệp vụ chính ở những nước sau thuộc Khu
+vực 3: O-xtorảy-11- Hàn Quốc, An Độ, In đô mẽ xi- l tran , Nhật Bản, Mán.
+lai xia, PPa-Pử- Nhu (thianê, Phi-lp-ph, CHDCND Triểu Tiên, Xri Lan-ca, Thải
+Lan và Việt Nam. Việc sử dụng băng tần này cho nghiệp vụ Cố định nhằm.
+mục đích triển khai các hệ thống truy cập vô tuyến có định và phải phả hợp
+với Khuyến nghị trư R P.1613-0. Ngoài ra, nghiệp vụ Cố định không được.
+yêu cầu bảo vệ từ các nghiệp vụ Võ tuyến xác định, Thăm đó Trái Đất qua vệ
+tỉnh (chủ động) và Nghiên cứu Vũ trụ (chủ động), nhưng Chủ thích 5.43A
+không áp dụng cho nghiệp vụ Cổ định đối với các nghiệp vụ Thâm dó Trái Đất
+qua vệ tinh (chủ động) và Nghiên cứu Vã trụ (chủ động). Sau khi triển khai
+các hệ thống truy cập vỏ tuyến cổ định thuộc nghiệp vụ Cổ định với sự bảo vệ
+các hệ thống vô tuyến xác định đang hoạt động, không nên đặt thêm các hạn
+chế nghiêm ngặt đối với các hệ thống truy cập vỏ tuyến cổ định bói việc triển
+khai các hệ thống vô tuyến xác định trong tương lai. (WRC-15).
+5.447P Trong băng tần 5250-5350 MHa, các đài thuộc nghiệp vụ Di
+động không được yêu cầu bảo vệ từ các nghiệp vụ Vô tuyển định vị, Thăm đô
+Trái đết qua vệ tình (chủ động) và Nghiên cứu Vũ trụ (chà động). Trên cơ sở
+các đặc tỉnh của hệ thống và điều kiện nhiễu, các nghiệp vụ đó không được bắt
+nghiệp vụ Di động phải chịa thêm các điều kiện bảo vệ chặt chẽ hơn các điều:
+31
+kiện đã được nêu ra trong Khuyến nghị ITU-R M.1638-0 và TTU-R R5.1632-4.
+(WRC-15)
+5.450A Trong băng tần 5470-5725 MHa, các dài thuộc nghiệp vụ Di
+động không được yêu cầu bảo vệ từ các nghiệp vụ Vô tuyến xác định. Trên cơ.
+sở các đặc tỉnh của hệ thống và điều kiện nhiễu, các nghiệp vụ Vô tuyến xác
+định không được yêu cầu nghiệp vụ Di động phải chịu thêm các điều kiện bảo
+vệ chặt chẽ hơn các điều kiện đã được nêu ra trong Khuyến nghị TTUR
+M.1638-0. (WRC-15)
+5.457A Trong các băng tần 5925-6425 MHa và 14-14,5 GHa, các đải Trái.
+Đất đặt trên tàu thủy có thể liên lạc với các đài vũ trụ thuộc nghiệp vụ Cổ định.
+quả vệ tinh. Việc sử dụng phải phù hợp với Nghị quyết 902 (WRC-03). Trong
+băng tần 5925- 6425 MHa, các đài Trái Đất đặt trên tàu thủy có thể liên lạc với
+đái không gian thuộc nghiệp vụ Cổ định qua vệ tỉnh có thể sử dụng ăng ten.
+phát với đường kinh nhó nhất là 1,2 m và hoạt động không cần thoá thuận nếu
+được đặt cách xa ít nhất 330 km từ vị trí trên bờ biển khi thủy triểu tại mức.
+thấp nhất và được quốc gia ven biển chính thức ghi nhận. Nghị quyết 902
+(WRC-03) được áp dụng. (WRC-15)
+5.457B Trong các băng tần 5925-6425 MHa và 14-14,5 GHa, các đài
+Trái Đất đặt trên tàu tháy có thế hoạt động với các thông số và đười các điều
+kiện nêu trong Nghị quyết 902 (VRC-03) ở các nước An-gieri, A rập Xê-
+Ba-ranh, Cô- mô, Gi-buati, Ai Cập, A-tập Thống nhất, Gioóc- đaari, Cô-oét, Lách,
+Ma-rốc, Mô-r tamia, O-man, Ca-ta, Xyri, Xu-đăng, Tuy-ri-đi và Y ẻ men,
+trong nghiệp vụ Di động hàng hải qua vệ tỉnh làm nghiệp vụ phụ. Việc sử.
+dụng này phải phù hợp với Nghị quyết 902 (VRC-03). (WRC-15).
+5.459 Pbản chía bổ sung: ở Liên bang Nga, các băng tần 7100-7155.
+MEL và 7190-7235 MEla còn được phân chịa cho nghiệp vụ Khai thác vũ trụ.
+(chiều từ Trái đất tới Vũ trụ làm nghiệp vụ chính, tủy thuộc vào thỏa thuận.
+đạt được theo Khoản 9.21. Trong băng tần 7190-7235 MHa, nghiệp vụ Thăm
+đô Trái đất qua vệ tinh (chiều từ Trái đất tới Vũ trụ), Khoản 9.21 không được.
+áp dụng. (WRC-15)
+5.460 Không có phát xạ nào từ các hệ thống thuộc nghiệp vụ Nghiên cứu:
+Vũ trụ (chiều từ Trái đất tới Vũ trọ) đến vũ trụ xã bị ảnh hưởng trong băng tần
+7190-7235 MHa. Các vệ tỉnh địa tình thuộc nghiệp vụ Nghiên cứu Vũ trụ đang
+khai thác trong băng tần 7190-7235 MHa không được kháng nghị nhiễu từ các.
+đải đang hoặc sẽ hoạt động thuộc nghiệp vụ Cố định và Di động và Chủ thích
+5.43A không được áp dụng. (WRC-15)
+32
+5468 Phân chỉa bổ sung: ở A rập Xê-tr, Ba ranh, Băng-la đét, Bru nây,
+Bưruc-đi, Các mê-rư, Trung Quốc, Công-gô, Gi-bu-ti, Ai Cập, Anập Thống
+nhất, Cộng hóa Ga-bông, Gai- ma, In-đô-m3-xia, Lran, Lrắc, Gia- mai-ca,
+Gioóc- đảtri, Kè-Ti- , Có- cét, Li băng, L/bi, Ma-laixia, Ma-l) Marốc, Mi-
+ri-tảci, Nê pan, Nigiê-ria, ô-tuan, Cộng hoà Uagan-da, Pa-kixtan, Ca-ta,
+Xyri, CIDCND Tiều Tiên, Xê-nê gan, Xing-ga- po, Xó-malla, Xu đăng.
+Xoa-di-len, Sát, Cộng hòa Tô gõ, Tuy- 2idi và Y.3-men, băng tần 8500-8750
+MHa còn được phân chia cho nghiệp vụ Cổ định và nghiệp vụ Di động làm
+nghiệp vụ chính. (WRC-15)
+5471 Phận chía bổ dung: ở An giêri, Đức, Ba-ranh, B1, Trung Quốc, Ai
+Cập, A-uập Tuống nhất, Pháp, Hy Lạp, h-đô-nêxia, Lran, Loni, Hà Lan, Ca-
+đa , Xu đăng, các băng tần 8825-8850 MH và 9000-9200 MHa cũng được:
+phân chia cho nghiệp vụ Dân đường hàng hải làm nghiệp vụ chính và chỉ sử
+dụng bởi các ra-đa bờ biển. (WRC-15)
+SA77 Loại nghiệp vụ khác: ở An giêri, Anập Xê-tt, Ba ranh, Băng lào
+đát, Bưu nây, Ca-mé-run, Gi- Bad, Ai Cập, A-rập Thống nhất, Đtt-tore-
+ti- Bopia, Gaiuy-a.ma, Ân Độ, In-đô-nêxia, l-ran, Lrắc, Gia mai- Ba, Nhật Bản,
+Gioóc- đotti, Có- nét, Lá-băng, Lo-bêria, Ma-laixia, Ni-giêrta, O-man, từ.
+gau- đa, Ta-ki xian, Ca-ta, Cộng hóa A rập Xyari, CHDCND Triều Tiên, Xing.
+gapo, Xê-ma-lca, Xu-đảng, Nam Xe-đăng, Tri-ni-đát và Tô-ha gô và Y.
+men, băng tần 9800-10000 MHa được phân chia cho nghiệp vụ Cố định làm
+nghiệp vụ chính (xem Chủ thích 5.33). (WRC-15)
+5.481 Phân chỉa bổ sung: ở An giêri, Đức, Ăng gô-a, Braxin, Trung
+Quốc, Bở Biến Ngà, In Xan-vado, Đ-ca ado, Tây Ban Nha, Goa-- maa dà,
+Hung ga-r, Nhật Bản, Ke tria, Ma-rốc, Ni-gi-ria, O-man, U-do-be-ki-xtan,
+Pa-ki-xtan, Paraagoay, Pêm, CHDCND Triều Tiên, Rurma mia và 0-ru-
+80ay, băng tần 10,45-10,5 CHa còn được phân chia cho nghiệp vụ Cổ định và
+nghiệp vụ Di động làm nghiệp vụ chính. Tại Côt-xa Ri-ca, băng tần 10,45
+10,5 GHa còn được phân chủa cho nghiệp vụ Cổ định làm nghiệp vụ chính.
+(WRC-15)
+5.500 Phân chủa bổ sung: ở An giệ-rí, A-rập Xê-tt, Ba-ranh, Bru nây, Đa-
+rú-xa-lem, Ca mơ/run, Ai cáp, Các tiểu vương quốc A-rập Thống nhất, Gia bông, tr-
+độ-m2xtha, Luan, Luắc, Txr-en, Gioer-dami, Có- mét, Lử băng, Ma-danga-xca,
+Ma-lai xia, Ma-1, Marốc, Mô-ridertia,Nt-giê traa, Cộng hoá Liên bang N--
+gietia, 6-mao, Ca-1, Cộng hòa A Rập Xe-7, Xing gapo, Xu đăng, Nam Xi-
+đăng, Cộng hòa Sát và Tuy-nidi, băng tần 13,4-14 Gha cũng được phân chía
+33
+cho nghiệp vụ Cố định và nghiệp vụ Di động làm nghiệp vụ chính. Tại Pa- ki-
+xian, băng tần 13,4-13,75 GH9 cũng thược phân chia cao nghiệp vụ Cố định và
+nghiệp vụ Di động lảm nghiệp vụ chính (WRC- 15).
+5.501A Việc phân chía băng tần 13,65-13,75 GHa cho nghiệp vụ Nghiên
+cứu Vă trụ làm nghiệp vụ chính được giới hạn cho các bộ cảm biến chủ động
+đặt trên táu bay. Đối với các sử dạng khác, nghiệp vụ Nghiên cứu Vũ trụ được
+phân chỉa băng tần này làm nghiệp vụ phụ. (WRC-15)
+8.504B Các đài mặt đất đặt trên táu bay hoạt động trong nghiệp vụ Đì động
+hàng không qua vệ tình trên bảng tần 14-14.5 Giữ phải mân theo các điều
+khoản của Phụ lực 1, phần C của Khuyến nghị TTU-R M.1643-0, lưu ý đến các
+đải Vô tuyến thiên văn đang thực hiện các quan sát trên băng tần 14,47-14,5
+CHư đặt trên lãnh thố của các nước Tây Ban Nha, Pháp, An Độ, Eadlia, Anh
+và Nam Phi. (WRC-15)
+5.504C Trong băng tần 14-14,25 GHư, mật độ thông lượng công suất tạo
+ra trên lãnh thố các nước A-rập Xeri, Barranh, Bốt xos- Ta, Bở Biển Ngà, Ai
+Cập, Ghi nê, An Độ, Tran, Cô cát, Cộng hoà Liên bang Nhiê tra, oaman,
+Cộng hòa A rập Xảm và Tuy-ná-di bời bắt kỷ dài trái đất đặt trên tân bay nàn:
+thuộc nghiệp vụ Di động hàng không qua vệ tỉnh sẽ không được vượt quả các
+giới hạn nêu trong Phụ tục 1, phần B của Khuyến nghị ITC-R M.1643-0, trú
+trường hợp có được sự thỏa thuận cụ thể của các cơ quan quản lý bị ảnh hưởng.
+Các điều khoản của chủ thích này quy định nghĩa vụ của nghiệp vụ Di động
+hăng không qua vệ tình hoạt động như nghiệp vụ phợ phù hợp với chủ thích.
+5.29. (WRC-15)
+5.505 Phân chứa bổ sung: ở An-giS-r, A-rập Xe-tt, Ba-ranh, Bốt-xna-na,
+Bư-này Đarútxa-lem, Ca-morun, Trung Quốc, CHDCND Công gô, Hàn
+Quốc, Gi- buđi, Ai Cập, Các tiểu vương quốc A-rập Thống nhất, Ga-bông.
+Ghi nê, Ân Độ, In-đo- nêxteo, Tran, Lrắc, L-xra ten, Nhật Bản, Gioóc-đả- ni,
+KẾ- cét, Lo-băng, Ma-lai-xta, Mad, Marốc, Mô-T-Ta-Ti-a, 0-man, Phi-lp-
+paa, Ca-ta, Cộng hóa A-uập Xiri, CHDCND Triều tiên, Xing-gaapo, Xô-ma-li-
+8, Xu-đăng, Nam Xu-đăng, Vương quốc Xoa-di-en, Cộng hòa Sát, Việt Nam và
+Y ẻ - nen, băng tấn 14-14,3 GHa còn được phân chịa cho nghiệp vụ Cố định làm.
+nghiệp vụ chính. (WRC-15).
+5.506B Các đài trái đất đặt trên tàn thủy liên lạc với các đải vũ trụ thuộc.
+nghiệp vụ Cổ định qua vệ tỉnh có thể hoạt động trong băng tần 14-14,5 GHa mà
+không cần thỏa thuận trước với các quốc giá Sịp, Hy Lạp và Man-ra, trong
+34
+phạm vi tối thiếu được quy định trong Nghị quyết 902 (WRC-03) từ các quốc
+gia đó. (WC-15)
+5.508A Trong băng tần 14,25-14,3 GHơ, mật độ thông lượng công suất
+được tạo ra trên lãnh thố các nước A rập Xê-út, Ba-ranh, Bốt xoa- na, Trung
+Quốc, Bở Biến Ngà, Ai Cộp, Pháp, Chi nê, Ấn Độ, Lran, Tra-lra, Cô-oét, Cộng.
+hoà Liên bang Ningiêrica, Ô man, Cộng hóa A rập Xiri, Anh và Tuy-ni đi bỏi.
+bất ký dài trái đất đặt trên máy bay nào thuộc nghiệp vụ Di động hàng không
+qua vệ tình không được vượt quả các giới hạn được nêu trong Phụ lục 1, phần B
+của Khuyến nghị ITU RM.1643-0, trừ khi có sự đồng ý của các cơ quan quản
+lý bị ảnh hướng: Các quy định của chủ thích này không làm giảm trách nhiệm.
+của nghiệp vụ Di động hàng không qua vệ tình hoạt động như nghiệp vụ phụ
+phù hợp với chú thích 5.29. (WRC-15)
+5.509A Trong băng tần 14,3-14,5 GHa, mật độ thông lượng công suất
+được tạo ra trên lãnh thố các nước A-rập xé át, Ba rạnh, Bốt-xQs.na, Ca-mtr.
+rua. Trung Quốc, Bờ Biển Ngà, Ai Cập, Pháp, Gaa-bông, Ghi nê, Án Độ. Iran,
+Lta-lca, Có-ott, Mã- rốc, Cộng hoà Liên bang Ni-giêtha, o-man, Xyai, Anh,
+Xri Lan-ca, Tuy-ni-di và Việt Nam bời bất kỷ dài trái đất đặt trên mày bay nào
+thuộc nghiệp vụ Di động hàng không qua vệ trình không được vượt quá các giới
+hạn được nêu trong Phụ lạc 1, phần R của Khuyến nghị ITU-R M.1643-0, trú
+khi có sự đồng ý của các cơ quan quản lý bị ánh hưởng. Các điều khoản của
+chủ thích này không làm giảm trách nhiệm của nghiệp vụ Di động hàng không
+quả vệ tình hoạt động như nghiệp vụ phụ theo chủ thách 4:29. (WRC-15).
+5.510 Ngoại trừ việc sử dụng phù hợp với Nghị quyết 163 (WC-15) và
+Nghị quyết 164 (WRC-15), việc sử dụng băng tần 14,5-14,8 GHa cho nghiệp
+vụ Cổ định qua vệ tỉnh (chiểu từ Trái đất tới Vũ trụ) được giới bạn cho các
+đường tiếp sóng của nghiệp vụ Quảng bá qua vệ tỉnh. Việc sử dạng như vây.
+được đảnh cho các nước bên ngoài chất xu. Các sử dụng khác với các đường.
+tiếp sóng cho nghiệp vụ Quảng bá qua vệ tính trên băng tần 14,75 14,8 GHa
+không được cho phép tại Khu vực 1 và Khu vực 2. (WRC-15)
+5.511A Việc sử dụng băng tần 15,43-15,63 Gha cho nghiệp vụ Cố định
+qua vệ tình (chiều từ Vũ trụ tới Trái đất và chiều từ Trái đất tới Vã trụ được
+giới hạn cho các đường tiếp sóng của các hệ thống vệ tình phí địa tỉnh thuộc.
+nghiệp vụ Di động qua vệ tỉnh và phải chịu sự phối hợp theo khoản 9.11A.
+(WRC-15)
+5.5HC Các đải thuộc nghiệp vụ Vô tuyển dẫn đường hàng không phải.
+hạn chế chúng hiệu dụng phù hợp với Khuyến nghị ITUR 8.1340-0. Khoảng
+35
+cách phối hợp tối thiểu để bản vệ các đài vô tuyến dẫn đường hàng không (ấp.
+dụng khoản 4.10) khỏi bị nhiễu có hại từ các đường tiếp sởng của các đài mặt
+đất và cin tối đa phát theo phương mặt phảng nằm ngang bòi đường tiếp
+sông cửa đài trái đất phải phù hợp với Khuyến nghị ITU-B 8.134041 (MRC-
+15)
+5.512 Phân chỉa bổ nang: ở An giệ-rỉ, A-rập Xé- át, Ức, Ba ranh, Băng-la-
+đét, Bru - nây Đa rột-xa-lem, Camo ron, Công gô, Ai Cập, Fn Xan-vado, Các
+tiều vương quốc A-rập Thống nhất, E-ri-to-rêm, Phần Lan, Goarzễma-la; An
+Độ, tr đồ-mêxia, Tran, Gioộc-đa-ti- Kêmia, Có- nét, Libi, Lã-băng, Matlai
+Xúa, Ma-1, Mản rốc, 3ãs-1. ta Tr-ta, Môn - tê- T6 - gô, Nế-pan, Ni-ca Tangoa, Nin-
+giê tra, o man, Parki-xtan, Ca-ta, Cộng hòa A rập Xirr, Cộng boA Dân chứ
+Công ngõ, Xing gaa po, Xó- ma- Baa, Xu-đăng, Nam Sư đăng, Cộng hóa Sát, Tân - Tân Tỉnh cán
+gô và Y 3 men, băng tần 15,7-17,3 GHa còn được phân chia cho nghiệp vụ Cố
+định và nghiệp vụ Di động làm nghiệp vụ chính. (WRC-15)
+5.514 Phân chỉa bổ sung: ở An giệri, A-rập Xê-tt, Baranh, Băng- la-đét.
+Ca-rnơrtun, Bo Xan-vado, Các trển vương quốc A rập Thống nhất, Goatê ma-
+la, Ân Độ, Iran, Trắc, EXracn, I-ra-lia, Nhật Bản, Giobeda tri, Cô-nét, Lá-bị,
+Liava, Ne pan, Nicaran goa, Cộng hoà Liên bang N-giêria, oeman, Udd-bê
+kixan, Pe-ki-xtan, Ca-ta, Ctrro-gu-xian, Sa-đăng và Nam Xu-đăng, băng tần
+17,3-17,7 GHu còn được phân chia cho nghiệp vụ Cổ định và nghiệp vụ Di động
+lâm nghiệp vụ phụ. Các giới hạn công suất được cho trong các khoản 21.3 và
+21.5 sẽ được áp dụng. (WRC-15)
+5.521 Phân chia thay thế: ở Các tiểu vương quốc A-rập thống nhất và Hy
+Lạp, bảng tần 18,1-18.4 GHa cũng được phân chỉa cho các nghiệp vụ Cố định.
+nghiệp vụ Cổ định qua vệ tinh (chiều cử Vũ trụ tới Trái đất) và nghiệp vụ Di
+động làm nghiệp vụ chính (xem chủ thích 5.33). Áp dưng các quy định của chú
+thích 5.519. (WRC-15)
+5.524 Phăn chủa bổ sung: ở Áp-gattt-xtan, An giêr, A-rập Xế- tỉ, Ba-
+ranh, Bru -nây Đarrit-xa-lem, Ca-me-run, Trung Quốc, Công gô, Cô-xta Rica.
+Ai Cập, Các tiểu vương quốc A-rập Thống nhất, Ga-bông, Coa-te-ma da, Chi nê.
+Ản Độ, Iran, I-rắc, IXra-cn, Nhật Bản, Gioóc đá-ri, Có- cét, Lĩ-băng, Ma-aii-
+xiaa, Madl, Ma-rốc, Mó-ria Tri ca, N& pan, Cộng hoà Liên bang Ni-giệ-ria, Ô-
+man, Pa-kixan, Phi-lip-pin, Cata, CHDCND Công gô, Cộng hóa A-rập Xi-
+x, CHDCND Triểu Tiên, Xing-gapo, Xô- ma-11ra, Xư đăng, Nam Xu đăng.
+Cộng hóa SAt, Cộng hóa Tô gô và Tuyni đi, hăng tần 19,7-21,2 GHn còn
+được phân chỉa cho nghiệp vụ Cố định và nghiệp vụ Dí động làm nghiệp vụ.
+36
+chính. Việc sử dụng thêm này không phải chịu bất cử giới hạn nào về mật độ.
+thông lượng công suất của các dài vũ trụ thuộc nghiệp vụ Cố định qua vệ tình
+trong băng tần 19,7:21,2 GHu và của các đài vĩ trụ thuộc nghiệp vụ Đi động
+qua vệ tinh trong băng tần 19,7-20,2 GH mà nghiệp vụ Di động qua vệ tỉnh
+được phân chỉa làm nghiệp vụ chính (WRC-15)
+5.530A Trừ khi có các thỏa thuận khác được đống ý giữa các cơ quan
+quản lý liên quan, bắt cứ đải nào trong các nghiệp vụ Di động hoặc nghiệp vụ.
+Cế định của một nước không được phát với một độ thông lượng công suất
+vượt quá + 120, 4 dB (W/(m2 MHa) ở bắt cử điểm nào nằm trên mặt đất 3m.
+tong lãnh thổ của nước khác trong Khu vực 1 và Khu vực 3 với hơn 20% thời
+gian hoạt động. Để thực hiện các tỉnh toán, các nước nên sử dụng phiên bán
+mới nhất của Khuyến nghị TTU- P.452 (xem Khuyến nghị TIUR BD.1898).
+(WRC-15)
+5.836B Ở A-tập Xê-tt, Áo, Ba-ranh, Bì, Bra xin, Trung Quốc, Hàn
+Quốc, Đan Mạch, Ai Cập, Các tiều vương quốc A rập Thống nhất, Extô mia,
+Phần Lan, Hung:gari, Ấn Độ, Lran, Cộng hoà Ai- len, hata-en, Ladia, Gioóc.
+đatai, Ke-tiia, Có- nét, Lá-băng, Lá-bí, Lttrva, Môn-đô-va, Na Uy, Ô man,
+Cộng hóa Ư-gan-đa, Paki-xtan, Phi-ip-pin, Ba Lan, Bồ Đào Nha, Cộng hòa
+A rập Xiai, CHĐCND Triều Tiên, Xt-va-kia, Cộng hòa Séc, Rn-ma- mia,
+Anh, Xing-ga-po, Thuy Điền, Thuy S, Tàn-đa-mia, Thổ Nhĩ Kỳ, Việt Nam và
+Din-ba-buê, các đải trái đất thuộc nghiệp vụ Thăm đó Trái đất qua vệ tỉnh
+đang khai thác trong băng tần 25,5-27 GHa không được khảng nghị nhiễu từ,
+hoặc gây cân trở việc sử dụng và triển khai, các đải thuộc nghiệp vụ Cổ định.
+và nghiệp vụ Di động. (W/RC-15)
+5.543A ở Bư tan, Ca:TnC run, Hàn Quốc, Liên Bang Nga, Ân độ, hô đô-
+Xửa, Lrao, Lrắc, Nật Báo, Ca đắc xtan, Ma lai xia, Mandd-ợc, Mông Cổ, M-
+an ma, Iídirbêkh-xtan, Pakk-xtan, Phi-lịp pân, Cư rư gư-xtan, CHDCND
+Triều Tiên, Xu đăng, Xri Lar-ra, Thải Lan và Việt Nam, bảng tần 31.
+31,3 GHa được phân chủa cho nghiệp vụ Cổ định cũng có thể được sử dụng
+bội các hệ thống sử dụng các đài đặt trên tầng cao khí quyền (HAPS) theo
+chiều tử mặt đất đến HAPS. Việc sử dụng băng tần 31-31,3 Gia bội các bệ
+thống mà sử dụng HAPS được giới bạn trong lãnh tổ các nước nêu trên và
+không được gây nhiễu cho, hoặc yêu cầu bảo vệ từ, các loại hệ thống khác
+thuộc nghiệp vụ Cố định, các hệ thông thuộc nghiệp vụ Di động và các hệ
+thống hoạt động theo chủ thích 5.548 Thể lệ vô tuyến điện. Hơn nữa, việc phát
+triển của các nghiệp vụ này sẽ không bị bạn chế bời HAPS. Các hệ thống sử
+37
+dụng HAPS trong băng tần 31-31,3 GHơ không được gây nhiễu có hại cho.
+nghiệp vụ Vô tuyển thiên văn là nghiệp vụ chính trong băng tần 31,3-318
+GHo, xét tới tiêu chuẩn bảo vệ được nêu ra trong Khuyến nghị ITU-R RA.769.
+Để đảm bảo việc bảo vệ cho các nghiệp vụ Vệ tính thu động, mật độ công suất
+không mơng muốn đến một anten của đài trái đất thuộc hệ thống HAPS trong
+Đăng tần 31,3-31,8 GHa được giới hạn ở mức -106 dB(W/ Ha) trong điều
+kiện trời quang, và có thể tăng đến - 100 dB(W/MHa) trong điều kiện trời mưc
+để hạn chế hiệu ứng đa đường do mưa, với điều kiện tác động có ảnh hưởng
+lên vệ tình thụ động không vượt quá tác động trong điều kiện trời quang. Xem.
+Nghị quyết 145 (ReV. WRC-12). (WRC-15)
+5.551H Mặt độ thông lượng công suất tương đương (epft) được tạo ra
+trong băng tần 42,5-43,5 GHo bỏi tất cả các đài vũ trụ trong bất kỳ hệ thống
+vệ tỉnh phí địa tỉnh nào thuộc nghiệp vụ Cố định qua vệ tỉnh (chiều từ Vũ trụ
+tới Trái đát), hay thuộc nghiệp vụ Quảng bá qua vệ tỉnh (chiều từ Vũ trụ tới
+Trái đất) hoạt động trong băng tần 42-42,5 GHư, không vượt quá các giá trị.
+sau tại vị trí của bất kỳ đải Vô tuyến thiên văn nào với hơn 2% thời gian:
+-230 da(W/m2) trong 1 GHu và - 246 aD(W/m2) trong bất kỳ 500 kHa
+nào của băng tần 42,5-43,5 GH tại vị trí của bất kỳ đài Vỏ tuyến thiên văn
+nào đã đăng ký là một kính viễn vọng đơn đĩa; và
+- 209 &8(W/m2) trong bất kỳ 500 kHư nào của băng tần 42,5-43,5 GHa
+tại vị trí bất kỳ đài Vô tuyến thiên văn nào đã đăng ký là một đãi giao thoa
+ranh giới rất dài.
+Các giá trị ep.1d trên phải được đánh giá bằng các phương pháp nêu ra
+trong Khuyến nghị TTU-R s.1586-1 và giản đổ bức xạ anten tham khảo và độ.
+tăng ích cực đại của anten trong nghiệp vụ Vô tuyển thiên văn được nệu
+trong Khuyến nghị HTU-R RA1631-0, các giá trị này phải được áp dụng trên
+toàn bộ bầu trời và cho các góc ngằng lớn hơn góc hoạt động tối thiểu 0an.
+của kính viễn vọng vô tuyến (giá trị mặc định 5 nên được chấp nhận khi
+không có thông báo giá trị cụ thể).
+Các giá trị đó phải được áp dụng tại vị trí của bắt kỳ đài Vê tuyển thiên
+văn nào mà:
+- Đã hoạt động trước ngày 05 tháng 7 năm 2003 và đã thông báo cho.
+Cục vô tuyến điện trước ngày 04 tháng 01 năm 2004; hay
+- Đã được thông báo trước ngày TTU nhận được thông tin phối hợp hoặc
+thông tin thông báo đầy đủ theo Phụ lục 4, cho các đài vũ trụ mà các giới hạn
+này áp dụng.
+38
+Các dài vô tuyển thiên văn khác được thông báo sau các ngày trên có thế
+tìm kiểm một thỏa thuận với các cơ quan quản lý đã cấp phép cho các dài vũ trụ,
+ở Khu vực 2, áp dụng Nghị quyết 743 (WRC-03). Các giới hạn trong chú
+thích nây có thể được vượt quá tại vị tri của một dài vã nuyền thiên văn của
+một quốc gia náo đó nếu cơ quan quản lý của quốc gia đó cho phép. (VXC-15).
+5562D Phân chủa bổ sung: ở Hàn Quốc, các băng tần 128-130 GiLa, 171-
+1716 GHa, 172.172,8 GH và 173,3-174 Gia cũng được phân chía cho nghiệp
+vụ Vô tuyến thiên văn làm nghiệp vụ chính. Các đải vỏ tuyển thiên văn ở Bản
+Quốc đang khai thác các băng tấn được nêu trong chú thích này sẽ không thực
+yêu cầu bảo vệ từ, hoặc hạn chế việc sử dụng và phát triển của các nghiệp vụ này.
+ở các nước đang hoạt động phù hợp với Thể lệ vô tuyến điện. (W/RC-15).
+b) Bổ sung các chủ thích 5.133B, 5.228AA, 5.265, 5.296A, 5.328AA
+5341C,5.346A, 5.429F,5.4299,5486,5.437.5441A, 5.441B, 5.460A,
+5.460B,3.461AA,547A, 54748,5,474C,5.4749,5.4843,5.499C,
+5.4990,5.509B,5.509C, 5.509D,5.5091,5.5097, 5.509G,5.527A,5.559P như.
+sau:
+5.133B Các đài thuộc nghiệp vụ Nghiệp dư sử dụng băng tần 5351,5-
+5366.5 kHa không được vượt quả công suất bức xã cực đại 15 W (sảtp). Tuy.
+nhiên, ở Khu vực 2 ở Mê xi cô, các đải thuộc nghiệp vụ Nghiệp dư sử dụng
+băng tần 5351,5-5366,5 kha không vượt quá công suất bức xạ cực đại 20 W
+(cảr p). ở các nước Khu vực 2 sau đây: An đi goa và Bác-bu-da, Ác- hen-li-ta,
+Ba-- ba- mát, Be-1-xê, Bô-llvvia, Braxin, Chi Le, Có - lôm-bia. Côt.
+xửa Ricca, Cu-ba, Cộng hòa Đô - mi-ri-carha, Đô-mi-vi-ca, En Xan-va-đo, Đec.
+8-đo, Grê-ma đa, Goa tê- ma- Gai s-ua, Ha- thi, Ônđu rát, Giaamaica, Ni.
+ca Ta-goa, Pa:m -ma, Pa-Ta-goay, Pô-ru, Xanh Lr-xira, Liên bang Xanh Kít và
+N&-vi, Xanh Vin. xen và Grrệna din, Xu (barar, Tri-ni-đát và Tô-ba gô, Cưu-
+goay, Vê- mê-xurế- căng như lãnh thể hải ngoại trên Khu vực 2 của Hà Lan,
+các dải thuộc nghiệp vụ Nghiệp dư sử dụng băng tần 5351,5-5366,5 KH
+không vượt quả công suất bức xạ cực đại 25 W (e.1. p). (WBC-15)
+5.228AA Việc sử dụng các băng tần 161,9375-161,9625 MHa và
+161,9875-162,0125 MHb bỏi nghiệp vụ Đi động hàng bải qua vệ tỉnh (chiếu từ:
+Trái đất tới Vũ trụ) được giới hạn cho các hệ thống hoạt động phù hợp với Phụ
+lục 18. (WRC-15)
+5.265 Tại băng tần 403-410 MHa. áp dụng Nghị quyết 205 (ReV. VRC-
+15). (W/RC-15)
+39
+5.296A Ở Mai- Xô- L- mông, Tu-va- - - và Va Tu- tu, bằng
+tần 470-698 MHa hoặc một phần của băng tần này được xác định sử dụng bời
+các cơ quan quản lý muôn triển khai hệ thống thông tin di động IMT- xem Nghị
+Quyết 224 (Rev. VRC-15). Việc xác định này không hạn chế việc sử dụng băng
+tần cho các hệ thống thuộc các nghiệp vụ đã được phản chia và không đặt ra quyền
+cau tiên trong Thể lệ vô tuyến điện Phân chỉa cho nghiệp vụ Di động trong băng
+tần này không được sử dụng cho MT nếu không tuân thủ thỏa thuận tại Khoản
+9.21 và không được gây nhiễu có hại hoặc bảo vệ nhiễu từ nghiệp vụ Quảng bá của
+nước láng giềng. Áp dụng khoản 5.43 và 5.43A.(WRC-15).
+5.328AA Băng tấn 1087,7-1092,3 MHa còn được phân chủa cho nghiệp
+vụ Di động hàng không qua vệ tính (chiều từ Trái đất tới Vũ trụ) là nghiệp vụ
+chính, giới hạn để triển khai hệ thống thu tin hiệu từ đài không gian của hệ
+thống phát quảng bá tín hiệu giám sát độc lập và tự động (ADS-B) từ tàn bay
+hoạt động theo tiêu chuẩn được công nhận bời tổ chức hàng không quốc tế.
+Các dài hoạt động trong nghiệp vụ Đí động hàng không qua vệ tỉnh (R) không
+được yêu cầu bảo vệ từ các đải hoạt động trong nghiệp vụ Dân đường hàng
+không. Áp dụng Nghị quyết 425 (Rev.WRC-15). (WRC-15).
+5341C Các băng tần 1427-1452 MHa và 1492-1518 MHa được xác định
+cho cơ quan quản lý ở Khu vực 3 muốn triển khai hệ thống thông tân đi động IMT
+theo Nghị quyết số 223 (Rev. VRC-15). Việc sử dụng các băng tần 1429.1452.
+MHa và 1492-1518 MH bời cơ quan quản lý nêu trên để triển khai hệ thống
+MT túy thuộc vào thỏa thuận nhận được theo khoản 9.21 với các nước sử dụng
+các đài thuộc nghiệp vụ Đi động hàng không. Việc xác định này không không
+hạn chế việc sử dụng băng tần cho các hệ thống thuộc các nghiệp vụ đã được.
+phân chia và không đặt ra quyền ưu tiên trong Thể lệ vô tuyển diện. (V/B-18)
+5.346A Băng tần 1452-1492 MHr được xác định cho cơ quan quản lý ở
+khu vực 3 muôn triển khai hệ thống thông tin đi động DT phù hợp với Nghị
+quyết 223 (Rev. WRC-15) và Nghị quyết 761 (Kev 3VC-15). Việc sử dụng
+các băng tần này bời các cơ quan quản lý ở khu vực 3 để triển khai hệ thông
+thông tin đi động IMT tủy thuộc vào thóa thuận nhận được theo khoản 9.21
+với các nước sử dụng các đài thuộc nghiệp vụ Dí động bảng không. Việc xác
+định này không lạn chế việc sử dụng bảng tần cho các hệ thống thuộc các
+nghiệp vụ đã được phân chỉa và không đặt ra quyền ưu tiên trong Thể lệ vó tuyển
+điện. (WRC-15)
+5.4298 Phân chía bổ sung: ở Papua Nin Ghi- nê, băng tần 3300-3400.
+MH2 được phân chỉa cho nghiệp vụ Di động, trừ Đi động hàng không, làm.
+40
+nghiệp vụ chính. Các đài thuộc nghiệp vụ Dí động đang hoạt động trong bàng
+tần 3300-3400 MHu không được gây nhiễu có hại, hoặc yêu cầu được bảo vệ
+từ, các đải đang hoạt động thuộc nghiệp vụ Vô tuyến định vị. (WRC-15)
+5.4291 ở các nước san thuộc khu vực 3: Cam-pt-chia, Ân Độ, Lào, Pa-
+kixxan, Phi lịp pin và Việt Nam, việc sử dụng băng tần 3300-3400 MHa được.
+xác định cho triển khai IMT. Việc sử dụng như vậy phải tuân theo Nghị quyết
+223 (Rev. WBC-15). Việc sử dụng băng tần 3300-3400 MHa bội các đài MTT
+thộc nghiệp vụ Di động không được gây nhiễu có hại cho, hoặc yêu cầu được.
+bảo vệ từ, các hệ thống thuộc nghiệp vụ Vô tuyến định vị. Trước khi một cơ.
+quan quản lý muôn đưa một đài trạm gốc hoặc đát đi động của hệ thống MT
+vào sử dụng trong băng tần này, phải tìm cách thóa thuận theo khoản 9.21 với
+các nước lêng giềng để bảo vệ nghiệp vụ Vô tuyến định vị. Việc xác định này.
+không hạn chế việc sử dụng băng tần này bội bất kỷ ứng dụng nào của các
+nghiệp vụ má chúng được phân chỉa và không đặt ra quyền ưu tiên trong Thể
+lệ vô tuyến điện. (W/RC-15)
+5.436 Việc sử dụng băng tần 4200-4400 MHa bời các đài thuộc nghiệp.
+vự Di động hàng không (8) được đánh riêng cho các hệ thống thông tin vố
+tuyến nội bộ hàng không đang khai thác phù hợp với các tiêu chuẩn hàng
+không quốc tế đã được công nhận. Việc sử dụng này phải phù hợp với Nghị
+quyết 424 (ReV.WRC-15). (WRC-15)
+5.437 Cảm biến thụ động trong các nghiệp vụ Nghiên cứu Vũ trụ và
+Thăm đó Trái đất qua vệ tỉnh có thể được phép hoạt động trong trong băng tần.
+4200-4400 MH2 là nghiệp vụ phụ. (WRC-15)
+5.41A Ở U-rnoay, băng tần 4800-4900 MHa, hoặc một phần của.
+băng tân này được xác định cho triển khai thông tin di động IMT. Việc xác
+định không hạn chế việc sử dụng băng tần này cho bắt kỳ ứng dụng nào của
+các nghiệp vụ đã được phân chỉa và không đật ra quyền tra tiên trong Thể lệ vở
+tuyển diện. Việc sử dụng băng tần này cho triển khai hệ thống MT tuân theo.
+thỏa thuận đạt được với các nước làng giềng và hệ thống 1MT sẽ không được.
+kháng nghị nhiễu có hại từ các đài khác thuộc nghiệp vụ Đi động. Việc sử
+dụng này phải phù hợp với Nghị quyết 223 (Rev. WRC-15). (WRC 15)
+5.441B S Cam-pt chia, Lào và Việt Nam, băng tần 4800-4990 MHa,
+hoặc một số phần của các băng tân này được xác định sử dụng cho cơ quan
+quản lý mong muôn triển khai TMT. Việc xác định này không hạn chế việc sử
+dụng băng tàn trên cho bất kệ ứng dụng nào của nghiệp vụ khác được phân chia
+và không đặt ra quyền ưo tiên trong Thể lệ vô tuyển điện. Việc sử dụng băng tần
+41
+này cho triển khai MT cần có sự đồng thuận của các cơ quan quản lý liên quan
+phù hợp với Khoản 9.21 và đải MT không được bảo vệ từ các đải của các ứng
+dựng khác thuộc nghiệp vụ Di động. Thêm vào đó, trước khi một cơ quan quản
+lý đưa hệ thống MT vào sử dụng trong nghiệp vụ Dí động cần đảm bảo phân
+bố mật độ công suất tạo bội các đài MT này không vượt quá +155 48 (W/m2
+... MHa) tại độ cao 19 km so với mặt nước biến và 20 km từ bở biến tỉnh từ.
+điểm thủy triểu thấp nhất được ghi nhận chính thức của các quốc gia ven biển.
+Điều kiện này cần đã được xem lợi tại WRC-19. xem Nghị quyết 223 (Rev.
+WRC-15). Việc xác định này sẽ có hiệu lực sau WRC-19. (WRC-15).
+5.460A Việc sử dụng băng tần 7190-7250 MHa (Trái đất tới Vũ trạ) cho
+nghiệp vụ Thăm đó Trái Đất qua vệ tỉnh được giới hạn sử dụng cho hoạt động
+giám sát, đo xa và điều khiển vệ tỉnh. Hoạt động của đài không gian trong
+nghiệp vụ Thăm dò Trái Đất qua vệ tỉnh trong băng tần 7190-7250 MHĐ
+không được khiếu nại cao nhiễu có hại từ các đải đang hoạt động hoặc sẽ triển
+khai thuộc nghiệp vụ Cố định và Di động, Áp dụng Khoản 9.17, không áp
+dụng Chủ thích 5.43A. Thêm vào đó, để đảm bảo bảo vệ cho việc triển khai
+hiện tại và trong tương lai của nghiệp vụ Cố định và Dí động, vị trí của đài mặt
+đất của vệ tính hỗ trợ trong nghiệp vụ Thăm dò Trái Đất qua vệ tỉnh quỹ đạo
+phí đia tĩnh hoặc quỹ đạo địa tỉnh cần duy trì khoảng cách tối thiểu tương ứng
+là 10 km và 50 km từ đường biên giới của nước láng giềng, trường hợp khác
+cần có sự đồng thuận của các cơ quan quản lý liên quan. (WRC-15).
+5.460B Các đài không gian trên quỹ đạo vệ tỉnh địa tỉnh thuộc nghiệp vụ.
+Thăm đó Trái đất qua vệ tính (chiều từ Trái đất tới Vũ trụ) hoạt động trong
+băng tần 7190-7235 MHa không được bảo vệ nhiễu có hại từ và các đại hiện
+có và sẽ triển khai thuộc nghiệp vụ Nghiên cứu Vũ trụ. Chú thích 5.43A không
+được áp dụng. (WRC-15)
+5.461A Việc sử dụng băng tần 7375-7750 MHa bởi nghiệp vụ Di động
+hàng hải quả vệ tỉnh được giới hạn cho mạng vệ tỉnh địa tỉnh. (WRC-15)
+5461B Trong băng tần 7375-7750 MHa, đài mặt đất thuộc nghiệp vụ
+Di động hàng hải qua vệ tính không được kháng nghị nhiễu có hại cũng như:
+làm hạn chế việc sử dụng và phát triển của đài thuộc nghiệp vụ Cổ định và Di
+động, trừ Đi động hàng không. Khoản 5.43A không được áp dụng. (WRC-15).
+5.47AA Việc sử dụng các băng tần 9200-9300 MHa và 9900-10400 MH2
+bời nghiệp vụ Thăm đó Trái Đất qua vệ tỉnh (chủ động) được giới hạn cho các
+hệ thống yêu cầu băng thông cần thiết lớn hơn 600ML4 mà các hệ thống thuộc
+nghiệp vụ Thăm dò Trái đất qua vệ tỉnh không được cung cấp đủ trong băng
+42
+tần 9300.9900 Mik. Việc sử dụng phải phù hợp với thỏa thuận nhận được theo.
+Khoản 9.21 từ các nước An-giê ai, A nập Xe-tt, Ba ranh, Ai Cập, In-đoo-ri-xi-
+tra, L- Tran, Là băng và Tuyani đi. Cơ quan quản lý nào không phân hồi then.
+Khoản 9.52 được xem như là không đồng y với yêu cầu phối hợp. Trong
+trường hợp này, cơ quan quản lý hệ thống vệ tỉnh đang hoạt động trong
+nghiệp vụ Thăm đó Trái Đất qua vệ tính (chủ động) có thể yêu cầu sự hỗ trợ.
+từ Cục vô tuyến theo phần IID của Điều 9. (WRC-15)
+5474R Các dài đang hoạt động trong nghiệp vụ Thăm dò Trái Đất qua vệ
+tỉnh (chủ động) cần tuân theo Khuyến nghị TTU-R RS.2066-0. (VBC-15).
+5.474C Các đài đang hoạt động trong nghiệp vụ Thăm dò Trái Đất qua
+vệ tính (chủ động) cần tuân theo Khuyến nghị THOR RS2065-0. (WHC-15).
+5.474D Các đài thuộc nghiệp vụ Thăm dò Trái Đất qua vệ tỉnh (chủ.
+động) không được gây can nhiễu có hại cho hoặc kháng nghị nhiễu có hại từ.
+các đải thuộc nghiệp vụ Vô tuyến dẫn đường hàng bải và Vô tuyển định vị trên:
+Đăng tần 9200.9300 MHa, nghiệp vụ Vô tuyến dẫn đường hàng hái và Vệi
+tuyển định vị trên băng tần 9 900-10000 MHa và nghiệp vụ Vô tuyến định vị
+trên băng tần 10-10,4 GHa. (WRC-15)
+5.484B Áp dụng Nghị quyết 155 (VRC-15). (WRC-15).
+5.499C Nghiệp vụ Nghiên cứu Vũ trụ được phân chảa làm nghiệp vụ.
+chính trên băng tần 13,4 - 13,65 MHa và được giới hạn cho:
+- Hệ thống vệ tỉnh thuộc nghiệp vụ Nghiên cứu Vũ trụ (chiếu từ Vũ tạy
+tới Vũ trụ) truyền dữ liện tiếp sức từ đài không gian trong quỹ đạo địa tỉnh tới
+đài không gian liên kết trong quỹ đạo phí địa tỉnh có thông tin công bố đã được.
+Cục vô tuyển của TTU-R ghi nhận trước ngày 27/11/2015.
+- Cảm biến vận tải không gian chủ động.
+- Hệ thống vệ tình hoạt động trong nghiệp vụ Nghiên cứu Vũ trụ (chiều
+từ Vũ trụ tới Trái đất) cho truyền dữ liệu tiếp sức tử đài không gian trong quỹ.
+đạo địa tỉnh với đài trái đất liên kết.
+Các sử dụng khác trên băng tần này bời nghiệp vụ Nghiên cứu Vũ trụ đều
+là nghiệp vụ phụ. (WRC-15)
+S.499D Trong băng tấn 13,4 - 13,65 GHa, hệ thống vệ tinh thuộc nghiệp
+vụ Nghiên cứu Vũ trụ (chiều từ Vũ trụ tới Trái đất) và hoặc nghiệp vụ Nghiên
+cứu Về trụ (chiếu từ Vũ trụ tới Vũ trụ) không được gây nhiễu hoặc kháng nghị
+bảo vệ nhiễu từ các đài thuộc nghiệp vụ Cố định, Đí động, Vũ tuyển định vị và
+Thăm dò Trái đất qua vệ tinh (chủ động).
+43
+5.509B Việc sử dụng băng tần 14,5-14,75 GHa ở các nước được liệt kê
+trong Nghị quyết 163 (WBC-15) và băng tần 14,5-148 CHu ở các nước được.
+liệt kê trong Nghị quyết 164 (VBC-15) cho nghiệp vụ Cố định qua vệ tỉnh
+(chiều từ Trái đất tới Và trụ được giới hạn cho các đường tiếp sóng của
+nghiệp vụ Quảng bá qua vệ tỉnh. (WRC-15)
+5.509C Việc sử dụng băng tần 14,5-14,75 GHa ở các nước được liệt kê
+trong Nghị quyết 163 (WRC-15) và băng tần 14,5-14,8 CHa ở các nước được
+liệt kê trong Nghị quyết 164 (WRC--5) cho nghiệp vụ Cổ định qua vệ tỉnh
+(chiều từ Trái đất tới Vũ trụ) được giới bạn cho các đường tiếp sóng của
+nghiệp vụ Quảng bá qua vệ tỉnh, các đài trái đất thuộc nghiệp vụ Cố định qua
+vệ tính phải có đường kinh ăng ten tối thiểu 6 m và mật độ phố công suất tối
+đa 44,5 dBW/Ha tại đầu vào của ăng ten. Các đài trái đất phải được khai báo
+ở các địa điểm đã biết trên mặt đất. (WRC-15)
+5.509D Trước khi một cơ quan quản lý đưa một trạm mặt đất thuộc
+nghiệp vụ Cổ định qua vệ tỉnh (chiều từ Trái đất tới Và trụ) không phải chơ
+các đường tiếp sóng của nghiệp vụ Quảng bá qua vệ tỉnh vào hoạt động trên.
+băng tần 14,5-14,75 GHa (đối với các nước được liệt kê trong Nghị quyết 163.
+(WBC-15) và băng tần 14,5-14,8 GHa (đối với các nước được liệt kê trong
+Nghị quyết 164 (WRC-15), phải đảm bảo rắng mật độ thông lượng công suất
+do đài trái đất này tạo ra không vượt quá 151,54BW/(m2.4kHa) tại tắt cả các
+cao độ từ 0 m đến 1900 m so với mực nước biển tại khoảng cách 22 km tỉnh
+từ toàn bờ biển, tính từ điểm thủy triều thấp nhất đã được công nhận chính
+thức của các nước ven biển (WRC-15)
+5.509R Đối với băng tần 14,5-14,75 GHờ ở các nước được liệt kê trong
+Nghị quyết 163 (MRC-15) và băng tần 14,5-14,8 CHư ở các nước được liệt kê
+trong Nghị quyết 164 (WRC-15), vị trí của các đải trái đất thuộc nghiệp vụ Cố
+định qua vệ tính (chiều từ Trái đất tới Vũ trụ) không phải các đường tiếp sóng
+thuộc nghiệp vụ Quảng bá qua vệ tinh phải cách tí nhất là 500 km từ biên giới
+của các nước láng giềng trừ khi những khoảng cách ngắn hơn được đồng ý bởi
+các nước này. Khoản 9.17 không áp dụng. Khi áp dụng điều khoản này, các cơ
+quan quản lý nên cân nhắc đến các phần có liên quan của Thể lệ vô tuyển điện.
+và các Khuyến nghị mới nhất của ITU-R có liên quan. (WRC-15).
+5.509P: Đối với băng tần 14,5-14,75 GHa ở các nước được liệt kê trong
+Nghị quyết 163 (NRC-15) và bảng tần 14,5-14,8 GHa ở các nước được liệt kê
+trong Nghị quyết 164 (WBC-15), các dài trái đất thuộc nghiệp vụ Cổ định qua
+vệ tỉnh (chiều từ Trái đất tới Vũ trạ) không phải các đường tiếp súng thuộc
+44
+nghiệp vụ Quảng bá qua vệ tính không được hạn chế việc triển khai trong
+tương lai của các nghiệp vụ Cổ định và Di động. (WRC-15).
+5.509G Băng tần 14,5-14,8 GHa cũng được phân chỉa cho nghiệp vụ
+Nghiên cứu Vũ trụ làm nghiệp vụ chính. Tuy nhiên, việc sử dụng này được.
+giới hạn cho các hệ thống vệ tỉnh đang hoạt động thuộc nghiệp vụ Nghiên cứu:
+Vũ trụ (chiếu từ Trái đất tới Vũ trụ) để chuyển tiếp dữ liệu đến các đải không
+gian trong quỹ đạo địa tỉnh từ các đải mặt đất liên kết. Các đải thuộc nghiệp vụ.
+Nghiên cứu Vũ trụ không được gây nhiễu có hại cho, hoặc yêu cầu bảo vệ từ,
+các đải thuộc nghiệp vụ Cổ định, nghiệp vụ Di động, nghiệp vụ Cổ định qua vệ
+tỉnh được giới hạn cho các đường tiếp sóng của nghiệp vụ Quảng bá qua vệ
+tỉnh và các chức năng khai thác vũ trụ sử dụng các khoảng bảo vệ theo Phụ lục
+30A và các đường tiếp sông thuộc nghiệp vụ Quảng bá qua vệ tỉnh trong Khu
+vực 2. Các sử dụng khác trong băng tần này của nghiệp vụ Nghiên cứu không
+gian là nghiệp vụ phụ. (WC-15)
+5.527A Hoạt động của các đài trái đất truyền dẫn lưu động của nghiệp vụ
+Cố định qua vệ tỉnh tuân theo Nghị quyết 156 (Rev, WRC-15). (WBC-15)
+5.589B Việc sử dụng băng tần 77.5-78 GH bời nghiệp vụ Vô tuyến định
+vị được giới hạn cho Ra-đa cự ly ngắn sử dụng trong các ứng dụng trên mặt.
+đất, bao gồm cả Ra-đa ô tộ. Các đặc tỉnh kỹ thuật của các loại ra-đa này được
+cung cấp trong phiên bản mới nhất của Khuyến nghị HTU R M.2057. Các quy.
+định của khoản 4.10 không được áp dụng. (WRC-15)
+c) Bãi bỏ các chủ thích 5.166, 5.222, 5.223, 5.224A, 5.224B, 5.232,
+5.260,5.362B, 5.362C. 5.417A, 5417B, 5417C, 5.4372, 5.456, 5.458,
+5.511D, 5.530C.
+THỦ TƯỚNG
+Nguyễn Xuân Phúc

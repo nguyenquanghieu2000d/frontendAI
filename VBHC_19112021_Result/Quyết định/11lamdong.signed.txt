@@ -1,0 +1,230 @@
+Ký bở: Cổng Thông tin điện tử Chính phủ
+To luan Vố: 9.029019/13.8730 +0700
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH LÂM ĐỒNG   Độc lập - Tự do - Hạnh phúc
+Số:11615/QĐ-UBND   Đà Lạt, ngày 06 tháng 02 năm 2015
+QUYẾT ĐỊNH
+Ban hành Quy định về tên miền, địa chỉ IP
+CÔNG THONG TM ĐIỆN Tử CHÍNH PHủ   trên Hệ thống mạng thông tin tỉnh Lâm Đồng
+ỦY BAN NHÂN DÂN TỈNH LÂM ĐỒNG
+. Căn cứ Luật Tổ chức Hội đồng nhân dân và Ủy ban nhân dân ngày 26 tháng
+11 năm 2003;
+Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005;
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính
+phủ ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước;
+Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 của Chính
+phủ quy định về việc cung cấp thông tin và dịch vụ công trực nuyến trên trang thông
+tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước;
+Căn cứ Thông tư số 09/2008/TT-BTTTT ngày 24 tháng 12 năm 2008 của Bộ
+Thông tin và Truyền thông về việc hướng dẫn về quản lý và sử dụng tài nguyên
+Internet;
+Xét đề nghị của Giám đốc Sở Thông tin và Truyền thông,
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy định về tên miền, địa chi PP
+trên Hệ thống mạng thông tin tỉnh Lâm Đồng.
+Điều 2. Quyết định này có hiệu lực sau 10 ngày, kể từ ngày ký và thay thể
+Quyết định số 63/2012/QĐ-UB ngày 20 tháng 12 năm 2012 của Ủy ban nhân dân tỉnh.
+Lâm Đồng
+Điều 3. Chánh Văn phòng Ủy ban nhân dân tỉnh; Giám đốc Sở Thông tin và
+Truyền thông; Thủ trưởng các sở, ban, ngành, đoàn thể; Chủ tịch Ủy ban nhân dân.
+các huyện, thành phố chịu trách nhiệm thì hành Quyết định này./.
+Nơi nhận:   TM. ỦY BAN NHÂN DÂN
+- Văn phòng Chính phủ;   CHỦ TỊCH
+- Bộ Thông tin và Truyền thông;
+- Cục Kiểm tra văn bản - Bộ Tư pháp;
+- Website Chính phủ;
+- TTTU, TT HĐND tỉnh;
+- CT, các PCT UBND tỉnh;
+- Đoàn đại biểu QH đơn vị tỉnh LĐ;
+- Như điều 3;
+- Sở Tư pháp;
+- Trung tâm Công báo tỉnh;
+- Đài PT-TH và Báo Lâm Đồng;   Đoàn Văn Việt
+- Lưu: VT, VX1.
+ỦY BAN NHÂN DÂN CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH LÂM ĐỒNG   Độc lập - Tự do - Hạnh phúc
+QUY ĐỊNH
+và tên miền, địa chỉ TP trên Hệ thống mạng thông tin tỉnh Lâm Đồng
+(Ban hành kèm theo Quyết định số4 /2015/QĐ-UBND ngày 96 tháng 02 năm 2015
+của Uỷ ban nhân dân tỉnh Lâm Đỗng)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng
+1. Quy định này quy định việc quản lý, sử dụng tên miền, địa chỉ IP trên
+Hệ thống mạng thông tin tỉnh Lâm Đồng để đảm bảo sự đồng bộ, an toàn và an.
+ninh mạng trong qua trình khai thác, ứng dụng công nghệ thông tin vào quản lý,
+điều hành và các giao dịch điện tử theo quy định của pháp luật.
+2. Quy định này áp dụng đối với các cơ quan chuyên môn thuộc Ủy ban
+nhân dân tỉnh, Ủy ban nhân dân các huyện, thành phố và đoàn thể, tổ chức xã hội
+trên địa bàn tỉnh Lâm Đồng (sau đây gọi tắt là các cơ quan, đơn vị) có máy tính.
+và mạng máy tính tham gia kết nối vào Hệ thống mạng thông tin của tỉnh Lâm
+Đồng,
+Điều 2. Giải thích thuật ngữ
+Các thuật ngữ trong quy định này được hiểu như sau:
+1. Tên miền (Dơrsan Name): Lê tên được sử dụng để định danh địa chỉ.
+Internet của máy chủ gồm các đây ký tự cách nhau bằng đấu chấm.
+2. Địa chỉ IP (hternet): Là địa chỉ mạng của các thiết bị, máy
+tỉnh, máy chủ bao gồm các thế hệ địa chỉ PPva, IPvó và các thể hệ địa chỉ mới sẽ
+được sử dụng trong tương lai.
+Điều 3. Các hành vi nghiêm cấm
+1. Sử dụng tên miền và địa chỉ IP sai mục đích, trái với quy định này và
+các quy định khác của pháp luật.
+2. Cấp phát cho các đơn vị hoặc tổ chức khác không thuộc phạm vi và đổi.
+tượng áp dụng của quy định này.
+3. Tự ý thay đổi tên miền và địa chi PP của cơ quan, đơn vị dưới mọi hình
+thức.
+Điều 4. Quản lý nhà nước về tên miền, địa chỉ IP trên Hệ thống mạng
+thông tin của tỉnh Lâm Đồng
+Ủy ban nhân dân tỉnh Lâm Đồng thống nhất quản lý tên miền, địa chỉ IP
+trên Hệ thống mạng thông tin tỉnh Lâm Đồng theo quy định của pháp luật, giao
+Sở Thông tin và Truyền thông quản lý các hoạt động liên quan đến tên miền, địa
+chi PP trên Hệ thống mạng thông tin tỉnh Lâm Đồng.
+Chương II
+TÊN MIỀN, ĐỊA CHỈ TP TRÊN HỆ THỐNG MẠNG
+THÔNG TIN TỈNH LÂM ĐỒNG
+Điều 5. Tên miền trong Hệ thống mạng thông tin tỉnh Lâm Đồng
+1. Tên miền của Ủy ban nhân dân tỉnh Lâm Đồng trên mạng Internet là tên
+miền cấp 3 có dạng: lamdong.gov.vn.
+2. Tên miền của Ủy ban nhân dân tỉnh Lâm Đồng trong mạng khtrapet là
+tên miền cấp 3 có dạng: lamdong. gov.vn.
+3. Tên miền của các cơ quan, đơn vị trên mạng Internet và mạng Intanet
+sử dụng tên miền cấp 4 theo dạng: tendmvllamdng.gov.vn và
+tendomvitamdong. dov.vn; trong đó terdonvi là tên viết tắt của cơ quan, đơn vị
+được viết từ các chữ cái đầu tiên của tên đơn vị và viết bằng tiếng Việt không
+đấu, riêng Ủy ban nhân dân các huyện, thành phố sử dụng tên đầy đủ bằng tiếng
+Việt không đầu. Chi tiết tên miền của các cơ quan đơn vị được cấp phát cụ thể tại
+Phụ lục kèm theo quy định này.
+Điều 6. Địa chỉ TP trong Hệ thống mạng thông tin tỉnh Lâm Đồng
+1. Vùng địa chỉ IP trong Hệ thống mạng thông tin tỉnh Lâm Đồng thực
+hiện theo quy định của Chính phủ là: 10.224.XXXXXX.
+2. Vùng địa chỉ IP của các cơ quan, đơn vị trên địa bàn tỉnh Lâm Đồng
+được phân bổ cụ thể trong phụ lục kèm theo quy định này.
+3. Quy định chi tiết sử dụng địa chỉ IP của từng cơ quan, đơn vị.
+a) Địa chỉ IP của cơ quan, đơn vị để kết nối tới Trung tâm mạng thông tin
+của tỉnh: 10.224xxx.1.
+b) Vùng địa chỉ IP cho các thiết bị mạng và máy tính từ: 10.224.xxx.2 đến
+10.224.xxx.254.
+c) Đối với các ứng dụng công nghệ thông tin theo ngành dọc được sử dụng.
+IP theo mô hình ngành nhưng các đơn phải xây dựng giải pháp gửi Sở Thông tin
+và Truyền thông thẩm định và hỗ trợ để kết nối, đồng bộ với hệ thống IP của tỉnh.
+4. Khi chuyển địng địa IPv4 sang địa chí IPv6 sẽ thực hiện theo quy.
+định định của pháp luật
+Chương III
+QUẢN LÝ, CẤP PHÁT, SỬ DỤNG TÊN MIỀN, ĐỊA CHỈ PP
+TRÊN HỘNG MẠNG THÔNG TIN TỈNH LÂM ĐỒNG
+Điều 7. Trách nhiệm của Sở Thông tin và Truyền thông
+1. Quản lý, sự dụng tên miền, địa chỉ IP trên Hệ thống mạng thông tin của
+tỉnh Lâm Đồng theo đúng các quy định của nhà nước.
+2
+2. Đăng ký và duy trì tên miền trên mạng Internet của Ủy ban nhân dân
+tỉnh Lâm Đồng.
+3. Thực hiện cấp phát, thu hồi, duy trì và thực hiện việc xử lý các hành vi
+vi phạm trong việc sử dụng tên miền, địa chỉ IP trong Hệ thống mạng thông tin.
+tỉnh Lâm Đồng cho các cơ quan, đơn vị. Hướng dẫn các cơ quan, đơn vị sử dụng
+tên miền, địa chỉ IP đúng theo quy định.
+4. Giải quyết các tranh chấp về tên miền và vùng địa chỉ IP cho các cơ
+quan, đơn vị trong Hệ thống mạng thông tin tỉnh Lâm Đồng.
+Điều 8. Trách nhiệm của các cơ quan, đơn vị
+1. Quản lý, sử dụng tên miền, địa chỉ IP của cơ quan, đơn vị mình phục vạ
+việc cấp, khai thác và xử lý thông tin trong Hệ thống mạng thông tin của tỉnh.
+Lâm Đông theo đúng quy định này và các quy định pháp luật khác có liên quan.
+2. Khi đăng ký hoặc không có nhu cầu sử dụng tên miễn, địa chỉ PP, các cơ
+quan, đơn vị phải thông báo bằng văn bản gửi Sở Thông tin và Truyền thông để
+quản lý, cấp phát hoặc thu hồi theo quy định.
+Chương IV
+ĐIỀU KHOẢN THI HÀNH
+Điều 9. Khen thưởng, xử lý vi phạm
+Các cơ quan, đơn vị và cá nhân có thành tích trong việc quản lý, sử dụng
+tên miền, địa chí IP trên Hệ thống mạng thông tia tỉnh Lâm Đồng sẽ được xem.
+xét khen thưởng theo quy định hiện hành. Các hành vi vi phạm túy theo tính chất,
+mức độ vì phạm sẽ bị xử lý theo quy định của pháp luật.
+Điều 10. Tổ chức thực hiện
+Giao Sở Thông tin và Truyền thông chủ trì, phối hợp với các cơ quan, đơn.
+vị liên quan hưởng dẫn, đôn đốc, giám sát, kiểm tra việc thực hiện Quy định này.
+Trong quá trình thực hiện nếu có những vấn đề vướng mắc phát sinh mới, kịp
+thời phản ánh về Sở Thông tin và Truyền thông để tổng hợp, báo cáo Ủy ban
+nhân dân tỉnh xem xét, quyết định./.
+TM. ỦY BAN NHÂN DÂN
+CHỦ TỊCH
+Đoàn Văn Việt
+3
+Phụ lực
+TÊN QUNN, ĐẠA CHI TI TRHH THỊ THỐNG NANG THÔNG TINTNH LÂN DÔN
+STT   Địa chỉ IP   Tên nuền Intranct   Tên miền trên mạng
+Internet
+I.
+1   đồng nhân hành   10.224.4.0/24 đến 10.224.5.0/2   dbnd lamdong. cgov. Vn   dbnd lamdong.gov.vn
+2   Văn phòng Uy ban nhân dân tỉnh   10.224.1.0/24 đến 10.224.3.0/24   vpubndlamdong. cgov.vn   vpubndllamdong.gov.vn
+3   Ban Dân tộc   10.224.16.0/24   bdt.lamdong. cgov.vn   bdt.lamdong.gov.vn
+4   Sở Nội vụ   10.221.17.0/24 đếu 10.224.18.0/24   snv.lanudong. cgov.vn   Snv lamdong gov.vn
+5   Đài Phát thanh và Truyền hình Lâm Đồng   10.224.190/244   ptth lamdong. ngov.vn   ptth larndong gov.vn
+6   Sở Thông tin và Truyền thông   10.224.20.0/24   sttttaindong. egov.vn   stut.lamdong.gov.vn
+7   Sở Công Thương   10.224.21.0/24   sct lamdong. cgov.vn   sct.lamdong.gov.vn
+8   Sở Tài nguyên và Môi trường   10.224.22.0/24 và 10.224.46.0/24   stnomt.lamdong.cgov.vn   stnontlamdong.gov.vn
+9   Sở Giao thông vận tải   7 10.224.23.0/24      sgtvt.lamdong.gov.vn
+10   Sở Giáo dục và Đào tạo   10.224,24.0/24 đến 10.224.27.0/24   ggddllamdong.cgov.vn   gddt.lamdong.gov.vn
+11   Sở Kế hoạch và Đầu tư   10.224.28.0/24   gkhdt.larmong cgov,vn   skhdt.lamdong.gov.vn
+12   Sở Khoa học và Công nghệ   10.224.29.0/24      kkacn.lamdong gov.vn
+13   Sở Lao động - Thương thii và Xã hội   10.224.30.0/24   sldtbxh.larndong.cgov.vn   sldtoxh lamdong.gov.vn
+14   Sở Y tế   10.224.31.0/24 đến 10.224.32.0/24   snnptntlamdong.egov.vn   snnptnt.lamdong.gov.vn
+15   Sở Tài chính   10.224.33.0/24   stc lamdong. cgov. vni   stc.laudong.gov.vn
+16   Sở Ngoại Vụ   10.224.34.0/24   sngv lamdong cgov.vn   sngv.lamdong.gov.vn
+17   Vườn quốc gia Cát Tiên   10.224.35.0/24   vagctlamdong.egov.vn   vạgctamdng.gov.vn
+18   Sở Tư pháp   10.224.36.0/24   stp.laudong.egov.vn   stp lamdong -gov.vn
+19   Sở Văn hoá, Thế thao và Du lịch   10.224.37.0/24   pvardllamdong.egov.vn   svhttdl.lamdong.gov.vn
+20   Sở Xây dựng   10.224.38.0/24   sxd.lamdong. cgov.vn   sxd.lamdong.gov.vn
+21   Sở Nông nghiệp và Phát triển nông thôn   10.224.39.0/21 đến 10.224.41.0/24
+22   Thanh tra tỉnh   10.224.42.0/24   tulamdong.egov.vn   thamoong.gov.vn
+23   Ban Quản lý các khu Công nghiệp   10.224.43.0/24   bạlkcn.lamdong. gov.vn   lbạlcn.lamdong-gov.vn
+24   Ban Quản lý Khu du lịch Hồ Tuyên Lâm   10.224.44.0/24   baldlhtllamdong.cgov.vn   bạidlhtllamdong.gov.vn
+25   văn hóa thể thao Lâm Đồng   Ban Quản lý Dự án đầu tư xây dựng Khu   10.224.45.0/24   bqkdavlitulamdong.egov.vn   bqldavhtt.lamdong. gov. vn
+26   Trung tâm Xúc tiền Đầu tư Thương mại   và Du lịch   10.224.47.0/24   tIxtdttmdllamdong. cgov. vn   ttxtdttmdllamdong.goV.vn
+27   Vườn Quốc gia BDDou-Núi Bà   10.224.48.0/24   vogidnbdlamdong.cgov.vn   vugbdnblamdong.gov.vn
+28   Quỹ Đầu tư và Phát triển   10.224.49.0/24   qdtptlamdong. cgov.vn   qdtptlamdong.gov.vn
+TI. CAC CƠ QUAN NGANH ĐỌC THỌỘC TRUNG ƯƠNG ĐÔNG TRÊN HĨA BÀN TỈNH   II. C
+29   Công an tỉnh Lâm Đồng   110.224.50.0/24 đến 10.224.52.0/24      calamdong.gov.vn
+30   Cục Thống kê tỉnh Lâm Đồng   10.224.53.0/24   ctk lamdong. cgov.vn   ctk.lamdong.gov.vn
+31   Bộ chỉ huy quân sự tỉnh Lâm Đồng   10.224.54.0/24   bchos-lamdong. gov.vni   bchgs lamdong gov.vn
+32   Ngân hàng Nhà nước tỉnh Lâm Đồng   10.224.55.0/24   nhooolamdong.cgov.vn   nhun lamdong. gơv.vn
+33   Bảo hiểm xã hội Lâm Đồng   10.224.56.0/24   bhxh.lamdong. cgov.vn   bhxh:lamdong gov.vn
+34   Viện Kiếm sát tỉnh Lâm Đồng   10.224.57.0/2ã   vksnd.lamdong- cgoV.Vn   vksIdlamdong.gov.vu
+35   Toà án Nhân dân tỉnh Lâm Đồng   10.224.58.0/24   taudlamdong.egov.vn   tand.lamdong.gov.vn
+36   Hải quan Đà Lạt   10.224.59.0/24   cchạlamdong. egov.vn   chạ.lamdong.gov.vn
+37   Kho bạc nhà nước   10.224.60.0/24   koruulanuong. cgov. gooV.Vn   komulandong.gov.vn
+38   Cục Thuế Lâm Đồng   10.224.61.0/24   ct.lamdong- cgov.vn   ctamdong.gov.vn
+III. CÁC ĐOÀN THỂ VÀ TỔ CIỨC XÃ HỘI
+39   Liên hiệp các Hội khoa học và kỹ thuật   10.224.62.0/24   E uhhkhkt llandong. cgov.vn   thhkhkt.llamdong.gov.vn
+40   Uỷ ban MTTQVN tỉnh Lâm Đồng   10.224.63.0/24   ubmtalamdong.egov.vn   ubmttalamdong.gov.vn
+41   Liên đoàn Lao động tỉnh Lâm Đồng   10.224.64.0/24   1dld.lamdong. cgov.vn   1dld.lamdong.gov.vn
+42   Đoàn TNCS Hồ Chí Minh tỉnh Lâm Đồng   10.224.650/24   dtncshcm.lamdong.cgov.vn   dtncshcm.larndong.gov.vn
+43   Hội Nông dân tỉnh Lâm Đồng   10.224.66.0/24   hndlamdong.egov.vn   halamdong.gov.vn
+44   Hội Liên hiệp phụ nữ tỉnh Lâm Đồng   10.224.67.0/24      thhợn lamdong gov.vn
+45   Hội Cựu chiến hình tỉnh Lâm Đồng   10.224.68.0/24   lhecb.lamdong. cgov.vn
+46   Hội Nhà Báo tỉnh Lâm Đồng   10.224.69.0/24   hib.lamdong. cgov vn   hbblamdong.gov.vn
+47   Hội Văn học Nghệ thuật tỉnh Lâm Đồng   10.224.70.0/24      hvhutlamuong.gov.vn
+2
+48   Hội Luật gia tỉnh Lâm Đồng   10.224.71.0/24   hig.laudong. cgov.vn   hig.lamdong.gov.vn
+49   Hội Kiến trúc sư tỉnh Lâm Đồng   10.224.72.0/24   hkts.lamdong.egov.vn   E ktts.lamdong. gov.vn
+50   Hội Chữ thập Đỏ tỉnh Lâm Đồng   10.224.73.0/24
+51   Hội Người mù tỉnh Lâm Đồng   10.224.74.0/24   hmm.lamdong.egov.vn   ham.lamdong.gov.vn
+52   Hội Bảo trợ bệnh nhân nghèo - Người tàn   tật và Trẻ mồ côi tỉnh Lâm Đồng   10.224.75.0/24   hotbnttmc.lamdong.cgov.vn   hbtontrmc.lamdong.gov.vn
+
+53   Hội Nạn nhân chất độc mau da can   10.224.76.0/24   trmcdc handong.gov.vn
+54   Liên minh các hợp tác xã   10.224.77.0/24   Lmhto larmdong. gov.vn   Lnhị tang dong gov.vn
+IV.C   ÁC HUYỆN, THÀNH PHỐ
+55   Thành phố Đà Lạt   10.224.100.0/24 đến 10.224.103.0/24   dalat.lamdong. gov.vn   dalat.lamdong.gov.vn
+56   Thành phố Bào Lộc   10.224.104.0/24 đến 10.224.106.0/24   baoloc.lamdong.egov.vn   baoloc.lamdong.gov.vn
+57   Huyện Bảo Lâm   10.224.107.0/24 đến 10.224.109.0/24   baolam.lamdong egov.vn   baolam lamdong.gov.vn
+58   Huyện Cát Tiên   10.224.110.0n2 đến 10.224.112.0/24   cattien.lamdong. gov.vn   catien.lamdong.gov.vn
+59   Huyện Đạ Huoai   10.224.113.0/24 đến 10.224.115.0/24   dahuoailamdong.egov.vn   dahuoailamdong.gov.vn
+60   Huyện Đạ Tếh   10.224,116.0/24 đến 10.224.118.0/24   l dateh.lamdong. gov.vn   dateh. lamdong.gov.vn
+61   Huyện Đơn Dương   10.224.119.0/24 đến 10.224.121.0/24   donduong.lamdong.egov.vn   donduong lamdong.gov.vn
+62   Huyện Đức Trọng   10.224.122.0/24 đến 10.224.124.0/24   ductrong.lamdong. gov.vn   ductrong lamdong.gov.vn
+63   Huyện Di Linh   10.224.125.0/24 đến 10.224.127.0/24   ditinh lamdong.cgov.vn   đilinh.lamdong.gov.vn
+64   Huyện Lâm Hà   10.224.128.0/24 đến 10224.130.0/24   lamhalamdong. egov.vn   lamhadamdong.gov.vn
+65   Huyện Lạc Dương   10.224.131.0/24 đến 10.224.133.0/24   lacduong lamdong.cgov.vn   lacduong.lamdong.gov,vn
+66   Huyện Đam Rông   10.224.134.0/24 đến 10.224.136.0/24   danưong.lamdong. cgov.vn   lamrong.lamdong.gov.vn
+10.224.6.0/24 đến 10.224.15.0/24
+67   Dự phòng chung toàn tỉnh   10.224.78.0/24 đến 10.224.99.0/24
+10.224.137.0/24 đến 10.224.239.0/24
+3 .

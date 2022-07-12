@@ -1,0 +1,421 @@
+UỶ BAN NHÂN DÂN   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH NINH BÌNH   Độc lập - Tự do - Hạnh phúc
+Số: 08 /2013 /QĐ-UBND   Ninh Bình, ngày 15 tháng 5 năm 2013
+QUYẾT ĐỊNH
+CÔNG THÔNG TIN DIỆN TỦ CHÍNH PHỦ
+Ban hành Quy chế tổ chức, hoạt động của
+Cổng thông tin điện tử tỉnh Ninh Bình
+UỶ BAN NHÂN DÂN TỈNH NINH BÌNH
+Căn cứ Luật tổ chức Hội đồng nhân dân và Ủy ban nhân dân ngày 26
+tháng 11năm 2003;
+Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005;
+Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006;
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của
+Chính phủ ứng dọng công nghệ thông tin trong hoạt đông của cơ quan nhà
+nước: Nghị định số 97/2008/NĐ-CP ngày 28 tháng 8 năm 2008 của Chính phủ
+về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin điện tả trên Internet;
+Nghị định 43/2011/NĐ-CP, ngày 13 tháng 6 năm 2011 của Chính Phá quy định về
+việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc.
+Cổng thông tin điện tử của cơ quan nhà nước;
+Xét đề nghị của Chánh Văn phòng UBND tỉnh Ninh Bình,
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy chế tổ chức, hoạt động
+của Cổng thông tin điện tử tỉnh Ninh Bình.
+Điều 2. Quyết định này có hiệu lực thi hành sau 10 ngày kể từ ngày ký.
+Điều 3. Chánh Văn phòng Ủy ban nhân dân tỉnh, Trưởng Ban biên tập.
+Cổng thông tin điện tử tỉnh; Thủ trưởng các Sở, Ban, ngành, đoàn thể của tỉnh;
+Chủ tịch Ủy ban nhân dân các huyện, thành phố, thị xã và các tổ chức, cá nhân
+khác có liên quan chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:   TM. ỦY BAN NHÂN DÂN
+- Như Điều 3;
+- Bộ Thông tin và Truyền thông;   CHỦ TỊCH
+- Cổng TTĐT Chính phủ;
+- Website Chính phủ;
+- Cục kiểm tra VBQPPL (Bộ Tư Pháp);
+- Thường trực Tỉnh uỷ;
+- Thường trực HĐND tỉnh;
+- Đoàn Đại biểu Quốc Hội tỉnh;
+- Chủ tịch, các PCT UBND tỉnh;
+- Công báo tỉnh;   Bùi Văn Thắng   - Lưu: VT, các VP, TTTH-CB.
+UỶ BAN NHÂN DÂN   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH NINH BÌNH   Độc lập - Tự do - Hạnh phúc
+QUY CHẾ
+Tổ chức, hoạt động của Cổng thông tin điện tử tỉnh Ninh Bình
+(Ban hành kèm theo Quyết định số 05 /2013/QĐ-UBND ngày 19 tháng 5 năm 2013
+của Ủy ban nhân dân tỉnh Ninh Bình)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh:
+Quy chế này quy định vị trí, chức năng, nhiệm vụ, tổ chức, quản lý, hoạt
+động của Cổng thông tin điện tử tỉnh Ninh Bình (sau đây viết tắt là Cổng TTĐT
+tỉnh) và rách nhiệm của cơ quan, tổ chức, cá nhân có liên quan đến hoạt động của
+Cổng TTĐT tỉnh;
+Điều 2. Đối tượng áp dụng:
+1. Quy chế này áp dụng đối với các cơ quan, tổ chức, cá nhân tham gia quản
+lý, vận hành và khai thác Cổng TTĐT tỉnh;
+2. Các cơ quan thông tin, báo chí, các tổ chức đoàn thể, đơn vị sự nghiệp,
+doanh nghiệp, cá nhân tự nguyện tham gia cung cấp, khai thác, sử dụng dịch vụ
+trên Cổng TTĐT tỉnh;
+3. Các Cống thông tin thành phần của các tổ chức chính trị, tổ chức chính
+trị- xã hội, tổ chức xã hội - nghề nghiệp.
+Điều 3. Chức năng, nhiệm vụ của Cổng thông tin điện tử tỉnh:
+1. Cổng TTĐT tỉnh Ninh Bình là cổng tích hợp thông tin và bảo điện tử, truyền
+thông đa phương tiện của UBND tỉnh Ninh Bình trên memet, thuộc Văn phòng
+UBND tỉnh do Chánh Văn phòng UBND tỉnh quản lý trực tiếp, toán diện.
+2. Cổng TTĐT tỉnh Ninh Bình có chức năng tổ chức, quản lý và công bố các
+thông tin chính thức của UBND tỉnh rên Intemer; lã đầu mối kết nối mạng thông tin.
+hành chính điện tử của tỉnh trên Inernet với các Sở, cơ quan ngang Sở, cơ quan
+thuộc UBND tỉnh, HĐND, UBND các huyện, thành phố, thị xã trực thuộc tỉnh (sau
+đây gọi tắt là các sở, ban, ngành, địa phương) và các tổ chức, cơ quan liên quan phục
+vụ hoạt động quản lý điều hành của UBND tỉnh và các cơ quan quản lý nhà nước;
+tích họp các dịch vụ công của tỉnh trên mạng Internet phục vụ người dân và doanh.
+nghiệp, đồng thời là kênh thông tin tuyên truyền, quảng bá, tha hút đầu tư thúc đẩy
+sự phát triển và hội nhập của tỉnh Ninh Bình với cả nước, khu vực và thể giới.
+3. Cống TTĐT tỉnh Ninh Bình có tên giao dịch quốc tế bằng tiếng Anh:
+NinhEinh province Web Portal (viết tắt là NBP).
+4. Cổng TTDT tỉnh Ninh Bình có địa chí trên Internet là
+http://www.ninhbinh.gov.vn
+Chương II
+THÔNG TIN CUNG CẤP TRÊN CÔNG THÔNG TIN ĐIỆN TỬ
+Điều 4. Hình thức thể hiện, thông tin chủ yếu:
+1. Nội dung thông tin trên Cổng TTĐT được trình bày dưới dạng: Văn bản,
+âm thanh, hình ảnh, video, đồ hoạ.
+2. Cống TTĐT tỉnh Ninh Bình xuất bản 2 ngòn ngữ chính (tiếng Việt và
+tiếng Anh).
+3. Thông tin chủ yếu:
+Các thông tin chủ yếu quy định tại khoản 2, Điều 28 Luật Công nghệ thông
+tin và Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 của Chính phủ
+quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông
+tìn điện tử hoặc Cổng thông tin điện tử của cơ quan nhà nước:
+a. Thông tin giới thiệu điều kiện tự nhiên, lịch sử, truyền thống văn hóa, đi
+tích, danh thắng, tiểm năng kinh tế, du lịch; bản đố địa giới hành chính các cấp; sơ
+đồ, cơ cấu tổ chức, chức năng, nhiệm vụ, quyền hạn của các cơ quan quản lý nhà
+nước, tiểu sử tóm tắt và nhiệm vụ đâm nhiệm của lãnh đạo cơ quan;
+b. Thông tin chỉ đạo, điều hành bao gồm: Y kiến chỉ đạo, điểu bảnh của thủ
+trưởng cơ quan đã được thông nhất và chính thức ban hành bằng văn bản; ý kiến
+xử lý, phản bồi đối với các kiến nghỉ, yêu cầu của tổ chức, cá nhân; thông tin
+khen thưởng, xử phạt đối với tổ chức, doanh nghiệp hoạt động trong lĩnh vực
+quản lý nhà nước của cơ quan; lịch làm việc của lãnh đạo cơ quan.
+c. Thông tin, tuyên truyền tình hình chính trị, kinh tế - Văn hoá, xã hội trong
+tỉnh, trong nước và quốc tế;
+d. Thông tin, tuyên truyền văn bản quy phạm pháp luật của Trung ương, của
+tỉnh và các văn bản hướng dẫn thực hiện pháp luật, chế độ chính sách của Nhà nước;
+đ. Thông tin hồ sơ thủ tục hành chính thực hiện trên địa bàn tỉnh;
+c. Chiến lược, định hướng, quy hoạch, kế hoạch phát triển kinh tế - xã hội
+của tỉnh:
+1. Thông tin liên hệ của cán bộ, công chức có thẩm quyền bao gồm họ tên,
+chức vụ, đơn vị công tác, số diện thoại/fax, địa chỉ thư điện tử chính thức;
+8. Thông tin giao dịch của Cổng thông tin điện tử bao gồm: Địa chỉ, điện
+thoại, số lax, địa chỉ thư điện tử chính thức để giao dịch với tổ chức, cá nhận;
+h. Thông tin về dự án, hạng mục đầu tư, đấu thầu, mua sắm công;
+1. Tiếp nhận phản ánh; kiến nghị của tổ chức, cá nhân về quy định hành
+chính theo quy định của pháp luật;
+). Đăng tải và tiếp nhận ý kiến đóng góp và dự thảo văn bản quy phạm pháp
+luật, chủ trương chính sách cần xin ý kiến;
+k. Cung cấp các dịch vụ công;
+1. Đảng tải Công báo điện tử tỉnh Ninh Bình;
+2
+m. Tích hợp các cơ sở dữ liệu (CSDL) dùng chung;
+r. Tích hợp các trang TTĐT (W/ebsite) của các sở, ban, ngành, đoàn thể,
+UBND các huyện, thành phố, thị xã;
+o. Thông tin về các chương trình, để tài khoa học của tỉnh;
+p. Thông tin, báo cáo thống kê theo số liệu do cơ quan thống kê của tỉnh
+cung cấp
+9. Các mực thông tin khác phù hợp với chức năng, nhiệm vụ của cơ quan;
+4. Thông tin tiếng nước ngoài
+Các thông tin sau được cung cấp bổ sung bằng tiếng Anh:
+: Các thông tin quy định tại điểm c, điểm d khoản 3 Điều 4 của Quy chế này.
+- Các thông tin giới thiệu về lịch sử, địa lý, văn hoá, con người, tiểm năng
+kinh tế, du lịch của tỉnh
+Điều 5. Đâm bảo tính thống nhất, phù hợp tiên chuẩn:
+1. Thống nhất sử dụng Bộ mã ký tự chữ Việt Uaieode theo tiêu chuẩn TCVN
+6909/2001 trong việc lực trữ và trao đổi thông tin, dữ liệu trên Cổng thông tin điện tử.
+2. Cổng TTĐT của cơ quan nhà nước phải tuân thủ các tiêu chuẩn về ứng
+dụng công nghệ thông tin được quy định tại Quyết định số 28/2008/QĐ-BTTTT
+ngày 09 tháng 4 năm 2008 của Bộ Thông tin và Truyền thông.
+Chương III
+NGUYÊN TẮC, QUY TRÌNH CUNG CẤP, TIẾP NHẬN
+VÀ LƯƯ TRỮ TRÔNG TIN TRÊN CÔNG TTĐT TỈNH NINH BÌNH
+Điều 6. Nguyên tắc cung cấp, tiếp nhận thông tin:
+1. Thông tin cung cấp trên Cổng thông tin điện tử tỉnh và các Các Website
+thành viên của các cơ quan, đơn vị tham gia trên Cổng TTĐT tỉnh phải đáng với
+quan điểm, chủ trương, đường lối của Đảng, chính sách và pháp luật của Nhà
+nước, phục vụ kịp thời trong công tác quản lý của cơ quan và nhu cầu khai thác
+thông tin của các tổ chức, cá nhân.
+2. Thông tin cung cấp trên Cổng thông tin điện tử phải tuân thủ các quy định.
+của pháp luật về bảo vệ bí mặt nhà nước, báo chí, sở hữu trí tệ và quản lý thông
+tin trên Internet.
+3. Việc đăng tải, trích dẫn, sử dụng lại thông tin trên Cổng thông tin điện tử
+của cơ quan phải ghi rõ thông tin về tác giả, nguồn của thông tin.
+4. Việc cung cấp, trao đổi thông tin của các cơ quan, đơn vị trên Cổng
+TTĐT tỉnh thực hiện trong giờ làm việc từ thứ bai đến thứ 6 hàng tuần.
+5. Các cơ quan, đơn vị, tổ chức, cá nhân khi cung cấp thông tin, giao dịch
+trên Cổng TTĐT tỉnh phải chịn sự kiểm duyệt của Ban biên tập Cổng TTĐT tỉnh.
+3
+8. Các cơ quan, đơn vị của tỉnh cung cấp thông tin cho Cồng TTĐT tỉnh và
+tiếp nhận giải đáp ý kiến, phản ánh của các cơ quan, tổ chức, cá nhân.
+9. Mọi sự thay đổi của nội dung các thông tin quy định tại khoản 3 Điều 4,
+Quy chế này phải được cung cấp, cập nhật kịp thời ngay sau khi nội dung thay đổi
+đã được tổ chức hoặc cá nhân có thẩm quyền quyết định.
+Điều 7. Thời hạn cung cấp, xử lý, liên kết thông tin:
+1. Thời hạn cung cấp, xử lý thông tin:
+a) Bảo đảm cập nhật thường xuyên, chính xác đối với các mục tin quy định.
+tại điểm a, b, c, g khoản 3 Điều 4 của Quy chế này.
+b) Đối với thông tin tuyên truyền, phổ biến, hướng dẫn thực hiện pháp luật,
+chế độ, chính sách: Thời gian cập nhật không quá 15 (mười lãm) ngày lâm việc kế
+từ khi văn bản chính thức được ban hành.
+c) Đối với văn bản quy phạm pháp luật và văn bản quản lý nhà nước:
+- Thời gian cập nhật không quá 02 (hai) ngày làm việc kể từ ngày văn bản.
+được ban hành đối với cơ quan ban hành văn bản.
+- Thời gian cập nhật không quá 10 (mười) ngày làm việc kể từ ngày văn bản
+được ban hành đối với các cơ quan thuộc phạm vi điều chỉnh của văn bản.
+c) Đối với những thông tin quy định tại điểm e và i khoản 3 Điều 4 của Quy
+chế này: Thời gian cập nhật không quá 10 (mười) ngày làm việc kể từ khí chiến
+lược, quy hoạch hoặc dự án, hạng mục đầu tư, dấu thầu được phê duyệt.
+đ. Đối với thông tin về chương trình, để tải khoa học: Thời gian cập nhật
+không quá 20 (hai mươi) ngày làm việc kể từ khi chương trình, để tài được phê
+duyệt hoặc được nghiệm thu.
+a. Đối với thông tin, báo cáo thống kê: Thời gian cập nhật không quá 10
+(mười) ngày làm việc kể từ khi thông tin thống kê được thủ trường cơ quan cá
+thẩm quyền quyết định công bố.
+Đối với các mục thông tin tiếng nước ngoài: Phải được thường xuyên rà
+soát, cập nhật kịp thời khi có phát sinh hoặc thay đổi.
+g. Đối với mục Trao đổi - Hải đáp:
+- Ban Biên tập Cổng thông tin điện tử có trách nhiệm tiếp nhận câu hỏi, phân
+ảnh, phân loại và chuyển đến các đơn vị liên quan để trả lời. Trường hợp câu hỏi
+không thuộc phạm vi quản lý, lĩnh vực hoạt động của các cơ quan, đơn vị trực
+thuộc thì phải thông báo cho tổ chức, cá nhân;
+- Chậm nhất 15 (mười lãm) ngày làm việc kể từ khi tiếp nhận câu bỏi, thú
+trưởng cơ quan nhà nước có thẩm quyền trách nhiệm trả lời câu hội hoặc thông
+bảo quá trình xử ý và thời hạn trả lời tới tổ chức, cá nhân. Đối với những vấn để
+liên quan đến việc quản lý kinh tế - xã hội thì phải đăng tải câu trả lời trên Cổng
+thông tin điện tử.
+2. Liên kết, tích hợp thông tin:
+4
+a) Cổng thông tin điện tử của tỉnh có trách nhiệm liên kết, tích hợp thông tin
+với Cổng thông tin điện tử của các sở, ngành. Ủy ban nhân dân các huyện, thành.
+phố, thị xã để bảo đảm: tổ chức và cá nhân có thể tìm kiểm và khai thác thông tin
+trên mọi lĩnh vực kinh tế - xã hội của tỉnh.
+b) Cổng TTĐT của tỉnh chịu trách nhiệm tổ chức liên kết, tích hợp thông tin.
+dịch vụ công trạc tuyến với công TTĐ1 của của các sở, ngành, Ủy ban nhân dân
+các huyện, thành phố, thị xã.
+Điều 8. Đảm bảo an toàn thông tín và dữ liệu:
+1. Đảm bảo khả năng an toàn, bản mật theo nhiều mức: Mức mạng, mức xác.
+thực người sử dụng, mức cơ sở dữ liệu.
+2. Xác thực và mã hoá dữ liệu:
+8. Có cơ chế xác thực, cấp phép truy cập, mã hoá thông tin, dữ liệu cho việc
+truy cập vào các thông tia, dịch vụ; cần phải định danh người truy cập nhằm đảm.
+bảo an toàn cho trang thông tin điện tử trong quá trình khai thác, vận hành;
+b. Cơ chế xác thực, mã hoá thông tin, dữ liệu tuân thủ theo các tiêu chuẩn về
+an toàn thông tin được quy định tại Quyết định số 20/2008/QĐ-BTTTT ngày 09
+tháng 4 năm 2008 của Bộ Thông tin và Truyền thông.
+3. Sao lưu dữ liệu:
+a. Định kỳ thực hiện việc sao lưu dữ liệu (tối thiếu 01 lần/tuần) để đảm bảo.
+có thể nhanh chóng khôi phực lại hoạt động của hệ thống khi có sự cố xảy rai;
+h. Dữ liệu tối thiểu cần được sao lưu: dữ liệu cấu hình hệ thống (quản lý
+người sử dụng; cầu hình thiết lập kênh thông tin): cơ sở dữ liệu lưu trữ nội dung
+và các dữ liệu liên quan khác.
+Điều 9. Những hành vi bị cấm khi tham gia cung cấp, khai thác và sử
+dụng thông tin trên Cổng thông tin điện tử tỉnh:
+1. Lợi dựng Cổng thông tin điện tử tỉnh nhằm mục đích:
+a. Chống lại nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam; gây phương hại
+đến an ninh quốc gia, trật tạ, an toàn xã hội; phá hoại khối đại đoàn kết toàn đân;
+tuyên truyền chiến tranh xâm lược; gây hận thù, mâu thuẫn giữa các dân tộc, sắc
+tộc, tôn giáo; tuyên truyền kích động bạo lực, đối trạy, tội ác, tệ nạn xã hội, mê tin
+đị đoan; phá hoại thuần phong mỹ tục của dân tộc.
+b. Tiết lộ hí mật nhà nước, bí mật quân sự, an ninh, kinh tế, đối ngoại và
+những bí mật khác đã được pháp luật quy định.
+c. Đưa các thông tin xuyên tạc, vu khống, xúc phạm uy tín của tổ chức, danh
+dự, nhân phẩm của công dân.
+d. Lợi dụng để quảng bá, tuyên truyền, mua bán hàng hoá, dịch vụ thuộc
+danh mục cấm theo quy định của pháp luật.
+2. Gây rối, phá hoại hệ thống thiết bị và cản trở trái pháp luật việc quản lý,
+cung cấp, sử dụng các dịch vụ và thông tin điện tử trên Internet.
+3. Đánh cấp và sử dụng trái phép tài khoản, mật khẩu, khoá mật mã, thông
+tin, dữ liệu riêng của các tổ chức, cá nhân trên Internet.
+5
+Chương IV
+TRÁCH NHIỆM, QUYỀN HẠN CỦA CÁC CƠ QUAN, ĐƠN VỊ TRONG VIỆC
+QUẢN LÝ, VẬN HÀNH CÔNG THÔNG TIN ĐIỆN TỬ
+Điều 10. Các cơ quan, đơn vị tham gia Cổng thông tin điện tử tỉnh Ninh Bình:
+Các cơ quan, đơn vị tham gia thực hiện cung cấp, trao đổi thông tin trên
+Cổng TTĐT tỉnh bao gồm:
+1. Các sở, ban, ngành, UBND các huyện, thành phố, thị xã thuộc tỉnh (sau
+đây gọi tắt là các cơ quan, đơn vị).
+2. Các cơ quan báo chí, các tổ chức, Ban đảng, đoàn thể, đơn vị sự nghiệp.
+doanh nghiệp, cá nhân (san đây gọi tắt là các tổ chức, cá nhân).
+Điều 11. Thẩm quyền quản lý Nhà nước đối với Cổng TTĐT tỉnh:
+1. UBND tỉnh Ninh Bình thống nhất quản lý nhà nước đối với Cổng TTĐT
+tỉnh; Quyết định thành lập Ban biên tập và ban hành Quy chế hoạt động của Cổng
+TTĐT.
+2. UBND tỉnh giao Chánh Văn phòng UBND tỉnh làm Trưởng Ban biên tập,
+trực tiếp chỉ đạo và chịa trách nhiệm về hoạt động của Cổng TTĐT tỉnh; bổ nhiệm
+các Phó Trưởng ban và các thành viên của Ban Biên tập Cổng TTĐT, Quy định về
+chế độ nhuận bút cho tác giá, chủ sở hữu tác phẩm, thù lan cho các công việc có liên
+quan đến Cổng TTĐT tỉnh theo quy định của Pháp luật.
+Điều 12. Trách nhiệm của Văn phòng UBND tỉnh:
+1. Chịu trách nhiệm trước Tỉnh uỷ, HĐND, UBND tỉnh về hoạt động của
+Cổng TTĐT tỉnh
+2. Chủ trì phối hợp với Sở Tài chính, Sở Thông tin và truyền thông lập dự.
+trù kinh phí hàng năm phục vụ cho công tác quản lý nhà nước và duy trì hoạt
+động của Cổng TTĐT tỉnh trình UBND tỉnh phê duyệt.
+3. Chỉ đạo thường xuyên kiểm tra, bảo dưỡng, sửa chữa, giám sát hoạt động
+đâm bảo cống TTĐT tỉnh hoạt động liên tục 24 giờ trong tất cả các ngày.
+4. Thực hiện rà soát, để xuất phương án nâng cấp, chỉnh sửa định kỳ hàng
+năm hoặc theo nhu cầu thực tế.
+Điều 13. Trách nhiệm của Sở Thông tin và Truyền thông:
+a) Chủ trì, phối hợp với Văn phòng UBND tỉnh thực hiện kiểm tra việc thực
+hiện các quy định của Quy chế này đối với các cơ quan nhà nước trên địa bàn
+tỉnh, phát hiện và xử lý các vi phạm theo thẩm quyền;
+b) Hướng dẫn việc thực hiện các tiêu chuẩn, quy chuẩn kỹ thuật áp dụng cho:
+cổng thông tin điện tử của cơ quan nhà nước; phương thức và cơ chế thanh toán
+đối với việc thực hiện dịch vụ công trực tuyến;
+c) Hàng năm, tổng hợp báo cáo UBND tỉnh về việc triển khai dịch vụ công
+trực tuyến và tình hình hoạt động của Cổng thông tin điện tử của các cơ quan nhà
+nước thuộc tỉnh.
+6
+Điều 14. Trách nhiệm, quyền họn của các đơn vị, tổ chức, cá nhân tham
+gia Cổng thông tin điện tử tỉnh:
+1. Trách nhiệm, quyền hạn của thủ trưởng các cơ quan, đơn vị:
+- Tổ chức thực hiện các quy định tại Quy chế này.
+- Thủ trưởng các cơ quan, đơn vị quy định tại khoản 1 Điều 2 Quy chế này.
+thành lập Ban biên tập, xây dựng quy chế để quản lý, thu thập, hiên tập, xử lý.
+kiểm duyệt thông tin; cung cấp thông tin liên quan đến lĩnh vực quản lý và hoạt
+động chuyên ngành của cơ quan, đơn vị mnh lên website thành viên của cơ quan.
+và trên Cổng TTĐT tỉnh.
+- Phân công nhiệm vụ cụ thể cho cán bộ phụ trách, tiếp nhận, xử lý thông tin
+theo đúng quy định tại Quy chế này.
+- Xây dựng kế hoạch duy trì, nâng cấp hệ thống cung cấp thông tin và dịch
+vụ của cơ quan, đơn vị; đảm báo các cơ sở dữ liệu, các phần mềm ứng dụng của
+cơ quan, đơn vị đáp ứng được yêu cầu về thông tin và dịch vụ mà cơ quan, đơn vị
+tham gia cung cấp trên Cổng TTĐT tỉnh.
+- Thực hiện chế độ báo cáo, thống kê theo yêu cầu của Ban biên tập Cổng
+TTĐT tỉnh.
+- Xây dựng quy chế quản trị, vận hành cung cấp thông tin cho trang thông
+tin điện tử của đơn vị.
+- Các Website thành viên của các cơ quan, đơn vị tham gia trên Cổng TTĐT
+tỉnh do các cơ quan, đơn vị chủ động cập nhật đầy đó theo các mục tin và chức
+năng hệ thống đã được khởi tạo, thủ trưởng các cơ quan đơn vị đó chịu trách nhiệm:
+trước pháp luật về nội dung và tính chính xác cha các thông tin trên trang TTĐT
+của mình và các thông tin đề nghị đăng tải lên Cổng TTĐT của tỉnh.
+2. Quyền và trách nhiệm của các tổ chức, cá nhân tham gia Cổng TTĐT tỉnh;
+- Được cung cấp, khai thác các thông tin trên Cổng TTĐT tỉnh để phục vụ
+cho nhu cấu hoạt động của các tổ chức, cá nhân. Khi sử dụng tin, bải, ảnh trên
+Cổng TTĐT tỉnh Ninh Bình phải ghi rõ nguồn thông tin Theo Cổng TTĐT tỉnh.
+Ninh Bình”;
+- Cá nhân cung cấp tin, bài, ảnh và các thông tin phù hợp với yêu cầu nội
+dung của Cổng TTĐT tỉnh, được Ban biên tập kiểm duyệt và đăng tái sẽ được
+hưởng chế độ nhuận bút theo quy định hiện hành;
+- Phản ảnh với Chánh Văn phòng UBND tỉnh; Ban biên tập Cổng TTĐT
+tỉnh về chất lượng hoạt động của Cổng TTĐT tỉnh;
+Chương V
+CƠ CẤU TỔ CHỨC, NHIỆM VỤ, QUYỀN HẠN,
+CỦA BAN BIÊN TẬP CÔNG TTĐT
+Điều 15: Cơ cấu tổ chức của Ban biên tập Cổng thông tin điện tử:
+1. Ban biên tập Cống TTĐT tỉnh Ninh Bình có Trưởng Ban biên tập và
+không quá 03 Phó trưởng Ban biên tập.
+7
+2. Trưởng Ban biên tập Cổng TTĐT (sau đây gọi tắt là Trưởng Ban biên.
+tập) do Chủ tịch UBND tỉnh bổ nhiệm, miễn nhiệm, cách chức; chịu trách nhiện
+trưức UBND tỉnh và trước pháp luật về toán bộ hoạt động của Cổng TTĐT tỉnh.
+3. Các Phó trưởng Ban biên tập do Chánh Văn phòng UBND tỉnh bổ nhiệm,
+miễn nhiệm, cách chức theo quy định của pháp luật; chịu trách nhiệm trước Chánh.
+văn phòng UBND tỉnh và Trưởng Ban biên tập về lĩnh vực công tác được phân công.
+4. Trưởng Ban biên tập quy định cụ thể chức năng, nhiệm vự, quyền hạn của
+các bộ phận chuyên trách
+5. Trưởng, Phó trưởng Ban biên tập hoạt động theo chế độ kiêm nhiệm; các.
+thành viên khác hoạt động chuyên trách.
+6. Trung tâm Tin học - Công báo là cơ quan thường trực Ban Biên tập Cống
+TTĐT tỉnh.
+7. Biên chế cán bộ, công chức, viên chức (hoạt động chuyên trách) của Ban
+biên tập Cổng TTDT nằm trong biên chế của Trung tâm Tin học - Công báo. Văn
+phòng UBND tỉnh và nằm trong tổng biên chế của Văn phòng UBND tỉnh được.
+UBND tỉnh giao hàng năm.
+Điều 16. Nhiệm vụ, quyền hạn của Ban biên tập, Trưởng Ban biên tập
+Cổng thông tin điện tử:
+1. Nhiệm vụ, quyền hạn của Ban biên tập Cổng thông tin điện tử
+8. Ban Biên tập Cổng TTĐT tỉnh (sau đây gọi tắt là Ban Biên tập) có nhiệm vụ
+tham muu cho UBND tỉnh định hưởng, kiểm duyệt, điều hành và phát triển nội
+dung, chất lượng thông tin của Cổng TTĐT tỉnh nhằm cung cấp nguồn thông tin, dữ
+liện chính xác, trung thực, kịp thời, phục vụ sự chỉ đạo điều hành, quản lý nhà nước
+và nhu cầu sử dụng thông tin của các tổ chức, cá nhân, đảm bảo bí mật của Đảng.
+Nhà nước, giữ vững khối đại đoàn kết toàn dân.
+b. Theo dõi, đôn đốc các sở, ban, ngành, đoàn thể của tỉnh, các huyện,
+thành phố, thị xã thực hiện nghiêm tác việc xây dựng nội dung để cung cấp, trao
+đổi thông tin chính xác, kịp thời trên Cổng TTĐT của tỉnh.
+c. Báo cáo những khó khăn, vướng mắc và đề xuất các giải pháp để nâng
+cao chất lượng Cổng TTDT của tỉnh, đặc biệt là việc triển khai thực hiện cung cấp
+các dịch vụ công. Định kỳ quý, năm tổng hợp báo cáo UBND tỉnh về kết quả thực
+hiện của các cơ quan, đơn vị.
+đ. Hảng năm tổng kết đánh giá những diễn hình tiên tiến, phát hiện những
+việc làm không kịp thời, trái với quy định của Nhà nước báo cáo UBND tỉnh.
+đ. Được sử dụng con dấu của Văn phòng UBND tỉnh để giao dịch.
+2. Nhiệm vụ, quyền hạn của Trưởng Ban biên tập Cổng thông tin điện tử
+a. Quy định và phân công nhiệm vụ cụ thể cho các thành viên Ban Điên tập,
+đảm bảo sự phối hợp chặt chẽ, thường xuyên của Ban Biên tập và trách nhiệm của
+các sở, ban, ngành, đoàn thể của tỉnh; UBND các huyện, thành phố, thị xã đối với.
+Cổng TTĐT của tỉnh.
+8
+b. Được ký hợp đồng với các tổ chức, cá nhân sáng tác, cung cấp dịch vụ
+nội dung số phục vụ cho hoạt động cồng TTĐT theo quy định của Quy chế này và
+quy định của của Pháp luật.
+c. Được kỳ hợp đồng phát triển, cung cấp các dịch vụ giá trị gia tăng trên
+Cổng TTĐT theo quy định của pháp luật nhưng không làm ảnh hưởng đến chức
+năng nhiệm vụ chung của Cổng TTĐT tỉnh.
+Chương VI
+KINH PHÍ THỰC HIỆN, CHẾ ĐỘ BÁO CÁO, KIỂM TRA, KHEN
+THƯỞNG VÀ XỬ LÝ VI PHẠM
+Điều 17. Kinh phí thực hiện:
+1. Kinh phí duy trì, hoạt động của Cổng TTĐT tỉnh Ninh Bình được cán đối.
+trong dự toán chi ngân sách hàng năm của Văn phòng UBND tỉnh và từ các.
+nguồn thu và huy động khác (nếu có).
+2. Kinh phí duy trì, hoạt động của Cổng TTĐT tỉnh được sử dụng cho các:
+nhiệm vụ sau:
+a) Chi cho đầu tư và nâng cấp cơ sở hạ tầng, trang thiết bị;
+b) Chi nâng cấp, thuê bao đường truyền kết nối Internet để đảm bảo hoạt.
+động thường xuyên của Cổng TTĐT;
+c) Chi mua sắm, nâng cấp phần mềm lõi nhằm phát triển hệ thống Cổng TTĐT;
+d) Chi mua sắm, nâng cấp các phần mềm tiện ích khác nhằm đảm bảo sự.
+hoạt động ổn định, an toàn của Cổng TTĐT;
+e) Quản lý, duy trì, vận hành Cổng TTĐT;
+
+g) Các khoản chi khác phục vụ hoạt động Cổng TTĐT.
+3. Mức chỉ, chế độ chỉ được thực hiện theo quy định hiện hành của Nhà nước.
+4. Sở Tài chính có trách nhiệm cân đối ngân sách của tỉnh để bảo dâm kinh phí
+hoạt động, duy trì và phát triển Cổng TTĐT của các cơ quan nhà nước.
+Điều 18. Chế độ báo cáo:
+Các cơ quan chuyên môn thuộc UBND tỉnh, UBND huyện, thành phố, thị xã
+báo cáo tình hình hoạt động của Cổng TTĐT của đơn vị vế UBND tỉnh (qua Sở
+Thông tin và Truyền thông) trước ngày 01 tháng 12 hàng năm.
+Sở Thông tin và Truyền thông tổng hợp, báo cáo UBND tỉnh và Bộ Thông
+tin và Truyền thông trước ngày 20 tháng 12 hàng năm.
+Điều 19. Khen thưởng và xử lý vi phạm:
+1. Các cơ quan, đơn vị có trách nhiệm tổ chức quảng bá rộng rải Cổng
+TTĐT tỉnh đếu công chúng khuyến khích và phát huy sảng tạo việc quản lý, duy:
+trì, khai thác trang thông tin điện tử.
+9
+Các cơ quan, đơn vị, tổ chức cá nhân có thành tích xuất sắc trong việc thực
+hiện Quy chế, có nhiếu đóng góp phát triển Cổng TTĐT của tỉnh được xét khen.
+thưởng theo quy định.
+2. Các cơ quan, đơn vị tổ chức, cá nhân vi phạm Quy chế này và các quy
+định của pháp luật có liên quan tuỹ theo tính chất, mức độ vi phạm sẽ bị xử lý
+theo quy định của pháp luật.
+Chương VII
+ĐIỀU KHOẢN THI HÀNH
+Điều 20. Tổ chức thực hiện:
+1. Chánh Văn phòng UBND tỉnh, Trưởng Ban biên tập Cổng TTĐT tỉnh;
+Giám đốc các sở, ban, ngành; Chủ tịch UBND các huyện, thành phố, thị xã; Thái
+trưởng các tổ chức chính trị - xã hội, các cơ quan báo chí của tỉnh, các doanh.
+nghiệp và cá nhân có liên quan chịu trách nhiệm thực hiện Quy chế này.
+2. Các Ban Đảng Tỉnh uỷ, Hội đồng nhân dân tỉnh, Ủy ban MTTQ tỉnh, các
+đoàn thể chính trị, chính trị - xã hội, xã hội nghề nghiệp có nhu cầu xây dựng
+Website thành viên, hoặc cung cấp thông tin lên Cổng TTĐT tỉnh Ninh Bình, chủ.
+động phối hợp với Văn phòng UBND tỉnh để thực hiện các thủ tục trình UBND
+tỉnh xem xét, phê duyệt.
+3. Trong quá trình thực hiện, nếu có nội dung nào chưa hợp lý, các cơ quan,
+đơn vị, tổ chức, cá nhân phản ánh về UBND tỉnh qua Ban biên tập Cổng TTĐT
+tỉnh Ninh Bình để điều chỉnh, bổ sung, hoàn thiện cho phù họp./.
+TM. UỶ BAN NHÂN DÂN
+CHỦ TỊCH
+Bùi Văn Thắng
+10

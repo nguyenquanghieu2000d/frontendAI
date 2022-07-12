@@ -1,0 +1,229 @@
+Ký bởi: Cổng Thông tin điện tử Chính phủ
+Email: thongtinchinhphuạchinhphu.vn
+Cơ quan: Văn phòng Chính phủ
+Thời gian ký: 25.11.2014 09:21:09 +07:00
+UỶ BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH VĨNH PHÚC   Độc lập - Tự do - Hạnh phúc
+Số: 48 /2014/QĐ-UBND   Vĩnh Yên, ngày 23 tháng 10 năm 2014
+QUYẾT ĐỊNH
+Ban hành Quy chế quản lý, vận hành, sử dụng và bảo đảm an toàn
+thông tin trên mạng truyền số liệu chuyên dùng trong các
+CÔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ   cơ quan nhà nước tỉnh Vĩnh Phúc
+ỦY BAN NHÂN DÂN TỈNH
+Căn cứ Luật Tổ chức - Hội đồng nhân dân và Ủy ban nhân dân, ngày
+26/11/2003;
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về
+ứng dụng công nghệ thông tin trong hoạt động cơ quan nhà nước;
+Căn cứ Thông tư số 23/2011/TT-BTTTT ngày 11/8/2011 của Bộ Thông tin
+và Truyền thông Quy địch về việc quản lý, vận hành, sử dụng và bảo đảm an toàn.
+thông tin trên Mạng truyền số liệu chuyên ding của các cơ quan Đảng, Nhà nước;
+Theo đề nghị của Giám đốc Sở Thông tin và Truyền thông tại Tờ trình số.
+31/TTr-STTTT ngày 10/9/2014, văn bản thẩm định số 111/BC-STP ngày
+04/9/2014 của Sở Tư pháp,
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, vận hành, sử
+dụng và bảo đảm an toàn thông tin mạng truyền số liệu chuyên động trong các cơ
+quan nhà nước tỉnh Vĩnh Phúc.
+Điều 2. Quyết định này có hiệu lực thì hành gau 10 ngày kể từ ngày ký.
+Điều 3. Chánh Văn phòng UBND tỉnh; Thủ trưởng các sở, ban, ngành; Chủ
+tịch UBND huyện, thành phố, thị xã và các cá nhân, đơn vị liên quan có trách.
+nhiệm thì hành Quyết định này./
+Nơi nhận:   TM.ỦY BAN NHÂN DÂN TỈNH
+- Bộ Thông tin và Truyền thông;   Đ TỊCH
+- Cục KTVB - Bộ Tư pháp;
+- TTTU, HĐND tỉnh, Đoàn ĐBQH tỉnh;
+- Chủ tịch, các PCT;
+- CPVP;
+- UB MTTQ, các đoàn thể;
+- Cổng thông tin điện tử Chính phủ;
+- Báo Vĩnh Phúc, Đài PTTH tỉnh, Cổng
+Phùng Quang Hùng
+TTĐT tỉnh; TT Công báo (để đăng);
+- Như Điều 3;
+- Lưu: VT, TH2.
+UỶ BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH VĨNH PHÚC   Độc lập - Tự do - Hạnh phúc
+QUY CHẾ
+Quản lý, vận hành, sử dụng và bảo đảm an toàn thông tin trên mạng truyền
+số liệu chuyên dùng trong các cơ quan nhà nước tỉnh Vĩnh Phúc
+(Ban hành kèm theo Quyết định số 48 /2014/QĐ-UBND
+ngày 23 tháng 10 năm 2014 của Ủy ban nhân dân tỉnh Vĩnh Phúc)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Quy chế này quy định về việc quản lý, vận hành, sử dụng và bảo đảm an
+toàn thông tin mạng truyền số liệu chuyên dùng trong các cơ quan nhà nước tỉnh
+Vĩnh Phúc.
+Điều 2. Đối tượng áp dụng
+Quy chế này áp dụng cho các tổ chức, cá nhân tham gia quản lý, vận hành,
+sử dụng và bảo đảm an toàn thông tin mạng truyền số liệu chuyên dùng trong các.
+cơ quan nhà nước tỉnh Vĩnh Phúc.
+Điều 3. Giải thích từ ngữ
+Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:
+1. Mang truyền số liệu chuyên dùng trong các cơ quan nhà nước tỉnh Vĩnh
+Phúc là mạng truyền dẫn tốc độ cao, sử dụng mạng truyền số liện chuyên dùng.
+của các cơ quan Đảng và Nhà nước do Tập đoàn Bưu chính Viễn thông Việt Nam.
+xây dựng để kết nối mạng nội bộ của các cơ quan nhà nước của tỉnh thành một hệ
+thống mạng thống nhất trên phạm vi toàn tỉnh/sau đây gọi tắt là Mạng chuyên
+dùng).
+2. Đơn vị sử dụng Mạng chuyên dùng là các cơ quan nhà nước trên địa bàn.
+tỉnh thực hiện kết nối với Mạng chuyên dùng.
+Điều 4. Bảo mật Mạng chuyên dùng
+1. Các tổ chức, cá nhân tham gia Mạng chuyên dùng có trách nhiệm bảo.
+mật thông tin liên quan đến phương thức truy nhập vào Mạng chuyên dùng;
+không được truy nhập, sửa đổi thông tin dưới bất cử hình thức nào tại các vùng
+không được phép truy cập trên Mạng chuyên dùng.
+1
+
+2. Các cơ quan, đơn vị xây dựng cơ chế bảo mật, an toàn thông tân cho hộ
+thống mạng nội bộ của mình; bảo đảm an toàn, chống truy cập trái phép vào.
+mạng nội bộ của mình và Mạng chuyên dùng.
+Điều 5. Sử dụng, chỉa sẽ và lưu trữ thông tin trên Mạng chuyên dùng
+1. Sử dụng, chia sở và lưu trữ thông tin trên Mạng chuyên dùng phải tuân
+thủ các quy định của Nhà nước về viễn thông, công nghệ thông tin và lưu trữ.
+2. Thông tin được sử dụng, chỉa sẻ và lưa trữ trên Mạng chuyên dùng phải.
+là những thông tin phục vụ cho hoạt động quản lý điều hành và chuyên môn.
+nghiệp vụ của đơn vị sử dụng.
+3. Thông tin thuộc danh mục bí mật nhà nước được truyền tải trên Mạng
+chuyên dùng phải tuân thủ pháp luật về bảo vệ bí mật nhà nước.
+Điều 6. Cước phí sử dụng Mạng chuyên dùng
+1. Cước phí sử dụng Mạng chuyên dùng được được bảo đảm từ nguồn
+ngân sách nhà nước tỉnh áp dụng theo quy định của Bộ Thông tin và Truyền
+thông về giá cước sử dụng mạng truyền số liệu chuyên đúng phục vụ các cơ quan
+Đảng và Nhà nước.
+2. Sở Thông tin và Truyền thông là đầu mối chỉ trả cước phí sử dụng Mạng.
+chuyên dùng cho tất cả các cơ quan nhà nước được phép kết nối vào Mạng
+chuyên dùng của tỉnh.
+Chương II
+QUẢN LÝ, VẬN HÀNH VÀ SỬ DỤNG MẠNG CHUYÊN ĐÙNG
+Điều 7. Nguyên tắc quản lý, vận hành và sử dụng Mạng chuyên dùng
+1. Quản lý, vận hành và sử dụng Mạng chuyên dùng phải bảo đẩm khai
+thác hiệu quả tài nguyên mạng máy tính các cơ quan nhà nước của tỉnh.
+2. Mạng chuyên dùng được quản lý, điều hành tập trung, thống nhất; được
+rà soát kiểm tra, đánh giá định kỳ hoặc đột xuất để bản đảm an toàn, bản mật,
+toàn vạn dữ liệu và tỉnh sẵn sàng cao trong quá trình vận hành và sử dụng; hoạt.
+động thông suốt, liên tục, không gián đoạn.
+3. Hệ thống thiết bị định tuyến trung tâm bảo đảm hoạt động thông suốt
+của hệ thống mạng do Bưu điện Trung ương quản lý, là trung tâm điều phối mọi
+hoạt động logic của hệ thống mạng.
+2
+12
+4. Thiết bị đầu cuối được đặt tại các đơn vị sử dụng Mạng chuyên dùng do.
+Só Thông tin và Truyền thông cung cấp, là tài sản của tỉnh được giao cho các đen
+vị quản lý và sử dụng, phục vụ việc kết nối, khai thác, trao đổi thông tin trên
+Mạng chuyên dùng.
+5. Việc khai thác, sử dụng, lưu trữ, truyền tải dữ liệu trên Mạng chuyên
+dùng phải tuân thủ theo các quy định về bảo đảm an toàn, an ninh thông tin, về
+tiêu chuẩn, quy chuẩn kỹ thuật theo quy định.
+6. Các hành vi vi phạm ảnh hưởng đến an toàn, an ninh của Mạng chuyên
+dùng phải được phát hiện kịp thời và xử lý theo quy định của pháp luật.
+Điều 8. Các ứng dụng khai thác qua Mạng chuyên dùng
+1. Cổng Thông tin - Giao tiếp điện tử của tỉnh; Cổng thông tin điện tử
+thành phần của các cơ quan, đơn vị; các dịch vụ công trực tuyến.
+2. Điều hành công việc, luân chuyển văn bản giữa các cơ quan, đơn vị
+thông qua phần mềm quản lý văn bản và điều hành.
+3. Hệ thống thư điện tử công vụ của tỉnh.
+4. Phần mềm Một của điện tử giải quyết thủ tục hành chính.
+5. Truy cập, kết nối đến các Hệ thống thông tin, cơ sở dữ liệu dùng chung.
+của tỉnh; phần mềm, cơ sở dữ liệu chuyên ngành của các cơ quan, đơn vị đặt tại
+Trung tâm Hạ tầng thông tin.
+6. Họp trực tuyến.
+7. Các ứng dụng khác có yêu cầu liên thông, luân chuyển dữ liệu giữa các
+cơ quan trong hệ thống chính trị của tỉnh.
+Điều 9. Cơ quan quản lý Mạng chuyên dùng
+Sở Thông tin và Truyền thông là cơ quan quản lý Mạng chuyên đúng của
+tỉnh có trách nhiệm:
+1. Tham mưu Ủy ban nhân dân tỉnh về việc kết nối Mạng chuyên dùng
+theo quy định của Thủ tướng Chính phủ, Bộ Thông tin và Truyền thông.
+2. Thực hiện quản lý, sử dụng, vận hành và nâng cấp Mạng chuyên dùng
+theo các quy định của pháp luật; lập dự toán để được bố trí từ nguồn ngân sách.
+hàng năm trên cơ sở tiết kiệm, hiệu quả.
+3. Tổ chức tập huấn, đào tạo về quản lý, vận hành, sử dụng và bảo đảm an
+toàn thông tin cho cán bộ phụ trách, chuyên trách công nghệ thông tin tại các đơn.
+vị sử dụng Mạng chuyên dùng.
+3
+
+4. Tổ chức thanh tra, kiểm tra việc sử dụng Mạng chuyên dùng của tỉnh.
+5. Kiểm tra, giám sát tình hình triển khai, thực hiện ký kết hợp đồng cung.
+cấp dịch vụ với Viễn thông Vĩnh Phúc theo các quy định về giá cước, kết nối và
+chất lượng dịch vụ.
+6. Báo các định kỳ, đột xuất về quản lý, khai thác, sử dụng và bảo đảm an.
+toàn thông tin mạng chuyên dùng.
+Điều 10. Vận hành Mạng chuyên dùng
+1. Trách nhiệm của Trung tâm Hạ tầng thông tin:
+a) Bảo đảm hạ tầng kỹ thuật cho các hệ thống thông tin, phần mềm, cơ sở.
+dữ liệu dùng chung của tỉnh để khai thác, vận hành trên Mạng chuyên dùng; bảo.
+đảm các điểu kiện kỹ thuật để kịp thời phát hiện, xử lý, khắc phục sự cố, duy trì
+hệ thống vận hành thông suốt, liên tục; bản đảm an toàn, bản mặt thông tin trên.
+Mạng chuyên dùng; hướng dẫn các cơ quan, đơn vị khai thác, sử dụng Mạng.
+chuyên dùng an toàn, hiệu quả.
+b) Triển khai các giải pháp kỹ thuật để quản lý băng thông, giám sát, theo.
+dõi tình hình sử dụng của Mụng chuyên dùng của các cơ quan, đơn vị. Báo cáo.
+định kỳ hàng Quý, vào ngày 05 của tháng đầu của Quý tiếp theo hoặc báo cáo.
+đột xuất về việc sử dụng Mạng chuyên dùng.
+c) Chịu trách nhiệm điều phối, phối hợp với các đơn vị liên quan thực hiện
+các biện pháp bảo đảm an toàn và an ninh thông tin trên Mạng chuyên dùng
+2. Trách nhiệm của Viễn thông Vĩnh Phúc:
+a) Xây dựng, ban hành các quy trình liên quan đến công tác phối hợp vận
+hành, xử lý sự cố, ứng cứn thông tin và bảo trì, bảo dưỡng Mạng chuyên dùng.
+b) Bảo đảm các yêu cầu vế: thời gian kết nối, dung lượng, tốc độ, chất.
+lượng dịch vụ mạng và an toàn, an ninh thông tin theo đúng hợp đồng đã ký kết.
+c) Phối hợp với Trang tâm Hạ tầng thông tin bảo đảm an toàn Mạng
+chuyên dùng.
+đ) Khi triển khai lắp đặt mới, mở rộng kết nối trên Mạng chuyên dùng phải.
+có ý kiến đồng ý bằng văn bản của Sở Thông tin và Truyền thông.
+4
+
+a) Định kỳ hàng Quý báo cáo Sở Thông tin và Truyền thông vào ngày đầu.
+của Quý tiếp theo và báo cáo đột xuất theo yêu cầu về tình hình khai thác, sử
+dụng và hoạt động của Mạng chuyên dùng.
+Điều 11. Trách nhiệm của đơn vị sử dụng Mạng chuyên dùng
+1. Phối hợp với Sở Thông tin và Truyền thông trong việc thực hiện các nội
+dung đã được quy định tại Quy chế này. Thực hiện báo cáo định kỳ, đột xuất theo.
+yêu cầu của Ủy ban nhân dân tỉnh qua Sở Thông tin và Truyền thông.
+2. Quản lý, khai thác và bảo vệ thiết bị mạng của điểm kết nối đặt tại cơ
+quan. Chậu trách nhiệm về nội dung, thông tin truyền tải, lưu trữ trên bệ thống
+Mạng chuyên dùng theo đúng quy định của pháp luật. Xây dựng quy chế nội bộ
+về việc sử dụng Mạng chuyên dùng.
+3. Không thay đổi kết nối, thông số thiết lập mạng đối với các thiết bị liên
+quan đến Mạng chuyên dùng để tránh xung đột tài nguyên, ảnh hưởng đến việc
+vận hành hệ thống.
+4. Trường hợp có kế hoạch nâng cấp, bảo trì hệ thống mạng nội bộ ảnh
+hưởng đến Mạng chuyên dùng hoặc có nhu cầu thay đổi về địa chỉ, dung lượng.
+dịch vụ, cấu hình mạng cần thông báo tối thiểu trước 05 ngày làm việc với Trung
+tâm Hạ tầng thông tin để được hướng dẫn, thống nhất.
+5. Phối hợp với Trung tâm Hạ tầng thông tin và Viễn thông Vĩnh Phúc theo
+dõi, phát hiện các lỗi, sự cố trện Nạng chuyên dùng để sửa chữa, khắc phục kịp
+thời.
+Điều 12. Trách nhiệm của cá nhân sử dụng Mạng chuyên dùng
+1. Người sử dụng (thuộc các đơn vị sử dụng Mạng chuyên dùng) khi kết
+nối vào Mạng chuyên dùng phải tuân thủ những quy định về quản lý, vận hành,
+sử dụng và bảo đảm an toàn thông tin Mạng chuyên dùng và các quy định khác.
+có liên quan về viễn thông, công nghệ thông tin và lưu trữ.
+2. Khi gặp sự cố hoặc phát hiện sự cố Mạng chuyên dùng phải thông báo.
+ngay với Trung tâm Hạ tầng thông tin để phối hợp khắc phục, sửa chữa.
+Chương III
+TỔ CHỨC THỰC HIỆN
+Điều 13. Hình thức xử lý vi phạm
+5
+
+Các hành vi vi phạm quy định Quy chế này, tùy theo mức độ vi phạm sẽ bị
+xử lý theo các quy định của pháp luật.
+Điều 14. Trách nhiệm của các cơ quan, cá nhân
+1. Sở Thông tin và Truyền thông chủ trì, tổ chức triển khai, hướng dẫn thực.
+hiện Quy chế này trên địa bàn tỉnh và theo dõi, kiểm tra quá trình thực hiện; xây
+dựng dự toán kinh phí để đảm bảo hoạt động của Mạng chuyên dùng.
+2. Sở Tài chính, Sở Kế hoạch và Đầu tư bố trí kinh phí bảo đảm triển khai.
+các nhiệm vụ, duy trì hoạt động của Mạng chuyên dùng của tỉnh.
+3. Công an tỉnh chủ trì phối hợp Sở Thông tin và Truyền thông theo dõi,
+kiểm tra, giám sát đôn đốc công tác bảo về bí mật nhà nước trong Mạng chuyên.
+dùng.
+4. Thủ trưởng các cơ quan, đơn vị, địa phương tổ chức triển khai thực hiện
+Quy chế này trong phạm vi quản lý của minh. Trong quá trình thực hiện, nếu gặp
+vướng mắc phản ánh về Sở Thông tin và Truyền thông tổng hợp, báo các Ủy ban.
+nhân dân tỉnh xem xét, quyết định./
+TM. ỦY BAN NHÂN DÂN
+TN CHỦ TỊCH
+Phùng Quang Hùng
+6
+

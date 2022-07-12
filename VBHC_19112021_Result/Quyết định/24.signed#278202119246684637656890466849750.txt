@@ -1,0 +1,583 @@
+Ký bởi: Cổng Thông tin điện tử Chính phủ
+Email: thongtinchinhphuặchinhphu.
+Cơ quan: Văn phòng chính phủ
+Thời gian ký: 17.10.2016 15:16:55 +07:00
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH NINH BÌNH   Độc lập - Tự do - Hạnh phúc
+Số:24/2016/QĐ-UBND   Ninh Bình, ngày 27 tháng 9 năm 2016
+
+QUYẾT ĐỊNH
+Ban hanh Quy định trao đổi, xử lý, lưu trữ văn bản điện tử
+trong hoạt động của các cơ quan Nhà nước thuộc thẩm quyền quản lý.
+của UBND tỉnh Ninh Bình
+UỶ BAN NHÂN DÂN TỈNH NINH BÌNH
+Căn cứ Luật Tổ chức Chính quyền địa phương ngày 19/6/2015;
+Căn cứ Luật Giao dịch điện tử ngày 29/11/2005;
+Căn cứ Luật Công nghệ thông tin ngày 29/6/2006;
+Căn cứ Luật Lưu trữ ngày 11/11/2011;
+Căn cứ Nghị định số 26/2007/NĐ-CP ngày 15/02/2007 của Chính phủ Quy
+định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số và dịch vụ chữ ký số;
+Căn cứ Nghị định số 64/2067/NĐ-CP ngày 10/04/2007 của Chính phủ từng
+dụng công nghệ thông tin trong hoot động của cơ quan quản lý hành chính Nhà nước
+Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13/06/2011 của Chính phủ quy
+định về việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin
+điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước;
+Căn cứ Nghị định số 106/2011/NĐ-CP ngày 23/11/2011 của Chính phủ sửa
+đốt, bổ sung một số điều Nghị định số 26/2007/NĐ-CP ngày 15 tháng 2 năm 2007.
+của Chính phủ quy định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số và
+dịch vụ chứng thực chữ ký số;
+Căn cứ Nghị định 01/2013/NĐ-CP ngày 01/01/2013 của Chính phủ quy định
+chi tiết thi hành một số điều của Luật Lưu trữ:
+Căn Nghị định số 170/2013/NĐ-CP ngày 13/11/2013 của Chính phủ về việc.
+sửa đổi, bổ sung một số điều của Nghị định số 26/2067/NĐ-CP ngày 15 tháng 2
+năm 2007 của Chính phủ quy định chi tiết thi hành Luật giao dịch điện tổ về chữ
+ký số và dịch vụ chứng thực chẽ ký số và Nghị định số 106/2011/NĐ-CP ngày 23
+tháng 11 năm 2011 của Chính phủ sửa đổi bổ sung một số điều của Nghị định số.
+26/2007/NĐ-CP ngày 15 tháng 2 năm 2007;
+Theo đề nghị của Chánh Văn phòng UBND tỉnh
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy định trao đổi, xử lý, lưu trữ
+văn bản điện tử trong hoạt động của các cơ quan Nhà nước thuộc thẩm quyền quản.
+lý của Ủy ban nhân dân tỉnh Ninh Bình.
+Điều 2. Quyết định này có hiệu lực kể từ ngày 03/11/2016.
+Điều 3. Chánh Văn phòng UBND tỉnh; Thủ trưởng các Sở, ban, ngành thuộc
+Ủy ban nhân dân tỉnh Ninh Bình; Chủ tịch UBND các huyện, thành phố và các tổ
+chức, cá nhân khác có liên quan chịn trách nhiệm thi hành Quyết định này./.
+Nơi nhận:   TM.ỦY BAN NHÂN DÂN
+- Như Điều 3;
+- Bộ Thông tin và Truyền thông (để báo cáo);   KT. CHỦ TỊCH
+- Cổng TTĐT Chính phủ;   PHÓ CHỦ TỊCH
+- Cục KTVB, Bộ Tư pháp;
+- Tỉnh uỷ, HĐND tỉnh (để báo cáo);
+- Đoàn ĐBQH tỉnh;
+- UBMTTQ VN tỉnh;
+- Chủ tịch, các PCT UBND tỉnh;
+- Công báo tỉnh;
+- Lưu: VT,VP2,6,THCB/.
+Tống Quang Thìn
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH NINH BÌNH   Độc lập - Tự do - Hạnh phúc
+QUY ĐỊNH
+Trao đổi, xử lý, lưu trữ văn bản điện tử trong hoạt động
+của các cơ quan Nhà nước thuộc thẩm quyền quản lý của UBND tỉnh Ninh Bình
+(Ban hành kèm theo Quyết định số 24 /2016/QĐ-UBND
+ngày 27/9/2016 của UBND tỉnh Ninh Bình)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+1. Phạm vi điều chỉnh
+Quy định này quy định về trao đổi, xử lý, lưu trữ văn bản điện tử trong hoạt.
+động của các cơ quan Nhà nước thuộc thẩm quyền quản lý của Ủy ban nhân dân.
+tỉnh Ninh Bình.
+2. Đối tượng áp dụng
+Quy định này áp dụng đối với các cơ quan Nhà nước thuộc thẩm quyền quản.
+lý của Ủy ban nhân dân tỉnh Ninh Bình và tổ chức, cá nhân khác có liên quan.
+Điều 2. Giải thích từ ngữ
+Trong Quy định này, các từ ngữ dưới đây được hiểu như sau:
+1. Văn bản điện tử là văn bản được thể hiện dưới dạng thông điệp dữ liệu.
+2. Trao đối văn bản điện tử trên môi trường mạng trong hoạt động của cơ
+quar Nhà nước (sau đây gọi tắt là trao đổi vàn bản điện tử) là việc các cơ quản Nhà
+nước sử dụng các giải pháp, thiết bị công nghệ thông tin để gửi, nhận văn bản điện,
+tử qua mang trong hoạt động nội bộ của các cơ quan Nhà nước và giữa các cơ quan.
+Nhà nước, trong giao dịch của cơ quan Nhà nước với tổ chức và cá nhân.
+3. Bản điện tử của văn bản giấy là văn bản điện tử có nội dung tương ứng
+với nội dung của văn bản giấy, được số hóa từ văn bản giấy hoặc là bên quốt
+căng, hoàn chính về nội dung, thể thức văn bản được sử dụng để tạo ra vin bản
+giấy đó.
+4. Bên gửi văn bản điện tử là cơ quan Nhà nước, hoặc người được ủy.
+quyền, tổ chức, cá nhân đã tạo ra và gửi văn bản điện tử. Bên gửi không bao gồm.
+đối tượng hoạt động với tư cách trong gian liên quan đến văn bản điện tử.
+5. Bên nhân văn bản điện tử là cơ quan Nhà nước, hoặc người được ủy.
+quyền, tổ chức, cá nhân nhận văn bản điện tử theo chủ ý của bên gửi. Bên nhận
+1
+không bao gồm đối tượng hoạt động với tư cách trong gian tiên quan đến văn bản.
+điện tử.
+6. Văn bán đi là văn bản do bên gửi phát hành.
+7. Văn bản đến là văn bản gửi đến bên nhận.
+8. Tỉnh toàn vẹn của văn bản điện từ là khi nội dung của văn bản điện tử.
+chưa bị thay đổi, trừ những thay đổi về hình thức phát sinh trong quá trình gửa.
+lưu trữ hoặc biển thị văn bản điện tử.
+9. Tính hợp lệ của văn bản điện tử là khi văn bản phù hợp với các quy định
+của pháp luật về cả nội dung và hình thức.
+10. Văn bản trao đối dưới dụng bẫn hợp gồm: văn bản điện tử và văn bản giấy.
+11. Hệ thống quản lý văn bản và điều hành là hệ thống thông tin được tạo.
+lập nhằm tạo ra, gửi, nhận; lưu trữ và xử lý văn bản điện tử.
+Điều 3. Nguyên tắc thực hiện
+1. Việc thực hiện trao đổi văn bản điện tử trên môi trường mạng trong hoạt
+động của cơ quan Nhà nước phải theo những nguyên tắc sau đây:
+a) Văn bản điện tử phải được trao đổi theo quy định tại Điều 6 và Điều 7
+Quy định này nếu hạ tầng kỹ thuật đã được di đạt, thiết lập có khả năng ứng
+dụng để khởi tạo, sử dụng, lưu trữ, gửi và nhận văn bản điện tử
+b) Cơ quan Nhà nước tham gia trao đổi văn bản điện tử phải thực hiện.
+đúng nguyên tắc được quy định tạ Điều 3 qùa Luật Giao dịch điện tử và toân
+theo các quy định khác của pháp luật về bảc vệ bí mật Nhà nước, công nghệ.
+thông tin, viễn thông, văn thư, lưu trữ;
+c) Cơ quan Nhà nước có quyền từ chối nhận văn bản điện tử trên môi.
+trưởng mạng nếu độ tin cậy và bí mật thông tin của văn bản này không được bảo.
+đảm nhưng phải chịu trách nhiệm về việc đó. Đồng thời thông báo kho bản gửi
+văn bản được biết.
+d) Phương thức trao đổi văn bản điện tử trên môi trường mạng phải báo
+đám độ tin cậy, tính kịp thời, chính xác và an toàn, an ninh thông tin.
+2. Việc áp dụng các biện pháp kỹ thuật nhằm xử lý, lưu trữ văn bản diện
+từ không làm thay đổi tính toàn vạn của văn bản điện tử.
+3. Trong trường hợp văn bản quy phạm pháp luật khác có hiện lực pháp lý.
+cao hơn Quy định này hạn chế phạm vi điều chỉnh, đối tượng áp dụng việc trao đối:
+vân bản điện tử thì áp dụng theo quy định của văn bản quy phạm pháp luật đó.
+Chương II
+TRAO ĐỐI VĂN BẢN ĐIỆN TỬ
+Điều 4. Các hệ thống thông tin phục vụ trao đổi văn bản điện tử qua.
+môi trường mạng
+2
+1. Các hệ thống thông tin phục vụ trao đổi văn bản điện tử trong nội bộ cơ
+quan và giữa các cơ quan nhà nước với nhan gồm: Hệ thống phần mềm quản lý
+văn bản và điều hành, hệ thống thư điện tử công vụ, cồng/rang thông tin điện tử
+của các cơ quan nhà nước.
+a) Các cơ quan, đơn vị đã được trang bị hệ thống phần mềm quản lý văn
+bản và điều hành phái sử dụng đầy đủ các tỉnh năng, chúc năng để tráo đổi, toân.
+chuyển văn bản nội bộ và công tác chỉ đạo, điền hành của lãnh đạo cơ quan, cơn.
+vị qua hệ thống. Các cơ quan, đơn vị chưa được trang bị phải tăng sường công tác
+trao đối văn bản điện tử qua hệ thống thư điện tử công vụ.
+b) Các cơ quan, đơn vị đã được trang bị hệ thống phần mềm quản lý văn
+bản và điều hành phải sử dụng tính năng liên thông để gửi, nhận văn bản điện sử
+giữa các cơ quan, đơn vị.
+c) Đối với các văn bản cần phổ biến rộng rải phải được đăng tái, cập nhật
+trên cổng/trang thông tin điện tử của các cơ quan, đơn vị.
+2. Các hệ thống thông tin phục vụ tráo đổi văn bản điện tử giữu cơ quan.
+hành chính nhà nước với các tổ chức, doach nghiệp và người dân gồm: Hệ thống
+thư điện tử công vụ, cổng/trang thông tin điện tử của các cơ quan nhà nước.
+3. Các cơ quan phải có quy định, quy trình chi tiết về việc trao đổi văn bản
+điện tử trong nội bộ cơ quao và với các cơ quan, tổ thức, cá nhân để đả m bản
+thông tin toao đổi được quản lý chặt chẽ theo quy định của Nhà nước và phù hợp.
+với chức năng sử dụng của từng hệ thắng thông tin. Các quy định, quy trình phát
+được phổ biến rộng rãi giúp các cơ quan, tổ chức, cá nhân có thể tiếp cận, khai
+thác và đễ đàng sử dụng trên các hệ thống thông tin.
+4. Việc trao đồi văn bản điện tử giữa các cơ quan phải thực hiện đúng quy
+trình và phù hợp với chức năng sử dụng của mỗi bệ thống thông tin, nhằm đảm.
+bảo sự Bên thông giữa các hệ thống, giảm tối đa các thao tác xử lý trên phẩm
+mềm; giảm chi phí liên quan đến giấy tờ, in ấn và tạo thuận lợi cho việc lưu trở,
+quản lý, sử dụng thông tin, dữ liệu trên các hệ thống.
+Điều 5. Tính hợp pháp của văn bản điện tử
+1. Giá trị pháp lý của văn bản điện tử
+a) Văn bản điện tử phù hợp với pháp luật về giao dịch điện tử có giá trị phán
+lý tương đương với văn bản giấy trong giao dịch giữa các cơ quan nhà nước.
+b) Văn bản điện từ gửi đến cơ quan nhà nước không nhất thiết phải sử dụng
+chữ ký diện tử nếu văn bản đó có thông tin về người gửi, bảo đảm tính xáo thực về
+nguồn gốc và sự toàn vẹn của văn bản.
+2. Hình thức văn bản điện tử
+t) Thể thức và kỹ thuật trình bảy văn bản Đối với văn bản quy phạm pháp.
+luật thực hiện theo quy định của Nghị định 34/201 6/NĐ-CP ngày 14/3/2016 của.
+Chính phủ Quy định chi tiết nột số Điển và siện nháp thi hành Luật ban hành
+3
+văn bản quy phạm pháp luật; Đối với văn bản hành chính thực hiện theo quy định.
+của Thông tư số 01/2011/TT-BNV ngày 19/1/2011 của Bộ trưởng Bộ Nội vụ
+hướng dẫn thể thức và kỹ thuật trình bày văn bán hành chính.
+b) Sử dụng bộ mã các ký tự tiếng Việt theo tiêu chuẩn TCVN 6009/2001 để
+thể hiện các nội dung văn bản điện tử.
+3. Định dạng văn bản điện tử
+a) Định dạng các tài liệu là văn bản: 4xt, sưi “đoc: “docx, *.lod..
+b) Định dạng các tài liệu là báng tính: “.csv, xts, xãsx, ... ods.
+c) Định dạng các các tài liệu chỉ đọc: “pdf.
+d) Định dạng các tài liệu là đồ họa, đổ thị phục vụ quản lý chuyên ngành: “pp.
+4. Triển khai ứng dụng chữ ký số nhằm thay thế dần việc bắt buộc gửi tài
+liệu, văn bản hành chính dạng bán giấy (có chữ ký và đóng đất) bằng hình thức
+gửi văn bản điện tử được xác thực bằng chữ ký số qua mạng.
+5. Văn bản điện tử được xác thực bằng chữ ký số phái được thực hiện đúng
+theo quy định của pháp luật về giao dịch điện tử, Các loại tài liệu, văn bản hành.
+chính đã được xác thực bằng chữ ký số và gửi qua trôi trường mạng thì không
+phải gửi thêm văn bản giấy (ngoại trừ các tái liệu, văn bản theo quy định phải lai
+trữ bản giấy tại cơ quan nhận văn bản).
+Điền 6. Danh mục văn bản trao đổi hoàn toàn dưới dạng điện tử
+2. Các văn bản dưới đây phải được treo đối hoàn toàn dưới dạng điện tử:
+a) Trong phạm vi nội bộ cơ quan Nhà nước gồm: Văn bản cung cấp thông
+tin, văn bản phọc vụ chỉ đạo, điều hành của lãnh đạo; lịch công tác cơ qoan; cac
+chương trình, kế hoạch của cơ qoan, giấy mời hợp nội bội tài liệu phục vụ họp;
+văn bản để biết, để báo cáo, xin ý kiến; thông báo chung của cơ quang các tài hệu
+cần trao đổi trong quá trình xử lý công việc;
+b) Giữa các cơ quan Nhà nước với nhau gồm: Văn bản xin ý kiến, góp ý
+đối với dự thao văn bản; văn bản để biết, để bảo vào; báo cáo định ký, báo cáo số.
+liệu thống kê, tổng hợp; giấy mời họp, tài liệu phục vụ họp.
+2. Tài liện kèm theo văn bản xin ý kiến, góp ý, văn bản để biết, để báo cáo.
+báo cáo định kỳ, báo các số liệu thống kê, tổng hợp, tài liện phục vụ họp chí gửi
+dưới dạng bản điện tử.
+3. Các văn bản điện tử không được quy định tại Khoản 1 và Khoản 2 Điều
+này nhưng đáp ứng một trong các điều kiện sau:
+e) Đã được bên gửi xác thực bằng chữ ký số hợp lệ và gửi qua mạng đấp
+ứng các quy định của pháp luật về an toàn thông tin;
+b) Văn bản phù hợp với pháp luật về giao dịch điện tử;
+4
+c) Bảo đảm độ tin cây, tỉnh toàn vẹn và xác thực của văn bản điện tử từ khi
+văn bản được khởi tạo lần đầu dưới dạng hoàn chỉnh;
+đ) Nội dung văn bản điện tử đó có thể truy nhập, sử dụng được dưới dạng
+hoàn chính và có khả năng thực hiện đối chiếu với bản gốc khi được cơ quan có
+thẩm quyền yêu cầu.
+4. Các Sở, ban, ngành, đoàn thể và UBND các huyện, thành phố ban hành
+danh trục cụ thể các văn bản phải được trao đổi hoàn toàn dưới dạng điện tử đối
+với các đơn vị, tổ chức trực thuộc.
+Điều 7. Văn bản trao đổi dưới dạng điện tử và bản giấy
+1. Các văn bản dưới đây được trao đổi dưới dạng điện tử và bản giấy.
+a) Văn bản quy phạm pháp luật không phải văn bản mật;
+b) Văn bản, hồ sơ, tài liệu trình Tỉnh ủy, HĐND tỉnh và UBND tỉnh
+c) Văn bản hành chính giữa các Sở, ban, ngành, đoàn thể của tỉnh với nhau;
+giữa UBND cấp huyện với các Sở, ban, ngành của tỉnh (trú các văn bản quy định.
+tại Điểm b Khoản 1 Điều 6 Quy định này).
+d) Các loại văn bản không thuộc quy định tại Điều 6 nhưng bên gửi và bên
+nhận có đủ điều kiện kỹ thuật cho phép để trao đối dưới dạng điện tử.
+2. Các Sở, ban, ngành, đoàn thể của tỉnh và UBND các huyện, thành phố.
+ban hành danh mục cụ thể các văn bản phải được trao đổi dưới dạng điện tử và
+bản giấy đối với các đơn vị, tổ chức trực thuộc.
+Điều 8. Sử dụng chữ ký điện tử
+1. Chứng thư số dùng để ký văn bản điện tử chính thức của cơ quan Nhà.
+nước do Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên đảng cung cấp.
+và phải đáp ứng các yêu cầu của pháp luật về giao dịch điện tử.
+2. Cơ quan Nhà nước của tỉnh đã được cấp chứng thư số hợp lệ phải sử dụng
+chữ ký số để xác nhận văn bản điện tử cuối cùng trước khi chính thức ban hành.
+3. Nếu văn bản điện tử gửi từ tổ chức, cá nhân đến cơ quan nhà nước mà
+thông tin về bên gửi, bảo đảm tính xác thực nguồn gốc và toàn vẹn nội dung và
+bên nhận không yêu cầu thì không phải sử dụng chữ ký số.
+Điều 9. Kiểm tra, bảo đảm và duy trì tính toàn vẹn của văn bản điện tử
+1. Văn bản điện tử được kiểm tra tính toàn vẹn dựa trên các thông tin cơ bản
+sau đây:
+a) Tên, trích yếu của văn bản điện tử;
+b) Tên, địa chỉ bên gửi và bên nhận văn bản điện tử;
+c) Thời gian văn bản điện tử được chính thức phát hành, hoặc thời gian
+gửi, nhận văn bản điện tử;
+d) Thể thức, nội dung của văn bản điện tử;
+5
+e) Tệp dữ liệu chứa văn bản điện tử;
+) Chữ ký số của bên gửi trong trường hợp có sử dụng chữ ký số.
+2. Các cơ quan nhà nước khi phát hành văn bản điện tử phải áp dụng biện.
+pháp kỹ thuật để bảo đảm tính toàn vẹn của văn bản điện tử theo quy định của
+pháp luật.
+3. Cơ quan nhà nước phải áp dụng hiện pháp kỹ thuật duy trì tỉnh toàn vện
+của văn bản điện tử nhằm mục đích lưu trữ, tray nhập để đối chiếu xác định căn
+cứ sau này.
+Điều 10. Mã hóa văn bản điện tử
+1. Tùy theo tỉnh chất, nội dung văn bản mà các cơ quan có thể mã hóa văn
+bản điện tử.
+2. Việc mã hóa văn bản điện tử được thực hiện theo quy định của pháp.
+luật về mật mã
+Điều 11. Quy trình trao đổi văn bản điện tử
+1. Quy trình gửi văn bản điện tử
+a) Cơ quan nhà nước gửi văn bản điện tử phải thực hiện đăng ký rối mới
+nhuyển văn bản. Sau khi chuyển di, văn bản phải được theo dõi cho đến khi xác.
+nhận bên nhận đã nhận được văn bản.
+b) Văn bản điện tử đi phải được lưu ít nhất một bản có giá trị pháp lý.
+ương đương vào bệ thống lưu trữ ván bản điện tử của cơ quan, đơn vị trở
+trường hợp có thỏa thuận trước).
+c) Thời điểm gửi một văn bản điện tử tới bên nhận là thời điểm văn bản điện.
+từ được nhập vàn hệ thống thông tin nắm ngoài sự kiểm soát của bôn gửi và được
+hệ thống này xác nhận.
+2. Quy trình nhận văn bản điện tử
+a) Cơ quan nhận văn bản phải xác định nguồn gốc văn bản điện tử, đối.
+chiếu địa chỉ bên gửi; kiểm trả tỉnh hợp lẻ của văn bản điện tử; đảng ký văn bản
+điện tử đến và lưu vào hệ thống lưu trữ vào bản điện tử; chuyển giao văn bản điện
+từ đến người có thẩm quyền, đồng thời thông báo cho bên gói đã nhận được văn
+bản điện tử.
+b) Thời điểm nhận một văn bản điện tử là thời điểm văn bản điện tử được.
+nhập vàc hệ thống thông tin mà bên nhận có thể truy cập và sử dụng văn bản điện
+tử từ thời điểm đó hoặc thời điểm được bản nhận xác nhận. Việc tiếp nhận văn
+bản điện tử phải chỉ ra được thời gián gửi và thải kiểm tra được tỉnh roà t vận
+của văn bản.
+c) Tình họp lệ của văn bản được kiểm tra dực trên cấn trúc, khuôn dạng
+đã thống nhất.
+6
+đ) Văn bản điệu tử gửi đến cơ quan nhà nước phải được tiếp nhận như:
+một văn bản hoàn chính, riêng biệt, rử trường hợp bên nhận và bên gửi có
+thống nhất khác.
+e) Trường hợp yêu cầu lưu trữ văn bản dưới dạng văn bản giấy nếu văn
+bản điện tư đến đáp ứng các yêu cấn quy định tại Khoản 3 Điều 6 Quy định này
+và đã được lưu trữ trong hệ thống lưu trữ vàn bản điện tử của cơ quan nhà nước
+thi có thể được in ra giấy để đóng số quản lý, lưu vào Lưu trữ của cơ tuan thư:
+đối với văn bản giấy thông thường.
+g) Việc chuyển giao văn bản phải đảm bảo tính chính xác và giữ gìn nội
+dung văn bản.
+h) Bên nhận có trách nhiệm thông báo ngay bằng phương tiện điện tử cho
+bên gửi về việc đã nhận văn bản bản điện tử sau khi nhận văn bản đó.
+Chương III
+XỬ LÝ VĂN BẢN ĐIỆN TỬ
+Điều 12. Xử lý chung đối với văn bản điện tử
+1. Lãnh đạo cơ quan hoặc người được ủy quyền khi nhận được văn bản đến
+từ Văn thư cơ quan, xem xét, nghiên cứu nội dung văn bản và chuyển đến sá nhân,
+đơn vị xử lý theo thẩm quyền qua môi trường mạng theo quy định nội bộ cơ quan.
+2. Các cơ quan có trách nhiệm tận dụng tối đa môi trường mạng để xử lý,
+hưu chuyển văn bản trong quá trình xử lý, bảo đảm giảm thời gian, chi phí xử lý.
+các thủ tục hành chính.
+3. Lãnh đạo cơ quan có trách nhiệm theo dõi thường xuyên tình trạng xử lý.
+văn bản đết trên môi trường mạng để có chỉ đạo kịp thời trong quá trình xở lý.
+công việc.
+Điều 13. Xử lý văn bản điện tử được trao đổi qua hệ thống quản lý văn
+bản và điều hành
+1. Xử lý văn bản đến
+a) Trường hợp tiếp nhận văn bản đến dạng bản giấy: Văn the tiến hành
+quét văn bản đến (trăn máy quét), cập nhật thông tin tiếp nhận trên phần mềm và
+chuyển lãnh đạo xử lý theo quy trình xử lý nội bộ của cơ quan.
+b) Trưởng hợp văn bản đến là văn bản điện tử được gửi liên thông từ cơ
+quan khác: Văn thư trong giờ làm việc phải thường xuyên tray cập vào phần mềm:
+quản lý văn bản và điều hành để luôn sắn sàng tiếp nhận văn bản đến Khi nhận
+được văn bân đến, văn thư tiến hành kiểm tra tỉnh hợp lệ của văn bản (bao gồm cả
+chữ tý số, trong trường hợp có sử dụng chữ ký số), cập nhật thông tin tiếp nhận
+vào phẩn mầm, chuyển lãnh đạc xử lý theo quy trình xử lý nội bộ của cơ qua t.
+c) Cập nhật thông tin đầu vào của văn bản đến bao gồm các mục cơ bản
+như sau: Số thủ tụ (số đến); ngày đếng cơi gử; số và ký hiệu văn bản, ngưy tháng
+7
+văn bản; tên loại văn bản; lĩnh vực; trích yến nội dung văn bản; họ tên người ký.
+và chức vụ; tỉnh chất (mức độ khẩn); nơi lưu; gửi chú và những đội dung khác
+thấy cần thiết.
+2. Xử lý văn bản đi
+a) San khi văn bản phát hành được phê duyệt (bằng chữ ký số), lãnh đạc cơ
+quan chuyển văn thư thực hiện ín ấn, trình kỷ văn bản giấy để ban hành.
+b) Khi có văn bản được ban hành, văn thư thực hiện cập nhật thông tin phát
+hành trên phần mềm và gửi vàn bản qua môi trường mạng, đồng thời gửi kèm văn
+bản giấy (đã kỷ và đông đấn) đối với những văn bản được quy định tại Điều 7 cửa
+Quy định này. Việc lưu trở hồ sơ văn bản giấy tại cơ quan đối với văn bản phát:
+hành (văn bản đi) thực hiện theo quy định.
+c) Cập nhật thông tin đầu vào của văn bản đi bao gồm các mục cơ bản như.
+sau: Tên loại văn bản, số và ký hiệu văn bản, ngày tháng văn bản; ngày gửi văn
+bản; lĩnh vực, tính chất văn bản (thao mức đê khẩn); chức vụ và họ lên người kỳ.
+văn bản; trích yếu cội dung văn bản; nơi nhận; số lượng bản phát bánh; số trang tháng phố trình
+tập tin đình kèm; thông tin ghi chú (tùy theo đặc thủ của từng cơ quan, tổ chức)
+và những nội dung khác thấy cần thiết.
+3. Xử lý ủy quyền
+a) Hệ thống quản lý văn bản và điều hành thiết lập chức năng xử lý ủy
+quyền bằng cách cho phép sử dụng một dài khoản để xử lý văn bản được gửi tời
+tài khoản khác trên hệ thống.
+b) Quá trình xử lý ủy quyền được hệ thống quản lý văn bản lưu nhật ký và
+thông báo đến các tài khoản có liên quan kết quả xử lý.
+c) Chế độ trách nhiệm trong trường hợp xử lý ủy quyền được áp dụng
+theo quy định của pháp luật về chế độ trách nhiệm đối với người đứng đầu cơ
+quan, tổ chức, đơn vị của Nhà nước trong thì hành nhiệm vụ, công vụ.
+4. Sử dụng hệ thống quản lý văn bản và điều hành
+a) Đối với cá nhân: Bảo vệ mật khẩu tài khoản hệ thống quản lý văn bản và
+điể: hành; chịn trách nhiện về hành vi, nội dung văn bản được trao đối từ tài
+khoản hệ thống đã được cấp; quản lý và lưu trữ các văn bản đã được xử lý trên bộ
+thống quản lý văn bản và điều hành; thông báo ngay cho bộ phận phụ trách công
+nghệ thông tin nếu gặp sự cố khi sử dụng hệ thống quản lý văn bản và điều hành.
+b) Đối với cơ quan Nhà nước: Thiết láp quy trình xử lý văn bản trên hệ
+thống quản lý văn bản; xây dụng quy trình báo mật thông tin; xử lý và khắc phục
+các sơ cố về kỹ thuật và lỗi trên hệ thống; thường xuyên sao lưa dữ liệu trên hệ
+thống quản lý văn bản và điều hành.
+Điều 14. Xử lý văn bản điện tử được trao đổi qua hệ thống thu điện tử
+công vụ
+1. Xử lý văn bản đến
+8
+a) Văn thư trong giờ làm việc phải truy cập vào hộp thư điện tử công vụ của
+cơ quan để luôn sẵn sàng tiếp nhận văn bán, điện tử được gửi đến từ các cơ quan.
+khác, các tổ chức, doanh nghiệp và cá nhân.
+b) Khi nhận văn bản điện tử đến, vân thư tiếu hành kiểm tra chữ ký số hoặc
+chữ ký và con đấu (đối với vân bán điện tử được quét từ bản chính của văn bản
+giấy), cập nhật văn bản vào phần mềm quản lý văn bản và điều hành và chuyển.
+lãnh đạo xử lý trên phần mềm hoặc chuyển trực tiếp đến hộp thư điện tử cả nhàn
+của lãnh đạo theo quy trình xử lý mội bộ của cơ quan.
+2. Xử lý phát hành văn bản đi:
+a) Sau khi văn bản được lãnh đạo cơ quan phê duyệt (bằng chữ ký số), văn.
+thư mở hộp thư điện tử công vụ của cơ quan để thực hiện thao tác gửi văn bản
+b) Trường hợp cần thiết phải gửi văn bản dạng bản giấy qua hệ thống thu
+điện tử công vụ, văn thư có trách nhiệm qué((sao) văn bản lưu theo dạng tập tán,
+và thực hiện gửi từ hộp thư điện tử công vụ của cơ quan.
+3. Xử lý văn bản điện tử của cán bộ, công chức, viên chức (gọi chung là
+công chức) được trao đổi qua hộp thư điện tử công vụ cá nhân
+a) Công chức bắt buộc phải sử dụng hộp thư điện tử công vụ được cấp để
+thực hiện trao đối văn bản điện tử trong quá trình thực thi công vụ. Hộp chư cá
+nhân phải thường xuyên có kiểm tra trong giờ làm việc, ít chất 5 lần trong ngày
+Húc dần giờ sảng, cuổi buổi sáng và cuối buổi chiều các ngày làm việc) tế tếp.
+nhận, nắm bắt nội dung, xử ý công việc và hỏi đáp kip thời thư điện tử của các cai
+quan, tổ chức, doanh nghiệp và cá nhân khác.
+b) Khi tham gia trong hệ thống thư điện tử công vụ, công chức làm việc.
+trong, các cơ quan nhà mước chỉ sử dụng hộp thư điện tử công vụ được cấp cho:
+minh để gửi văn bản điện tử và phải chịu trách nhiệm về nội dung thu điện tử gửi
+đi từ hộp thư này;
+4. Văn bản điện tử trao đổi qua thư điện tử phải được quản lý và lau trữ đầy
+đủ bằng hệ thống thông tin ngoài hệ trống thư điện tử, bảo đảm độ tin cậy, tỉnh
+toàn vẹn và xác thực của văn bản.
+5. Trong trường hợp có yêu cầu bảo mật thông tin đối với văn bản diện tử.
+được gửi đi, tủy thuộc mức độ bảo mật toả các kỹ thuật mã hóa văn bản điện tử Lỹ
+thuật tạo mật khẩu phải được áp dụng để mã hóa phần đình kèm hoặc hoàn bộ nội
+dung thông tin thư điện tử.
+5. Cơ quan, tổ chức hoặc cá nhân được giao quản lý, vận hành lệ thống thư.
+hiện tử không được con thiệp, làm thay đổi giá trị pháp lý, tính toàn vẹn và bảo mạt:
+của văn bản điện tử được trao đổi trên hệ thống này.
+Điều 15. Xử lý văn bản điện tố được trao đổi qua Cổng (Trang) thông
+tin điện tử
+1. Cổng thông tin điện tử của tỉnh, Trang thông tin điện tử của các cơ quan, đon
+vị đảm bảo cung cấp các thông tin, dịch vụ công trực tuyến theo Quy định tại Nghị
+9
+địm số 45/2011/NĐ-CP ngày 13/8/2011 của Chính phủ về việc cung cấp thông tin và
+địch vụ công trực tuyển trên trang thông tin điện tử hoặn công thông tin điện tử của cơ
+quan nhà nước và các văn bản hướng dẫn liên quan có thẩm quyền.
+2. Đối với các văn bản dự tbản cần lấy ý kiến trước khi ban hành, các cơ.
+quan thực biện cung cấp nội dung căn bản dự thảo lân trên Cồng (trangì thông tin
+điện tử của cơ quan để tạo thuận lợi cho việc tiếp cận và tham gia góp ý từ phía các
+đối lượng liên quan, đồng thời cung cấp các công cụ, phương tiện để việc tiếp nhận
+các ý kiến được thuận lợi, chính xác.
+Chương IV
+LƯU TRỮ VĂN BẢN ĐIỆN TỬ
+Điều 17. Điều kiện của văn bản điện tử được lưu trữ
+1. Việc lưu trữ đối với văn bản điện tử phái được thực hiện theo quy định.
+của pháp luật về văn thư, lưu trữ.
+2. Văn bản điện tử của cơ quan Nhà nước khi được đưa vào hồ sơ lưu trữ
+phải đáp ứng các điều kiện sau đây:
+a) Nội dung của văn bản điện tử đó có thể truy nhập và sử dụng được để
+tham chiếu khi cần thiết;
+b) Nội dung của văn bản điện tử đó được lưu trong chính khuôn dạng mà
+nó được khỏi tạo, gửi, phận hoặc trong khuôn dạng cho phép thể hiện chính xác:
+hình thức, nội dung văn bản đó.
+c) Tính an toàn bảo mật, toàn vẹn, đấy đủ của văn bản điện tử không bị
+thay đổi, sai lệch trong suốt thời gian lưu trữ;
+đ) Văn bản điện từ đó được lưu trữ theo một cách thức nhất định cho pháp
+xác định nguồn gốc khởi tạo, nơi đến, ngày giờ gửi hoặc nhận thông điệp dã liệu
+3. Cơ quan Nhà nước căn cứ vào đặc thù hoạt động và khả năng ứng dụng.
+công nghệ thông tin của cơ quan, đơn vị mình để lựa chọn và áp dụng hình thức
+bảo quản, lưu trữ văn bản điện tử cho phù hợp.
+4. Thẩm quyền cho phép đọc, sao chép, chứng thực văn bản lực trữ điện.
+tử được thực hiện như đối với tài liện lưu trữ.
+5. Văn bản lưu trữ điện tử hết giá trị được húy theo thẩm quyền, thủ tục
+như tài liệu lưu nữ trên các vật mang tin khác hết giá trị, Việc hủy văn bản lư
+trữ điện tử phải được thực hiện đối với toán bộ hồ sơ thuộc Thanh trọc tài liêu bến
+giá trị đã được phê duyệt và phải bảo đảm thông tin đã bị hủy không thể khội
+phục lại được.
+6. Nghiêm cấm truy cập, thay đổi, giả mạo, sao chép, tiết lệ, gửi, hủy toái
+phép văn bản hu trữ diện tả và lài liêu liên quan trong quá trình trao đồi, xử lý.
+lưu trữ.
+10
+7. Trường hợp văn bản trao đổi quy định tại Điều 7 Quy định này phải
+được lưu trữ dưới cả bai hình thức văn bản giấy và văn bản điện tử
+8. Cơ quan Nhà nước phải thường xuyên kiểm tra công tác sao, lưu bảo
+quản văn bản điện tử.
+Điều 18. Quy trình lưu trữ văn bản điện tử
+1. Thu thập văn bản điện tử
+a) Cơ quan, đơn vị khi lập danh mục hồ sơ cơ quan cần xác định rõ các bồ
+sơ được lưu trữ dưới dạng điện tử.
+b) Căn cứ vào danh mục hồ sơ điện tử của cơ quan, đơn vị, công chức phụ
+trách có trách nhiệm mở hồ sơ, thu thập và cập nhật tất cả văn bản, rải liệu diện tử
+hình thành trong quá trình theo dõi, giải quyết công việc vào hồ sơ tương ứng.
+c) Các thông tin, dữ liệu phát sinh trong quá trình trao đổi, xử lý văn bản
+điện tử phải được cấp nhật thống nhất và phù hợp với quy định sử dụng của mỗ:
+hệ thống thông tin nhằm đảm bảo việc lưu trữ được thuận lợi.
+d) Bảo quản văn bản điện tử được thực hiện theo quy định của pháp luật về
+lưu trữ điện tử.
+2. Nộp lưu trữ văn bản điện tử
+a) Việc nộp lưu trữ và thực hiện lưu trữ văn bản điện tử được thực hiện.
+theo quy định về lưu trữ văn bản điện tử trong cơ quan hành chính nhà nước.
+b) Khi giao nhận văn bản điện tử, lưu trữ cơ quan, lựa trữ lịch sử phải kiểm
+tra tỉnh xác thực, tính toàn vẹn và khả năng truy cập của văn bản điện tờ. Hồ sơ
+điện tử phải đảm bảo đúng nội dung, cấu trúc, không bị hư hóng hay mất dữ liệu:
+3. Việc lưu trữ và quản lý văn bản điện tử được thực hiện theo cơ chế lượ.
+trữ của các hệ thống thông tin đang áp dụng kết hợp với các ràng buộc về phân
+cấp, phản quyền người sử dụng và mức độ an toàn, bảo mật của thông tin, 03
+liện. Đối với cơ quan chưa có các hệ thống thông tin phục vụ trao đổi trẻn môi
+trường mạng theo Điều 4 Quy định này thì việc tạo lập và quản lý được thác hiện
+trên máy tính của cơ quan.
+Điều 19. Hủy văn bản điện tử
+1. Văn bản điện tử hết giá trị được hủy theo thẩm quyền. Việc hủy văn bản.
+điện tử phải được thực hiện đối với toàn bộ hồ sơ thuộc danh mục hồ sơ hết giá trị đã
+được phê duyệt và phải đảm bảo thông tin đã bị hủy không thể khỏi phục lại được.
+2. Cơ qoan, đơn vị, cá nhân chỉ được hủy văn bản điện tử sau khi hoàn
+thành việc giao nộp lưu
+Chương V
+TỔ CHỨC THỰC HIỆN
+Điều 20. Trách nhiệm của Văn phòng UBND tỉnh Ninh Bình
+11
+
+1. Chủ trì, phối hợp với Sở Thông tin và Truyền thông và các cơ quan liên.
+quan tổ chức, hướng dẫn triển khai thực hiện Quy định này.
+2. Phối hợp Sở Thông tin và Truyền thông tổ chức kiểm tra, theo dõi, dôn đốc
+thực hiện Chỉ thị số 34/2608/CT-TTg ngày 31/2/2008 sủa Thủ tướng Chính phủ và
+việc tăng cường sử dụng hệ thống thư điện tờ trong hoặt động cha cơ quan 538
+nước; Chỉ thị số 15/CT-TTg ngày 22/05/2012 của Trủ tướng Chính phủ về việc táng
+cường sử dụng văn bản điện tử trong hoạt động của cơ quan nhà nướcvà Quy định
+này trên phạm vi toàn tỉnh.
+3. Đảm bảo duy trì các hệ thống thông tín dùng chung của tỉnh: Quản lý
+văn bản và điều hành, Cổng thông tin điện tử. Thư điệc tử và các hệ thống thông
+tín dùng chung khác hoạt đông an toàn, ổn định 24/24 giờ phục vụ tế: việc
+gửi/nhận văn bản điện tử trong hoạt động của các cơ quan Nhà nước.
+4. Chủ trì tham mưu cho UBND tỉnh điền chỉnh, bổ sung danh mục văn bản.
+gửi qua mạng thích hợp qua từng thời kỷ.
+Điều 21. Trách nhiệm của Sở Thông tin và Truyền thông
+1. Chủ trì, phối hợp với Văn phòng UBND tỉnh và các cơ quan liên quan tổ
+chức kiểm tra, đên đốc, tổng hợp báo cáo Ủy ban nhân dân tỉnh về kết quả thực
+huện trao đổi văn bản điện tử giữa các cơ quan Nhà nước; Định kỳ 6 tháng, báng năm
+tổ chức đánh giá việo chấp hành: Quy định này trên phạm vi toàn tỉnh.
+2. Chủ trì, hướng dẫn các đơn vị triển khai ứng dụng chữ ký số trong trao.
+đổi văn bản điện tử trên môi trường mạng.
+3. Triển khai công tác tuyên truyền, đào tạo, tập huấn nhằm nâng cao nhận
+thức, kỹ năng của các cán bộ, công chức, viên chức trong việc sử dụng vàn bản:
+điện tử trong công việc;
+4. Đề nghị Ủy ban nhân dân tỉnh khen thưởng hoặc phê bình Thủ trưởng cơ
+quan, đơn vị trong thực hiện chỉ đạo Quy định này.
+Điền 22. Trách nhiệm của Sở Kế hoạch và Đầu tư và Sở Tài chính
+Bố trí đủ kinh phí từ ngân sách Nhà nước và các nguồn kinh phí hợp pháp
+khác cho các cơ quan Nhà nước để triển khai và duy trì các hệ thống; Quản lý văn
+hản và điều hành, Thư điện tử, Cổng thông tin điệu tử của tỉnh.
+Điều 23: Trách nhiệm của Sở Nội vụ
+1. Phối hợp với Văn phòng UBND tỉnh, Sở Thông tin và Truyền thông tổ
+nhức kiểm tre, theo dõi, đôn đốc thực hiện Quy định náy trên phạm vi toàn tích.
+2. Chủ trì, phối hợp với Sở Thông tin và Truyền thông nghiên cứu và tham.
+mưu cho UBND tỉnh ban hành các tiêu chí đánh giá trong việc xét thi đua, khenh.
+thưởng hàng năm cho các cơ quan Nhà nước triển khai thực hiện tốt Quy địch nàp.
+3. Phối hợp với Sở Thông tán và Truyền thông tham mưu cho UBND tỉnh
+ban hành quy định và hướng dẫn việc lưu trở, giao nộp và bảo quản văn bản điện
+tử, hồ sơ điện tử thống nhất trong toàn tỉnh.
+12
+Điều 24. Trách nhiệm của các cơ quan, đơn vị khác có liên quan
+1. Triển khai sử dụng các hệ thống thông tin tại Điều 4 Quy định này trong
+trao đối, lưu trữ, xử lý văn bản điện tử trong nội bộ cơ quan minh và khi trao đổi
+với cơ quan khác.
+2. Đảm bảo hạ tầng công nghệ thông tin tại cơ quan, đơn vị minh đáp ứng
+yêu cầu trao đổi, lưu trữ, xử lý văn bản điện tử.
+3. Triển khai số hóa các văn bản, tài liệu lưu trữ phục vụ việc trao đổi, tra
+cứu, tìm kiểm và xử lý thông tin của cán bộ, công chức, viên chức qua mạng.
+4. Tuân thủ các tiêu chuẩn về ứng dụng công nghệ thông tin trong hoạt.
+động của cơ quan Nhà nước, các quy định về an toàn, an ninh thông tin của quốc
+gia cũng như của tỉnh.
+5. Cung cấp công khai danh bạ thư điện tử của cơ quan, cán bộ, công chức,
+viên chức có thẩm quyền lên Cồng Thông tin điện tử tỉnh và Cổng thông tin điện
+tử của cơ quan mình.
+6. Đôn đốc và giám sát việc thực hiện Quy định này và báo cáo tình hình
+thực hiện định kỳ 6 tháng, 1 năm, báo các đột xuất theo yêu cấu gửa Sở Thông tin
+và Truyền thông để tổng hợp, báo cáo UBND tỉnh.
+Điều 25. Trách nhiệm của Thủ trưởng và cán hộ, công chức, viên chức,
+người bao động làm việc trong các cơ quan nhà nước thuộc thẩm quyền quản
+lý của Ủy ban nhân dân tỉnh Ninh Bình
+1. Thủ trưởng các cơ quan, đơn vị:
+s) Chịu trách nhiệm trước UBND tỉnh trong việc chỉ đạo thực hiện Quy.
+định này tại cơ quan, đơn vị thuộc phạm vi mình quản lý;
+b) Gương mẫu thực hiện việc quản lý, điều hành công việc qua mạng; chỉ
+dọc các cá nhân, đơn vị mình quản lý tăng cường trao đổi văn bản điện tử qua các
+hệ thống Quản lý văn bản, Thu điện tử và Cổng thông tin điện tử nhằm tiết kiệm:
+chi phí ản ấn, sao chụp tài liệu, văn bản hành chính; ưu tiên nguồn lực để triển
+khai công tác này;
+c) Thường xuyên kiểm trả, đánh giá việc sử dụng văn bản điện tử của cán
+bộ, công chức, viên chức trong công việc, cơi đây là trách nhiệm, quyền hạn của
+cán bộ, công chức, viên chức trong việc nâng cao hiệu quả hoạt động, thực hành
+tiết kiệm, cải cách hành chính; quy định rõ tiêu chí đánh giá, thao dõi và các hình
+thức khen thưởng, kỷ luật đối với bác đơn vị, cá nhân trong việc thực thi quy định:
+về sử dụng văn bản điện tử trong công việc.
+2. Cán bộ, công chức, viên chúc, người lao động:
+a) Thực hiện nghiêm các nội dung của Quy định này và quy định nội bộ.
+của các cơ quan.
+b) Tích cực sử dụng các công cụ, phương tiện điện tử, đặc biệt các hệ thống
+Quản lý văn bản và điều hành của cơ quan, Hộp thu điện tử công vụ, Hộp thự:
+13
+điện tử cá nhân đã được cấp có tên miền ginhhinh gov.vn để trao đối tài liện,
+văn bản trong quá trình xử lý công việc, trao đổi công việc với các tổ chức, cả
+nhân trong và ngoài cơ quan.
+c) Tích cực, chủ động thay đối lề lối làm việc dựa trên giấy tờ sang phong
+cách làm việc mới dựa trên môi trường điện tử để tiết kiệm thời gian, chi phí,
+nâng cao chất lượng công việc.
+d) Nghiêm túc thực hiện các quy định về đảm bảo an toàn, an ninh thông tia.
+Điều 26. Khen thưởng và xử lý vi phạm
+1. Tổ chức, cá nhân thực hiện tốt Quy định này và các quy định khác của
+pháp luật có liên quan được xét khen thưởng theo quy định hiện hành.
+2. Tổ chức, cá nhân không thực hiện hoặc thực hiện không đúng hoặc thực.
+hiện không đầy đủ các quy định của Quy định này, tùy theo tính chất, mức độ vi
+phạm sẽ bị xử lý theo quy định của pháp luật.
+Điều 27. Sửa đổi, bổ sung Quy định
+Trong quá trình thực hiện Quy định này, nếu có khó khăn, vướng mắc,
+phát sinh cần sửa đổi, bổ song, đề nghị các cơ quan, đơn vi kịp thời bảo cáo về
+Sở Thông tin yã Truyền thông để tổng hợp trình Ủy ban nhân dân tỉnh xem xét,
+quyết định./.
+TM. ỦY BAN NHÂN DÂN
+KT. CHỦ TỊCH
+PHÓ CHỦ TỊCH
+Tổng Quang Thìn
+14

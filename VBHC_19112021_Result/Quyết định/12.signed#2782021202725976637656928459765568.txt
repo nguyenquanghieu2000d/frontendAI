@@ -1,0 +1,237 @@
+Email: thongtinhhhuệnhtinhphu phú   Ký bởi: Cổng Thông tin điện tử Chính phủ
+Cơ quan: Văn phòng Chính phủ
+Thời gian ký: 09.06.2014 15:39:36 +07:00
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHIẢ VIỆT NAM
+TỈNH BẾN TRE   Độc Lập - Tự Do - Hạnh Phúc
+Số: 12 /2014/QĐ-UBND   Bến Tre, ngày 22 tháng 5 năm 2014
+QUYẾT ĐỊNH
+CÔNG THÔNG TIN ĐIỀN TỦ CHÍNH PHỦ   Ban hành Quy chế quản lý, sử dụng hệ thống thông tin
+quản lý văn bản và điều hành trên địa bàn tỉnh Bến Tre
+ỦY BAN NHÂN DÂN TỈNH BẾN TRE.
+Căn cứ Luật Tổ chức Hội đồng nhân dân và Ủy ban nhân dân ngày 2ở
+tháng 11 năm 2003;
+Căn cứ Luật ban hành văn bản quy phạm pháp luật của Hội đồng nhân
+dân và Ủy ban nhân dân ngày 03 tháng 12 năm 2004;
+Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005;
+Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006;
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của
+Chính phủ về ứng dụng công nghê thông tin trong hoạt động của cơ quan phả
+nước;
+heo đề nghị của Giám đốc Sở Thông tin và Truyền thông tại Tờ trình số
+235/TTr-STTTT ngày 21 tháng 4 năm 2014,
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy chế Quản lý, sử dụng hệ
+thống quản lý văn bản và điều hành trên địa bàn tỉnh Bến Tre.
+Điều 2. Chánh Văn phòng Ủy ban nhân dân tỉnh, Giám đốc Sở Thông tin
+và Truyền thông, Thủ trưởng các sở, ban, ngành tỉnh, Chủ tịch Ủy ban nhân đân:
+các luyện, thành phố chịu trách nhiệm thì hành Quyết định này.
+Quyết định này có hiệu lực sau 10 ngày kể từ ngày kỷ./.
+Nơi nhận:   NH C N BạN NHÂN DÂN
+- Như Điều 2;   - Bộ Thông tin và Truyền thông;   CâN TỊCH
+- Website Chính phủ;
+- Cục kiểm tra văn bản - Bộ TP (để kiểm tra);
+- TT.TU, TT.HĐND tỉnh (thay báo cáo);
+- Đoàn đại biểu Quốc hội tỉnh;
+- Chủ tịch, các PCT.UBND tỉnh;
+- Sở Tư pháp (tự kiểm tra);
+- Đài PTTH, Bảo Đồng khởi (để đưa tin);   Võ Thành Hạo
+- Các PCVP UBND tỉnh;
+- Wwebsite tỉnh;
+- Trung tâm Công báo tỉnh (2b);
+- Phòng Tiếp công dân (để niêm yết);
+- Phòng NC: VHXH, TH, TTTH;
+- Lưu: VT.
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHIA VIỆT NAM
+TỈNH BẾN TRE   Độc Lập - Tự Do - Hạnh Phúc
+QUY CHẾ
+Quản lý, sử dụng hệ thống thông tin quản lý văn bản
+và điều hành trên địa bàn tỉnh Bến Tre
+(Ban hành kèm theo Quyết định số 12 /2014/QĐ-UBND ngày
+22 tháng 5 năm 2014 của Ủy ban nhân dân tỉnh Bến Tre)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi và đối tượng áp dụng
+Quy chế này quy định việc quản lý, sử dụng hệ thống thông tin quản lý.
+văn bản và điều hành đối với các sở, ban, ngành tỉnh. Ủy ban nhân dân các
+huyện, thành phố trên địa bàn tỉnh Bến Tre.
+Điều 2. Giải thích từ ngữ
+Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:
+1. Công nghệ thông tin là tập hợp các phương pháp khoa học, công nghệ.
+và công cụ kỹ thuật hiện đại để sản xuất, truyền đưa, thu thập, xử lý, lưu trữ và
+trao đổi thông tin số.
+2. Ứng dụng công nghệ thông từ là việc sử dụng công nghệ thông tin vào
+các hoạt động thuộc tỉnh vực kinh tổ - xã hội, đối ngoại, quốc phòng, an ninh và
+các hoạt động khác nhằm nâng cao năng suất, chất lượng, hiệu quả của các hoạt
+động này.
+3. Thông tin số là thông tin được tạo lập bằng phương pháp dùng tán hiệu.
+số.
+4. Văn bản điện tử là văn bản được thể hiện dưới dạng thông điệp dữ.
+liệu.
+5. Mội trường cơng là môi trường trong đó thông tin được qung cấp.
+truyền đưa, thu thập, xử lý, bm trữ và trao đổi thông qua cơ sở hạ tầng thông
+tin.
+6 Phần mềm là chương trình máy tính được mô tả bằng hệ thống ký hiệu,
+mã hoặc ngôn ngữ để điều khiến thiết bị số thực hiện chức năng nhất định.
+7. Hệ thống thông tin quản lý văn bản và Điều hành Mọi tết là
+văn phòng điện tộ: là hệ thống thông tia được tạo lập gửi, nhận, lưu rử, biến.
+thị, thực hiện các xử lý vận bản; điều hành, chỉ đạo trên môi trường ngàng.
+Điều 3. Định dạng văn bản điện tử trên vận phòng điện tử
+1. Thể thức và kỹ thuật trình bảy văn bản thực hiện theo Trông tư liên
+tịch số 55/2005/TTLT-BNV-VPCP ngày 06 tháng 5 năm 2005 của Bộ Nội vụ
+2
+và Văn phòng Chính phủ hướng đẫ; về thể thức và kỹ thuật trình bảy văn bản
+và Thông tư số 01/2011/TT-BNV ngày 19 tháng 01 năm 2011 của Bộ Nôi vụ
+hướng dẫn thể thức vát kỹ thuật trình bày văn bản hành chính.
+2. Ký tự thể hiện trong văn bản điện tử thực hiện theo Quyết định số
+72/2009/QĐ-TTg ngày 10 tháng 6 năm 2002 của Thủ tướng Chính phủ về việc.
+thống nhất dùng Bộ mã các ký tự chữ Việt theo tiêu chuẩn TCVN 6909.2001
+(Bộ mã TCVN 6909:2001) trong trao đổi thông rân điện tử giữa các tổ chức các
+Đảng và Nhà nước.
+3. Văn bản điện tử gửi, nhận trên văn phòng điện tử phải được xác thực.
+bằng chữ ký số, trường hợp chưa có chữ ký số thả văn bản phải được chuyển đổi
+song định dựng số có phần mở rộng là pát (bằng phương pháp tùng máy quét
+hay phần mềm) và phái thể hiện được các thông tin như họ lên, chức vụ, chữ ký,
+đóng dấu, số văn bản, thời gian ban hành văn bản.
+Điều 4. Quy định bắt buộc trong việc sử dụng văn phòng điện tử
+1. Ủy ban nhân dân tỉnh chỉ đạo thống nhất sử dụng văn phòng điện tử tại
+các sở, ban, ngành tỉnh, Ủy ban nhân dân các huyện, thành phố để quản lý văn.
+bản và điều hành.
+Giá trị pháp lý của văn bản điện tử trên văn phòng điện tử thực hiện theo.
+Điền 35 của Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Thủ
+tướng Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan.
+nhà nước cụ thể như sau:
+a) Văn bản điện tử phù hợp với pháp luật về giao dịch điện tử có giá trị pháp lý
+tương đương với vẫn bản giấy trong giao dịch giữa các cơ quan nhà nước.
+b) Văn bản điện tử gửi đến cơ quan nhà nước không nhất thiết phải sử
+dụng chữ ký diện tsản văn bản đó có thông tin về người gửi, bảo đảm tỉnh xác
+thực về nguồn gốc và sự toàn viện của văn bản.
+2. Văn bản, hồ sơ có tính chất mật, tối mật và tuyệt mật thuộc Danh mục
+bí mật nhà nước, các đon thư khiếu nại, tế cáo; các thông tin có tỉnh chất nhạy.
+căm (những thông tin liên quan đến lĩnh vực dân tộc, tôn giáo, đối ngoại chưa
+có kết luận của cơ quan có thẩm quyền hoặc những tái liệu máng tỉnh chất đối
+truy không được cập nhật, lun trữ và xử lý trên văn phòng điện lứ
+3. Máy chủ được cải đặt văn phòng điện tử chỉ để gửi, nhận văn bản phục.
+vụ chỉ đạo điều hành, không dùng cho mục đích khác năm dảm bảo xử toàn, an:
+ninh thông tin
+4. Không sử dụng văn phòng điện tử để trao đối việc riêng, không liên.
+quan đến công việc.
+Điều 5. Quy trình xử lý, quản lý hồ sơ văn bản điện tử
+1. Quy trình xử lý văn bản điện tử đi, đến thực hiện theo Khoản 1, 2 Mục.
+II của Công văn số 139/VTLTNN TTTH ngày 04 tháng 3 năm 2009 của Cxe
+Văn thư và Lưu trữ Nhà nước về việc hướng dẫn quản lý văn bản đi, vàn bản đến.
+và lập hồ sơ trong môi trường mạng.
+3
+2. Việc lưu trữ văn bản, hồ sơ trên văn phòng điện tử phải thực hiện đúng
+theo quy định về công tác văn thư, lưu trữ hiện hành. Quản lý bồ so thực biện
+theo Khoản 3 Mục II và được suô tà chi tiết ở các Phụ tục kèm theo tại Công
+văn số 139/VTLTNN-TTTH ngày 04 tháng 3 năm 2009 của Cục Văn thư và
+Lưu trữ Nhà nước về hướng dẫn quản lý văn bản đi, vập bản đến và lập hồ sơ
+trong môi trường mạng.
+Chương II
+QUY ĐỊNH CỤ THỂ
+Điều 6. Gửi, nhận văn bản điện tử và lập hồ sơ lưu trữ
+1. Văn bản điện tử gửi đến cơ quan nhà nước phải được lưu trữ trên văn
+phòng điện tử (trừ các văn bản quy định tại Khoản 2, Điều 4 Quy chế này).
+đồng thời khi phát hành văn bản đi phải thực hiện phát hành trên văn phòng
+diện tải nhằm bảo đảm tính liên thông và thống nhất của hệ thống dữ liệu quản
+lý văn bản, hồ sơ công việc liên thông toàn tỉnh.
+2. Khi nhận được văn bản giấy từ các đơn vị ngoài tỉnh, các cơ quan
+không nằm trong hệ thống quản lý nhà nước hoặc cơ quan chưa được triển khai
+văn phòng điện tử thì cơ quan nhận phải tiến hành số hóa lưu trữ theo Điều 8
+của Quy chế này.
+3. Văn bản điện tử của cơ quan nhà nước phải được đưa vào bổ sơ lưu trữ
+theo cách bảo đảm tính xác thực, an toàn; và khá năng truy nhập văn bản điện tử
+đó
+Điều 7. Xác định thời gian văn bản đã nhận và văn bản đã gửi đi
+1. Thời điểm gửi một văn bản điện tử tới cơ quan nhà nước là thời điểm
+văn bản điện tử này nhập vào văn phòng điện tử nắm ngoài sự kiểm soát của
+người khởi tạo.
+2. Thời điểm nhận là thời điểm văn bản điện tử nhập vào văn phòng điện
+tử được chỉ định.
+3. Trường hợp ngoài giờ hành chính thì thời gian gửi, nhận một văn bản.
+được tính là thời gian bắt đầu giờ hành chính kế tiếp.
+Điều 8. Số hóa thông tin và lưu trữ dữ liệu
+1. Thông tin được tạo lập ra đều phải ở dạng số và lưu trữ theo quy định tại.
+Điều 2 Quy chế này để bảo đảm an toàn, đễ đảng quản lý, truy muập, từa kiểm thông.
+tin.
+2. Thông tin số phải được sao chép và lưu trữ định kỳ không quá 24 giờ
+tại từng cơ quan, đơn vị ứng dụng.
+3. Các cơ quan, đon vị cần có kế hoạch số hóa những nguồn thông tin
+chưa ở dạng số theo thứ tự ưu tiên về thời gian và tầm quan trọng.
+Điều 9. Biên chế cán bộ chuyên trách về công nghệ thông tin
+1. Các sở, ban, ngành tỉnh, Ủy ban nhân, dân các huyện, thành phố phải
+có tối thiếu một (01) cán bộ chuyên trách công nghệ thông tin (có trình độ từ kỷ.
+4
+Thuật viên trung cấp công nghệ thông tin trở lênh để tiấp nhận và bô trợ trong.
+quá trình triển khai ứng dụng công nghệ thông tin tại cơ quan.
+2. Các đơn vị thuộc các sở, ban, ngành tỉnh, các cơ quan chuyên môn
+thuộc Ủy ban nhân dân huyện, thành phố phải có ít nhất một (01) cán bộ am
+hiểu về công nghệ đông tin để tiếp nhận và hỗ trợ trong quá trình triển khai ứng.
+dụng công nghệ thông tin tại cơ quan.
+Điều 10. Các yên cầu đối với người sử dụng
+Cán bộ, công chức, viên chức tại các sở, ban, ngành tỉnh, Ủy ban nhân
+dân các huyện, thành phố phải có trình độ A tin học trở lên, được cáo tạo, tập.
+huấn sử dụng văn phòng điện tử.
+Điều 11. Xử lý trường hợp văn phòng điện tử bị lỗi
+Trong trường hợp văn phòng điện tử của cơ quan nhà nước bị lỗi, không
+bảo đảm tỉnh an toàn của văn bản điện tử thì rán bộ được phân công phụ trách
+văn phòng điện tử trong cơ quan có trách nhiệm: ,
+1. Thông báo ngay cho Thủ trường và người sử dụng trong cơ quan biết
+về sự cố, thời gian tạm dừng, thời gian bắt đầt sử dụng lại, các biện pháp tạm.
+thời được áp dụng trong thời gian tạtr đứng, các biện pháp cập nhật văn bản vào
+văn phòng điện tử khi bắt đầu sử dụng lại.
+2. Tiến hành các biện pháp cần thiết trong khả năng nhằm nhanh chóng
+khắc phục, giải quyết sự cố, phục hồi văn phòng điện tử.
+3. Thông báo ngay cho Sở Thông tin và Truyền thông để được hướng
+dẫn, khắc phục cần thiết.
+Chương III
+TỔ CHỨC THỰC HIỆN
+Điều 12. Trách nhiệm của Sở Thông tin và Truyền thông
+1. Đảm bảo văn phòng điện tử được vận hành thông suốt giữa các cơ
+quan nhà nước để gửi, nhận văn bản điện tử.
+2. Khi xảy rả các sự cố về an toàn thông tin
+a) Tuỳ theo mức độ sự cố, Sở Thông tin và Truyền thông hướng dẫn hoặc.
+điều phối lực tượng ứng cứu để tham gia kinh pự cố;
+b) Phối hợp với các đơn vị có liên quan để điều tra khắc phục sự cổ;
+c) Trường hợp có sự cố nghiêm trọng vượt quá khả năng khắc phục;
+phải báo các ngay cho Bộ Thông tin và Truyền thông để được hỗ trợ.
+3. Tổng hợp báo cáo về tình hình sử dụng văn phòng điện tử theo định kỳ.
+hàng quỹ cho Ủy ban nhân dân tỉnh và các cơ quan, đơn vị có liên quan.
+Điều 13. Trách nhiệm của người đứng đầu các cơ quan, đơn vị
+1. Người đứng đầu cơ quan, đơn vị có trách nhiệm chỉ đạo, kiểm tra việc.
+ứng dụng văn phòng điện tử vào xử lý công việc ở cơ quan, đơn vị mình; tăng
+5
+cường sử dụng văn bản điện tử, tùng bước thay thế văn bản giấy trong quản lý,
+điều hành và trao đổi thông tin.
+2. Chỉ đạo việc thiết lập cơ sở dữ liệc văn bản điện tử của cơ quan, phải cập
+nhật đầy đủ hoặc có đường liên kết đến các vân bản quy phạm pháp luật, văn bản
+chỉ đạo của cấp trên phục vụ cho việc tra cứu trên môi trường mạng của cán bộ,
+công chức, viên chức nhằm hạn chế việc sao chép văn bản giy nhận được tử cơ
+quan cấp trên đề gửi cho các cơ quan, tổ chức trực thuộc.
+3. Ban hành Quy chế sử dụng vàn phòng điện tử và chía sẻ thông tin sắt
+tại cơ quan mành; Quy chế cần thực hiện theo các nguyên tắc chính sau:
+a) Bảo đảm các yêu cầu về an toàn thông tin theo quy định tại Điều á1
+Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Thủ tướng Chính
+phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan thả nước và
+Quyết định số 22/2013/QĐ-UBND ngày 08 tháng 8 năm 2013 của Ủy bán nhân
+dân tỉnh Bến Tre về ban hành quy chế đảm bảo an toàn, an ninh thông tin trên
+môi trường mạng trong hoạt động của các cơ quan nhà nước trên địa bàn tỉnh.
+Bến Tre.
+b) Tuân thủ các hướng dẫn tại Công văn số 139/VTLTNN-TTTH ngày 04
+tháng 3 năm 2009 của Cục Văn thứ và Lan trữ Nhà nước về trướng dẫn quan lý
+văn bản để, văn bản đến và lập hồ sơ trong môi trường mạng.
+Điều 14. Thời gian thực hiện
+Bất đầu từ năm 2014, việc ứng dụng văn phòng điện tử trên trôi trường
+mạng trong cơ quan nhà nước được đưa vào chương trình công tác thường
+xuyên của các sở, ban, ngành tỉnh, Ủy ban nhân dân các huyện, thành phố trên
+địa bàn tỉnh Bến Tre.
+Điều 15. Điều khoản thì hành
+Thủ trưởng các sở, ban, ngành tỉnh, Chủ tịch Ủy ban nhân dân các huyện,
+thành phố chịu trách nhiệm thì hành Quy chế này.
+Trong quá trình tổ chức thực hiện, nếu có khó khân, vướng mắc cần phải
+sửa đổi, bổ sung đề nghị các cơ quan, đơn vị kịp thời báo cáo về Sở Thông tin
+và Truyền thông để tổng hợp, trình Ủy ban nhân dân tỉnh xem xét, giải quyết./.
+TM TY NAN NHÂN DÂN
+THà TỊCH
+Võ Thành Hạo
+6

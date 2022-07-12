@@ -1,0 +1,378 @@
+Ký bởi: Công Thông tin điện tử chính phủ
+Email: thongtinchinhphuachinhphu
+Cơ quạn: Văn phòng Chính phủ
+Thời gian ký: 09.1222015 10:0113+07:00
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH AN GIANG   Độc lập - Tự do - Hạnh phúc
+Số:40 /2015/QĐ-UBND   An Giang, ngày 17 tháng 11 năm 2015
+QUYẾT ĐỊNH
+Về việc ban hành Quy chế phối hợp kiểm tra, đối chiếu
+thông tin và sử dụng thông tin trong Cơ sở dữ liệu quốc gia
+tài sản nhà nước trên địa bàn tỉnh An Giang
+CÔNG THÒNG TIN ĐIỆN TỦ CHÍNH PHỦ
+ỦY BAN NHÂN DÂN TỈNH AN GIANG
+Căn cứ Luật Tổ chức Hội đồng nhân dân và Ủy ban nhân dân ngày 26.
+tháng 11 năm 2003;
+Căn cứ Luật Ban hành văn bản quy phạm pháp luật của Hội đồng nhân
+dân, Ủy ban nhân dân ngày 03 tháng 12 năm 2004;
+Căn cứ Luật Quản lý, sử dụng tài sản nhà nước ngày 03 tháng 6
+năm 2008;
+Căn cứ Nghị định số 52/2009/NĐ-CP ngày 03 tháng 6 năm 2009 của
+Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Quản
+lý, sử dụng tài sản nhà nước;
+Căn cứ Thông tư số 245/2009/TT-BTC ngày 31 tháng 12 năm 2009.
+của Bộ Tài chính quy định thực hiện một số nội dung của Nghị định số
+52/2009/NĐ-CP ngày 03 tháng 6 năm 2009 của Chính phủ quy định chi tiết và
+hướng dẫn thì hành một số điều của Luật Quản lý, sử dụng tài sản nhà nước;
+Căn cứ Thông tư số 09/2012/TT-BTC ngày 19 tháng 01 năm 2012 của Bộ
+Tài chính về việc sửa đổi, bổ sung một số điều của Thông tư 245/2009/TT-BTC
+ngày 31 tháng 12 năm 2009 của Bộ Tài chính quy định thực hiện một số nội
+dung của Nghị định số 52/2009/NĐ-CP ngày 03 tháng 6 năm 2009 của Chính.
+phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Quản lý, sử.
+dụng tài sản nhà nước;
+Căn cứ Thông tư số 198/2013/TT-BTC ngày 20 tháng 12 năm 2013 của
+Bộ Tài chính quy định việc quản lý, sử dụng, xử lý tài sản của các dự án sử dụng
+vốn nhà nước;
+Căn cứ Thông tư số 184/2014/TT-B1C ngày 01 tháng 12 năm 2014 của
+Bộ Tài chính hướng dẫn việc quản lý, sử dụng, khai thác Phần mềm Quản lý
+đăng ký tài sản nhà nước;
+Xét đề nghị của Giám đốc Sở Tài chính tại Tờ trình số 1199/TTr-STC
+ngày 21 tháng 10 năm 2015,
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy chế phối hợp kiểm tra,
+đối chiếu thông tin và sử dụng thông tin trong Cơ sở dữ liệu quốc gia về tài sản
+nhà nước trên địa bàn tỉnh An Giang.
+Điều 2. Quyết định này có hiệu lực thi hành sau 10 ngày kể từ ngày ký.
+Điều 3. Chánh Văn phòng Ủy ban nhân dân tỉnh, Giám đốc Sở Tài chính,
+Thủ trưởng các Sở, Ban ngành, Đoàn thể tỉnh. Chủ tịch Ủy ban nhân dân các
+huyện, thị xã, thành phố và và các tổ chức, cá nhân có liên quan chịu trách.
+- nhiệm thi hành Quyết định này./.
+Nơi nhận:   TM. ỦY BAN NHÂN DÂN
+- Website Chính phủ;   CHỦ TỊCH
+- Bộ Tài chính (b/c);
+- Cục kiểm tra văn bản - Bộ Tư pháp;
+- TT. TU, HĐND, UBND, UBMTTQ tỉnh;
+- Các Sở, Ban ngành, Đoàn thể tỉnh;
+- UBND các huyện, thị xã, thành phố;
+- Lãnh đạo VP.UBND tỉnh;
+- Báo An Giang, Đài PTTH An giang;
+- Website An Giang;
+- Trung tâm Công báo - Tin học;
+Vương Bình Thạnh
+- Lưu: VT, P.TH.
+2
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH AN GIANG   Độc lập - Tự do - Hạnh phúc
+QUY CHẾ
+Phối hợp kiểm tra, đối chiếu thông tin và sử dụng thông tin trong
+Cơ sở dữ liệu quốc gia về tài sản nhà nước trên địa bàn tỉnh An Giang
+(Ban hành kèm theo Quyết định số 40 /2015/QĐ-UBND
+ngày 17 tháng 11 năm 2015 của UBND tỉnh An Giang)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+1. Quy chế này quy định mối quan hệ phối hợp trong việc cung cấp thông
+tin để kiểm tra, đối chiếu kết quả đăng nhập dữ liệu tài sản nhà nước (trụ sở làm
+việc, cơ sở hoạt động sự nghiệp; xe ô tô các loại; tài sản khác nguyên giá theo số
+sách xế toán từ 500 triện đồng trở lên/01 đơn vị tài sản) và tài sản phục vụ công
+tác quản lý dự án (trụ sở lìm việc của Ban quản lý dự án, xe ô tô các loại, các tài
+sản khác đủ tiêu chuẩn là tài sản cố định theo quy định về tiêu chuẩn và nhận
+biết tải sản cố định trong cơ quan nhà nước, đơn vị sự nghiệp công lập và các tổ.
+chức có sử dụng ngân sách nhà nước) thuộc điện phải kê khai đăng ký vào Phần
+mềm Quản lý đăng ký tài sản nhà nước và sử dụng thông tin lưu giữ trong Cơ sở.
+dữ liệu quốc gia về tài sản nhà nước (sau dây gọi tắt là Cơ sở dữ liệc) trên địa
+bàn tỉnh An Giang.
+2. Việc phối hợp nhằm sử dụng thông tin trong Cơ sở dữ liệu vào các mục
+đích:
+a) Thực hiện báo cáo tình hình quản lý, sử dụng tài sản nhà nước, tài sản.
+phục vụ công tác quản lý dự án hàng năm theo quy định của Luật Quản lý, sử.
+dụng tài sản nhà nước và các báo cáo khác theo yêu cầu của cơ quan nhà nước
+có thẩm quyền;
+b) Đảm bảo công tác quản lý, sử dụng tài sản nhà nước, tài sản phục vụ.
+công tóc quản lý dự án được thực hiện công khai, minh bạch. Lập dự toán, xét
+duyệt quyết toán, quyết định, kiểm tra, kiểm toán, thanh tra việc đầu tư xây
+dựng, mua sắm, nâng cấp cải tạo, sửa chữa, sử dụng, xử lý (thu bồi, bản, điều.
+chuyển, thanh lý, tiêu hủy) tài sản nhà nước, tài sản phục vụ công tác quản lý dự
+tân không xem xét, quyết định hoặc trình cấp có thẩm quyền xeo xát, quyết định.
+việc xử lý tài sản của các dự án sử dụng vốn nhà nước khi tài sản phục vụ công
+3
+tác của dự án đó chưa được đăng nhập vào Phần mềm Quản lý đăng ký tài sản
+nhà nước.
+Điều 2. Đối tượng áp dụng
+Các cơ quan nhà nước, đơn vị sự nghiệp công lập, tổ chức chính trị, tố.
+chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ.
+chức xã hội - nghề nghiệp (sau đây gọi tắt là cơ quan, đơn vị, tổ chức).
+Điều 3. Nguyên tắc phối hợp
+Việc phối hợp giữa các cơ quan, đơn vị, tổ chức phải tuân theo nguyên tắc
+chặt chẽ, kịp thời, thống nhất, đảm bảo tính chính xác số liệu của cả tỉnh từng
+cấp và các cơ quan, đơn vị, tổ chức trong Cơ sở dữ liệu.
+Điều 4. Trách nhiệm các bên trong quan hệ phối hợp
+1. Sở Tài chính có trách nhiệm:
+a) Hướng dẫn chuyên môn nghiệp vụ liên quan đến Phần mềm Quản lý.
+đăng ký tài sản nhà nước của Bộ Tài chính cho các cơ quan, đơn vị, tổ chức.
+trong tỉnh;
+b) Tham mưu cho Ủy ban nhân dân tỉnh, Chủ tịch Ủy ban nhân dân tỉnh
+xử lý các cơ quan, đơn vị, tổ chức vi phạm quy định trong việc lập báo cáo kê
+khai, nhập dữ liệu, duyệt dữ liệu, khai thác, sử dụng thông tin theo quy định của.
+pháp luật;
+c) Thực hiện các nhiệm vụ khác theo hướng dẫn của Bộ Tài chính.
+2. Các Sở, Ban Ngành, Đoàn thể cấp tỉnh; Ủy ban nhân dân các huyện, thị
+xã, thành phố (sau đây gọi tắt là cơ quan chủ quản) có trách nhiệm:
+a) Xác nhận báo đáo kê khai của các cơ quan, đơn vị, tổ chức thuộc phạm
+vi quản lý;
+b) Tổng hợp, báo cáo biến động của tài sản nhà nước, tài sản phục vụ
+công tác quản lý dự án theo đúng thời hạn quy định;
+c) Thực hiện các nhiệu vụ khác theo quy định của pháp luật có
+liên quan.
+3. Các cơ quan, đơn vị, tổ chức được giao quản lý, sử dụng tài sản nhà
+nước, tài sản phục vụ công tác quản lý dự án có trách nhiệm:
+a) Lập báo cáo kê khai tài sản nhà nước, tài sản phục vụ công tác quản lý.
+dự án theo quy định;
+b) Thực hiện các nhiệm vụ khác theo quy định của pháp luật có
+liên quan.
+4
+Chương II
+QUY ĐỊNH CỤ THỂ
+Điều 5. Phối hợp trong việc lập, xác nhận Báo cáo kê khai, cập nhật
+dữ liệu tài sản nhà nước, tài sản phục vụ công tác quản lý dự án vào Cơ sở
+dữ liệu
+1. Hình thức báo các kê khai lần đầu:
+a) Hình thức báo cáo kê khai lần đầu đối với tài sản nhà nước:
+Cơ quan, đơn vị, tổ chức được giao quản lý, sử dụng tài sản nhà nước là
+trụ sở làm việc, cơ sở hoạt động sự nghiệp; xe ô tô các loại; tài sản khác có.
+nguyên giá theo sổ kế toán từ 500 triệu đồng trở lên/01 đơn vị tài sản có trách
+nhiệm lập báo cáo kê khai đăng ký theo đúng mẫu ban hành kèm theo Thông tư.
+số 09/2012/TT-BTC ngày 19 tháng 01 năm 2012 của Bộ Tài chính; cụ thể
+như sau:
+- Đối với trụ sở làm việc, cơ sở hoạt động sự nghiệp thực hiện kê khai.
+theo Mẫu số 01-ĐK/TSNN;
+- Đối với xe ô tô các loại thực hiện kê khai theo Mẫn số 02-ĐK/TSNN;
+- Đối với tài sản khác (không phải là trụ sở làm việc, cơ sở hoạt động sự.
+nghiệp, xe 6 tô các loạ) có nguyên giá theo sổ sách kế toán từ 500 triện đồng trở.
+lên/01 đơn vị tài sản thực hiện kê khai theo Mẫu số 03- ĐK/TSNN;
+b) Hình thức báo cáo kê khai lần đầu đối với tài sản phục vụ công tác
+quản lý dự án:
+Ban quản lý dự án được giao quản lý, sử dụng tài sản nhà nước là trụ sở.
+làm việc của Ban quản lý dự án; xe ô tô các loại; các tài sản khác đủ tiêu chuẩn
+là tài sản cố định theo quy định về tiêu chuẩn và nhận biết tài sản cố định trong
+cơ quan, đơn vị, tổ chức có sử dụng ngân sách nhà nước có trách nhiệm lập bảo
+cáo kê khai đăng ký theo đúng mẫu ban hành kèm theo Thông tr số
+198/2013/TT-BTC ngày 20 tháng 12 năm 2012 của Bộ Tài chính; cụ thể
+như sau:
+- Đối với trụ sở làm việc thực biện kê khai theo Mẫn số 01a-ĐK/TSDA)
+- Đối với xe ô tô các loại thực hiện kê khai theo Mẫu số 01b-ĐK/TSDA)
+- Đối với các tài sản khác (không phải là trụ sở làm việc, xe ô tô các loại).
+đủ tiêu chuẩn là định thực hiện kê khai theo Mẫu số.
+01c-ĐK/TSDA.
+2. Trường hợp báo cáo kê khai bổ sung:
+5
+Khi có sự thay đổi về tài sản nhà nước, tài sản phục vụ công tác quản lý.
+dự án đo đầu tư xây dựng, mua sắm mới, tiếp nhận lừ đơn vị khác về sử dụng.
+thanh lý, điều chuyển, bị thu hồi, tiêu hủy hoặc bản theo quyết định của cơ quan
+nhà nước có thẩm quyền; thay đổi mục đích sử dụng tài sản hoặc cơ quan được
+giao quản lý, sử dụng tài sản thay đổi tên gọi, chia tách, sát nhập theo quyết định:
+của cơ quan nhà nước có thẩm quyền; cơ quan, đơn vị, tổ chức có các thông tin
+thay đổi nêu trên lập báo cáo kê khai bổ sung trong thời hạn không quá 30 ngày.
+kể từ ngày có sự thay đổi.
+a) Trường hợp báo cáo kê khai bổ sung đối với tài sản nhà nước thực hiện
+theo đúng mẫu ban hành kèm theo Thông tư số 09/2012/TT-BTC ngày 19 tháng
+01 năm 2012 của Bộ Tài chính; cụ thể như sau:
+- Những tài sản được đầu tư xây dựng mới, mua sắm hoặc tiếp nhận
+về sử dụng tại sử dụng: thực hiện kê khai theo Mẫu số 01- ĐK/TSNN, Mẫu số
+02-ĐK/TSNN, Mẫu số 03-ĐK/TSNN;
+- Thay đổi thông tin về đơn vị sử dụng tài sản thực hiện kê khai theo Mẫu.
+số 04a-ĐK/TSNN;
+- Thay đổi thông tin về tài sản là trụ sở làm việc, cơ sở hoạt động sự.
+nghiệp thực hiện kê khai theo Mẫu số 04b-ĐK/TSNN;
+- Thay đổi thông tin về tài sản là xe ô tô thực hiện kê khai theo Mẫu số.
+04c-ĐK/TSNN;
+- Thay đổi thông tin về tài sản khác (không phải là trụ sở làm việc, cơ sở
+hoạt động sự nghiệp, xe ô tô các loạt) có nguyên giá theo số sách kế toán từ 500
+triệu đồng trở lên/01 đơn vị tài sản thực hiện kê khai theo Mẫu số 04d-
+ĐK/TSNN;
+- Xóa thông tin về tài sản trong Cơ sở dữ liệu thực hiện kê khai theo Mẫu.
+số 04đ-ĐK/TSNN.
+b) Trường hợp báo cáo kê khai bổ sung đối với tài sản phục vụ
+công tác quản lý dự án theo đúng mẫu ban hành kèm theo Thông tư số
+198/2013/TT-BTC ngày 20 tháng 12 năm 2013 của Bộ Tài chính; cụ thể
+như sau:
+- Đối với tài sản được đầu tư xây dựng mới, mua sắm hoặc tiếp nhận về
+sử dụng sau khi đã thực hiện báo cáo kê khai lần đầu: thực hiện.
+kệ khai theo Mẫu số Ol--DK/TSDA, Mẫu số 01r-ĐK/TSDA, Mẫu số.
+01c-ĐK/TSDA;
+- Thay đổi thông tin về tài sản việc thực hiện kê khai theo.
+Mẫu số 02a-ĐK/TSDA;
+6
+- Thay đổi thông tin về tài sản là xe ô tô thực hiện kê khai theo Mẫu số.
+02b-ĐK/TSDA;
+- Thay đổi thông tin về tài sản khác (không phải là trụ sở làm việc, xe ô tô.
+các loại) đủ tiêu chuẩn là tài sản cố định thực hiện kê khai theo Mẫu số 020.
+ĐK/TSDA;
+- Xóa thông tin về tài sản trong Cơ sở dữ liệu thực hiện kê khai theo Mẫn
+số 03/TSDA.
+3. Báo cáo kê khai đăng ký tài sản nhà nước, tài sản phục vụ công tác.
+quản lý dự án được lập thành 03 bộ và kèm theo bản sao các giấy tờ có liên quan
+đến tải sản báo cáo kê khai, gồm: giấy tờ liên quan đến nhà, đất đang sử dụng
+(đối với trụ sở làm việc, cơ sở hoạt động sự nghiệp); giấy đăng ký xe ô tô; biên
+bản nghiệm thu đưa tài sản vàn sử dụng (đối với tài sản khác có nguyên giá theo.
+số kế toán từ 500 triệu đồng trở lên/01 đơn vị tài sản, tài sản khác đủ tiêu chuẩn
+là tài sản cố định phục vụ công tác qoản lý dự án); gửi 02 bộ đến cơ quan chủ.
+quản, 01 bộ lưu tại cơ quan, đơn vị, tổ chức.
+4. Cơ quan chủ quản (cấp huyện thông qua phòng Tài chính-Kế hoạch).
+thực hiện xác nhận hồ sơ báo cáo kê khai tài sản của cơ quan, đơn vị, tổ chức
+thuộc phạm vi quản lý; gửi 01 bộ bồ sơ báo cáo kê khai tài sản đã có xác nhận
+đến Sở Tài chính, 01 bộ lưu tại cơ quan chủ quân.
+5. Sở Tài chính thực hiện việc đăng ký tài sản vào Phần mềm Quản lý.
+đăng ký tài sản nhà nước theo quy định.
+Điều 6. Phối hợp cung cấp thông tin để kiểm tra, đối chiếu kết quả kê
+khai đăng ký tài sản nhà nước, tài sản phục vụ công tác quản lý dự án
+1. Sở Tài chính có trách nhiệm cập nhật, kiểm tra, đối chiếu số liệu đã
+nhập vào Phần mềm Quản lý đăng ký tài sản nhà nước với hồ sơ báo cáo kê khai
+của cơ quan, đơn vị, tổ chức.
+2. Sau khi đối chiếu số liệu trong Cơ sở dữ liệu với hồ sơ báo cáo kê khai.
+của cơ quan, đơn vị, tổ chức; Sở Tài chính có trách nhiệm:
+a) In và gửi Phiều xác nhận thông tin trong Cơ sở dữ liệu về tài sản nhà
+nước” cho từng cơ quan, đơn vị, tổ chức được giao quản lý, sử dụng tài sản để rà
+soát, kiểm tra và xác nhận về tính chính xác của số liệu đã đăng nhập vào Cơ sở
+dữ liệu;
+b) In và gửi thông tin về đất đến Sở Tài nguyên và Môi trường để Sở Tài
+nguyên và Môi trường căn cứ bồ sơ địa chính đổi chiếu, kiểm tra các thông
+tin có liên quan (Trưởng hợp thông tin về đất của các cơ quan đơn vị, tổ chức đã
+đảng và có đấy đã giấy tờ theo quy định thì không phải gải lảy ý kiến
+xác nhận).
+7
+3. Cơ quan, đơn vị, tổ chức và Sở Tài nguyên và Môi trường có trách
+nhiệm đối chiếu, xác nhận thông tân nêu trên và gửi về Sở Tài chính trong thời
+hạn 30 ngày kể từ ngày nhận được đề nghị.
+Điều 7. Phối hợp trong công tác lập dự toán đầu tư xây dựng, mua
+sắm, nâng cấp, cải tạo, sửa chữa tài sản nhà nước, tài sản phục vụ công tác
+quản lý dự án
+1. Các cơ quan, đơn vị, tổ chức khi xây dựng kế hoạch mua sắm, đầu tư.
+xây dựng phải trình kèm thông tin về hiện trạng và số lượng tài sản nhà nước, tài
+sản phục vụ công tác quản lý dự án hiện có trong Cơ sở dữ liệu hoặc các thông
+tin cần thiết khác, trình cấp có thẩm quyền thẩm định, tổng hợp, phê duyệt dự
+toán.
+2. Các cơ quan, đơn vị, tổ chức khi xây dựng kế hoạch nâng cấp, cải tạo,
+sửa chữa tải sản nhà nước, tài sản phục vụ công tác quản lý dự án; trong quá
+trình lập dự toán ngân sách nhà nước phân bổ hàng năm cho hoạt động này phải
+trình kèm theo “Phiếu xác nhận thông tin trong Cơ sở dữ liệu về tài sản nhà
+nước” của tài sản từ thời điểm hình thành đến thời điểm lập dự toán, trình cấp có
+thẩm quyền thẩm định, tổng hợp, phê duyệt dự toán.
+3. Sở Tài chính, Sở Kế hoạch và Đầu tư kiểm tra hiện trạng và số lượng
+tài sản đã được trang bị của cơ quan, đơn vị, tổ chức đã đăng ký trong Cơ sở dữ.
+liệu. Nếu cơ quan, đơn vị, tổ chức chưa kê khai đăng ký tài sản nhà nước (trụ sở
+làm việc, cơ sở hoạt động sự nghiệp, xe ô tô các loại, tài sản khác có nguyên giá
+theo số sách kế toán từ 500 trệu đồng trở lên/01 đơn vị tài sản), tài sản phục vụ.
+công tác quản lý dự án (trụ sở làm việc của Ban Quản lý dự án, xe ô có các loại
+và tài sản cố định khác đủ tiêu chuẩn là tài sản cố định) theo quy định; Sở Tai
+chính đề nghị cơ quan, đơn vị, tổ chức kê khai bổ sung đầy đủ trước khi thực
+hiện thẩm định dự toán. Không xem xét kế hoạch đầu tư xây dựng, mua sắm,
+nâng cấp, cải tạo sửa chữa tái sản đối với những cơ quan, đơn vị, tổ chức có tài
+sản phải đăng ký nhưng không thực hiện kê khai vào Phần mềm Quản lý đăng.
+ký tài sản nhà nước.
+4. Các cơ quan có thẩm quyền thẩm dịch, tổng hợp, phê duyệt dự toán sử
+dụng thông tin về tài sản nhà nước, tái sản phục vụ công tác quản lý dự án đã kê
+khai trong Cơ sở dữ liệu để làm cơ sở xem xét kế hoạch đầu tư xây dựng, mua
+sắm, nâng cấp, cải tạo, sửa chữa tài sản.
+5. Trường hợp số liệu trong Cơ sở dữ liệu không phản ảnh đúng thực tế
+hiệc trạng kiểm tra thì đề nghị cơ quan, đơn vị, tổ chức được gieo quản lý, sử
+dụng tài sản nhà nước, tài sản phục vụ công tác quản lý dự án phải báo cáo điều
+chỉnh số liệu gửi cơ quan chủ quản và Sở Tài chính để thực hiện điều chỉnh.
+8
+trong Cơ sở dữ liệu trước khi xem xét kế hoạch đầu tư xây dựng, mua sắm, nâng
+cấp cải tạo, sửa chữa tài sản.
+6. Sở Tài chính có trách nhiệm cung cấp Phiếu xác nhận thông tin trong
+Cơ sỏ dữ liệu về tài sản nhà nước” khi cơ quan, đơn vị, tổ chức có yêu cầu.
+Điều 8. Phối hợp trong công tác xét duyệt quyết toán đầu tư xây.
+dựng, mưa sắm, nâng cấp, cải tạo, sửa chữa thì sản nhà nước, tài sản phọc
+vụ công tác quản lý dự án
+1. Cơ quan có thẩm quyền xét duyệt quyết toán (Sở Tài chính, phòng Tài
+chính - Kế hoạch) chỉ xem xét, thực hiện quyết toán đối với các tài sản thuộc đổi.
+tượng kê khai đăng ký sau khi tài sản đó đã được đăng ký vào Cơ sở dữ liệu.
+2. San khi quyết toán, nếu có chênh lệch về số liệu giữa Cơ sở dữ liệu với.
+giá trị duyệt quyết toán; thì cơ quan, đơn vị, tổ chức được giao quản lý, sử dụng
+tải sản có trách nhiệm lập báo cáo điều chỉnh số liệu theo mẫu quy định tại
+khoản 2 Điều 5 Quy chế này gửi cơ quan chủ quản xác nhận và gửi Sở Tài chính
+để thực hiện điều chỉnh trong Cơ sở dữ liệu.
+3. Sau khi có kết quả duyệt quyết toán, các đơn vị thực hiện bản giao đẩy.
+đủ hồ sơ liên quan đến tài sản nhà nước, tài sản phục vụ công tác quản lý dự án.
+đã thực hiện đầu tư, mua sắm cho cơ quan, đơn vị, tổ chức thụ hưởng tiếp tục
+theo dõi.
+Điều 9. Phối hợp trong công tác xử lý (thu hồi, bán, điều chuyển,
+thanh lý, tiêu hủy) tài sản nhà nước, tài sản phục vụ công tác quản lý dự án.
+1. Đối với tài sản nhà nước: cơ quan, đơn vị, tổ chức được giao quản lý,
+sử dụng tài sản nhà nước khi đề nghị xử lý tải sản (thu hồi, bán, điều chuyển,
+thanh lý, tiêu hủy) phải kèm theo Danh mục tài sản nhà nước đề nghị xử lý:
+theo Mẫn số 01- ĐM/TSNN, Mẫu số 02-DM/TSNNN, Mẫn số 03- DMTSNN ban.
+hành kèm theo Thông tư số 09/2012/TT-BTC ngày 19 tháng 01 năm 2012 của
+Bộ Tài chính, hoặc được in trực tiếp từ Cơ sở dữ liệu thông qua Phần mềm Quản
+lý đăng ký tài sản nhà nước.
+2. Đối với tài sản phục vụ công tác quản lý dự án: cơ quan, đơn vị, tố.
+chức được giao quản lý, sử dụng tài sản phục vụ công tác quản lý dự án có trách
+nhiệm kiểm kê tài sản và khi đề nghị xử lý tài sản (thu hồi, bán, điều chuyển,
+thanh lý, tiêu hày) phải kêm theo Danh mục tài sản nhà nước đề nghị xử lý”
+theo Mẫu số 04a-DM/TSDA, Mẫu số 04b- DM//TSDA, Mẫu số 04- DM/TSDAA
+Biên bản kiểm kê tài sản thực hiện theo Mẫu số 05a/TSDA ban hành kèm Thông
+tư số 198/2013/TT-BTC ngày 20 tháng 12 năm 2013 của Bộ Tài chính, hoặc
+được in trực tiếp tù Cơ sở dữ liệu thông qua Phần mềm Quản lý đăng ký tài sản
+nhà nước.
+9
+3. Sở Tài chính hướng dẫn thủ tục và có trách nhiệm cung cấp Danh mục
+tài sản nhà nước đề nghị xử lý từ Cơ sở dữ liệu khi cơ quan, đơn vị, tổ chức có
+yêu cầu.
+Điều 10. Phối hợp trong việc kiểm tra, kiểm toán, thanh tra việc chấp
+hành chế độ quản lý, sử dụng tài sản nhà nước, tài sản phục vụ công tác
+quản lý dự án
+1. Cơ quan thanh tra, kiểm tra, kiểm toán được sử dụng thông tin trong Cơ
+sử dữ liệu để thực hiện công tác kiểm tra, kiểm toán, thanh tra việc chấp hành
+chế độ quản lý, sử dụng tài sản nhà nước, tài sản phục vụ công tác quản lý dự
+án.
+2. Sở Tài chính chịu trách nhiệm cung cấp hồ sơ về tài sản nhà nước, tài
+sản phục vụ công tác quản lý dự án án trực tiếp từ Cơ sở dữ liệu khi có yêu cầu.
+của cơ quan thanh tra, kiểm tra, kiểm toán.
+Điều 11. Phối hợp trong công tác báo cáo tình hình quản lý, sử dụng
+tài sản nhà nước theo quy định của pháp luật về quản lý, sử dụng tài sản
+nhà nước, tài sản phục vụ công tác quản lý dự án
+1. Hảng năm, cơ quan, đơn vị, tổ chức được giao quản lý, sử dụng tài sản
+nhà nước có trách nhiệm lập, gửi báo cáo tình hình cuản lý, sử dụng tài sản nhà
+nước của năm trước đối với các tài sản quy định tại Khoản 2 Điều 32 Nghị định.
+số 52/2009/NĐ-CP ngày 03 tháng 6 năm 2009 của Chính phủ và tài sản phục vụ
+công tác quản lý dự án, gửi cơ quan chủ quán trực tiếp trước ngày 31 tháng 01
+hàng năm.
+2. Cơ quan chủ quân lập báo cáo tình hình quản lý, sử dụng tài sản nhà
+nước, tài sản phục vụ công tác quản lý dự án tại các cơ quan, đơn vị, tổ chức
+thuộc phạm vi quản lý gửi về Sở Tài chính trước ngày 28 tháng 02 hàng năm.
+3. Sở Tài chính tổng hợp và dự tháo báo cáo tình hình quản lý, sử dụng tài
+sản nhà nước, tái sản phục vụ công tác quản lý dự án trên phạm vi toàn tỉnh trình.
+Ủy ban nhân dân tỉnh để báo các Bộ Tài chính trước ngày 15 tháng 3 hàng năm.
+4. Để đảm bảo số liện báo cáo được thống nhất, Sở Tài chính thực hiện
+việc khóa toán bộ số liệp tài sản thuộc phạm vi quản lý trong Cơ sở dữ liệu để
+báo cáo vào ngày 30 tháng 01 hàng năm. Các cơ quan, đơn vị, tổ chức chưa
+nhập dữ liệu tăng, giảm tài sản của năm báo cáo vào Phần mềm phải chịu trách.
+nhiệm trước Chủ tịch Ủy ban nhân dân tỉnh.
+5. Nội dung báo cáo tình hình quản lý, sử dụng tài sản nhà nước thực hiện
+theo hướng dẫn tại Điều 18 Thông tư số 245/2009/TT-BTC ngày 31 tháng 12
+năm 2009 và Điều 5, Điều 6 Thông tư số 09/2012/TT-BTC ngày 19 tháng 01
+năm 2012 của Bộ Tài chính và các quy định pháp luật khác có liên quan.
+10
+6. Các biểu mẫu kèm theo báo cáo phải được kết xuất từ Cơ sở dữ liệu.
+Chương III
+TỔ CHỨC THỰC HIỆN
+Điều 12. Khen thưởng và xử lý vi phạm
+Các cơ quan, đơn vị, tổ chức, cá nhân thực hiện tốt những nội dung của
+Quy chế này thì được khen thưởng. Các cơ quan, đơn vị, tổ chức, cá nhân vi
+phạm các quy định tại Quy chế này thì tùy theo mức độ vi phạm mà có hình.
+thức xử lý theo quy định của pháp luật.
+Điều 13. Trách nhiệm tổ chức thực hiện
+1. Giao cho Sở Tài chính tổ chức hướng dẫn, kiểm tra việc thực hiện Quy.
+chế này; định kỳ hàng năm tổng hợp tình hình báo cáo Ủy ban nhân dân tỉnh.
+2. Các Sở, Ban, Ngành, Đoàn thể cấp tỉnh; Ủy ban nhân dân các huyện,
+thị xã, thành phố và Thủ trưởng các cơ quan, đơn vị, tổ chức có trách nhiệm.
+triển khai, thực hiện những quy định tại Quy chế này.
+Trong quá trình thực hiện, nếu có phát sinh vướng mắc, các aơ quan, đơn
+vị, tổ chức phản ánh kịp thời về Sở Tài chính để tổng hợp, để xuất Ủy ban nhân.
+dân tỉnh xem xét, sửa đổi, bổ sung cho phù hợp./.
+TM. ỦY BAN NHÂN DÂN
+CHỦ TỊCH
+Vương Bình Thạnh
+11

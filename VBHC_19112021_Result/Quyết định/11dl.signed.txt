@@ -1,0 +1,831 @@
+Ký bởi: Cổng Thông tin điện tử Chính phủ
+Email: thongtinchinhphuặchinhphu.vn
+Cơ quan: Văn phòng Chính phủ
+Thời gian ký: 31.07.2019 10:18:54 +07:00
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH ĐẮK LẮK   Độc lập - Tự do - Hạnh phúc
+Số: 11 /2019/QĐ-UBND   Đắk Lắk, ngày 21 tháng 6 năm 2019
+QUYẾT ĐỊNH
+Ban bành Quy chế quản lý, cung cấp và sử dụng Cổng Dịch vụ hành chích
+công trực tuyến tích hợp Một cửa điện tử liên thông tỉnh Đắk Lắk
+
+ỦY BAN NHÂN DÂN TỈNH ĐẮK LẮK
+Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015;
+Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005;
+Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006;
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2002 của
+Chính phủ về việc ứng dựng công nghệ thông tin trong hoạt động của cơ quax
+nhà nước;
+Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 của
+Chính phủ Quy định về việc cung cấp thông tin và dịch vụ công trực tuyến
+trên Trong thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan
+nhà nước;
+Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của
+Chích phá về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết
+thủ tục hành chính;
+Căn cứ Quyết định số 45/2016/QĐ-TTg ngày 19 tháng 10 năm 2016 của
+Thủ tướng Chính phủ về việc tiếp nhận hồ sơ, trả kết quả gải quyết thủ tục hành
+chính qua dịch vụ bưu chính công ích;
+Căn cứ Quyết định số 28/2018/QĐ-TTg ngày 12 tháng 7 năm 2018 các
+Thủ tướng Chính phủ về việc gửi, nhân văn bản điện tú giữu các cơ quan trong
+hệ thống hành chính nhà nước;
+Căn cứ Thông tư số 32/2017/TT-BTTTT ngày 15 tháng 11 năm 2017 của
+Bộ trưởng Bộ Thông tin và Truyền thàng quy định về việc cang cấp dịch vụ công
+trực nuyến và bảo đảm khả năng truy cập thuận tiện đối với Trong thông tin điệm
+tử hoặc Cổng thông tin điện tử của cơ quan nhà nước;
+Căn cứ Thông tư số 01/2018/TT-VPCP ngày 23 tháng 11 năm 2018 của
+Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ hướng dẫn thi hành một số quy:
+định của Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính
+phủ về thực hiện cơ chế một của, một cáo liên thông trong giải quyết thả tục
+hành chính;
+2
+Theo đề nghị của Ciám đốc Sở Tháng tin và Truyền thông tại Tờ trình số.
+28/TTr-STTTT ngày 22 tháng 3 năm 2019.
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, cung cấp và
+sử dụng Cổng Dịch vụ hành chính đông trực tuyển tích hợp bột của điện tử liên
+thông tỉnh Đắk Lắk
+Điều 2. Giao Sở Thông tin và Truyền thông chủ trì, phối hợp với các sở,
+ban, ngành; Ủy ban nhân dân các huyện, thị xã, thành phế và các cơ quar, đonh
+vị, tổ chức liên quan triển khai, theo đõi, dôn đốc và thực hiện Quy chế kèm -
+theo Quyết định này,
+Điền 3. Chánh Văn phòng Ủy ban nhân dân tỉnh; Giám đốc các sở, ban.
+ngành của tỉnh; Chủ tịch Ủy ban nhân dân các huyện, thị xã, thành phố; Chủ tịch
+Ủy ban nhân dân các xã, phường, thị trấn trên địa bàn tỉnh và các cơ quan, đơn.
+vị, tổ chức, cá nhân liên quan chịu trách nhiệm thị hành Quyết định này.
+Quyết định này có hiệu lực kể từ ngày 01 tháng 7 năm 2019 và thay thế
+Quyết định số 32/2015/QĐ-UBND ngày 25 tháng 9 năm 2015 của Ủy ban nhân
+dân tỉnh về quản lý, vận hành, khai thác hệ thống một cửa điện tử/..
+Nơi nhận:   TM. ỦY BAN NHÂN DÂN
+- Như Điều 3;   CHỦ TỊCH
+- Văn phòng Chính phủ;
+- Bộ Thông tin và Truyền thông;
+- Cục Kiểm tra VBQPPL - Bộ Tư pháp;
+- Cổng TTĐT Chính phủ;
+- TT Tỉnh ủy, TT HĐND tỉnh;
+- CT, các PCT UBND tỉnh;
+- Đoàn Đại biểu QH tỉnh;
+- Uỷ ban MT TQVN tỉnh;
+- Sở Tư pháp (đăng tải lên Cơ sở dữ liệu quốc gia
+về văn bản pháp luật);
+- Công báo tỉnh;   Phạm Ngọc Nghị
+- Báo Đắk Lắk, Đài PTTH tỉnh, Cổng TTĐT tỉnh;
+- UBND các xã, phường, thị trấn (đo UBND cấp
+huyện sao gửi);
+- Các PCVP UBND tỉnh;
+- Các Phòng, TT thuộc Văn phòng UBND tỉnh;
+- Lưu: VT, KSTTHC (D 25).
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH ĐẮK LẮK   Độc lập - Tự do - Hạnh phúc
+QUY CHẾ
+Quản lý, cung cấp và sử dụng Cổng Dịch vụ hành chính công trực tuyến
+tích hợp Một cửa điện tử liên thông tỉnh Đắk Lắk
+(Ban hành kèm theo Quyết định số 11 /2019/QĐ-UBND ngày 21/6/2019.
+của Ủy ban nhân dân tỉnh Đắk Lắk)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Quy chế này quy định về việc quản lý, cung cấp và sử dụng Cồng Dịch vụ
+hành chính công trực tuyến tích hợp Một cửa điện tử liên thông tỉnh Đắk Lắk
+(sau đây gọi tắt là Cổng Dịch vụ công trực tuyến).
+Điều 2. Đối tượng áp dụng
+1. Các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh; Ủy ban nhân.
+dân các huyện, thị xã, thành phố; Ủy ban nhân dân các xã, phường, thị trấn (sau
+đây gọi chung là các cơ quan, đơn vị).
+2. Các tổ chức, cá nhân tham gia khai thác sử dụng Cống Dịch vụ công
+trực tuyến.
+3. Các doanh nghiệp tham gia hoạt động cung ứng dịch vụ có liên quan,
+đơn vị cung ứng dịch vụ bưu chính công ích; tổ chức, cá nhân được thuê hoặc
+được ủy quyền thực hiện thủ tục hành chính theo quy định pháp luật.
+Điều 3. Giải thích từ ngữ
+1. Dịch vụ công trực tuyến là dịch vụ hành chính công và các dịch vụ khác.
+của cơ quan nhà nước cung cấp cáo các tế chức, cá nhân trên môi trường mạng.
+có 04 mức độ được quy định tại Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6
+năm 2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công
+trực tuyến trên Trang thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan
+nhà nước.
+2. Phần mềm mội cửa điện tử là một ứng dụng công nghệ thông tin nhằm.
+tin học hóa các giao dịch giữa tổ chức, cá nhân với cơ quan nhà nước và giữa
+các cơ quan nhà nước với nhan theo cơ chế một cửa, một cửa liên thông” được.
+quy định tại Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của
+2
+Chính phủ về thực hiện cơ chế một của, một cửa liên thông trong giải quyết thả
+tục hành chính.
+3. Cổng Dịch vo bánh chính công trực tuyến tích hợp Mội của điện tử liên
+thông là hệ thống phần trêm tích hợp, bao gồm: Quy trình cong cấp dịch vụ
+công trực tuyến và quy trình tiếp nhận, giải quyết thủ tục hành chính theo cơ chế
+một các điện tà Bên thôi, thực hiện chức năng tiện lch, tra cứu trực
+tuyến, đánh giá sự bải làng về thực hiện thủ tục hành chính của cơ quan nhà
+nước và cán bộ, công chức, viên chức trên địa bàn tỉnh.
+4. Tra cứu lrực tuyến tình trạng bổ sơ hành chính là công cụ tra cứu của
+phần mềm nhằn phục vụ công tác theo 4õ) tích trạng, kết quả giải quyết hồ sơ
+thủ tục hành chính của tế chức, cá nhân đồng thời, tổng hợp thông tin phục vụ
+công tác chỉ đạo điều hành của lãnh đạo các cơ quan, đơn vị về tình hình tiếp
+nhận, giải quyết hồ sơ thủ tục hành chính.
+5. Điểu mâu điệc tử không tương tác là biểu mẫu của thủ tục hành chính:
+(mẫn đơn, mẫu tờ khai) được định dạng và lưu trở dưới dạng tệp tin diện tử để
+tải về và điền thông tin.
+6. Biểu mẫy điện tử trưng tác (c-Farm) là biểu mẫu hồ sơ của thủ tục
+bảnh chính được thể hiện dưới dạng ứng đụng máy tính (thông thường duới
+dạng ứng dụng trên Web) để người sử dụng cung cấp, trao đối dữ liện với ứng.
+dụng dịch vụ công trục tuyến. Biểu mầu điện tử tương tác phải bao gồm tối
+thốc các trường thông tin quy định tại biểu mẫu của thủ tục hành chính (mẫu.
+đơn, mẫu tệ khan). Điếu mắu điện tử tương tác thực hiện việc thu thập dữ liệu.
+theo yêu cầu cức bộ bổ sơ thủ tạc hành chính duối một định dạng thống nhất
+cho cơ quan cung cấp dịch vụ. Cáo dữ liệu này được quản lý trong cơ sở đữ
+liệu của ứng dụng dịch vụ công trực tuyến.
+7. Phần mềm chuyên ngành là phần mềm đặc thù của từng cơ quan dùng để
+quản lý chuyên sâu ngành, lĩnh vực của cơ quan đó.
+Điều 4. Nguyên tắc cang cấy địch vụ công trực tuyến
+1. Thủ tục hành chính cung cấp trên Cống Dịch vụ công trực tuyến phải
+đúng theo thủ tục hành chính trương ứng trong bộ thủ tục hành chính thuộc thẩm.
+quyền giải quyết của Từng cơ quan thực hiện thủ tục hành chính đã được
+Chủ tịch Ủy ban nhân dân tỉnh công bố.
+2. Công khai, minh bạch thông tin, các loại phí, lệ phí, thời gian.
+giải quyết.
+3. Bảo đảm sự phối hợp, tương tác chặt chẽ giữa các cơ quan nhà nước.
+với nhau và giữa cơ quan nhà nước với các tổ chức, cá nhân trong quá chính cung
+cấp và giải quyết thủ tục hành chính.
+4. Các cơ quan, đơn vị phái cung cấp dịch vụ công trực tuyến chính xác,
+thuận tiện, không gây phiền hà, ách tắc trong quá trình giải quyết
+
+3
+5. Phải bảo đảm tính toàn vện, an toàn và đảm bảo tỉnh pháp lý; nâng cao.
+hiệu lực, hiệu quả quản lý nhà nước trên địa bàn tỉnh.
+6. Cổng Dịch vụ công trực tuyến phải tích hợp, kết nối với các hệ thống
+một cửa điện tử liên thông đã có và hệ thống các dịch vụ công mức độ 3, 4 của
+các bộ, ngành đã triển khai tại địa phương. Cổng Dịch vụ công trực tuyến đảm
+bảo án toàn thông tin và vận hành liên tục 24/24 giờ hàng ngày trên mạng
+Internet.
+7. Hệ thống phải được áp dụng các biện pháp an toàn, bảo mật thông tin
+dữ liệu để đảm bảo cung cấp thông tin, dữ liệu kịp thời và hiệu quả cho các cơ
+quan, tổ chức, cá nhân.
+Điều 5. Các hành vi bị cấm khi sử dụng dịch vụ công trực tuyến
+1. Cản trở việc lựa chọn sử dụng dịch vụ công trực tuyến.
+2. Cán trở hoặc ngăn cán trái phép quá trình truyền, gửi, nhận thông điệp.
+dữ liệu.
+3. Thay đổi, xóa, hủy, giả mạo, sao chép, tiết lộ, hiển thị, di chuyển trái
+phép một phần hoặc toàn bộ thông điệp dữ liệu.
+4. Tạo ra hoặc phát tán chương trình phần mềm làm rối loạn, thay đổi, phá
+hoại hệ thống điều hành hoặc có hành vi khác nhằm phá hoại hạ tầng công nghệ
+thông tin làm càn trở, gián đoạn hoạt động cung cấp dịch vụ công trực tuyển.
+5. Các hành vi vi phạm khác theo quy định của pháp luật.
+Điều 6. Biểu mẫu, giá trị về văn bản điện tử trả kết quả thủ tục bành
+chính trực tuyến mức độ 4
+1. Biểu mẫu điện tử không tương tác cang cấp trên Cổng Dịch vụ công trực.
+tuyển của tỉnh được sử dụng để điển thông tin theo yêu cầu giải quyết thủ tục hành
+chính và có giá trị như biểu mẫu cung cấp dưới dạng bản giấy. Biểu mẫu điện tử
+sau khi điểu đầy đủ thông tin có thể sử dụng để nộp hồ sơ trực tuyển hoệc In và
+nộp trực tiếp tại Bộ phận Tiếp nhận và Trả kết quả của cơ quan có thẩm quyền
+hoặc qua dịch vụ bưu chính công ích.
+2. Văn bản điện tử trả kết quả về việc giải quyết thủ tục hành chính trực tuyến
+mức độ 4 có chữ ký số của cơ quan, tổ chức hoặu chữ ký số của người có thẩm.
+quyền ký ban hành văn bản có giá trị như văn bản giấy.
+Chương II
+QUẢN LÝ, VẬN HÀNH, CUNG CẤP DỊCH VỤ TRÊN CÔNG DỊCH VỤ
+CÔNG TRỰC TUYỂN TÍCH HỢP MỘT CỦA ĐIỆN TỬ LIÊN THÔNG
+Điều 7. Thông tin về dịch vụ công trực tuyến
+1. Địa chỉ truy cập Cổng Dịch vụ công trực tuyến tỉnh Đắk Lắk là
+dichvucong.daklal.gov.vn
+4
+2. Đản bảo cung cấp đầy đủ các thông tin cơ bản theo quy định tại Điều 5
+của Thông tư 32/2017/TT-BTTTT ngày 13 tháng 11 năm 2017 của Bộ trưởng
+Bệ Thông tin và Truyền thông về việc yêu cầu đối với các mức độ của dịch vụ
+công trực tuyến.
+3. Yên cầu đối với biển của dịch vụ công trực tuyến mức độ 3. 4
+được cong cấp đầy đô duới dụng biểu mẫu trong tác (p-Pora). Biểu mẫu tương
+tác được xây dựng theo quy định tại Điều 8 Thông tư số 32/2017/TT-BTTTT
+ngày 18 tháng 11 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền thông.
+điều 8. Trách nhiệm của cơ troan chả trì, quản lý Cổng Dịch vụ công
+trực tuyến
+Só Thông tin và Truyền thông được Ủy ban nhân dân tỉnh giao nhiệm vụ.
+chủ trì, quản lý, tổ chức triển khai Cổng Dịch vụ công trực tuyến có
+trách nhiệm:
+1. Tham mưa Ủy ban nhân dân tỉnh chỉ đạo, tổ chức triển khai Cổng Dịch
+vụ công trực tuyến đảm bảo yêu cần của Chính phủ, Bô Thông tin và Truyền
+thông, các bộ, ngành Trung song về quản lý, sử dụng, cung cấp dịch vụ công
+trực tuyến.
+2. Chủ tư, phối hợp với các đơn vị có liên quan kiểm thứ các chức năng
+cộa hệ thống một của điện tử (phiên bản nâng cấp) trước khi tập nhật và thông
+bác các cơ quạn, đơn vị sử dụng tổ chức đánh giá chất lượng, sử dụng dịch vự
+công trực tuyển của cơ quan, đơn vị, tổ chốc, cá nhân trên Cổng Dịch vụ công
+trực tuyến.
+3. Chủ trâ phối hợp với các đơn vị có liên quan theo dõi, kiểm tra, độn.
+đốc, nhấc nhỏ các cơ quan sử dụng Cổng Dịch vụ công trực tuyến để cung cấp.
+giải quyết dịch vụ công trực tuyển mức độ 3, 4 theo danh mục các thủ tục hành
+chính đã được ban hành.
+4. Tập huấn, hỗ trợ, hướng dẫn kỹ thuật cho các cơ quan, đơn vị thực hiện
+thủ tục hành chính và tổ chức, cá nhân sử dụng Cổng Dịch vụ công trực tuyển.
+5. Hướng dẫn, thực hiện công tác tuyện truyền, quảng bá để nâng cao.
+nhận thức và khuyến khích các tổ chức, cá nhận tham gia, sử dụng dịch vụ công
+trực tuyến.
+Điều 9. Doank nghiệp cung cấp dịch vụ về hạ tầng, phần mềm táng
+dụng Cổng Dịch vụ công trực tuyến
+1. Cung cấp hệ thống máy chủ, đường truyền, thiết bị bảo mật và Cổng
+Dịch vụ công trực tuyến đảm bảo chất lượng.
+2. Đảm bảo việc liên thông, tích hợp các hệ thống chuyên ngành tương tự.
+và hệ thống quốc gia theo chỉ đạo chang của Chính phủ, Thủ tướng Chính phú,
+các bộ; ngành Trung ương và chính quyền địa phương.
+5
+3. Thực hiện cung cấp dịch vụ đảm bảo chất lượng theo quy định tại các
+Khoản 2,3 và 4 Điều 4 của Quyết định số 30/2014/QĐ-TTg ngày 30 tháng 12
+năm 2014 của Thủ tướng Chính phủ quy định nguyên tắc thuê dịch vụ công
+nghệ thông tin trong các cơ quan nhà nước.
+4. Vận hành, quản trị hệ thống, đảm bảo an toàn thông tin và hoạt động ốn
+định 24/21 giờ trên mạng Ineernet; bố trí nguồn lực hỗ trợ cho các cơ quan, đơn
+vị trong quá trình vận hành, sử dụng (nếu có yêu cầu); khi hệ thống có sự cố
+phải kịp thời khắc phục, xử lý.
+5. Thực hiện bảo mật và lưu giữ thông tin của tổ chức, cá nhân trừ trường
+hợp phải cung cấp thông tin này cho các cơ quan có thẩm quyền theo quy định
+của pháp luật hiện hành.
+Điều 10. Trách nhiệm của cơ quan cung cấp dịch vụ công trực tuyến
+trên Cổng Dịch vụ công trực tuyến
+1. Thực hiện giải quyết thủ tục hành chính trên Cổng Dịch vụ công trực.
+tuyến theo quy trình điện tử giải quyết thủ tục hành chính do Chủ tịch Ủy ban.
+nhân dân tỉnh phê duyệt. Đối với thủ tục hành chính chưa được phê duyệt quy
+trình điện tử thi quy trình giải quyết trên Cổng Dịch vụ công áp dụng theo quy
+trình nội bộ giải quyết thủ tục hành chính tương ủng đã được Chủ tịch Ủy ban
+nhân dân tỉnh phê duyệt.
+2. Niêm yết công khai quy trình tiếp nhận và giải quyết hồ sơ, thời hạn trả
+kết quả đối với từng dịch vụ công trực tuyến; thông tin liện hệ để hỗ trợ, hướng
+dẫn tổ chức, cá nhân nộp hồ sơ trực tuyến bao gồm: Địa chỉ, số điện thoại, hộp.
+thư điện tử của Bộ phận Tiếp nhận và Trả kết quả trên Cổng Thông tin điện tử,
+Trang thông tin điện tử của cơ quan, đơn vị.
+3. Kịp thời phối hợp với Sở Thông tin và Truyền thông hoặc đơn vị được
+Ủy ban nhân dân tỉnh giao nhiệm vụ quản lý để cập nhật các dịch vụ công trợc
+tuyến trên Cổng Dịch vụ công trực tuyển; chủ động cập nhật lên Cổng Thông tin.
+điện tử, Trang thông tin điện tử của cơ quan, đơn vị khi có sự thay đổi, đám bảo.
+các dịch vụ công trực tuyến hoạt động thông suốt.
+4. Bố trì công chức, viên chức thường xuyên theo dõi, tiếp nhận hồ sơ
+điện tử do cá nhân, tổ chức đăng ký qua dịch vụ công trực tuyến.
+5. Thực hiện bảo mật và lưu giữ thông tin của tổ chức, cá nhân trừ trưởng
+hợp phải cung cấp thông tin này cho các cơ quan có thẩm quyền theo quy định.
+của pháp luật hiện hành.
+CHƯƠNG III
+SỬ DỤNG CỐNG DỊCH VỤ CÔNG TRỰC TUYỂN TÍCH HỢP
+MỘT CỬA ĐIỆN TỬ LIÊN THÔNG
+Điều 11. Trình tự nộp hồ sơ trực tuyến
+1. Nộp hồ sơ trực tuyến mức độ 3
+6
+a) Mẫu đơn, tờ khai điển đầy đủ thông tin dưới dạng biểu mẫu điện tử
+trong tác (cả/tom) hoặc dath dạng tệp tía điện tử đính kèm và gửi hồ sơ trực
+tuyển tới cơ quan cung cấp dịch vụ. Tổ chức, cá nhân chịu trách nhiệm đết với
+thông tin mình cung cấp trên mẫu đơn, tờ khai.
+b) Trữ kết quả giải quyết thủ tục hành chính đốt với hồ sơ nộp trực tuyến
+mức độ 3 thực hiện theo quy định tại Điển a Khoản 2 Điều 14 Quy chế này.
+2. Nộp hồ sơ trực tuyến mức độ 4
+a) Thực hiện nộp hồ sơ trục tuyến theo quy định tại Điểm a Khoản 1
+Điều này,
+b) Trả kết quả giải quyết thủ tục hành chính đối với hồ sơ nộp trực tuyến
+mức độ 4 thực hiện theo quy định tại Điểm b Khoản 2 Điều 14 Quy chế này. .
+3. Trường hợp tổ chức, cá nhân đã nộp lệ phí (nếu có) nhưng cơ quan có.
+thẩm quyền không thực hiện được dịch vụ thi cơ quan đó có trách nhiệm hoàn
+trả lệ phí mà tổ chức cá nhân đã nộp; trường hợp cơ quan đã giải quyết nhưng
+người yêu cầu không lấy kết quả thì không được quyền yêu cầu hoàn trả tại lệ
+phí đã nộp (trừ trường hợp pháp luật quy định khác).
+Điều 17, Trình tự tiếp nhận hồ sơ trực quyến của cá nhân, tổ chức
+1. Trình tự tiếp nhận hồ sơ trực tuyến
+t) Công chức, viên chức của Bộ phận Tiếp nhận và Trả kết quả tiếp nhận.
+hồ sơ phái xem xét; hiểm tra tánh chất vác, đầy đủ của hồ sơ ngay khi nhận
+được hồ sơ trên hệ thống một của điện tử; phản bải thông tin về tỉnh đây đủ. hợp.
+lệ của hồ sơ cho cá nhân, tổ chức thông qua tán nhân, thư điện tử (email) hoặc bảng
+hình thức khác... mã tổ chức, cá nhân đã cung cấp theo hồ sơ Trường hợp hồ sở
+chưa đầy đà, chưa chính xác hoặc không thuộc hằm quyền giải quyết, trong nội
+dung phân hồi phải nên rõ nội dung lý do và hướng dẫn cụ thể, đầy đủ một tần để
+tổ chức, cá nhân bổ sung đầy đủ, chính xác.
+b) Đối với hồ sơ của tổ chức, cá nhân đầy đủ, hợp lệ thì công chức, viên
+chức tại Bộ phận Tiếp nhận và Trả kết quả tiếp nhận và chuyển ngay cho cơ quan.
+có thẩm quyền để giải quyết theo quy định.
+c) Thời điểm nhận hồ sơ trực tuyến tại cơ quan có thẩm quyền được xác
+định là thời điểm bổ sơ điện tử đó được nhập vào Hệ thống một cửa điện tử và
+thông báo bổ sơ hợp lệ. Nếu thời điểm bổ sơ điện tổ nhập vào bệ thống ngoài
+giờ hành chính thi thời điểm tiếp nhận hồ sơ điện tử đến được tỉnh là thời điểm:
+bắt đầu từ ngày, giờ hành chính kế tiếp.
+2. Mỗi bố sơ thủ tục hành chính sau khi được tiếp nhận sẽ được cấp.
+một mã số hồ sơ được ghi trong Giấy tiếp nhận hồ sơ và hẹn trả kết quả. Tổ
+chức, cá nhân sử dụng mà số hồ sơ để tra cứn tỉnh trạng giải quyết thủ tục
+hành chính tại Cổng Dịch vụ công trực tuyến. Trường hợp thủ tục hành chính.
+có quy định phải trả kết quả giải quyết ngay sau khi tiếp nhận, giải quyết,
+7
+nều hồ sơ đã đầy đủ, chính xác, đủ điều kiện tiếp nhận, công chức, viên chức.
+tiếp nhận không phải lập Giấy tiếp nhận hồ sơ và họn ngày trả kết quả,
+như cưng phải cập nhật tình hình, kết quả giải quyết vào Cổng Dịch vụ công trực
+tuyến; trường hợp người nộp hồ sơ yêu cầu phải có Giấy tiếp nhận hồ sơ và
+họn trả kết quả thì công chức, viên chức cung cấp cho người nộp hồ sơ.
+Điều 13. Trình tự giải quyết hồ sơ tại cơ quan có thẩm quyền trên
+Cổng Dịch vụ công trực tuyến
+Ngay sau khi tiếp nhận hồ sơ thủ tục hành chính theo quy định tại Điều 12
+Quy chế này, công chức, viên chức tiếp nhận chuyển dữ liệu hể sơ điên tử được
+tiếp nhận trực tuyển của tổ chức, cá nhân đến cơ quan có thẩm quyền giải quyết
+thông qua kết nối giữa Cổng Dịch vụ công trực tuyến và Hệ thống một cửa điện.
+tử của tỉnh.
+1. Quy trình giải quyết hồ sơ đáp ứng các điều kiện giải quyết
+a) Khi nhận được hồ sơ trên Cổng Dịch vụ công trực tuyến, người đứng
+đầu cơ quan có thẩm quyền phân công công chức, viên chức xử lý xem xét,
+thẩm định hồ sơ, trình phê duyệt kết quả giải quyết thủ tục hành chính, Cán bộ,
+công chức, viên chức được giao xử lý hồ sơ thẩm định, trình cấp có thẩm quyền
+quyết định; cập nhật thông tin vào Hệ thống một cửa điện tử.
+b) Trường hợp hồ sơ có liên quan đến trách nhiệm, quyền hạn của nhiều
+cơ quan, đơn vị có liên quan: Co quan, đơn vị chủ trì giải quyết hổ sơ chủ động
+phối hợp, xin ý kiến cùng giải quyết hồ sơ; cơ quan, đơn vị được lấy ý kiến cở
+trách nhiệm trả lời các nội dung được lấy ý kiến theo thời hạn lấy ý kiền và cập
+nhật thường xuyên, đầy đủ về nội dung, kết quả tham gia ý kiến vào Hệ thống
+một cửa điện tử.
+c) Trường hợp có quy định phải thẩm tra, xác minh hồ sơ: Cán bộ, công
+chức, viên chức được giao xử lý hồ sơ thẩm tra, xác minh, trình cấp có thẩm
+quyền quyết định và cập nhật thông tin vào Hệ thống một cửa điện tử. Quá trình
+thẩm tra, xác minh phải được lập thành bồ sở, lưu thông tin vào cơ sở dữ liệu
+của Hệ thống một cửa điện tử tỉnh. Trường hợp cần có mặt tổ chức, cá nhân để
+thẩm tra, xác minh hồ sơ thì phải cập nhật thông tin: về thời gian, địa điểm, thành.
+phần, nội dung xác minh vào cơ sở dữ liệu của Hệ thống một cửa điện tử.
+d) Trường hợp hồ sơ thực hiện theo quy trình liên thông giữa các cơ quan.
+có thẩm quyền cùng cấp: Bộ phận Tiếp nhận và Trả kết quả chuyển hồ sơ điện
+từ đến tất cả các cơ quan tham gia giải quyết, trong đó ghi rõ cơ quan chủ trì,
+trách nhiệm, nội dung công việc, thời hạn trả kết quả của từng cơ quan tham gia
+giải quyết, Cơ quan tham gia giải quyết hồ sơ liên thông thực hiện xử lý theo.
+thẩm quyền, trả kết quả giải quyết cho cơ quan cần sử dụng kết quả giải quyệt
+cho các bước tiếp theo và gửi cho Bộ phận Tiếp nhận và Trả kết quả để trả kết
+quả cho tổ chức, cá nhân; cập nhật tình hình, kết quả xử lý hồ sơ liên thông vào
+hệ thống một cửa điện tử.
+8
+đ) Trường hợp hồ sở thực hiện theo quy trình liên thông giữa các cơ quan.
+có thẩm quyền không cùng cấp: Bộ phận Tiếp nhận và Trả kết quả chuyển cho
+cơ quan chủ trì giải quyết (cơ quan được giao chủ trì tiếp nhận hồ sơ thủ tục
+hành chính) để thực hiện giải quyết thủ tục hành chính thep đúng quy trình điệu.
+từ giải quyết thủ tục hành chính liên thông do Chủ tịch Ủy tran nhân dân tỉnh
+phê duyệt.
+c) Sau khi hồ sơ được giải quyết, cơ qoán có thẩm quyền chuyển kết quả
+giải quyết đế: Bộ phận Tiếp nhận và Trẻ kết quả để trả cho tế chức, cá nhân
+đúng thời gian quy định trên Cổng Dịch vụ công trực tuyến.
+2. Quy trình giải quyết hồ sơ không đáp ứng các điều kiện để giải quyết
+Cơ quan có thẩm quyền có văn bản nêu rõ lý do chuyển Bộ phận Tiếp
+nhận và Trả kết quả gửi lai cho các tổ chức, cá nhân có liên quản; đồng thời, cập
+nhât trên trên mạc trả kết quả của hệ thống một cửa điện tử để thông báo cho tổ
+chức, cá nhân được biết.
+Điều 14. Thời gian tản lý, giải quyết hồ sơ và bình thức trả kết quả
+đối với hồ sơ nộp trực tuyến
+1. Thời gian thụ lý và giải quyết hồ sơ nộp trực tuyến
+Thời gian, trình tự thụ lý và giải quyết hồ sơ thủ tục hành chính theo quy
+định tại Quyât định công bố TTHc. Quyết định công bố Thanh mục TTHC của
+Chủ tịch Ủy ban nhân dân tỉnh.
+2. Hình thức trả kết quả
+8) Sử dụng Dịch vụ công trực tuyến mức độ 3: Trả kết quả giải quyết thủ
+tục hành chính, thanh toán lệ phí (nếu có) được thực hiện trực tiếp tại cơ quan
+cung cấp dịch vụ hoặc qua Dịch vụ bau chính công ích. Trường hợp cơ quan
+giải quyết thủ tục hành chính có yêu cầu bản chính đối với các giấy tờ liên quan.
+theo quy định của thủ tục hành chính tương ứng, thì tổ chức, cá nhân phải cung
+cấp đầy đủ theo yêu cầu trước khi nhận kết quả giải quyết thủ tục hành chính la
+Cơ quản gó thẩm quyền giải quyết thủ tục hành chính kiểm tra, đổi chiếu hồ sơ
+gốc cóa tổ chức, cá nhân đảm báo tính chính xác, thống nhất của hồ sơ trước hàn
+trả kết quả.
+b) Sử dụng Dịch vụ công trực tuyến smức độ 4: Trả kết quả giải quyết thả
+tục hành chính, thanh toán lệ phí (nếu có) được thực hiện qua môi trường mặng
+hoặc qua Dịch vụ bưu chính công ích hoặc trực tiếp tại cơ quan cung cấp dịch.
+Vụ. Việc trả kết quả trực tuyến được thực hiện theo sự thống nhất của người sử
+dụng và cơ quan cung cấp dịch vụ qua một hoặc nhiều hành thức sau: Thông bác.
+trên Cổng thông tin điện tử có dịch vụ công trọc tuyến; gửi qua chúc năng trả
+kết quả của dịch vụ công trọc tuyển; gửi qua thư điện tử của người sử dụng.
+Khuyến khích gửi kết quả qua các dịch vụ trao đổi thông tin trên mạng.
+3. Kết quả thực hiện được cập nhật, công khai trên Cổng Dịch vụ công
+trực tuyển của tỉnh và trên Cổng Thông tin điện tử, Trang thông tin điện tử của
+các cơ quan, đơn vị cung cấp và sử dụng.
+Điều 15. Trách nhiệm của công chức, viên chức tiếp nhận hồ sơ, trả
+kết quả qua Cổng Dịch vụ công trực tuyến
+1. Tiếp nhận hồ sơ và trả kết quả dịch vụ công trực tuyến
+a) Kiểm tra tỉnh hợp lệ, đầy đủ hồ sơ của các tổ chức, cá nhân gửi đến qua
+hệ thống đến cơ quan giải quyết thủ tục hành chính.
+b) Trường hợp hồ sơ chưa đúng theo quy định thì gửi thông báo điện tử
+hướng dẫn và yêu cầu tổ chức, cá nhân bổ sung, hoàn chỉnh hồ sơ.
+c) Trường hợp hồ sơ đầy đủ theo quy định, gửi thông báo điện tử đến tổ
+chức, cá nhân hẹn ngày trả kết quả, các giấy tổ cần mang theo để xuất trình, nộp
+phí, lệ phí (nếu có) khi đến nhận kết quả.
+đ) Trong thời hạn 04 giờ làm việc (kể từ khi nhận được hồ sơ đầy đủ, hợp.
+lệ). Bộ phận Tiếp nhận và Trả kết quả phải chuyển hồ sơ cho các phòng, ban.
+đơn vị chuyên môn của cơ quan giải quyết thủ tục hành chính.
+é) Trả kết quả giải quyết thủ tục hành chính thực hiện theo quy định tại
+Điều 20 của Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính.
+phủ về thực hiện cơ chế một của, một cửa liên thông trong giải quyết thủ tục
+hành chính.
+2. Tiếp nhận hồ sơ và trả kết quả trực tiếp: Thực hiện theo quy định tại.
+Điều 17 và Điều 20 của Nghị định số 41/2018/NĐ-CP ngày 23 tháng 4 năm
+2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải
+quyết thủ tục hành chính và quy định tại Quy chế này.
+3. Hướng dẫn các tổ chức, cá nhân sử dụng dịch vụ trực tuyến trên hệ
+thống khi đến thực hiện thủ tục hành chính tại Bộ phận Tiếp nhận và Trả kết quả
+của các cơ quan, đơn vị.
+Điều 16. Các phòng, ban, đơn vị chuyên môn của cơ quan giải quyết
+thủ tục hành chính
+1. Đối với hồ sơ hợp lệ, đầy đủ
+s) Giải quyết hồ sơ theo nhiệm vụ, quyền hạn theo quy trình giải quyết thủ
+tục hành chính của cơ quan.
+b) Chuyền kết quả giải quyết hồ sơ tới Bộ phận Tiếp nhận và Trả kết quả
+để trả cho tổ chức, cá nhân đúng thời gian quy định.
+2. Đối với hồ sơ cần bổ sung thêm hoặc không đáp ứng các điều kiện về
+thủ tục hành chính, phải dự thảo văn bản thông báo trình lãnh đạo cơ quan duyệt
+và chuyển Bộ phận Tiếp nhận và Trả kết quả để thông báo cho các tổ chức, cá
+nhân liên quan theo quy định.
+10
+CHƯƠNG IV
+TRÁCH NHIỆM TRONG SỬ DỤNG CÔNG DỊNH TỤ CÔNG
+TRỰC TUYÊN TÍCH HỢP MỘT CỬA ĐIỆN TỬ LIN THÔNG
+Điều 17. Trách nhiệm chung
+1. Các cơ quan, đơn vị, tổ chức, cá nhân sử dạng Cổng Dịch vụ công trực
+tuyến có trách nhiệm đảm bảo việc khai thác, sử dụng hiệu quả, đúng mục đích
+theo quy định.
+2. Cơ quan, tổ chức, cá nhân sử dụng Cổng Dịch vụ công trực tuyến phải
+tuân thủ các quy định về an toàn thông tin, dữ liệu hiện hành.
+3. Trường hợp Cổng 1 tích vụ công trực tuyến xảy ra sự cố, gián đoạn việc.
+thực hiện các quy trình gửi, nhận, giải quyết hồ sơ thủ tục hành chính, cang cấp
+dịch vụ công trực tuyến mức đệ 3,4 thì cơ quao, đơn vị, tổ chác, cá nhân phát.
+hiện có trách phiệm thông báo cho Sở Trông tin và Truyền thông hoặc đơn vị -
+được Ủy ban nhân dân tỉnh giáo quản lý để có biện pháp khắc phục kịp thời.
+Điều 78. Trách nhiệm của cán bộ, công chức, viên chức được cấp lài
+khoản trên Hệ thống một cửa điện tử tỉnh
+1. Đăng nhập thường xuyên, thực hiện việc tiếp nhận, giải quyết hồ sơ thả
+tục hành chính trực tuyến của các tổ chức, cá nhân đảng quy trình, thời gian.
+quy định
+2. Phải thay đổi mật khẩu tài khoản khi đăng nhập Cống Dịch vụ công
+trục tuyến lần đàu tiên, khuyến khích thường xuyên thay đổi mật khẩu sử dụng
+hệ thống một cửa điện tử của bá nhân để đảm bảo trình báo mặt, sn toàn thông tia,
+trong quá trình sử dụng.
+3. Quản lý và bảo vệ mật khẩu đăng nhập vào Cổng Dịch vụ công trực
+tuyết, không cung cấp mặt khầu sử dụng của mình cho người thác, không để
+người khác sử dụng tài khoản của minh. để xử lý công việc, không đăng nhập
+vào tải khoản người khác, Trường hợp bị mất quyền kiểm soát tài khoản người
+dùng hoặc mật khẩn bị lệ phải thay đổi ngày mặt khẩu mới hoặc báo ngay cho
+bộ phận phụ trách về công nghệ thông tin của cơ quac, đơn vị để tịp thời
+khắc phục.
+4. Khi phát hiện cá nhân, tổ các sử dụng Cổng Dịch vụ công trực tuyến
+không đúng mục đác, tập tin định kèm có mã độc phái kịp thời báo cáo Thủ
+trường cơ quan, đơn vị để xử lý hoặc phối hợp Sở Thông tin và Truyền thông
+hoặc đơn vị được Ủy ban nhân dân tỉnh giao quản lý để xử lý kịp thời
+Điều 19, Trách nhiệm của các tổ chức, cá nhân sử dụng Cổng Dịch vụ
+công trực tuyến nộp hồ sơ trực tuyến
+1. Tuân thủ theo quy định tại Quy chế này và các quy định khác của pháp
+luật có liên quan.
+11
+2. Đăng ký, kê khai các thông tin chính xác, đầy đủ và chịu trách nhiệm
+về tính chính xác đối với thông tin cung cấp; đăng ký, kê khai của minh.
+3. Thực hiện các yêu cấu của cơ quan thực hiện thủ tục hành chính và nộp.
+phí, lệ phí (nếu có) theo quy định.
+CHƯƠNG V
+CÁC TIÊU CHUẨN, NỘI DUNG THÔNG TIN VÀ TRÁCH NHIỆM
+QUẢN LÝ, CẬP NHẬT CƠ SỞ DỬ LIỆU
+Điều 20. Mã số hồ sơ thủ tục hành chính
+1. Mã số hồ sơ thủ tục hành chính do Cổng Dịch vụ công trực tuyến cấp
+tự động, được sử dụng thống nhất trong hoạt động giao dịch giữa bác cơ quan,
+đơn vị với tổ chức, cá nhân và giữa các cơ quan, đơn vị với nhau.
+2. Mã số hồ sơ gồm các ký tự chữ và số, có cấu trúc như sau:
+V.VV, 2,2) Y;Y. MX;X-YYMDD-XXXX
+Trong đó: V1V2V3.7172.YTY2.MXTX2 là mã định danh của cơ quan.
+có thẩm quyền, theo quy định tại Quyết định số 657/QĐ-UBND ngày 02 tháng
+4 năm 2018 của Chủ tịch Ủy ban nhân dân tỉnh về ban hành danh mục mã định.
+danh phục vụ kết nối, trao đổi văn bản điện tử của cơ quan nhà nước tỉnh Đắk
+Lắc; YVMMD là ngày tiếp nhận hồ sơ, bao gồm 04 ký tự số, trong đó: YY là
+02 chữ số cuối của năm, MM là 02 chữ số của tháng, DĐ tà 02 chữ số của
+ngày; XXXx là số thứ tự hồ sơ tiếp nhận trong ngày, gồm 04 ký tự số.
+Điều 21. Tiêu chí đồng bộ dữ liện và xác định hồ sơ đúng hạo, trễ hạn
+1. Nội dung các tiêu chí đồng bộ dữ liệu giữa Cổng Dịch vụ công trực
+tuyến và phần mễm chuyên ngành của các cơ quan được quy định chi tiết tại
+Phụ lục kêm theo Quy chế này.
+2. Xác định hồ sơ đúng hạn, trễ hạn trên Cổng Dịch vụ công trực tuyến.
+- Hồ sơ được tính là đúng hạn khi số ngày hoàn thành thủ tục hành chính
+nhỏ hơn hoặc bằng (sa) số ngày giải quyết thủ tục hành chính theo quy đình.
+- Hồ sơ được tính là trễ hạn khi số ngày hoàn thành việc giải quyết thủ tục
+hành chính lớn hơn (P) số ngày giải quyết thủ tục hành chính theo quy định.
+Trường hợp tiếp nhận hồ sơ thủ tục hành chính sau 15 giờ hàng ngày thì thời.
+gian giải quyết được tỉnh vào đầu giờ ngày làm việc tiếp theo.
+Điều 22. Các tiêu chuẩn về kết nối đồng bộ dữ liệu
+Thực hiện theo quy định tại Thông tư số 39/2017/TT-BTTTT ngày 15
+tháng 12 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền thông về ban hành
+12
+danh mục tiêu chuẩn kỹ thuật về ứng dụng công nghệ thông tin trong cơ quan
+nhà nước.
+Điều 23. Nội dung thể hiện bết quả tra của tình trạng bổ sơt trận
+Cổng Dịch vụ công trực tuyến và các điểm tra cứu của cơ quan cung cấp
+dịch vụ hành chính công
+1. Hồ sơ hợp lệ
+a) Mã số hồ sơ thủ tục hành chính bao gồm mã số và mã QR code.
+b) Tên cơ quan tiếp nhận hồ sơ.
+c) Tên Phòng, ban xử lý hồ sơ.
+d) Tên tổ chức nộp hồ sơ (nếu có).
+đ) Tên đầy đủ của người nộp hồ sơ.
+e) Ngày nhận hồ sơ
+g) Ngày hẹn trả hồ sơ.
+h) Tình trạng của hồ sơ: Đang xử lý, hoàn thành, trễ hẹn,...
+2. Hồ sơ chưa hợp lệ trong trường hợp nộp hồ sơ trực tuyến.
+a) Nội dưng chưa thể biện, như các điểm a, b, d, đ, e tại Khoản 1 Điều
+này,
+b) Nội dung bổ sung, sửa đổi hồ sơ.
+Điều 24. Mẫn phiếu tiếp nhận hồ sơ và trả kết quả.
+Mẫu phiếu tiếp nhận hồ sơ và trả kết quả thủ tục hành chính phải ghi đầy
+củ thông tin và đảng biểu mẫn được quy định tại Điều 9 Thông tư số.
+01/2018/TT-VPCP ngày 23 tháng 11 năm 201g của Văn phòng Chính phủ.
+Điều 25. Quản lý và khai thác dữ liệu
+1. Cơ sở đữ liệu các phần mềm chuyên ngành của các sở, ban, ngành và
+Ủy ban nhân dân các huyện, thị xã, thành phố phải được đồng bộ về cơ sở dữ:
+liệu tra cứu tình trạng hể sơ trên Cổng Dịch vụ công trực tuyển khi bồ sơ thay
+đổi trạng thái theo cấu trúc quy định tại Điều 23 Quy chế này.
+2. Cơ sở dữ liệu tra cứu tình trạng hồ sơ được đảm bảo an toàn, chính xác.
+3. Thời gian lưu trữ đã liệu được thực hiện theo quy định của pháp luật về
+lưu trữ.
+13
+CHƯƠNG VI
+PHÒI HỢP THỰC HIỆN VIỆC TIẾT NHẬN HỔ SƠ, TRẢ KẾT QUÁ
+GIẢI QUYẾT THỦ TỰC HÀNH CHÍNH QUA DỊCH VỰ
+BƯU CHÍNH CÔNG ÍCH
+Điều 26. Tiếp nhận hồ sơ qua dịch vụ hưu chính công ích kết hợp
+đăng ký dịch vụ công trực tuyến
+1. Cơ quan, đơn vị cung cấp dịch vụ công trực tuyến phải có thỏa thuận.
+ký kết hợp đồng với đơn vị cung cấp dịch vụ bưu chính công ích trước khi kết.
+hợp cung cấp dịch vụ cho tổ chức, cá nhân.
+2. Việc nhận hồ sơ của tổ chức, cá nhân được thực hiện tại các điểm phục.
+vụ bưu chính của đơn vị cung ứng dịch vụ bưu chính công ích hoặc tại địa chỉ
+theo yêu cầu của tổ chức, cá nhân.
+3. Đại diện tổ chức, cá nhân có hồ sơ phối hợp với nhân viên bưu chính.
+kiểm đếm, đối chiếu danh mục tài liệu có trong hồ sơ so với quy định của từng
+thủ tục hành chính đã được công bổ công khai trên trên Cổng Dịch vụ công trực
+tuyến của tỉnh.
+4. Nếu hồ sơ còn thiếu thì tổ chức, cá nhân bổ sung hoặc nhân viên bưu
+chính có trách nhiệm hướng dẫn đại diện tổ chức, cá nhân bổ sung đầy đủ.
+5. Tổ chức, cá nhân, nhân viên đơn vị cung ứng dịch vụ bưu chính công
+ích sử dụng tải khoản công dân trên Cổng Dịch vụ công trực tuyến để nhập đầy
+đủ thông tin của hồ sơ.
+Điều 27. Trình tự tiếp nhận hồ sơ, trả kết quả giải quyết thủ tục hành
+chính qua dịch vụ bưa chính công ích kết hợp với dịch vụ công trực tuyến
+1. Tổ chức, cá nhân đăng ký dịch vụ tiếp nhận và trả kết quả giải quyết thủ
+tục hành chính qua dịch vụ ban chính công ích, nhân viên đơn vị cung ứng dịch.
+vụ bưu chính công ích tiếp nhận hồ sơ và nộp hồ sơ trực tuyến đến cơ quan có
+thẩm quyền trên Cổng Dịch vụ công trực tuyến.
+2. Trình tự nộp hồ sơ của nhân viên đơn vị cung ứng dịch vụ bau chính.
+công ích trên trên Công Dịch vụ công trực tuyến được thực hiện theo quy định tại
+Khoản 1, Khoản 2 Điều 11 Quy chế này.
+3. Trả kết quả giải quyết thủ tục hành chính qua dịch vự bưu chính
+công ích:
+a) Các tổ chức, cá nhân gửi hồ sơ, giấy từ liên quan qua dịch vụ bưu
+chính bằng thu đảm bảo hoặc sử dụng dịch vụ tiếp nhận hồ sơ, trả kết quả giải
+quyết thủ tục hành chính tại nhà của đơn vị cung ứng dịch vụ bưu chính công
+ích. Tổ phức, cá nhân có trách nhiện thanh toán phí, lệ phí cung cấp dịch vụ
+công (nếu có) và cước, phí dịch vụ bưu chính theo quy định.
+14
+b) Cơ quan có thẩm quyền kiểm tra, đối chiếu, giải quyết hồ so của các tổ
+chức, cá phân và gửi trả kết quả qua dịch vụ bau chính công ích đến cho
+tổ chức, cá nhân đảm bảo thời gian quy định.
+Điều 28. Hợp đồng giữa cơ quan bó thẩm quyền và đơn vị cung ứng
+dịch vụ bưu chính công ích
+1. Căn cứ Nghị định số 45/2015/QĐ-TTg ngày 24 tháng 9 năm 2015 của
+Thủ trởng chính phủ, Thông tư số 02/2012/TT-BTTTT ngày 15 tháng 3 năm
+2012 của Bộ trưởng Bộ Thông tin và Truyền thông quy định chi tiết về cung
+ứng và sử dụng dịch vụ ban chính công tích, cơ quan có thẩm quyền và đơn vị
+cung ứng dịch vụ bưu chính công ích thực hiện hợp đồng bằng văn bản về cong
+ứng, sử dạng dịch vụ bơu chính công ích để tiếp nhận hồ sơ hoặc trả kết quả thủ.
+tục hành chính.
+2. Hợp đồng quy định rõ trách nhiệm của hai bên trong quá trình tiếp
+nhận hồ sơ hoặc trả kết quả giải quyết thô tục hành chính, đảm bảo tính pháp lý
+trong quá trình lưu trữ hồ sơ tại cơ quan có thẩm quyền.
+3. Cơ quan có thẩm quyền lựa chọn những thủ tục hành chính trong bộ
+thủ tục được Chủ tịch Ủy ban nhân dân tỉnh công bố, có khả năng thực hiên tiếp
+nhận bồ sơ, cả kết quả giải quyết bằng dịch vụ trư chính để đua vào nội dung
+hợp đồng.
+4. Hợp đồng có điều khoản về đào tạo hướng dẫn nhân lực của đơn vị
+cơng ứng dịch vụ hưu chính công tch tiếp nhận hồ sơ giấy, thực hiện trình tự
+đăng ký trực tuyến:
+Điều 29. Phí và lệ phí
+1. Cước phí thực hiện thủ tục hành chính (nếu có) thực hiện theo quy định
+của pháp luật hiện hành.
+2. Các khoản cước phí và lệ phí phụ thu dịch vụ khác khi thực hiện tiếp
+nhận hồ sơ hoặc tra kết quả bảng dịch vụ bao chính công ích thế hiện trong
+hợp đồng.
+3. Các phí và lệ phí tại Khoản 1 và Khoản 2 Điều này, thời gian toàn trình
+được công bế trên Cổng thông tin điện tử của tỉnh, tại các điểm cung cấp dịch.
+vụ của bưu điện, công khai trên Trang thông tin điện tử của các cơ quan, đơn vị
+ký hợp đồng với doanh nghiệp để cung cấp dịch vụ..
+4. Phương án thu và nộp phí, lệ phí (nếu có), cơ quan có thẩm quyền và
+đơn vị cung ứng dịch vụ bau chính công tích ký kết thỏa thuận trong hợp đồng,
+ưu tiên sử dụng các phương tiện tho và nộp ghí, lệ phí thuận lợi như: Thu hộ,
+chuyển khoản, thẻ tín dụng.
+Điều 30. Trách nhiệm của đơc vị cang ứng dịch vụ bưu chính
+công ích
+1. Tiếp nhận hồ sơ: Cam kết hướng dẫn cá nhân, tổ chức thực hiện thủ tục
+hành chính nộp đầy đủ thành phần hồ sơ theo quy định, hướng dẫn nộp đóng,
+
+
+15
+không yêu cầu nộp các giấy tờ, hồ sơ ngoài quy định và nhập bồ sơ trên Cổng
+Dịch vụ công trực tuyến của tỉnh:
+2. Trả kết quả: Cam kết trả kết quả giải quyết thủ tục hành chính trong
+vòng 24 giờ đối với cá nhân, tổ chức thực hiện thủ tục hành chính có địa chỉ
+nhận trả kết quả trên địa bàn tỉnh.
+3. Khi xảy ra trường hợp làm mất hồ sơ thì đơn vị cung ứng dịch vụ bưu
+chính công lịch sẽ bồi thường mọi chi phí và lệ phí, cam kết liên hệ với cơ quan,
+có thẩm quyền để làm lại cho tổ chức, cá nhân.
+4. Thực hiện theo quy định tại Điều 15 Quyết định số 45/2016/QĐ-TTg
+ngày 19 tháng 10 năm 2016 của Thủ tướng chính phủ.
+5. Bố trí cơ sở vật chất, nhân viên đủ năng lực, trình độ cho việc tư vấn,
+hưởng dẫn tổ chức, cá nhân khi tiếp nhận hồ sơ tại các điểm phục vụ của
+dịch vụ.
+CHƯƠNG VII
+TỔ CHỨC THỰC HIỆN
+Điều 31. Sở Thông tin và Truyền thông
+1. Chịu trách nhiệm quản lý chung Cổng Dịch vụ công trực tuyến; tham.
+mưu Ủy ban nhân dân tỉnh triển khai thực hiện, theo dơi, hướng dẫn, kiểm tra
+việc thực hiện các quy định tại Quy chế này; đồng thời tổng hợp, báo cáo Ủy
+ban nhân đấp tỉnh về các khó khăn, vướng mắc phát sinh trong quá trình thực
+hiện Quy chế này.
+2. Phối hợp với đơn vị cung cấp dịch vụ quản trị, vận hành hệ thống:
+thường xuyên theo dõi, hướng dẫn, kiểm tra, dôn đốc, hỗ trợ cán bộ, công chức,
+viên chức và các tổ chức, cá nhân trong quá trình tương tác, sử dụng hệ thống.
+Theo dõi, trích xuất dữ liệu về tình hình tiếp nhận, xử lý hồ sơ của các cơ quan,
+đơn vị để báo cáo, để xuất Ủy ban nhân dân tỉnh chỉ đạo thực hiện kịp thời.
+Điều 32. Văn phòng Ủy ban nhân dân tỉnh
+Thường xuyên rà soát, tham trưu về việc đơn gián hóa thủ tục đối với các
+bộ thủ tục hành chính cung cấp trực tuyến mức độ 3 và 4 để thuận tiệc, để thục
+hiện nhằm cải thiện, nâng cao chất lượng, hiệu quả cung cấp dịch vụ công trục
+tuyến tại địa phương.
+Phối hợp với Sở Nội vụ, Sở Thông tin và Truyền thông để đôn đốc, hướng
+dẫn các cơ quan thực hiện thủ tục hành chính được triển khai Cổng Dịch vụ
+công trực tuyển đạt hiệu quả cao, đáp ứng nha cầu về cải cách hành chính tại địa
+phương; đưa nội dung ứng dụng Cổng Dịch vụ công trực tuyến vào các tiêu chí
+về cải cách hành chính và đánh giá công tác thi đaa, khen thưởng trên địa
+bàn tỉnh.
+16
+Điều 33 Sở Tài chính
+Phối hợp với Sở Thông tin và Truyền thông tham mưu: Ủy ban nhân dân
+tỉnh bố trí kinh phí để triển khai và duy trì hoạt động hệ thống hàng năm, đồng
+bộ, liên tục từ cấp tỉnh đến cấp xã, phường, thị trấn của tỉnh.
+Điều 34. đác cơ quan, đơn vị cang cấp dịch vụ công trên Cổng Dịch
+vụ công trực tuyến
+Thủ trưởng các dơ quan, đơn vị cung cấp dịch vụ công trên Cổng Dịch va
+công trực tuyến cộ trách chiệm tổ chức, triển khai thực hiện biệu quả Cẳng Dịch .
+vụ công trực tuyến thuộc chức năng, nhiệm vụ quyền bạn của cơ quan, đơn vị
+minh; đồng thời, chịu trách nhiệm trước Ủy ban nuân dân tỉnh về kết quả triển -
+khai, thực hiện tại cơ quan, đơn vị.
+Có trách nhiệm rà soát thường xuyện, hàng năm để kịp thời để xuất thay
+đốt, gỡ bỏ, bổ sung, điều chỉnh vào hệ thống của Cồng Dịch vụ công trực tuyến
+đối với bộ thủ tục hành chính có phát sinh, bãi bỏ hoặc có thay đổi khác.
+Có trách nhiệm cập nhật về thay đổi thông tin đối với cán bộ, cộng chức,
+viên chức tham gia tiếp nhậc, xử lý hồ sơ thủ tục hành chính thuộc thẩm quyền
+giải quyết của cơ quan, đơn vị.
+Điều 35. Khen thưởng và xử lý vi phạm
+1. Việc thực hiện các quy định của Quy chế này được đưa vào tiêu chí để
+xét thi đua, khen thưởng hàng năm của các cơ quan, đơn vị và cá nhân.
+2. Cơ quan, đơn vị và cá nhân vi phạm Quy chế hoác bị nhấc nhỏ nhiều
+lần về việc triển khai thực hiện quy chế tại đơn vị, tày theo tính chất, mức độ vi
+phạm sẽ bị xử tỷ kỷ luật, xử phạt vi phạm hành chính hoặc truy cứu tràch nhiệm.
+hình sự, nếu gây thiệt bại phải bồi thường theo quy định của pháp luật theo.
+quy định.
+Trong quá trình thực hiện, nếu phát sinh vướng mắc, các cơ quan, đơn
+vị, tổ chức, cá nhân phản ảnh dịp thời về Só Thông tin và Truyền thông để
+lổng hợp, báo cạo Ủy ban nhân đất tỉnh xem xét sửa đổi, bổ sung cho phù hợp./.
+TM ỦY BAN NHÂN DÂN
+CHỦ TỊCH
+Phạm Ngọc Nghị
+Phụ lục
+TIÊU CHÍ ĐỒNG BỘ ĐỬ LIỆU TRÊN CÔNG
+DỊCH VỤ CÔNG TRỰC TUYẾN
+(Ban hành kèm theo Quyết định số 1 /2019/QĐ- UBND ngày 21/6/2019.
+của Ủy ban nhân dân tỉnh)
+1. Tiêu chí đồng bộ dữ liệu
+Kiểu DL   Bắt
+STT   Tên Tiêu chí   Ý nghĩa   Ghi chú
+(độ dài)   buộc
+1   MaHSTTHC   Mã số hồ sơ TTHC   Text(22)   X
+Tên công ty, tổ chức
+2   TenToChuc   nộp hồ sơ   Text(70)
+Cá nhân hoặc
+đại diện cho tổ
+3   TenNguoiNop   Tên người nộp hồ sơ   Text(70)   X   chức nộp hồ sơ
+4   DiaChiNguoiNop   Địa chỉ ngời nộp hồ   Text(70)
+sơ
+5   SoCMND   Số CMND hoặc hộ   Text(9) or
+chiếu người nộp   X
+Text(12)
+Số điện thoại di động
+của người gửi hồ sơ
+6   DienThoai   để tiếp nhận tin nhắn   Text(10-12)   X
+khi hồ sơ đã hoàn
+thành.
+VD: Đăng ký
+7   TenDVCong   Tên dịch vụ HC công   Text(512)   cấp mới giấy
+cung cấp   X
+CNĐKKD
+Ngày tháng
+năm giờ phút
+8   NgayNhanHS   Ngày nhận hồ sơ   giây   X
+(dd/mm/yyyy
+h:m:s)
+2
+Kiểu DL   Bắt
+KTT   Tên Tiêu chí   Ý nghĩa   Ghi chú
+(độ dài)   buộc
+Ngày tháng
+năm giờ phút
+9   NgayHenTraHS   Ngày hẹn trả hồ sơ   giây   X
+(dd/mm/yyyy
+h:m:s)
+Tình trạng tiếp nhận   - HS hợp lệ, Bổ
+10   TỉnhTrạngHS   của hồ sơ   Text(512)   X   sung...
+Mã định danh của cơ   Điểm a khoản 2
+11   MaDonVi   Text(13)   x   Điều 7
+quan
+00: Hồ sơ mới
+tiếp nhận
+01: Chờ phân
+công
+02: Đang xử lý
+03: Chờ bổ sung
+04: Đang xử lý
+05: Chờ trình
+duyệt
+Mã trạng thái xử lý hồ
+Trang ThaiXuLy   sơ   Number(2)   X   06: Chờ duyệt
+07: Không duyệt
+08: Chờ trình ký
+09: Chờ ký
+10: Không ký
+11: Chờ hoàn trả
+12: Đã hoàn trả
+13: Kết thúc quy
+trình
+Phòng hiện tại
+13   PhongBanXuLy   Phòng ban xử lý   Text(100)   X   đang xử lý
+Chuyên viên
+Chuyên Viên xử lý
+CVXuLy   hiện tại đang xử   14   Text(70)   hồ sơ
+3
+Kiểu DL   Bắt
+STT   Tên Tiêu chí   Ý nghĩa   Ghi chú
+(độ dài)   buộc
+Danh sách các tập tin
+15   DinhKem
+đính kèm
+Chứa dữ liệu dành   Được định dạng
+riêng cho chuyên   theo dạng SSON
+ngành của từng cơ
+quan.
+- Tùy tình hình đặc
+thù quản lý của các cơ
+16   DuLieuChuyenNganh   quan sẽ bổ sung thêm
+các thông tin chuyên
+ngành đảm bảo yêu
+cầu quản lý và dữ liệu
+chỉ nhập một lần trên
+Hệ thống thông tin
+một cửa điện tử tỉnh
+tỉnh.
+2. Tiêu chí đồng bộ dữ liệu về tình trạng tra cứu hồ sơ
+Kiểu DL   Bắt
+STT   Tên Tiêu chí   Ý nghĩa   Ghi chú
+(độ dài)   buộc
+1   MaHsTTHC   Mã số hồ sơ TTHC   Text(22)   X
+Ngày tháng
+năm giờ phút
+2   NgayHenTra   Ngày hẹn trả hồ sơ   giây   X
+(dd/mm/yyy
+h:m:s)
+- HS hợp lệ
+Tình trạng tiếp nhận
+3   Tinh TrangHS   của hồ sơ   Text(512)   X   - Bổ sung: ..
+00: Hồ sơ mới tiếp
+nhận
+Mã trạng thái xử lý   01: Chờ phân
+4   TrangThaiXuLy   hồ sơ   Number(2)   x   công
+02: Đang xử lý
+03: Chờ bổ sung
+4
+Kiểu DL   Bắt
+STT   Tên Tiêu Chí   Ý nghĩa   Ghi chú
+(độ đài)   buộc
+04: Đang xử lý
+05: Chờ trình
+duyệt
+06: Chờ duyệt
+07: Không duyệt
+08: Chờ trình ký
+09: Chờ ký
+10: Không ký
+11: Chờ hoàn trả
+12: Đã hoàn trả
+13: Kết thúc quy
+trình
+Phòng hiện tại
+5   PhongBanXuLy   Phòng ban xử lý   Text(100)   X   đang xử lý
+Chuyên viên
+Chuyên Viên xử lý hồ
+6   CVXuLy   Text(70)   hiện tại đang xử
+sơ
+0: Đúng hạn
+X: Trễ hạn (trong
+: 7   DanhGia   Kết quả xử lý   Number(1)   x   đó, x là số ngày
+trễ hạn so với
+quy định)
+Kết thúc xử lý hồ sơ,   0: Đang xử lý
+8   KetThucXuLy   đối với những hồ sơi   Number(1)   X   1: Kết thúc xử lý
+kết thúc xử lý
+Ngày tháng
+năm giờ phút
+Ngày hoàn thành thủ
+9   NgayHoanTatXuLy   giây   X
+tục
+(dd/mm/yyyy
+h:m:s)

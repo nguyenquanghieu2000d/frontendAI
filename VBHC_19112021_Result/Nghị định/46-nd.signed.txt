@@ -1,0 +1,2051 @@
+Ký bởi: Công Thông tin điện tử Chính phủ   Email: thongtinchinhphuạchinhphu.vn
+Cơ quạn: Văn phòng Chính phủ
+TT NHU THT TỊNH TTNH TTNH THTNN THATH   Thời gian ký: 15.05.2015 1111122 +07:00
+CHÍNH PHỦ   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Số:46/2015/NĐ-CP
+Hà Nội, ngày 12 tháng 5 năm 2015
+CÔNG THÔNG TIN ĐIỆN TỦ CHÍNH PHủ
+NGHỊ ĐỊNH
+Về quản lý chất tượng và bảo trì công trình xây dựng
+Căn cứ Luật Tổ chức Chính phá ngày 25 tháng 12 năm 2001;
+Căn cứ Luật Xây dựng ngày 18 tháng 6 năm 2014;
+Căn cứ Luật Đấu thầu ngày 26 tháng 11 năm 2013:
+Căn cứ Luật Chất lượng sản phẩm hàng hóa ngày 21 tháng 11 năm 2007)-
+Theo đề nghị của Bộ trưởng Bộ Xây dựng
+Chính phủ ban hành Nghị định về quản lý chất lượng và bảo trì.
+công trình xây dựng.
+Chương I
+NHỮNG QUY ĐỊNH CHƯNG
+Điều 1. Phạm vi điều chỉnh
+Nghị định này hướng dẫn Luật Xây dựng về quản lý chất lượng công
+trình xây dựng trong công tác khảo sát, thiết kế, thi công xây dựng; về bảo tư
+công trình xây dựng và giải quyết sự cố công trình xây dựng.
+Điều 2. Đối tượng áp dụng
+Nghị định này áp dụng với người quyết định đầu tư, chứ đầu tư, chủ sở
+hữu, người quản tý, sử dụng công trình, nhà thầu trong nước, nhà thầu nước:
+ngoài, các cơ quan quản lý nhà nước về xây dựng và các tổ chức, cá nhân khác.
+có liên quan đến công tác quản lý chất lương và bảo trì công trình xây dựng.
+Điều 3. Giải thích từ ngữ
+1. Quản lý chất lượng công trình xây dựng là hoạt động quản lý của các.
+chủ thể tham gia các hoạt động xây dựng theo quy định của Nghị định này và
+pháp luật khác có liên quan trong quá trình chuẩn lý, thực hiện đầu tư xây
+dựng công trình và khai thác, sử dụng công trình nhằm đảm bảo các yêu cần
+về chất lương và an toàn của công trình.
+2. Chi dẫn kỹ thuật là tập hợp các yêu cầu kỹ thuật dựa trên các quy chuẩn
+kỹ thuật, tiên chuẩn được áp dụng cho công trình, thiết kế xây dựng công trình
+để hướng dẫn, quy định về vật liệu, sản phẩm, thiết bị sử dụng cho công trình
+và các công tác thi công, giám sát, nghiệm thu công trình xây dựng.
+3. Bản vê hoàn công là bản vẽ công trình xây dựng hoàn thành, trong đó.
+thể hiện vị trí, kích thước, vật liệu và thiết bị được sử dụng thực tế.
+4. Hồ sơ hoàn thành công trình là tập hợp các hồ sơ, tài liệu có liên quan
+tới quá trình đầu tư xây dựng công trình cần được lưu tại khi đưa công trình
+vào sử dụng,
+5. Thi nghiệm chuyên ngành xây dựng là hoạt động đo lường nhằm xác
+định đặc tỉnh của đất xây dựng, vật hiệu xây dựng, môi trường xây dựng, sản
+phẩm xây dựng, bộ phận công trình hoặc công trình xây dựng theo quy trình
+nhất định.
+6. Quan trắc công trình là hoạt động theo dõi, do đạc, ghi nhận sự biển
+đổi về hình học, biển dạng, chuyển dịch và các thông số kỹ thuật khác của
+công trình và mối trường xung quanh theo thời gian.
+7. Trắc đạc công trình là hoạt động do đạc để xác định vị trí, hình dạng,
+kích thước của địa hình, công trình xây dựng phục vụ thi công xây dựng, quản
+lý chất lượng, bảo trì và giải quyết sự cổ công trình xây dựng.
+8. Kiểm định xây dựng là hoạt động kiểm tra, đánh giá chất lượng hoặc.
+nguyên nhân hư hông, giá trị, thời hạn sử dụng và các thông số kỹ thuật khác
+của sản phẩm xây dựng, bộ phận công trình hoặc công trình xây dựng thông
+qua quan trắc, thì nghiệm kết hợp với việc tính toán, phản tích.
+9. Giám định xây dựng là hoạt động kiểm định xây dựng và đánh giá sự
+quân thủ các quy định của pháp luật về đầu tư xây dựng, được tổ chức thực.
+hiện bởi cơ quan quản lý nhà nước có thẩm quyền hoặc theo yêu cầu của cơ
+quan này.
+10. Giám định tư pháp xây dựng là việc thực hiện các hoạt động chuyên.
+môn về xây dựng theo trưng cầu của cơ quan tiến hành tố tụng, người tiến.
+hành tố tụng hoặc theo yêu cầu của người yêu cầu giảm định theo quy định
+của pháp luật về giám định tư pháp.
+11. Đánh giá hợp quy trong hoạt động xây dựng là đánh giả mức độ phử
+hợp của vật liệu xây dựng và sản phẩm xây dụng so với yêu cầu của quy
+chuẩn kỹ thuật có liên quan được áp dụng.
+12. Đánh giá hợp chuẩn trong hoạt động xây dựng là đánh giá mức độ
+phù hợp của sản phẩm, hàng hóa, dịch vụ, quá trình, môi trường với tiêu.
+chuẩn tương ứng.
+2
+13. Bảo trì công trình xây dựng là tập hợp các công việc nhằm bảo đảm
+và duy trì sự làm việc bình thường, an toàn của công trình theo quy định của
+thiết kế trong quá trình khai thác sử dụng. Nội dung bảo trì công trình xây
+dựng có thể bao gồm một, một số hoặc toán bộ các công việc sau: Kiểm tra,
+quan trắc, kiểm định chất lượng, bảo dưỡng và sửa chữa công trình nhưng
+không bao gồm các hoạt động làm thay đổi công năng, quy mô công trình.
+14. Quy trình bảo trì công trình xây dựng là tài liệu quy định về trình tự,
+nội dung và chỉ dẫn thực hiện các công việc bảo trì công trình xây dựng.
+15. Thời hạn sử dụng theo thiết kế của công trình (tuổi thọ thiết kế) là
+khoảng thời gian công trình được dự kiến sử dụng, đảm bảo yêu cầu về an.
+toàn và công năng. Thời hạn sử dụng theo thiết kế của công trình được quy
+định trong quy chuẩn kỹ thuật, tiêu chuẩn áp dụng có liên quan, nhiệm vụ.
+thiết kế xây dựng công trình.
+16. Thời hạn sử dụng thực tế của công trình (tuối thọ thực tế) là khoảng
+thời gian công trình được sử dụng thực tế, đảm bảo các yêu cầu về an toàn và
+công năng.
+17. Báo hành công trình xây dựng là sự cam kết của nhà thầu về trách:
+nhiệm khắc phục, sửa chữa trong một thời gian nhất định các hư hỏng, khiểm.
+khuyết có thể xảy ra trong quá trình khai thác, sử dụng công trình xây dựng.
+18. Chủ sở hữu công trình là cá nhân, tổ chức có quyền sở hữu công
+trình theo quy định của pháp luật.
+19. Người quản lý, sử dụng công trình là chủ sở hữu trong trường hợp
+chủ sở hữu trực tiếp quản lý, sử dụng công trình hoặc là người được được chủ
+sở hữu công trình ủy quyền quản lý, sử dụng công trình trong trường hợp chủ
+sở hữu không trực tiếp quản lý, sử dụng công trình.
+Điều 4. Nguyên tắc chung trong quản lý chất lượng công trình
+xây dựng
+1. Công trình xây dựng phải được kiểm soát chất lượng theo quy định
+của Nghị định này và pháp luật có liên quan tử chuẩn bị, thực hiện đầu tư xây
+dựng đến quản lý, sử dụng công trình nhằm đảm bảo an toàn cho người, tái
+sản, thiết bị, công trình và các công trình lân cận.
+2. Hạng mục công trình, công trình xây dựng hoàn thành chỉ được phép.
+đưa vào khai thác, sử dụng sau khi được nghiệm thu bảo đảm yêu cầu của
+thiết kế xây dựng, tiêu chuẩn áp dụng, quy chuẩn kỹ thuật cho công trình,
+các yêu cầu của hợp đồng xây dựng và quy định của pháp luật có liên quan.
+3
+3. Nhà thầu khi tham gia hoạt động xây dựng phải có đủ điều kiện năng
+lực theo quy định, phải có biện pháp tự quản lý chất lượng các công việc xây
+dựng do minh thực hiện. Nhà thầu chính hoặc tổng thầu có trách nhiệm quản
+lý chất lượng công việc do nhà thầu phụ thực hiện.
+4. Chủ đầu tư có trách nhiệm tổ chức quản lý chất lượng công trình phủ
+hợp với hình thức đầu tư, hình thức quản lý dự án, hình thức giao thần, quy
+mỏ và nguồn vốn đầu tư trong quá trình thực hiện đầu tư xây dựng công trình.
+theo quy định của Nghị định này. Chủ đầu tư được quyền tự trực hiện các
+hoạt động xây dựng nếu đủ điều kiện năng lực theo quy định của pháp luật.
+5. Cơ quan chuyên môn về xây dựng hướng dẫn, kiểm tra công tác quân
+lý chất lượng của các tổ chức, cá nhân tham gia xây dựng công trình; thẩm.
+định thiết kế, kiểm tra công tác nghiệm thu công trình xây dựng, tổ chức thực.
+hiện giám định chất lượng công trình xây dựng; kiến nghị và xử lý các vị
+phạm về chất lượng công trình xây dựng theo quy định của pháp luật.
+6. Các chủ thể thanh gia hoạt động đầu tư xây dựng quy định tại Khoản 3,
+Khoản 4 và Khoản 5 Điều này chịu trách nhiệm về chất lượng các công việc:
+do mình thực hiện.
+Điều 5. Phân định trách nhiệm quản lý chất lượng công trình xây
+dựng giữa chủ đầu tư và các chủ thể tham gia hoạt động đầu tư xây dựng
+1. Trường hợp chủ đầu tư thành lập ban quản lý dự án đầu tư xây dựng:
+a) Chủ đầu tư được ủy quyền cho ban quản lý dự án thực hiện một phần
+hoặc toàn bộ trách nhiệm của chủ đầu tư trong quản lý chất lượng công trình
+theo quy định của Nghị định này. Chủ đầu tư phải chỉ đạo, kiểm tra và chịu
+trách nhiệm về các công việc đã ủy quyền cho ban quản lý dự án thực hiện;
+b) Ban quản lý dự án chịu trách nhiệm trước chủ đầu tư và pháp luật theo
+nhiệm vụ và quyền hạn được chủ đầu tư ủy quyền.
+2. Trường hợp chủ đầu tư thuê tư vấn quản lý dự án, nhà thầu giám sát
+thì công xây dựng công trình:
+a) Chủ đầu tư được quyền giao nhà thầu này thực hiện một hoặc một số.
+trách nhiệm của chủ đầu tư trong quản lý chất lượng công trình xây dựng
+thông qua hợp đồng xây dựng. Chủ đầu tư có trách nhiệm giám sát thực hiện
+hợp đồng xây dựng, xử lý các vấn đề liên quan giữa nhà thầu tư vấn quản lý.
+dự án, nhà thần giám sát thi công xây dựng công trình với các nhà thầu khác
+và với chính quyền địa phương trong quá trình thực hiện dự án;
+4
+b) Các nhà thầu tư vấn quản lý dự án, nhà thầu giám sát thì công xây
+dựng công trình chịu trách nhiệm trước chủ đầu tư và pháp luật về những
+trách nhiệm được giao.
+3. Bộ Xây dựng hướng dẫn chi tiết các trách nhiệm quản lý chất lượng
+công trình xây dựng của chủ đầu tư; phân định trách nhiệm giữa các chủ thể
+có liên quan về quản lý chất lượng công trình xây dựng trong trường hợp áp.
+dụng loại hợp đồng tổng thầu, hợp đồng liên danh và các trường hợp áp dụng
+đầu tư theo hình thức đối tác công tư.
+Điều 6. Áp dụng quy chuẩn kỹ thuật, tiêu chuẩn trong hoạt động
+đầu tư xây dựng
+1. Việc áp dụng quy chuẩn kỹ thuật, tiêu chuẩn trong hoạt động đầu tư.
+xây dựng phải tuân thủ các quy định tại Điều 6 Luật Xây dựng và tuân thủ các
+quy định có liên quan do Bộ Xây dựng ban hành.
+2. Khí áp dụng tiêu chuẩn nước ngoài phải có bản thuyết minh về sự cần
+thiết phải áp dụng. Tiêu chuẩn nước ngoài được áp dụng phải có toàn văn tiêu
+chuẩn dưới dụng tép tin hoặc bản in và phải có bán dịch tiếng Việt hoặc tiếng
+Anh cho phần nội dung sử dụng.
+3. Đối với các giải pháp kỹ thuật, công nghệ, vật liệu mới chủ yếu của
+công trình lần đầu áp dụng tại Việt Nam phải đáp ứng yêu cầu của quy chuẩn
+kỹ thuật và quy định của pháp luật có liên quan. Nhà thầu để xuất áp dụng các
+giải pháp kỳ thuật công nghệ, vật liệc mới có trách nhiệm cung cấp các căn.
+cứ, tái liệu chứng minh vệ điều kiện đảm bảo an toàn, hiệu quả và khả thì khi
+áp dụng để cơ quan có thẩm quyền thẩm định trong quá trình thẩm định thiết
+kế xây dựng công trình theo quy định của pháp luật về xây dựng.
+Điều 7. Quản lý chất lượng xây dựng nhà ở riêng lẻ
+1. Công tác quản lý chất lượng xây dựng nhà ở riêng lẻ được thực hiện
+trên nguyên tắc đảm bảo an toàn cho con người, tài sản, thiết bị, công trình,
+các công trình lân cận và môi trường xung quanh. Khuyến khích các chủ thế
+tham gia hoạt động đầu tư xậy dựng nhà ở riêng lẻ áp dụng các quy định của
+Nghị định này đề quản lý chất lượng xây dựng nhà ở riêng lê.
+2. Bộ Xây dựng hướng dẫn về quản lý chất lượng công trình xây dựng.
+nhà ở riêng lẻ.
+Điều 8. Phân loại và phân cấp công trình xây dựng
+1. Căn cứ theo công năng sử dụng, công trình xây dựng được phân thành.
+các loại như sau:
+a) Công trình dân dụng;
+5
+b) Công trình công nghiệp;
+c) Công trình giao thông;
+d) Công trình nông nghiệp và phát triển nông thôn;
+đ) Công trình hạ tầng kỹ thuật;
+e) Công trình quốc phòng, an ninh.
+Danh mục chi tiết các loại công trình được quy định tại Phụ lục 1 ban
+hành kèm theo Nghị định này.
+2. Đối với công trình không được quy định trong các mục từ mục 1 đến
+mục V của Phụ lục T Nghị định này, Bộ Xây dựng chủ trì, phối hợp với Bộ
+quản lý công trình xây dựng chuyên ngành xác định loại của công trình.
+3. Công trình, hạng mục công trình được phân cấp căn cứ trên quy mô,
+loại kết cấu, tầm quan trọng để áp dụng trong quản lý các hoạt động đầu tư
+xây dựng sau đây:
+a) Quản lý phân hạng năng lực của các chủ thể tham gia hoạt động xây
+dựng và công bố thông tin năng lực của các tổ chức, cá nhân hoạt động xây
+dựng công trình;
+b) Yêu cầu về cấp công trình phải lập chỉ dẫn kỹ thuật và xác định số
+bước thiết kế xây dựng công trình;
+c) Phản định trách nhiệm thẩm định thiết kế xây dựng, kiểm tra công tác
+nghiệm thu trong quá trình thì công và khi hoàn thành thi công xây dựng công
+trình của các cơ quan chuyên môn về xây dựng;
+d) Quản lý chi phí đầu tư xây dựng và hợp đồng xây dựng;
+đ) Phân cấp thẩm quyền cấp giấy phép xây dựng;
+c) Quy định về thời hạn bảo hành công trình xây dựng; quản lý công tác
+bảo trì công trình xây dựng;
+g) Phân cấp sự cố công trình xây dựng và thẩm quyền giải quyết sự cố
+công trình xây dựng;
+h) Các quy định khác có liên quan.
+4. Phân cấp công trình để thiết kế xây dựng công trình và để quản lý các.
+nội dung khác được quy định trong các quy chuẩn kỹ thuật, tiêu chuẩn và quy.
+định của pháp luật có liên quan.
+6
+5. Bộ Xây dựng chủ trì, phối hợp với các Bộ quản lý công trình xây dựng
+chuyên ngành hướng dẫn phân cấp các loại công trình xây dựng nêu tại
+Khoản 3 Điều này.
+Điều 9. Giải thưởng về chất lượng công trình xây dựng
+1. Giải thưởng về chất lượng công trình xây dựng bao gồm các bình thức sau:
+a) Giải thưởng quốc gia về chất lượng công trình xây dựng do Thủ tướng
+Chính phủ quy định;
+b) Giải thưởng công trình xây dựng chất lượng cao và các giải thưởng
+chất lượng khác.
+2. Giải thưởng về chất lượng công trình xây dựng quy định tại Khoản 1
+Điều này là một trong các căn cứ để xếp hạng, đánh giá năng lực và kết quả
+thực hiện công việc của tổ chức, cá nhân khi tham gia hoạt động đầu tư xây
+dựng và được xem xét thường hợp đồng theo quy định tại Khoản 1 Điều 146
+Luật Xây dựng.
+3. Các nhà thầu đạt giải thưởng về chất lượng công trình xây dựng quy.
+định tại Khoản 1 Điều này được xem xét ưu tiên khi tham gia đầu thầu trong
+hoạt động xây dựng theo quy định của pháp luật về đấu thầu. Giải thưởng là
+căn cứ để xem xét ưu tiên cho nhà thần là các giải thưởng mà nhà thầu đạt.
+được trong thời gian 3 năm gần nhất tỉnh đến khi đăng ký tham gia dự thầu.
+Chủ đầu tư có trách nhiệm quy định nội dung nêu trên trong hồ sơ mời thầu.
+4. Bộ Xây dựng hướng dẫn chi tiết các hình thức, điều kiện, tiêu chí, trình
+tự. thủ tục đăng ký và xét tặng giải thưởng về chất lượng công trình xây dựng.
+Điều 10. Thí nghiệm chuyên ngành xây dựng, quan trắc công trình
+xây dựng, kiểm định xây dựng và chứng nhận hợp quy
+1. Thí nghiệm chuyên ngành xây dựng, quan trắc công trình xây dựng,
+kiểm định xây dựng, chứng nhận hợp quy là các hoạt động tư vấn xây dựng
+có điều kiện. Các tổ chức khi tham gia thực hiện các hoạt động trên phải có
+đăng ký và được công nhận theo quy định. Các cá nhân tham gia thực hiện.
+phải có chứng nhận, chứng chỉ hành nghề phù hợp.
+2. Bộ Xây dựng hướng dẫn cụ thể về các hoạt động quy định tại Khoản 1
+Điều này.
+7
+Chương II
+QUẢN LÝ CHẤT LƯỢNG KHẢO SÁT XÂY DỰNG
+Điều 11. Trình tự quản lý chất lượng khảo sát xây dựng
+1. Lập và phê duyệt nhiệm vụ khảo sát xây dựng.
+2. Lập và phê duyệt phương án kỹ thuật kháo sát xây dựng.
+3. Quản lý chất lượng công tác khảo sát xây dựng.
+4. Nghiệm thu, phê duyệt kết quả khảo sát xây dựng.
+Điều 12. Nhiệm vụ khảo sát xây dựng
+1. Nhiệm vụ khảo sát xây dựng được lập cho công tác khảo sát phục vụ.
+việc lập dự án đầu tư xây dựng, thiết kế xây dựng công trình, thiết kể sửa
+chữa, cái tạo, mở rộng, nâng cấp công trình hoặc phục vụ các công tác khảo
+sát khác có liên quan đến hoạt động xây dựng.
+2. Nhiệm vụ khảo sát xây dựng do nhà thầu thiết kế lập. Trường hợp
+chưa lựa chọn được nhà thầu thiết kế, người quyết định đầu tư hoặc chủ đầu.
+tư được thuế tổ chức, cá nhân có đủ điều kiện năng lực lập nhiệm vụ khảo sát
+xây dựng.
+3. Các nội dung của nhiệm vụ khảo sát xây dựng bao gồm:
+a) Mục đích khảo sát xây dựng;
+b) Phạm vi khảo sát xây dựng;
+c) Tiêu chuẩn khảo sát xây dựng được áp dụng;
+đ) Khối lượng các loại công tác khảo sát xây dựng (dự kiến) và dự toán
+chi phí cho công tác khảo sát xây dựng;
+đ) Thời gian thực hiện khảo sát xây dựng.
+4. Nhiệm vụ khảo sát xây dựng được sửa đổi, bổ sung trong các trường
+hợp sau:
+a) Trong quá trình thực hiện khảo sát xây dựng, phát hiện các yếu tố.
+khác thường có thể ảnh hưởng trực tiếp đến giải pháp thiết kể hoặc khi có
+thay đổi nhiệm vụ thiết kế cần phải bổ sung nhiệm vụ khảo sát xây dựng;
+b) Trong quá trình thiết kế, nhà thầu thiết kế phát hiện nhiệm vụ khảo sát
+xây dựng, báo cáo khảo sát xây dựng không đáp ứng yêu cầu thiết kế;
+8
+c) Trong quá trình thi công, phát hiện các yếu tổ khác thường so với tài
+liệu khảo sát, thiết kế có thể ảnh hưởng đến chất tượng công trình, biện pháp.
+thì công xây dựng công trình.
+5. Khi lập nhiệm vụ khảo sát phải xem xét nhiệm vụ khảo sát và kết quả
+khảo sát đã thực hiện ở bước thiết kế trước và các kết quả khảo sát có liên.
+quan được thực hiện trước đó (nếu có).
+Điều 13. Phương án kỹ thuật khảo sát xây dựng
+1. Nhà thầu khảo sát lập phương án kỹ thuật khảo sát xây dựng phù hợp.
+với nhiệm vụ khảo sát xây dựng, các tiêu chuẩn về khảo sát xây dựng được áp.
+dụng và trình chủ đầu tư phê duyệt.
+2. Nội dung phương án kỹ thuật khảo sát xây dựng:
+a) Cơ sở lập phương án kỹ thuật khảo sát xây dựng;
+b) Thành phần, khối lượng công tác khảo sát xây dựng;
+c) Phương pháp, thiết bị khảo sát và phòng thí nghiệm được sử dụng:
+d) Tiêu chuẩn khảo sát xây dựng áp dụng;
+đ) Tổ chức thực hiện và biện pháp kiểm soát chất lượng của nhà thầu
+khảo sát xây dựng;
+e) Tiến độ thực hiện;
+g) Biện pháp bảo đảm an toàn cho người, thiết bị, các công trình hạ tầng
+kỹ thuật và các công trình xây dựng khác trong khu vực khảo sát; biện pháp.
+bảo vệ môi trường, giữ gin cảnh quan trong khu vực khảo sát và phục hồi hiện.
+trường sau khi kết thúc khảo sát.
+3. Chủ đầu tư kiểm tra và phê duyệt phương án kỹ thuật khảo sát xây.
+dựng. Chủ đầu tư có thể thuê đơn vị tư vấn có đủ điều kiện năng lực để thẩm.
+tra phương án kỹ thuật khảo sát xây dựng làm cơ số cho việc phê duyệt.
+Điều 14. Quản lý chất lượng công tác khảo sát xây dựng
+1. Nhà thầu khảo sát có trách nhiệm bố trí đủ người có kinh nghiệm và
+chuyên môn phù hợp để thực hiện kháo sát theo quy định của hợp đồng xây
+dựng; cử người có đủ điều kiện năng lực để làm chủ nhiệm khảo sát và tổ.
+chức thực hiện biện pháp kiểm soát chất lượng quy định tại phương án kỳ.
+thuật khảo sát xây dựng.
+2. Tùy theo quy mộ và loại hình khảo sát, chủ đầu tư có trách nhiệm tổ.
+chức giám sát khảo sát xây dựng theo các nội dung sau:
+9
+a) Kiểm tra năng lực thực tế của nhà thầu khảo sát xây dựng bao gồm
+nhân lực, thiết bị khảo sát tại hiệc trường, phòng thì nghiệm (nếu có) được sử
+dụng so với phương án khảo sát xây dựng được duyệt và quy định của hợp
+đồng xây dựng;
+b) Theo dõi, kiểm tra việc thực hiện khảo sát xây dựng bao gồm: Vị trí
+khảo sát, khối lượng khảo sát, quy trình thực hiện khảo sát, lưu giữ số liệu
+khảo sát và mẫu thí nghiệm; kiểm tra thí nghiệm trong phông và thi nghiệm
+hiện trường; kiểm tra công tác đảm bảo an toàn lao động, an toàn môi trường.
+trong quá trình thực hiện khảo sát.
+3. Chủ đầu tư được quyền đình chỉ công việc khảo sát khi phát hiện nhá
+thầu không thực hiện dúng phương án khảo sát đã được phê duyệt hoặc các
+quy định của hợp đồng xây dựng.
+Điều 15. Nội dung báo cáo kết quả khảo sát xây dựng
+1. Căn cứ thực hiện khảo sát xây dựng.
+2. Quy trình và phương pháp khảo sát xây dựng.
+3. Khái quát về vị trí và điều kiệu tự nhiên của khu vực khảo sát xây
+dựng, đặc điểm, quy mô, tính chất của công trình.
+4. Khối lượng khảo sát xây dựng đã thực hiện.
+5. Kết quể, số liệu khảc sát xây dựng sau khi thí nghiệm, phân tích.
+6. Các ý kiến đánh giá, lưu ý, để xuất (nếu có).
+7. Kết luận và kiến nghị.
+8. Các phụ lục kèm theo.
+Điều 16. Nghiệm thư, phê duyệt báo cáo kết quả khảo sát xây dựng
+1. Nghiệm thu báo cáo kết quả khảo sát xây dựng:
+a) Chủ đầu tư kiểm tra khối tượng công việc khảo sát xây dựng đã thực
+hiện, xem xét sự phù hợp về quy cách, số lượng và nội dung của báo cáo khảo
+sát so với quy định của nhiệm vụ khảo sát xây dựng, phương án kỹ thuật khảo
+sát xây dựng được chủ đầu tư phê duyệt và quy định của hợp đồng xây dựng;
+thông báo chấp thuận nghiệm thu báo cáo kết quả khảo sát xây dựng bằng văn
+bản đến nhà thầu khảo sát nếu đạt yêu cầu.
+Trường hợp báo cáo kết quả khảo sát xây dựng chưa đạt yêu cầu, chủ
+đầu tư gửi nhà thầu khảo sát ý kiến không chấp thuận nghiệm thu bằng văn
+bản, trong đó nêu các nội dung chưa đạt yêu cầu má nhà thầu khảo sát phải
+chỉnh sửa hoặc phải thực hiện khảo sát lại;
+10
+b) Chủ đầu tư có thể thuê đơn vị tư vấn có đủ điều kiện năng lực để kiểm.
+tra báo cáo kết quả khảo sát xây dựng làm cơ sở cho việc quyết định nghiệm thu.
+2. Chủ đầu tư phê duyệt trực tiếp vào báo cáo kết quả kháo sát xây dựng
+sau khi thông báo chấp thuận nghiệm thu báo cáo này và chịu trách nhiệm về
+kết quả phê duyệt của mình.
+3. Nhà thầu khảo sát chịu trách nhiệm về chất lượng khảo sát xây dựng
+do mình thực hiện. Việc nghiệm thu và phê duyệt báo cáo kết quả khảo sát
+xây dựng của chi đầu tư không thay thế và không làm giảm trách nhiệm về
+chất lượng khảo sát xây dựng do nhà thầu khảo sát thực hiện.
+4. Báo cáo kết quả khảo sát xây dựng là thành phần của hồ sơ hoàn thành.
+công trình và được lưu trữ theo quy định tại Điều 33 Nghị định này.
+Chương III
+QUẢN LÝ CHÁT LƯỢNG THIẾT KẾ XÂY DỰNG CÔNG TRÌNH
+Điều 17. Trình tự quản lý chất hượng thiết kế xây dựng công trình
+1. Lập nhiệm vụ thiết kế xây dựng công trình.
+2. Quản lý chất lượng công tác thiết kế xây dựng.
+3. Thẩm định, thẩm tra thiết kế xây dựng.
+4. Phê duyệt thiết kế xây dựng công trình.
+5. Nghiệm thu thiết kế xây dựng công trình.
+Điều 18. Nhiệm vụ thiết kế xây dựng công trình
+1. Chủ đầu tư lập hoặc thuê tổ chức, cá nhân có năng lực phù hợp lập
+nhiệm vụ thiết kế xây dựng công trình.
+2. Nhiệm vụ thiết kế xây dựng công trình phải phù hợp với báo cáo nghiên
+cứu tiều khả thi hoặc báo cáo đề xuất chủ trương đầu tư xây dựng công trình.
+Nhiệm vụ thiết kế xây dựng công trình là căn cứ để lập dự án đầu tư xây dựng
+công trình, lập thiết kế xây dựng công trình. Chủ đầu tư có thể thuê tổ chức tư.
+vấn, chuyên gia góp ý hoặc thẩm tra nhiệm vụ thiết kế khi cần thiết.
+3. Nội dung chính của nhiệm vụ thiết kế xây dựng công trình bao gồm:
+a) Các căn cứ để lập nhiệm vụ thiết kế xây dựng công trình;
+b) Mục tiêu xây dựng công trình;
+c) Địa điểm xây dựng công trình;
+11
+d) Các yêu cầu về quy hoạch, cảnh quan và kiến trúc của công trình;
+d) Các yêu cầu về quy mô và thời hạn sử dụng công trình, công năng sử.
+dụng và các yêu cầu kỹ thuật khác đối với công trình.
+4. Nhiệm vụ thiết kế xây dựng công trình được bổ sung, sửa đổi cho phù
+hợp với điều kiện thực tế để đảm bảo hiệu quả dự án đầu tư xây dựng công trình.
+Điều 19. Chỉ dẫn kỹ thuật
+1. Chỉ dẫn kỹ thuật là cơ sở để thực hiện giám sát thi công xây dựng.
+công trình, thi công và nghiệm thu công trình xây dựng. Chỉ dẫn kỹ thuật do
+nhà thầu thiết kế hoặc nhà thầu tư vấn khác được chủ đầu tư thuê lập. Chi dẫn
+kỹ thuật được phê duyệt là một thành phần của hồ sơ mời thầu thì công xây
+dựng, làm cơ sở để quản lý thi công xây dựng, giám sát thi công xây dựng và
+nghiệm thu công trình.
+2. Chí dẫn kỹ thuật phải phù hợp với quy chuẩn kỹ thuật, tiêu chuẩn áp
+dựng cho công trình xây dựng được phê duyệt và yêu cầu của thiết kế xây.
+dựng công trình.
+3. Bắt buộc thực hiện lập chí dẫn kỹ thuật đối với công trình cấp đặc.
+biệt, cấp 1 và cấp II Đối với công trình di tích và các công trình còn lại, chỉ
+dẫn kỹ thuật có thể được lập riêng hoặc quy định trong thuyết minh thiết kế
+xây dựng công trình.
+Điều 20. Quản lý chất lượng công tác thiết kế xây dựng
+1. Nội dung quản lý chất hượng của nhà thầu thiết kế xây dựng công trình:
+a) Bố trí đủ người có kinh nghiệm và chuyên môn phù hợp để thực hiện
+thiết kế; cử người có đủ điều kiện năng lực để làm chủ nhiệm đồ án thiết kế
+chủ trì thiết kể;
+b) Chỉ sử dụng kết quả khảo sát đáp ứng được yêu cầu của bước thiết kế
+và phù hợp với quy chuẩn kỹ thuật, tiêu chuẩn được áp dụng cho công trình;
+c) Chỉ định cá nhân, bộ phận trực thuộc tổ chức của mình hoặc thuê tổ
+chức, cá nhân khác đủ điều kiện năng lực theo quy định để thực hiện công
+việc kiểm tra nội bộ chất lượng hồ sơ thiết kế;
+c) Trình chủ đầu tự hồ sơ thiết kế để được thẩm định, phê duyệt theo quy.
+định của Luật Xây dựng; tiếp thu ý kiến thẩm định và giải trình hoặc chỉnh
+sửa hồ sơ thiết kế theo ý kiến thẩm định;
+đ) Thực hiện điều chỉnh thiết kế theo quy định.
+12
+2. Nhà thần thiết kế chịu trách nhiệm về chất lượng thiết kế xây dựng
+công trình do minh thực hiện; việc thẩm tra, thẩm định và phê duyệt thiết kể
+của cá nhân, tổ chức, chủ đầu tư, người quyết định đầu tư hoặc cơ quan
+chuyên môn về xây dựng không thay thể và không làm giảm trách nhiệm của nhà
+thầu thiết kế về chất lượng thiết kế xây dựng công trình do mình thực hiện.
+3. Trường hợp nhà thầu thiết kể làm tổng thầu thiết kế thì nhà thấu này.
+phải đảm nhận thiết kế những hạng mục công trình chủ yếu hoặc công nghệ
+chủ yếu của công trình và chịu trách nhiệm toàn bộ về việc thực hiện hợp.
+đồng với bên giao thần. Nhà thầu thiết kế phụ chịu trách nhiệm về tiến độ.
+chất lượng thiết kế trước tổng thầu và trước pháp luật đối với phần việc do
+mình đảm nhận.
+4. Trong quá trình thiết kế xây dựng công trình quan trọng quốc gia,
+công trình có quy mô lớn, kỹ thuật phức tạp, nhà thần thiết kế xây dựng có
+quyền đề xuất với chủ đầu tư thực hiện các thì nghiệm, thử nghiệm mỏ phông
+để kiểm tra, tính toán khả năng làm việc của công trình nhằm hoàn thiện thiết
+kế, đảm bảo yêu cầu kỹ thuật và an toàn công trình.
+Điều 21. Quy cách hồ sơ thiết kế xây dựng công trình
+1. Hồ sơ thiết kế được lập cho từng công trình bao gồm thuyết mình thiết
+kế, bản tỉnh, các bản vẽ thiết kế, các tài liệu khảo sát xây dựng liên quan, dự
+toán xây dựng công trình và quy trình bảo trì công trình xây dựng (nếu có):
+2 Bản vẽ thiết kế phải có kích cở, tỷ lệ, khung tên được thể hiện theo các
+tiêu chuẩn áp dụng trong hoạt động xây dựng. Trong khung tên từng bản vệ
+phải có tên, chữ ký của người trực tiếp thiết kể, người kiểm tra thiết kế, chủ trì
+thiết kế, chủ nhiệm thiết kế, người đại diện theo pháp luật của nhà chầu thiết
+kế và đấu của nhà thầu thiết kế xây dựng công trình trong trường hợp nhà
+thầu thiết kế là tổ chức.
+3. Các bản thuyết minh, bản vẽ thiết kế, dự toàn phải được đóng thành
+tập hồ sơ theo khuôn khổ thống nhất, được lập danh mục, đánh số, kỷ hiệu để
+tra cứu và bảo quản lâu dài
+Điều 22. Thẩm định, thẩm tra, phê duyệt, nghiệm thu, lưu trữ thiết
+kế xây dựng công trình
+1. Công tác thẩm định, thẩm tra, phê duyệt, nghiệm thu, điều chỉnh thiết
+kế và chỉ dẫn kỹ thuật, thành phần của hồ sơ thiết kế xây dựng công trình
+được thực hiện theo quy định Luật Xây dựng và Nghị định về quản lý dự án.
+đầu tư xây dựng công trình.
+2. Hồ sơ thiết kế xây dựng công trình là thành phần của hồ sơ hoàn thành
+công trình và phải được lưu trữ theo quy định tại Điều 33 Nghị định này.
+13
+Chương IV
+QUẢN LÝ CHẤT LƯỢNG THI CÔNG XÂY DỰNG CÔNG TRÌNH
+Điều 23. Trình tự quản lý chất lượng thi công xây dựng
+Chất lượng thì công xây dựng công trình phải được kiểm soát từ công
+đoạn mua sắm, sản xuất, chế tạo các sản phẩm xây dựng, vật liệu xây dựng.
+cấu kiện và thiết bị được sử dụng vào công trình cho tới công đoạn thi công
+xây dựng, chạy thử và nghiệm thu đưa hạng mục công trình, công trình hoàn
+thành vào sử dụng. Trình tự và trách nhiệm thực hiện của các chủ thể được.
+quy định như sau:
+1. Quản lý chất lượng đối với vật liệu, sản phẩm, cấu kiện, thiết bị sử
+dụng cho công trình xây dựng.
+2. Quản lý chất lượng của nhà thầu trong quá trình thi công xây dựng
+công trình.
+3. Giám sát thi công xây dựng công trình của chủ đầu tư, kiểm tra và
+nghiệm thu công việc xây dựng trong quá trình thì công xây dựng công trình.
+4. Giám sát tác giá của nhà thầu thiết kế trong thì công xây dựng công trình.
+5. Thí nghiệm đối chứng, thí nghiệm thử tải và kiểm định xây dựng
+trong quá trình thi công xây dựng công trình.
+6. Nghiệm thu giai đoạn thi công xây dựng, bộ phận (hạng mục) công
+trình xây dựng (nếu có).
+7. Nghiệm thư hạng mục công trình, công trình hoàn thành để đưa vào.
+khai thác, sử dụng.
+8. Kiểm tra công tác nghiệm tha công trình xây dựng cửa cơ quan nhà
+nước có thẩm quyền.
+9. Lập hồ sơ hoàn thành công trình xây dựng, lưu trữ hồ sơ của công
+trình và bàn giao công trình xây dựng.
+Điều 24. Quản lý chất lượng đối với vật liệu, sản phẩm, cấu kiện,
+thiết bị sử dụng cho công trình xây dựng
+1. Trách nhiệm của nhà thầu cung ứng sản phẩm xây dựng, vật liệu xây.
+dựng đã là hàng hóa trên thị trường:
+a) Tổ chức thực hiện thí nghiệm kiểm tra chất lượng và cung cấp cho bên.
+giao thầu (bên mua sản phẩm xây dựng) các chứng chỉ, chứng nhận, các
+thông tin, tài liệu có liên quan tới sản phẩm xây dựng theo quy định của hợp
+đồng xây dựng, quy định của pháp luật về chất lượng sản phẩm, hàng hóa và
+quy định của pháp luật khác có liên quan;
+14
+b) Kiểm tra chất lượng, số lượng, chúng loại của sản phẩm phù hợp với.
+yêu cầu của hợp đồng xây dựng trước khi bản giao cho bên giao thầu;
+c) Thông báo cho bên giao thầu các yêu cầu về vận chuyển, lưu giữ, bảo.
+quản sản phẩm xây dựng;
+d) Thực hiện sửa chữa, đổi sản phẩm không đạt yêu cầu về chất lượng theo.
+cam kết báo hành sản phẩm xây dựng và quy định của hợp đồng xây dựng.
+2. Trách nhiệm của nhà thầu chế tạo, sản xuất vật liệu xây dựng, cấu kiện
+và thiết bị sử dụng cho công trình xây dựng theo yêu cấu rêng của thiểt kế:
+a) Trình bên giao thầu (bên mua) quy trình sản xuất, kiểm soát chất
+lượng trong quá trình sản xuất, chố tạo và quy trình thí nghiệm, thử nghiệm.
+theo yêu cầu của thiết kế;
+b) Tổ chức chế tạo, sản xuất và thí nghiệm, thử nghiệm theo quy trình đã
+được bên giao thầu chấp thuận; tự kiểm soát chất lượng và phối hợp với bên
+giao thầu trong việc kiểm soát chất hượng trong quá trình chế tạo, sản xuất,
+vận chuyển và lưu giữ tại công trình;
+c) Tổ chức kiểm tra và nghiệm thu trước khi bản giao cho bên giao thầu;
+d) Vận chuyển, bản giao cho bên giao thầu theo quy định của hợp đồng;
+đ) cung cấp cho bên giao thẩu các chứng nhận, chứng chỉ, thông tin, tải
+liệu liện quan theo quy định của hợp đồng xây dựng, quy định của pháp luật
+vế chất lượng sản phẩm, hàng bóa và của pháp luật khác có liên quan.
+3. Bên giao thầu có trách nhiệm như sau:
+a) Quy định số lượng, chúng loại, các yêu cầu kỹ thuật của vật liệu, sản
+phẩm, cấu kiện, thiết bị trong hợp đồng với nhà thầu cung ứng; nhà thầu sản
+xuất, chế tạo phù hợp với yêu cầu của thiết kế, chỉ dẫn kỹ thuật áp dụng cho
+công trình;
+b) Kiểm tra số lượng, chủng loại, các yêu cầu kỹ thuật của vật liệu, sản
+phẩm, cấu kiện, thiết bị theo quy định trong hợp đồng; yêu cầu các nhà thần
+cung ứng, sản xuất; chế tạo thọc hiện trách nhiệm quy định tại Khoản 1,
+Khoản 2 Điều này trước khi nghiệm thu, cho phép đưa vật liệu, sản phẩm, cấu
+kiện, thiết bị vào sử dụng cho công trình;
+c) Thực hiện kiểm soát chất lượng trong quá trình chế tạo, sản xuất theo
+quy trình đã thống nhất với nhà thầu.
+4. Nhà thầu quy định tại Khoản 1, Khoản 2 Điều này chịu trách nhiệm về
+chất lượng vật liệu, sản phẩm, cấn kiện, thiết bị do mình cung ứng, chế tạo,
+sản xuất; việc nghiệm thu của bên giao thầu không làm giảm trách nhiệm nêu:
+trên của nhà thầu.
+15
+Điều 25. Quản lý chất lượng của nhà thầu thì công xây dựng
+công trình
+1. Nhà thầu thì công công trình xây dựng có trách nhiệm tiếp nhận và
+quản lý mặt bằng xây dựng, bảo quản mốc định vị và mốc giới công trình.
+2. Lập và thông báo cho chủ đầu tư và các chủ thể có liên quan hệ thống
+quản lý chất lượng, mục tiêu và chính sách đảm bảo chất lượng công trình của
+nhà thầu. Hệ thống quản lý chất lượng công trình của nhà thầu phải phù họp
+với quy mô công trình, trong đó nêu rõ sơ để tổ chức và trách nhiệm của từng
+bộ phận, cá nhân đối với công tác quản lý chất lượng công trình của nhà thầu.
+3. Trình chủ đầu tư chấp thuận các nội dung sau:
+a) Kế hoạch tổ chức thí nghiệm và kiếm định chất lượng, quan trắc.
+do đạc các thông số kỹ thuật của công trình theo yêu cầu thiết kế và chí dẫn
+kỹ thuật;
+b) Biện pháp kiểm tra, kiểm soát chất lượng vật liệu, sản phẩm, cấu kiện.
+thiết bị được sử dụng cho công trình; thiết kế biện pháp thi công, trong đó quy
+định cụ thể các biện pháp bản đảm an toàn cho người, máy, thiết bị và công trình;
+c) Kế hoạch kiểm tra, nghiệm thu công việc xây dựng, nghiệm thu giai.
+đoạn thi công xây dựng hoặc bộ phân (hạng mục) công trình xây dựng.
+nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng.
+đ) Các nội dung cần thiết khác theo yêu cầu của chủ đầu tư và quy định
+của hợp đồng.
+4. Bố trí nhân lực, thiết bị thi công theo quy định của hợp đồng xây dựng
+và quy định của pháp luật có liên quan.
+5. Thực hiện trách phiệm quản lý chất lượng trong việc mua sắm, chế tạo,
+sản xuất vật liệu, sản phẩm, cấu kiện, thiết bị được sử dụng cho công trình theo.
+quy định tại Điều 24 Nghị định này và quy định của hợp đồng xây dựng.
+6. Thực hiện các công tác thí nghiệm kiểm tra vật liệu, cấu kiện, sản
+phẩm xây dựng, thiết bị công trình, thiết bị công nghệ trước và trong khi thì
+công xây cựng theo quy định của hợp đồng xây dựng.
+7. Thi công xây dựng theo đúng hợp đồng xây dựng, giấy phép xây
+dựng, thiết kế xây dựng công trình. Kịp thời thông báo cho chủ đầu tư nến
+phát hiện sai khác giữc thiết kế, hồ sơ hợp đồng xây dựng và điều kiện hiện
+trường trong quá trình thi công. Tự kiểm soát chất hượng thi công xây dựng
+theo yêu cầu của thiết kế và quy định cửa hợp đồng xây dựng, Hồ sơ quản lý.
+chất lượng của các công việc xây dựng phải được lập theo quy định và
+phù hợp với thời gian thực hiện thực tế tại công trường.
+16
+8. Kiểm soát chất lượng công việc xây dựng và lắp đặt thiết bị; giám sát
+thi công xây dựng công trình đối với công việc xây dựng do nhà thầu phụ.
+thực hiện trong trường hợp là nhà thầu chính hoặc tổng thầu.
+9. Xử lý, khắc phục các sai sớt, khiếm khuyết về chất lượng trong quá
+trình thì công xây dựng (nếu có).
+10. Thực hiện trắc đạc, quan trắc công trình theo yêu cầu thiết kế. Thực
+hiện thí nghiệm, kiểm tra chạy thử đơn động và chay thử liên động theo kế
+hoạch trước khi đề nghị nghiệm thu.
+11. Lập nhật ký thi công xây dựng công trình theo quy định.
+12. Lập bản vẽ hoàn công theo quy định.
+13. Yêu cầu chủ đầu tư thực hiện nghiệm thu công việc chuyển bước thì
+công, nghiệm thu giai đoạn thi công xây dựng hoặc bộ phận công trình xây
+dựng, nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng.
+14. Báo cáo chủ đầu tư về tiến độ, chất lượng, khối lượng, an toàn lao
+động và vệ sinh môi trường thì công xây dựng theo quy định của hợp đồng
+xây dựng và yêu cầu đột xuất của chủ đầu tư.
+15. Hoàn trả mặt bằng, di chuyển vật tư, máy móc, thiết bị và những tải
+sản khác của mình ra khôi công trường sau khi công trình đã được nghiệm
+thu, bản giao, trừ trường hợp trong hợp đồng xây dựng có thỏa thuận khác.
+Điều 26. Giám sát thí công xây dựng công trình
+1. Công trình xây dựng phải được giám sát trong quá trình thi công xây.
+dựng theo quy định tại Khoản 1 Điều 120 Luật Xây dựng. Nội dung giám sát
+thì công xây dựng công trình gồm:
+a) Thông bảo về nhiệm vụ, quyền hạn của các cá nhân trong hệ thống
+quản lý chất lượng của chủ đầu tư, nhà thấu giám sát thi công xây dựng công
+trình cho các nhà thầu có liên quan biết để phối hợp thực hiện;
+b) Kiểm tra các điều kiện khởi công công trình xây dựng theo quy định
+tại Điều 107 của Luật Xây dựng;
+c) Kiểm tra sự phù hợp năng lực của nhà thầu thi công xây dựng công.
+trình so với hồ sơ dự thầu và hợp đồng xây dựng, bao gồm: Nhân lực, thiết bị
+thi công, phòng thì nghiệm chuyên ngành xây dựng, hệ thống quản lý chất
+lượng của nhà thầu thì công xây dựng công trình;
+đ) Kiểm tra biện pháp thì công xây dựng của nhà thầu so với thiết kế
+biện pháp thi công đã được phê duyệt;
+17
+đ) Xem xét và chấp thuận các nội dựng do nhà thầu trình quy định tại.
+Khoản 3 Điều 25 Nghị định này và yêu cầu nhà thầu thì công chính sửa các
+nội dung này trong quá trình thì công xây dựng công trình cho phù hợp với.
+thực tế và quy định của hợp đồng. Trưởng hợp cần thiết, chủ đầu tư thỏa
+thuận trong hợp đồng xây dựng với các nhà thầu về việc giao nhà thầu giám.
+sát thí công xây dựng lập và yêu cầu nhà thầu thì công xây dựng thực hiện đối:
+với các nội dung nêu trên;
+c) Kiểm tra và chấp thuận vật liệu, cấu kiện, sản phẩm xây dựng, thiết bị
+lắp đặt vào công trình;
+g) Kiểm tra, đôn đốc nhà thầu thì công xây dựng công trình và các nhà
+thầu khác triển khai công việc tại hiện trường theo yêu cầu về tiến độ thi công
+của công trình;
+h) Giám sát việc thực hiện các quy định về bảo vệ môi trường đối với.
+các công trình xây dựng theo quy định của pháp luật về bảo vệ môi trường:
+giám sát các biện pháp đảm bảo an toàn đối với công trình lân cận, công tác
+quan trắc công trình;
+i) Giám sát việc đảm bảo an toàn lao động theo quy định của quy chuẩn,
+quy định của hợp đồng và quy định của pháp luật về an toàn lao động;
+k) Đề nghị chủ đầu tư tổ chức điều chỉnh thiết kế khi phát hiện sai sót.
+bất hợp lý về thiết kế;
+1) Tạm đừng thì công đối với nhà thầu thì công xây dựng khi xét thấy.
+chất lượng thì công xây dựng không đảm bảo yêu cầu kỹ thuật, biện pháp thì
+công không đảm bảo an toàn; chủ trì, phối hợp với các bên liên quan giải.
+quyết những vướng mắc, phát sinh trong quá trình thì công xây dựng công
+trình và phối hợp xử lý, khắc phục sự cố theo quy định của Nghị định này:
+m) Kiểm tra tài liệu phục vụ nghiệm thu; kiểm tra và xác nhận bản vẽ
+hoàn công;
+n) Tổ chức thí nghiệm đổi chứng, kiểm định chất lượng bộ phận công
+trình, hạng mục công trình, cộng trình xây dựng theo quy định tại Điều 29
+Nghị định này;
+o) Thực hiện nghiệm thu công việc xây dựng để chuyển bước thì công,
+nghiệm thu giai đoạn thi công xây dựng hoặc bộ phận công trình xây dựng.
+nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng theo quy
+định; kiểm tra và xác nhận khối tượng thi công xây dựng hoàn thành;
+p) Tổ chức lập hồ sơ hoàn thành công trình xây dựng;
+a) Thực hiện các nội dung khác theo quy định của hợp đồng xây dựng.
+18
+2. Chủ đầu tư được quyền tự thực hiện giám sát thì công xây dựng công
+trình hoặc thuê tổ chức tư vấn đủ điểu kiện năng lực theo quy định trực hiện.
+giám sát một, một số hoặc toàn bộ các nội dung quy định tại Khoản 1 Điều này.
+3. Trường hợp áp dụng loại hợp đồng tổng thầu thiết kế - cung cấp thiết
+bị công nghệ và thi công xây dựng công trình (tổng thầu EPC) hoặc hợp đồng
+chỉa khóa trao tay, trách nhiệm thực hiện giám sát thi công xây dựng được.
+quy định như sau:
+a) Tổng thẩu có trách nhiệm thực hiện giám sát thi công xây dựng đối
+với phần việc do minh thực hiện và phần việc do nhà thầu phụ thực hiện.
+Tổng thầu được tự thực hiện hoặc thuế nhà thầu tư vấn đủ điều kiện năng lực.
+theo quy định thực hiện giám sát một, một số hoặc toàn bộ các mội dung quy
+định tại Khoản 1 Điều này và phải được quy định trong hợp đồng xây dựng
+giữa tổng thầu với chủ đầu tư;
+b) Chủ đầu tư có trách nhiệm kiểm tra việc thực hiện giám sát thi công
+xây dựng của tổng thầu. Chủ đầu tư được quyền cử đại diện tham gia kiểm.
+tra, nghiệm thu công việc xây dựng, giai đoạn chuyển bước thi công quan
+trọng của công trình và phải được thỏa thuận trước với tổng thầu trong kế
+hoạch kiểm tra, nghiệm thu theo quy định tại Điểm a Khoản 3 Điều 25 Nghị
+định này.
+4. Tổ chức thực hiện giám sát quy định tại Khoản 2 và Điểm a Khoản 3
+Điều này phải xây dựng hệ thống quản lý chất lượng và có đủ nhân sự thực.
+hiện giám sát tại công trường phù hợp với quy mô, yêu cầu của công việc
+thực hiện giám sát. Tùy theo quy mỏ, tỉnh chất, kỹ thuật của công trình, cơ
+cấu nhân sự của tổ chức giám sát thi công xây dựng công trình bao gồm giảm
+sát trưởng và các giám sát viên. Người thực hiện việc giám sát thi công xây
+dựng của tổ chức nêu trên phải có chứng chỉ hành nghề giám sát thi công xây
+dựng phù hợp với chuyên ngành được đào tạo và cấp công trình.
+5. Đối với các công trình đầu tư xây dựng bằng nguồn vốn ngân sách nhà
+nước và vốn nhà nước ngoài ngân sách:
+a) Tổ chức giám sát thi công xây dựng công trình phải độc lập với các
+nhà thầu thị công xây dựng và các nhà thầu chế tạo, sản xuất, cung ứng vật
+liệu, sản phẩm, cấu kiện, thiết bị sử dụng cho công trình;
+b) Tổ chức giám sát thi công xây dựng không được tham gia kiểm định
+chất lượng công trình xây dựng do mình giám sát;
+c) Nhà thầu chế tạo, sản xuất, cung ứng vật liệu, sản phẩm, cấu kiện,
+thiết bị sử dụng cho công trình không được tham gia kiểm định chất lượng sản
+phẩm có liên quan đến vật tư, thiết bị do mình cung cấp.
+19
+6. Bộ Xây dựng hướng dẫn về hoạt động giám sát thi công xây dựng
+công trình.
+Điều 27. Nghiệm thu công việc xây dựng
+1. Căn cứ vào kế hoạch thí nghiệm, kiểm tra đối với các công việc xây
+dựng và tiến độ thi công thực tế trên công trường, người giám sát thì công xây
+dựng công trình và người phụ trách kỹ thuật thi công trực tiếp của nhà thầu thị
+công xây dựng công trình thực hiện nghiệm thu công việc xây dựng để
+chuyển bước thi công. Kết quả nghiệm thu được xác nhận bằng biên bản cho
+một hoặc nhiều công việc xây dựng của một hạng mục công trình theo trình tự
+thi công.
+2. Người giám sát thi công xây dựng công trình phải căn cứ hồ sơ thiết kế
+bản vẽ thi công, chỉ dẫn kỹ thuật được phê duyệt, quy chuẩn kỹ thuật, tiêu
+chuẩn được áp dụng, các kết quả kiểm tra, thí nghiệm chất lượng vật liệu, thiết
+bị được thực hiện trong quá trình thì công xây dựng có liên quan đến đối tượng
+nghiệm thu để kiểm tra các công việc xây dựng được yêu cầu nghiệm thu.
+... Người giám sát thi công xây dựng phải thực hiện nghiệm thu công
+việc xây dựng và xác nhận bằng biên bản, tối đa không quá 24 giờ kể từ khi
+nhận được thông báo nghiệm thu công việc xây dựng để chuyển bước thị
+công của nhà thần thì công xây dựng. Trường hợp không đồng ý nghiệm thư
+phải thông báo lý do bằng văn bản cho nhà thầu thì công xây dựng.
+Điều 28. Giám sát tác giả của nhà thầu thiết kế trong quá trình thì
+công xây dựng công trình
+1. Nhà thầu lập thiết kế kỹ thuật đối với trường hợp thiết kế ba bước, nhà
+thầu lập thiết kế bản vẽ thi công đối với trường hợp thiết kế một bước hoặc
+hại bước có trách nhiệm thực hiện giám sát tác giá theo quy định của hợp.
+đồng xây dựng.
+2. Nội dung thực hiện:
+a) Giải thích và làm rõ các tài liệu thiết kế công trình khi có yêu cầu của
+chủ đấu tư, nhà thầu thì công xây dựng và nhà thầu giám sát thi công xây
+dựng công trình;
+b) Phối hợp với chủ đầu tư khi được yêu cầu để giải quyết các vướng
+mắc, phát sinh về thiết kế trong quá trình thì công xây dựng, điều chỉnh thiết
+kế phù hợp với thực tế thi công xây dựng công trình, xử lý những bất hợp lý.
+trong thiết kế theo yêu cầu của chủ đầu tư;
+c) Thông báo kịp thời cho chủ đầu tư và kiến nghị biện pháp xử lý khi phát
+hiện việc thi công sai với thiết kế được duyệt của nhà thầu thì công xây dựng;
+20
+a) Tham gia nghiệm thu công trình xây dựng khi có yêu cầu của chủ đầu:
+tư, Trường hợp phát hiện hạng mục công trình, công trình xây dựng không đủ
+điều kiện nghiệm tha phải có ý kiến kịp thời bằng văn bản gửi chủ đầu tư.
+Điều 29. Thí nghiệm đối chứng, kiểm định chất lượng, thí nghiệm khả
+năng chịu lực của kết cấu công trình trong quá trình thi công xây dựng
+1. Thí nghiệm đối chứng được thực hiện trong các trường hợp sau:
+a) Được quy định trong hợp đồng xây dựng hoặc chỉ dẫn kỹ thuật đối với.
+công trình quan trọng quốc gia, công trình có quy mô lớn, kỹ thuật phức tạp.
+công trình có ảnh hưởng lớn đến an toàn cộng đồng và môi trường;
+b) Khi vật liệu, sản phẩm xây dựng, thiết bị và chất lượng thì công xây.
+dựng có đấu hiệu không đảm bảo chất lượng theo yêu cầu của chỉ dẫn.
+kỹ thuật hoặc thiết kế;
+c) Theo yêu cầu của cơ quan chuyên môn về xây dựng.
+2. Kiểm định chất lượng, thì nghiệm khả năng chịu lực của kết cấu công
+trình được thực hiện trong các trường hợp sau:
+a) Được quy định trong hợp đồng xây dựng hoặc chỉ dẫn kỹ thuật theo
+yêu cầu của thiết kế;
+b) Khi công trình, hạng mục công trình, bộ phận công trình xây dựng có.
+biều hiện không đảm bảo chất lượng theo yêu cầu của thiết kế;
+c) Theo yêu cầu của cơ quan nhà nước có thẩm quyền ký hợp đồng đấu
+tư theo hình thức đối tác công tư;
+d) Trưng cầu của cơ quan tiến hành tố tụng, người tiến hành tố tụng theo.
+quy định của pháp luật về giám định tư pháp hoặc theo yêu cầu của cơ quan chứ
+tỉ tổ chức giám định nguyên nhân sự cố khí xảy ra sự cố công trình xây dựng:
+đ) Theo yêu cầu của Hội đồng nghiệm thu nhà nước các công trình xây
+dựng hoặc yêu cầu của cơ quan chuyên môn về xây dựng khi cần thiết.
+3. Trường hợp quy định tại Điểm c Khoản 1, Điểm d và Điểm đ Khoản 2
+Điều này, cơ quan yếu cầu được phép chỉ định tổ chức tư vấn theo quy trình
+chỉ định thầu rút gọn quy định tại Khoản 1 Điều 56 Nghị định số
+63/2014/NĐ-CP ngày 26 tháng 06 năm 2014 về Quy định chi tiết thi hành
+một số điều của Luật Đấu thầu về lựa chọn nhà thầu để thực hiện.
+4. Nhà thầu thiết kế xây dựng, nhà thầu thi công xây dựng công
+trình, nhà thầu cung ứng, sản xuất sản phẩm xây dựng và các nhà thầu khác.
+có liên quan phải chịu chi phí thực hiện thí nghiệm đối chứng, kiểm định chất
+21
+lượng, thi nghiệm khả năng chịu lực của kết cấu công trình nếu kết quả thí
+nghiệm, kiểm định chứng minh được lỗi của các nhà thầu này. Đối với các
+trưởng hợp côn lại, chi phí thực hiện các công việc này được tính vào tổng
+mức đầu tư xây dựng công trình.
+Điều 30. Nghiệm thu giai đoạn thi công xây dựng hoặc bộ phận công
+trình xây dựng
+1. Căn cứ vào điều kiện cụ thể của từng công trình, chủ đầu tư và nhà thầu:
+thi công xây dựng có thể thỏa thuận về việc nghiệm thu giai đoạn thi công xây.
+dựng hoặc một bộ phận công trình xây dựng trong các trường hợp sau:
+a) Khi kết thúc một giai đoạn thi công hoặc một bộ phận công trình cần
+phải thực hiện kiểm tra, nghiệm thu để đánh giá chất lượng trước khi chuyển
+sang giai đoạn thi công tiếp theo;
+b) Khi kết thúc một gói thầu xây dựng.
+2. Chủ đầu tư và nhà thầu thì công xây dựng có liên quan thỏa thuận về
+thời điểm nghiệm thu, trình tự và nội dung nghiệm thu, thành phần tham gia
+nghiệm thu; kết quả nghiệm thu được lập thành biên bán.
+Điều 31. Nghiệm thu hoàn thành hạng mục công trình, công trình.
+xây dựng đưa vào sử dụng
+1. Chủ đầu: tư tổ chức nghiệm thu hoàn thành hạng mục công trình, công
+trình xây dựng.
+2. Điều kiện để nghiệm thu hoàn thành hạng mục công trình, công trình
+xây dựng:
+a) Các công việc xây dụng đã thực hiện được nghiệm thu theo quy định.
+tại Điếu 27, Điểu 30 Nghị định này. Kết quả thí nghiệm, kiểm tra, chạy thử
+đảm bảo các yêu cầu kỹ thuật theo quy định của thiết kể xây dựng:
+b) Không còn tồn tại lớn về chất lượng thì công xây dựng làm ảnh hướng.
+đến an toàn khai thác, sử dụng công trình;
+c) Được cơ quan cảnh sát phòng cháy và chữa cháy ra văn bản nghiệm.
+thu vế phòng cháy và chữa cháy theo quy định của pháp luật về phòng cháy.
+và chữa cháy; được cơ quan phê duyệt báo cáo đánh giá tác động môi trường
+cấp giấy xác nhận hoàn thành công trình bảo vệ môi trường của dự án theo.
+quy định của pháp luật về bảo vệ môi trường và văn bản chấp thuận của cơ
+quan có thẩm quyền khác theo quy định của pháp luật có liên quan, nếu có.
+3. Chủ đầu tư được quyết định tổ chức nghiệm thu từng phần công trình.
+hoặc nghiệm thu có điểu kiện để đưa công trình vào sử dụng trong trưởng hợp.
+còn một số tồn tại về chất lượng nhưng không làm ảnh hưởng đến khả năng
+22
+chịu lực, tuổi thọ, công năng của công trình và bảo đảm công trình đủ điều
+kiện khai thác an toàn. Biên bản nghiệm thủ phải nêu rõ các các tồn tại về
+chất lượng cần khắc phục hoặc các công việc xây dựng cần được tiếp tục thực
+hiện và thời gian hoàn thành các công việc này. Chủ đầu tư phải tổ chức.
+nghiệm thu hoàn thành công trình sau khi các tôn tại về chất lượng đã được
+khắc phục hoặc các công việc xây dựng còn lại đã được hoàn thành.
+4. Điều kiện để đưa công trình, hạng mục công trình vào sử dụng:
+a) Công trình, hạng mục công trình được nghiệm thu theo quy định;
+b) Đối với các công trình quy định tại Khoản 1 Điều 32 Nghị định này,
+phải được cơ quan có thẩm quyền quy định tại Khoản 2 Điều 32 Nghị định.
+này kiểm tra công tác nghiệm tha và ra văn bản chấp thuận kết quả nghiệm
+thu của chủ đầu tư nêu tại Điểm a Khoản này. Riêng cũng trình sử dụng vốn
+ngân sách nhà nước và vốn nhà nước ngoài ngân sách, chủ đầu tư chỉ được
+quyết toán hợp đồng thì công xây dựng sau khi có văn bản chấp thuận kết quả
+nghiệm thu nêu trên.
+5. Chủ đầu tư và các nhà thầu có liên quan thỏa thuận về thời điểm
+nghiệm thu, trình tự và nội dung nghiệm thu; kết quả nghiệm thu được lập
+thành biên bản.
+Điều 32. Kiểm tra công tác nghiệm thu công trình xây dựng
+1. Công trình xây dựng phải được cơ quan nhà nước có thẩm quyền quy
+định tại Khoản 2 Điều này kiểm tra công tác nghiệm thu trong quá trình thì
+công và khi hoàn thành thì công xây dựng công trình theo quy định tại
+Khoản 4 Điều 123 Luật Xây dựng bao gồm:
+a) Công trình quan trọng quốc gia, công trình có quy mô lớn, kỹ thuật
+phức tạp theo danh mục do Thủ tướng Chính phủ quyết định hàng năm;
+b) Công trình xây dựng sử dụng vốn ngân sách nhà nước và vốn nhà
+nước ngoài ngân sách;
+c) Công trình có ảnh hưởng lớn đến an toàn cộng đồng quy định tại Phụ lục
+II Nghị định này ngoài các công trình đã nêu tại Điểm a, Điểm b Khoản này;
+c) Công trình có ảnh hưởng lớn đến môi trường ngoài các công trình quy
+định tại Điểm a, Điểm b, Điểm c Khoản này được cơ quan có thẩm quyền
+kiểm tra theo quy định của pháp luật về bảo vệ môi trường;
+đ) Riêng đối với công trình đường dây, trạm biến áp có cấp điện áp từ
+35RV trở xuông, công trình cấp IV sử dụng vốn nhà nước ngoài ngân sách, chủ
+đầu tư tự tổ chức nghiệm thu theo quy định của Nghị định này. Chủ đầu tư có.
+trách nhiệm báo cáo về kết quả nghiệm thu nêu trên cho cơ quan chuyên môn về
+xây dựng theo phân cấp tại Điểm c Khoản 2 Điều này để tổng hợp, theo dõi.
+23
+2. Thẩm quyền kiểm tra:
+a) Hội đồng nghiệm thu Nhà nước các công trình xây dựng được thánh
+lập và hoạt động theo quyết định của Thủ tướng Chính phủ thực hiện kiểm tra
+đối với công trình quy định tại Điểm a Khoản 1 Điều này;
+b) Cơ quan chuyên môn về xây dựng trực thuộc Bộ Xây dựng và Bộ quản
+lý công trình xây dựng chuyên ngành kiểm tra các loại công trình không phân
+Điệt nguồn vốn đầu tư thuộc trách nhiệm quản lý của Bộ theo quy định tại
+Khoản 1, Khoản 2 Điều 51 Nghị định này đối với công trình cấp I, công trình.
+cấp đặc biệt, công trình do Thủ tướng Chính phú giao, công trình theo tuyến đã
+qua 2 tỉnh trở lân, công trình do Bộ Xây dựng, Bộ quản lý công trình xây dựng
+chuyên ngành quyết định đầu tư, công trình do các Tập đoàn kinh tế nhà qước.
+quyết định đầu tư hoặc làm chủ đầu tư, trừ các công trình quy định tại Điểm a
+Khoản này;
+c) Sở Xây dựng và Sở quản lý công trình xây dựng chuyên ngành kiểm
+tra các loại công trình xây dựng trên địa bàn thuộc trách nhiệm quản lý của Sở
+theo quy định tại Khoản 4 Điều 51 Nghị định này, trừ các công trình quy định.
+tại Điểm a, Điểm b Khoẩn này.
+Căn cứ điều kiện thực tế của các địa phương, Ủy ban nhân dân cấp tỉnh
+có thể ủy quyền thực hiện kiểm tra đối với một số công trình cấp HI, IV thuộc.
+trách nhiệm của Sở Xây dựng, Sở quản lý công trình xây dựng chuyên ngành
+nệu trên cho Phòng có chức năng quản lý xây dựng thuộc Ủy ban nhân dân.
+cấp huyện thực hiện;
+d) Trong trường hợp dự án đầu tư xây dựng công trình gồm nhiều công
+trình, hạng mục công trình có loại và cấp khác nhau thuộc đối tượng nêt tại
+Khoản 1 Điều này thì cơ quan chủ trì tổ chức thực hiện kiểm tra là cơ quan có
+trách nhiệm thực hiện kiểm tra đối với công trình, hạng mục công trình chính
+có cấp cao nhất của dự án đầu tư xây dựng công trình;
+đ) Bộ Quốc phòng, Bộ Công an quy định về thẩm quyền thực biện kiểm
+tra đối với các công trình quốc phòng, an ninh.
+3. Nội dung kiểm tra bao gồm kiểm tra sự tuân thủ các quy định về công
+tác quản lý chất lượng công trình xây dựng của chủ đầu tư và các nhà thần
+tham gia hoạt động xây dựng trong khảo sát; thiể: kế, thi công xây dựng công
+trình theo quy định của Nghị định này và quy định của pháp luật có liên quan.
+4. Trình tự kiểm tra:
+a) Đối với công trình quy định tại Khoản 1 Điều này, sau khi khởi công chủ
+đầu tư có trách nhiệm báo cáo gửi cơ quan có thẩm quyền quy định tại Khoản 2
+Điều này các thông tin sau: Tên và địa chỉ liên lạo của chủ đầu tư, tên công trình,
+địa điểm xây dựng, quy mô và tiến độ thi công dự kiến của công trình;
+24
+b) Cơ quan có thẩm quyền quy định tại Khoản 2 Điều này thông báo cho.
+chủ đầu tư kế hoạch kiểm tra; tổ chức thực hiện kiểm tra và thông báo kết quả
+kiểm tra trong quá trình thì công xây dựng công trình chậm nhất sau 7 ngày.
+kể từ ngày kết thúc đợt kiểm tra;
+e) Tối thiểu trước 15 ngày đối với công trình cấp đặc biệt, cấp 1 hoặc.
+trước 10 ngày đối với các công trình còn lại so với ngày chủ đầu tư dự kiến tổ.
+chức nghiệm thu theo quy định tại Khoản 1 hoặc Khoản 3 Điều 31 Nghị định
+náy, chủ đầu tư phải gửi văn bản đề nghị kiểm tra công tác nghiệm thu hạng
+mục công trình, công trình xây dựng vào sử dụng tới cơ quan có thẩm quyền
+quy định tại Khoản 2 Điều này;
+d) Cơ quan có thẩm quyền quy định tại Khoản 2 Điều này thực hiện
+kiểm tra công tác nghiệm thu của chủ đầu tư và ra văn bản chấp thuận kết quả
+nghiệm thu của chủ đầu tư trong thời hạn 25 ngày đối với công trình cấp đặc
+Điệt, cấp 1 hoặc 10 ngày đối với các công trình còn lại kể từ khi kết thúc kiểm
+tra. Trường hợp chủ đầu tư phải thực hiện các yêu cầu quy định tại Điểm đ
+Khoản này thì thời hạn nêu trên được tỉnh từ khi chủ đầu tư hoàn thành các:
+yêu cầu này;
+d) Trong quá trình kiểm tra, cơ quan có thẩm quyền được quyền yêu cầu.
+chủ đầu tư và các bên có liên quan giải trình, khắc phục các tồn tại (nếu có)
+và thực hiện thí nghiệm đối chứng, thử tải, kiểm định chất lượng bộ phận,
+hạng mục hoặc toàn bộ công trình theo quy định tại Điều 29 Nghị định này;
+c) Cơ quan có thẩm quyền được mời các tổ chức, cá nhân có năng lực.
+phù hợp tham gia thực hiện việc kiểm tra.
+5. Chi phí cho việc kiểm tra công tác nghiệm thu trong quá trình thi công
+và khi hoàn thành thì công xây dựng do chú đầu tư lập dự toán, thẩm định,
+phê duyệt và được tính trong tổng mức đầu tư xây dựng công trình.
+6. Bộ Xây dụng hướng dẫn chi tiết về kiểm tra công tác nghiệm thu
+trong quá trình thì công và khi hoàn thành thi công xây dựng công trình.
+Điều 33. Lập và lựu trữ hồ sơ hoàn thành công trình xây dựng
+1. Hồ sơ hoàn thành công trình xây dựng phải được chủ đầu tư tổ chức
+lập đầy đủ trước khi đưa hạng mục công trình hoặc công trình vào khai thác,
+vận hành.
+2. Hồ sơ hoàn thành công trình xây dựng được lập một lần chung cho.
+toàn bộ dự án đầu tư xây dựng công trình nếu các công trình (trạng mục cộng
+trình) thuộc dự án được đưa vào khai thác, sử dụng cùng một thời điểm.
+Trường hợp các công trình (hạng mục công trình) của dự án được đua vào
+khai thác, sử dụng ở thời điểm khác nhan thì có thể lập bồ sơ hoàn thành công
+trình cho riêng từng công trình (hạng mục công trình) này.
+25
+3. Chủ đầu tư tổ chức lập và lưu trữ một bộ hồ sơ hoàn thành công trình
+xây dựng; các chủ thể tham gia hoạt động đầu tư xây dựng công trình tự lưa
+trữ các hồ sơ liên quan đến phấn việc do mình thực hiện. Riêng công trình nhà
+ở và công trình di tích, việc lưu trữ hồ sơ còn phải tuân thủ theo quy định của
+pháp luật về nhà ở và pháp luật về di sản văn hóa.
+4. Bộ Xây dựng hướng dẫn về danh mục và thời bạn lưu trở bồ sơ hoàn.
+thành công trình.
+Điều 34. Bàn giao hạng mục công trình, công trình xây dựng
+1. Việc bàn giao hạng mục công trình, công trình xây dựng được thực.
+hiện theo quy định tại Điều 124 Luật Xây dựng.
+2. Tủy theo điều kiện cụ thể của công trình, từng phần công trình, hạng
+mục công trình đã hoàn thành và được nghiệm thu theo quy định có thể được
+bản giao đưa vào khai thác theo yêu cầu của chủ đầu tư hoặc đơn vị khai thác.
+sử dụng.
+3. Trường hợp áp dụng đầu tư theo hình thức đối tác công tư, cơ quan.
+quản lý nhà nước có thẩm quyền ký hợp đồng dự án, nhà đầu tư phải xem xét.
+việc đáp ứng các điều kiện chuyển giao quy định tại hợp đồng dự án và các
+quy định của văn bản quy phạm pháp luật khác có liên quan.
+Điều 35. Yêu cầu về bảo hành công trình xây dựng
+1. Nhà thầu thi công xây dựng, nhà thầu cung ứng thiết bị chịu trách nhiệm.
+trước chủ đầu tư về việc bảo hành đối với phần công việc do mình thực hiện.
+2. Thời gian bảo hành đối với hạng mục công trình, công trình xây dựng
+mới hoặc cải tạo, nâng cấp được tính kể từ khi nghiệm thu theo quy định tại
+Khoản 1 và Khoản 3 Điều 31 Nghị định này và được quy định như sau:
+a) Không ít hơn 24 tháng đối với công trình, hạng mục công trình cấp
+đặc biệt và cấp I;
+b) Không ít hơn 12 tháng đối với các công trình, hạng mục công trình
+cấp còn lại;
+c) xiêng đối với nhà ở, thời gian bảo hành theo quy định của pháp luật
+về nhà ở.
+3. Thời gian bảo hành đối với các thiết bị công trình, thiết bị công nghệ
+được xác định theo hợp đồng xây dựng nhưng không ngắn hơn thời gian bảo
+hành theo quy định của nhà sản xuất và được tính kể từ khi nghiệm thu hoán
+thành công tác lắp đặt thiết bị.
+26
+4. Tùy theo điều kiện cụ thể của công trình, chủ đầu tư có thể thỏa thuận.
+với nhà thầu về thời gian báo hành riêng cho một hoặc một số hạng mục công
+trình hoặc gói thầu thì công xây dựng, lắp đặt thiết bị ngoài thời gian bảo.
+thành chung cho công trình theo quy định tại Khoản 2 Điều này, nhưng không
+ít hơn thời gian bảo hành quy định tại Khoản 2, Khoản 3 Điều này.
+5. Đối với các hạng mục công trình trong quá trình thi công có khiếm
+Khuyết về chất lượng hoặc xảy ra sự cố đã được nhà thầu sửa chữa, khắc phục.
+thi thời gian bảo hành của các hạng mục công trình này có thể kéo dài hơn
+trên cơ sở thỏa thuận giữa chủ đầu tư với nhà thầu thi công xây dựng trước
+khi được nghiệm thu.
+6. Chủ đầu tư phải thỏa thuận trong hợp đồng xây dựng với các nhà thầu:
+tham gia xây dựng công trình về quyền và trách nhiệm của các bên trong bảo
+hành công trình xây dựng; thời hạn bảo hành công trình xây dựng, thiết bị
+công trình, thiết bị công nghệ; mức tiền báo hành; việc lưu giữ, sử dụng, hoàn.
+trả tiền báo hành và việc thay thế tiền bảo hành công trình xây dựng bằng thư
+bảo lãnh bảo hành của ngân hàng có giá trị tương đương. Các nhà thấu nâu
+trên chỉ được hoàn trả tiền bảo hành công trình hoặc giải tóa thư bảo lãnh bảo
+hành sau khi kết thúc thời hạn bảo hành và được chủ đầu tư xác nhận đã hoàn
+thành công việc bảo hành.
+7. Đối với công trình sử dụng vốn nhà nước, mức tiền bảo hành tối thiểu
+được quy định như sau:
+a) 3% giá trị hợp đồng đối với công trình xây dựng cấp đặc biệt và cấp 1;
+b) 5% giá trị hợp đồng đối với công trình xây dựng cấp còn lại;
+c) Mức tiền bảo bành đối với công trình sử dụng vốn khác có thể tham:
+khảo các mức tối thiểu nêu tại Điểm a và Điểm b Khoản này để áp dụng.
+Điều 36. Thực hiện bảo hành công trình xây dựng
+1. Trong thời gian bảo hành công trình xây dựng, khi phát hiện hư hỏng.
+khiểm khuyết cóa công trình thì chủ sở hữu hoặc người quản lý, sử dụng công
+trình thông báo cho chủ đầu tư để yêu cần nhà thầu thì công xây dựng công
+trình, nhà thầu cung ứng thiết bị thực hiện bảo hành.
+2. Nhà thấu thi công xây dựng, nhà thầu cung ứng thiết bị thực hiện bảo
+hành phần công việc do mình thực hiện sau khi nhận được thông báo yêu cầu
+bảo hành của chủ đầu tư, chủ sở hữu hoặc người quản lý, sử dụng công trình
+đối với các bư hóng phát sinh trong thời gian bảo hành và phải chịn mọi chí
+phí liên quan đến thực hiện bảo hành.
+3. Nhà thầu thi công xây dựng công trình, nhà thầu cung ứng thiết bị có
+quyền từ chối bảo hành trong các trường hợp hư hỏng, khiểm khuyết phát
+sinh không phải do tôi của nhà thầu gây ra hoặc do nguyên nhân bất khả
+27
+kháng, Trường hợp hư hỏng, khiểm khuyết phát sinh do lỗi của nhà thầu mà
+nhà thầu không thực hiện báo hành thì chủ đầu tư có quyền sử dụng tiền bảo
+hành để thuê tổ chức, cá nhân khác thực hiện báo hành. Chủ đầu tư hoặc.
+người quản lý, sử dụng công trình có trách nhiệm thực hiện theo đúng quy.
+định về vận hành, bảo trì công trình xây dựng trong quá trình khai thác, sử
+dụng công trình.
+4. Chủ đầu tư có trách nhiệm kiểm tra, nghiệm thu việc thực hiện bảo
+hành của nhà thầu thì công xây dựng công trình, nhà thầu cung ứng thiết bị.
+5. Xác nhận hoàn thành việc bảo hành công trình xây dựng:
+a) Khi kết thúc thời gian bảo hành, nhà thầu thi công xây dựng công
+trình và nhà thầu cung ứng thiết bị lập báo cáo hoàn thành công tác bảo hành.
+gửi chủ đầu tư. Chủ đầu tư có tránh nhiệm xác nhận hoàn thành bảo hành
+công trình xây dựng cho nhà thầu bằng văn bản;
+b) Chủ sở hữu hoặc người quản lý, sử dụng công trình có trách nhiệm
+tham gia xác nhận hoàn thành bảo hành công trình xây dựng cho nhà thầu thì
+công xây dựng công trình và nhà thầu cung ứng thiết bị khí có yêu cầu của
+Chủ đầu tư.
+6. Nhà thầu khảo sát xây dựng, nhà thầu thiết kế xây dựng công trình,
+nhà thầu thì cộng xây dựng công trình, nhà thầu cong ứng thiểt bị công trình.
+và các nhà thầu khác có liên quan chịu trách nhiệm về chất lượng đối với
+phần công việc do mình thực hiện kể cả sau thời gian bảo hành.
+Chương V
+BẢO TRÌ CÔNG TRÌNH XÂY DỰNG
+Điều 37. Trình tự thực hiện bảo trì công trình xây dựng
+1. Lập và phê duyệt quy trình bảo trì công trình xây dựng.
+2. Lập kế hoạch và dự toán kinh phí bảo trì công trình xây dựng.
+3. Thực hiện bảo trì và quản lý chất lượng công việc bảo trì.
+4. Đánh giá an toàn chịu lực và an toàn vận hành công trình.
+5. Lập và quản lý hồ sơ bảo trì công trình xây dựng.
+Điều 38. Quy trình bảo trì công trình xây dựng
+1. Nội dung chính của quy trình bảo trình công trình xây dựng bao gồm:
+a) Các thông số kỹ thuật, công nghệ của công trình, bộ phận công trình
+và thiết bị công trình;
+28
+b) Quy định đối tượng, phương pháp và tần suất kiểm tra công trình;
+c) Quy định nội dung và chỉ dẫn thực hiện bảo dưỡng công trình phù hợp
+với từng bộ phận công trình, loại công trình và thiết bị lắp đặt vào công trình;
+a) Quy định thời điểm và chỉ dẫn thay thế định kỳ các thiết bị lắp đặt vào
+công trình;
+đ) Chí dẫn phương pháp sửa chữa các hư hông của công trình, xử lý các.
+trường hợp công trình bị xuống cấp;
+e) Quy định thời gian sử dụng của công trình;
+g) Quy định về nội dung, thời gian đánh giá định kỳ đối với công trình
+phải đánh giá an toàn trong quá trình khai thác sử dụng theo quy định của
+pháp luật có liên quan;
+h) Xác định thời điểm, đối tượng và nội dung cần kiểm định định kỳ;
+1) Quy định thời điểm, phương pháp, chu kỷ quan trắc đối với công trình.
+có yêu cầu thực hiện quan trắc;
+k) Các chỉ dẫn khác liên quan đến bảo trì công trình xây dựng và quy.
+định các điều kiện nhằm bảo đảm an toàn lao động, vệ sinh môi trường trong
+quá trình thực hiện bảo trì công trình xây dựng.
+2. Trách nhiệm lập và phê duyệt quy trình bảo trì công trình xây dựng:
+a) Nhà thầu thiết kế xây dựng công trình lập và bàn giao cho chủ đầu tự.
+quy trình bảo trì công trình xây dựng, bộ phận công trình cùng với hồ sơ thiết
+kế triển khai sau thiết kế cơ sở; cáp nhật quy trình báo trí cho phù hợp với các
+nội dung thay đổi thiết kế trong quá trình thi công xây dựng (nếu có) trước khi
+nghiệm thu hạng mục công trình, công trình xây dựng đưa vào sử dụng;
+b) Nhà thầu cung cấp thiết bị lắp đặt vào công trình lập và bản giao cho
+chủ đầu tư quy trình bảo trí đối với thiết bị do mình cung cấp trước khi lấp đặt
+vào công trình;
+c) Trường hợp nhà thầu thiết kế xây dựng công trình, nhà thầu cung ứng
+thiết bị không lập được quy trình bảo trí, chủ đầu tư có thể thuê đơn vị tư vấn.
+khác có đủ điều kiện năng lực để lập quy trình bảo trì cho các đối tượng nêu.
+tại Điểm a, Điểm b Khoản này và có trách nhiệm chỉ trả chi phí tư vấn;
+đ) Chủ đầu tư tổ chức lập và phê duyệt quy trình bảo trì theo quy định tại.
+Điểm b Khoản 1 Điều 126 Luật Xây dựng. Chủ đầu tư, chủ sở hữu hoặc
+người quản lý, sử dụng công trình có thể thuê đơn vị tư vấn có đủ điều kiện.
+năng lực để thẩm tra một phần hoặc toàn bộ quy trình bảo trì công trình xây.
+dựng do nhà thầu thiết kế lập làm cơ sở cho việc phê duyệt;
+29
+d) Đối với các công trình xây dựng đã đưa vào khai thác, sử dụng nhưng
+chưa có quy trình bảo trì thì chủ sở hữu hoặc người quản lý, sử dụng công
+trình tổ chức lập và phê duyệt quy trình bảo trì công trình xây dựng, có thể tổ.
+chức kiểm định chất lượng công trình xây dựng làm cơ sở để lập quy trình
+bảo trì công trình xây dựng nếu cần thiết. Trong quy trình bảo trì phải xác
+định rõ thời gian sử dụng còn lại của công trình.
+3. Không bắt buộc phải lập quy trình bảo trì riêng cho từng công trình
+cấp III trở xuống, nhà ở riêng lê và công trình tạm, trừ trường hợp pháp luật
+có quy định khác. Chủ sở hữu hoặc người quản lý sử dụng của các công trình
+này văn phải thực hiện bảo trì công trình xây dựng theo các quy định về bảo
+trì công trình xây dựng của Nghị định này.
+4. Trường hợp có tiêu chuẩn kỹ thuật về bảo trì hoặc có quy trình bảo trì
+của công trình tương tự phù hợp thì chủ sở hữu hoặc người quản lý sử dụng
+công trình có thể áp dụng đêu chuẩn kỳ thuật hoặc quy trình đó cho công trình.
+mà không cần lập quy trình bảo trì riêng.
+5. Điều chỉnh quy trình bảo trì công trình xây dựng:
+a) Chủ sở hữu hoặc người quản lý sử dụng cộng trình được quyền điều:
+chính quy trình bảo trì khi phát hiện thấy những yếu tổ bất hợp lý có thể ảnh
+hưởng đến chất lượng công trình, gây ảnh hưởng đến việc khai thác, sử dụng
+công trình và chịu trách nhiệm về quyết định của mình;
+b) Nhà thầu lập quy trình bảo trì có nghĩa vụ sửa đổi, bổ sung hoặc thay.
+đổi những nội dung bất hợp lý trong quy trình bảo trì nếu do lãi của mình gây.
+ra và có quyền từ chối những yêu cầu điều chỉnh quy trình bảo trì không hợp.
+lý của chủ sở hữu hoặc người quản lý sử dụng công trình;
+c) Chủ sở hữu hoặc người quản lý sử dụng công trình có quyền thuê nhà
+thầu khác có đủ điều kiện năng lực thực hiện sửa đổi, bổ sung thay đổi quy
+trình bảo trì trong trường hợp nhà thấu lập quy trình bảo trì ban dần không
+thực hiện các việc này. Nhà thầu thực hiện sửa đổi, bổ sung quy trình bảo trí
+công trình xây dựng phải chịu trách nhiệm về chất lượng công việc do mình.
+thực hiện;
+đ) Đối với công trình sử dụng tiêu chuẩn kỹ thuật bảo trì để thực hiện
+bảo trí, khi tiêu chuẩn này được sửa đổi hoặc thay thể thì chủ sở hữu hoặc
+người quản lý sử dụng công trình có trách nhiệm thực hiện bảo trì theo nội
+dung đã được sửa đổi;
+đ) Chủ sở bữu hoặc người quản lý sử dụng công trình có trách nhiệm phê
+duyệt những nội dung điều chỉnh của quy trình bảo trì, trừ trường hợp pháp
+luật có quy định khác.
+30
+Điều 39. Kế hoạch bảo trì công trình xây dựng
+1. Chủ sở hữu hoặc người quản lý sử dụng công trình lập kế hoạch bảo.
+trì công trình xây dựng bằng năm trên cơ sở quy trình bảo trì được phê duyệt
+và hiện trạng công trình.
+2. Nội dung chính của kế hoạch bảo trì công trình xây dựng bao gồm:
+a) Tên công việc thực hiện;
+b) Thời gian thực hiện;
+c) Phương thức thực hiện;
+d) Chi phí thực hiện.
+3. Kế hoạch bảo trì có thể được sửa đổi, bổ sung trong quá trình thực.
+hiện. Chủ sở hữu hoặc người quản lý sử dụng công trình quyết định việc sửa
+đổi, bổ sung kế hoạch bảo trì công trình xây dựng.
+4. Việc sửa chữa công trình, thiết bị tùy theo mức độ chi phí, thủ tục
+được thực hiện như sau:
+a) Đối với trường hợp sửa chữa công trình, thiết bị có chi phí dưới 5
+trâm triệu đồng từ nguồn vốn ngân sách nhà nước thì chủ sở hữu hoặc người
+quản lý sử dụng công trình tự quyết định về kế hoạch sửa chữa với các nội
+dung sau: Tên bộ phận công trình hoặc thiết bị cần sửa chữa, thay thế; lý do
+sửa chữa hoặc thay thế, mục tiêu sửa chữa hoặc thay thết khối lượng công
+việc; dự kiến chi phí, dự kiến thời gian thực hiện và thời gian hoàn thành;
+b) Đối với trường hợp sửa chữa công trình, thiết bị có chi phí thực hiện.
+từ 5 trăm triệu đồng trở lên từ nguồn vốn ngân sách nhà nước thì chủ sở hữu:
+hoặc người quản lý sử dụng công trình tổ chức lập, trình thẩm định và phê
+duyệt báo cáo kinh tế kỹ thuật hoặc dự án đầu tư xây dựng theo quy định của
+pháp luật về đầu tư xây dựng công trình;
+c) Đối với công việc sửa chữa công trình không sử dụng vốn từ
+nguồn ngân sách nhà nước, khuyến khích chủ sở hữu hoặc người quản lý sử
+dụng công trình tham khảo, áp dụng các nội dung nêu tại Điểm a, Điểm b
+Khoản này.
+Điều 40. Thực hiện bảo trì công trình xây dựng
+1. Chủ sở hữu hoặc người quản lý sử dụng công trình tự tổ chức thực
+hiện việc kiểm tra, bảo dưỡng và sửa chữa công trình theo quy trình bảo trì.
+công trình được phê duyệt nếu đủ điều kiện năng lực hoặc thuê tổ chức có di
+điều kiện năng lực thực hiện.
+31
+2. Kiểm tra công trình thường xuyên, định kỳ và đột xuất nhằm phát hiện
+lịp thời các đấu hiệu xuống cấp, những hư hỏng của công trình, thiết bị lấp.
+đặt vào công trình làm cơ sở cho việc bảo dưỡng công trình.
+3. Bảo dưỡng công trình được thực hiện theo kế hoạch bản trì hằng năm
+và quy trình bảo trì công trình xây dựng được phê duyệt
+4. Sửa chữa công trình bao gồm:
+a) Sửa chữa định kỳ công trình bao gồm sửa chữa hư hỏng hoặc thay thế
+bộ phận công trình, thiết bị lấp đặt vào công trình bị hư hóng được thực hiện
+định kỳ theo quy định của quy trình bảo trì;
+b) Sửa chữa đột xuất công trình được thực hiện khi bộ phận công trình,
+công trình bị hư hỏng do chịu tác động đột xuất như gió, bảo, lũ lự, động đất.
+va dập, cháy và những tác động đột xuất khác hoặc khi bộ phận công trình,
+công trình có biểu hiện xuống cấp ảnh hưởng đến an toàn sử dụng, vận hành,
+khai thác công trình.
+5. Kiểm định chất lượng công trình phục vụ công tác bảo trì được thực
+hiện trong các trường hợp sau:
+a) Kiểm định định kỳ theo quy trình bảo trì công trình đã được phê duyệt:
+b) Khi phát hiện thấy chất lượng công trình có những bư hỏng của một
+số bộ phận công trành, công trình có dấu hiệu nguy hiểm, không đảm bản an.
+toàn cho việc khai thác, sử dụng;
+c) Khi có yêu cầu đánh giá chất lượng hiện trạng của công trình phục vụ
+cho việc lập quy trình bảo trì đối với những công trình đã đưa vào sử dụng
+nhưng chưa có quy trình bảo trì;
+đ) Khi cần có cơ sở để quyết định việc kéo dải thời hạn sử dụng của
+công trình đối với các công trình đã hết tuổi thọ thiết kế hoặc làm cơ sở cho
+việc cải tạo, nâng cấp công trình;
+đ) Khi có yêu cầu của cơ quan quản lý nhà nước về xây dựng.
+6. Quan trắc công trình phục vụ công tác bảo trì phải được thực hiện
+trong các trường hợp sau:
+a) Các công trình quan trọng quốc gia, công trình khi xảy ra sự cố có thể
+dẫn tới thảm họa;
+b) Công trình có dâu hiệu lún, nghiêng, mứt và các đấu hiệu bất thường
+khác có khả năng gây sập đổ công trình;
+32
+c) Theo yêu cầu của chủ đầu tư, chủ sở hữu hoặc người quản lý sử dụng;
+Bộ Xây dựng, Bộ quản lý công trình xây dựng chuyên ngành quy định.
+về danh mục các công trình bắt buộc phải quan trắc trong quá trình khai thác
+sử dụng.
+7. Trường hợp công trình có nhiều chủ sở hữu thì ngoài việc chịu trách
+nhiệm bảo trì phần công trình thuộc sở hữu riêng của minh, các chủ sở hữu có
+trách nhiệm bảo trì cả phần công trình thuộc sở hữu chung theo quy định của
+pháp luật có liên quan.
+8. Đối với các công trành chưa bản giao được cho chủ sở hữu hoặc người.
+quản lý, sử dụng công trình, Chủ đầu tư có trách nhiệm lập kế hoạch bảo trì.
+công trình xây dựng và thực hiện việc bảo trì công trình xây dựng theo các
+nội dung quy định tại Điều này và Điều 39 Nghị định này. Chủ đầu tư có
+trách nhiệm bản giao hồ sơ bảo trì công trình xây dựng cho Chủ sở hữu hoặc
+người quản lý, sử dụng công trình trước khi bản giao công trình đưa vào khai
+thác, sử dụng.
+Điều 41. Quản lý chất lượng công việc bảo trí công trình xây dựng
+1. Việc kiểm tra công trình thường xuyên, định kỳ và đột xuất được chú
+sở hữu hoặc người quản lý, sử dụng công trình thực hiện bằng trực quan, bằng.
+các số liệu quan trắc thường xuyên (nếu có) hoặc bằng các thiết bị kiểm tra
+chuyên dụng khi cần thiết.
+2. Công tác bảo dưỡng công trình được thực hiện từng bước theo quy
+định tại quy trình bảo trì công trình xây dựng. Kết quả thực hiện công tác bảo.
+dưỡng công trình phải được ghi chép và lập hồ sơ; chủ sở hữu hoặc người
+quản lý, sử dụng công trình có trách nhiệm xác nhận việc hoàn thành công tác
+bảo dưỡng và quản lý tròng hồ sơ bảo trì công trình xây dựng.
+3. Chủ sở hữu hoặc người quản lý, sử dụng công trình có trách nhiệm tổ.
+chức giám sát, nghiệm thu công tác thi công sửa chữa; lập, quản lý và lưu giữ
+hồ sơ sửa chữa công trình theo quy định của pháp luật về quản lý công trình
+xây dựng và các quy định pháp luật khác có liên quan.
+4. Công việc sửa chữa công trình phải được báo hành không ít bon 6
+tháng đối với công trình từ cấp 11 trở xuống và không ít hơn 12 tháng đối với
+công trình từ cấp I trở lên.
+5. Chủ sở hữu hoặc người quản lý, sử dụng công trình thỏa thuận với nhà
+thầu sửa chữa công trình về quyền và trách nhiệm bảo hành, thời gian bảo
+hành, mức tiền bảo hành đối với các công việc sửa chữa trong quá trình thực
+hiện bảo trì công trình xây dựng.
+33
+6. Chủ sở hữu hoặc người quản lý, sử dụng công trình có trách nhiệm tố.
+chức giám sát, nghiệm thu công tác thi công sửa chữa; lập, quản lý và lưu giữ
+hồ sơ sửa chữa công trình theo quy định của pháp luật.
+7. Trường hợp công trình có yêu cầu về quan trắc hoặc phải kiểm định
+chất lượng thì chủ sở hữu hoặc người quản lý, sử dụng công trình phải thuê tổ
+chức có đủ điều kiện năng lực để thực hiện. Trường hợp cần thiết chủ sở hữu
+hoặc người quản lý sử dụng công trình có thể thuê tổ chức độc lập để đánh giá
+báo cáo kết quả kiểm định, báo cáo kết quả quan trắc.
+8. Tài liệu phục vụ bảo trì công trình xây dựng:
+a) Các tài liệu phục vụ công tác bảo trì bao gồm quy trình bảo trì công
+trình xây dựng, bản vẽ hoàn công. lý lịch thiết bị lắp đặt trong công trình và
+các hồ sơ, tài liệu cần thiết khác phục vụ cho bảo trì công trình xây dựng:
+b) Chủ đầu tư có trách nhiệm bản giao các tài liệu phục vụ bảo trì công
+trình xây dựng cho chủ sở hữu hoặc người quản lý, sử dụng công trình trước.
+khi bàn giao công trình đưa vào khai thác, sử dụng.
+9. Hồ sơ bảo trì công trình xây dựng bao gồm:
+a) Các tài liệu phục vụ công tác bảo trì công trình xây dựng nêu tại.
+Khoản 8 Điều này;
+b) Kế hoạch bảo trì;
+c) Kết quả kiểm tra công trình thường xuyên và định kỳ;
+d) Kết quả bảo dưỡng, sửa chữa công trình;
+đ) Kết quả quan trắc, kết quả kiểm định chất lượng công trình (nếu có);
+e) Kết quả đánh giá an toàn chịu lực và vận hành công trình trong quá
+trình khai thác, sử dụng (nếu có);
+g) Các tài liệu khác có liên quan.
+Điều 42. Chi phí bảo trì công trình xây dựng
+1. Kinh phí bảo trì công trình xây dựng được hình thành từ các nguồn
+sau đây:
+a) Ngân sách nhà nước (ngân sách Trung ương, ngân sách địa phương).
+phân bổ hàng năm đối với dự án sử dụng vốn ngân sách nhà nước;
+b) Nguồn thu phí sử dụng công trình xây dựng ngoài ngân sách nhà
+nước;
+34
+c) Nguồn vốn của chủ đầu tư, chủ sở hữu đối với các công trình kinh
+doanh;
+d) Nguồn đóng góp và huy động của các tổ chức, cá nhân;
+đ) Các nguồn vốn hợp pháp khác.
+2. Chi phí lập, thẩm tra quy trình bảo trì công trình xây dựng:
+a) Chi phi lập, thẩm tra quy trình bảo trì công trình xây dựng được tỉnh
+trong tổng mức đầu tư xây dựng công trình;
+b) Chi phí lập, thẩm tra quy trình bảo trì công trình xây dựng đối với.
+công trình đã đưa vào khai thác, sử dụng nhưng chưa có quy trình bảo trì
+được tính trong chi phí bảo trì công trình xây dựng;
+c) Chi phí điều chính quy trình bảo trì công trình xây dựng nằm trong chỉ
+phí bảo trì công trình xây dựng. Nhà thầu lập quy trình bảo trì công trình xây
+dựng có trách nhiệm chỉ trả chi phí thực hiện điểu chính quy trình bảo trì công
+trình xây dựng trong trường hợp việc phải thực hiện điều chỉnh này do lỗi của
+mình gây ra.
+3. Dự toán bảo trì công trình xây dựng:
+a) Dự toán bảo trì công trình xây dựng (sau đây gọi tắt là dự toán bảo trì)
+được xác định theo công việc bảo trì cụ thể và là căn củ để chủ sở hữu hoặc:
+người quản lý, sử dụng công trình quản lý chi phí bảo trì công trình xây dựng:
+b) Dự toán bảo trì được lập căn cứ trên cơ sở khối lượng các công việc
+xác định theo kế hoạch bảo trì và đơn giá xây dựng theo quy định của cấp có
+thẩm quyền phục vụ bảo trì công trình xây dựng để thực hiện khối lượng công.
+việc đó;
+c) Chủ sở hữu hoặc người quản lý, sử dụng công trình có trách nhiệm tổ
+chức lập, thẩm định và phê duyệt dự toán bảo trì đối với các công trình sử.
+dụng nguồn vốn ngân sách nhà nước và vốn nhà nước ngoài ngân sách để
+thực hiện bảo trì công trình xây dựng.
+Đối với các công trình sử dụng nguồn vốn khác, khuyến khích chủ sở
+hữu hoặc người quản lý, sử dụng công trình tổ chức lập, thẩm định và phê
+duyệt dự toán chi phí bảo trì;
+d) Các cơ quan quy định tại Khoản 2, Khoản 3, Khoản 4 Điều 51 Nghị
+định này căn cứ phương pháp lập định mức xây dựng phục vụ bảo trì công
+trình xây dựng do Bộ Xây dựng hướng dẫn, tổ chức xây dựng và công bố các
+định mức xây dựng phục vụ bảo trì cho các công trình phù hợp với đặc thú
+của Bộ, địa phương và gửi về Bộ Xây dựng để theo dõi, quản lý,
+35
+4. Chủ sở hữu công trình hoặc người quản lý, sử dụng công trình phê
+duyệt dự toán bảo trì công trình xây dựng theo quy định của pháp luật về quản
+lý chi phí trong hoạt động xây dựng.
+5. Quản lý, thanh toán, quyết toán chi phí bảo trì công trình xây dựng:
+a) Đối với công trình xây dựng sử dụng nguồn vốn ngân sách nhà nước,
+chủ sở hữu hoặc người quản lý, sử dụng công trình có trách nhiệm quản lý.
+thanh toán, quyết toán kinh phí bảo trì công trình xây dựng theo quy định của
+Luật Ngân sách Nhà nước và các quy định khác của pháp luật có liên quan:
+b) Đối với công trình xây dựng không sử dụng nguồn vốn ngân sách Nhà
+nước để thực hiện bảo trì, chủ sở hữu hoặc người quản lý, sử dụng công trình
+chịu trách nhiệm quản lý kinh phí thực hiện bảo trì và thanh toán, quyết toán
+chi phí bảo trì công trình xây dựng.
+6. Đối với trường hợp quy định tại Khoản 8 Điều 40 Nghị định này, chỉ
+phí bảo trì công trình xây dựng được tính trong tổng mức đầu tư xây dựng.
+công trình.
+Điều 43. Đánh giá an toàn chịu lực và an toàn vận hành công trình
+trong quá trình khai thác, sử dụng
+1. Công trình quan trọng quốc gia, công trình quy mô lớn, kỹ thuật phức
+tạp, ảnh hưởng đến an toàn cộng đồng phải được tổ chức đánh giá định kỳ về
+an toàn của công trình trong quá trình khai thác sử dụng.
+2. Nội dung đánh giá bao gồm an toàn chịu lực và an toàn vận hành
+trong quá trình khai thác, sử dụng của công trình. Việc đánh giá an toàn.
+phòng cháy và chữa cháy, an toàn hạt nhân và các nội dung đánh giá an toàn
+khác được thực hiện theo quy định của pháp luật có liên quan.
+3. Chủ sở hữu hoặc người quản lý, sử dụng công trình phải tổ chức dánh
+giá định kỳ về an toàn chịu lực và an toàn vận hành công trình, gửi kết quả
+đánh giá đến cơ quan có thẩm quyền quy định tại Khoản 4 Điều này để theo
+dõi và kiểm tra.
+4. Thẩm quyền kiểm tra công tác đánh giá an toàn chịu lực, an toàn vận
+hành trong quá trình khai thác, sử dụng công trình:
+a) Cơ quan chuyên môn về xây dựng trực thuộc Bộ Xây dựng và
+Bộ quản lý công trình xây dựng chuyên ngành kiểm tra đối với công trình
+cấp 1 trở lên theo chuyên ngành quản lý quy định tại Khoản 1, Khoản 2
+Điều 51 Nghị định này;
+36
+b) Sở Xây dựng và Sở quản lý công trình xây dựng chuyên ngành kiểm
+tra đối với công trình trên địa bàn từ cấp II trở xuống theo chuyên ngành quản
+lý quy định tại Khoản 4 Điều 51 Nghị định này;
+c) Bộ Quốc phòng, Bộ Công an tổ chức thực hiện kiểm tra đối với các
+công trình quốc phòng, an ninh.
+5. Chi phí thực biện việc đánh giá an toàn công trình trong quá trình khai
+thác sử dụng bao gồm chi phí kiểm định chất lượng, chi phí thuê chuyên gia
+và các chi phí cần thiết khác do chủ sở hữu hoặc người quản lý, sử dụng công
+trình chỉ trả và được tỉnh vào chi phí bảo trì công trình xây dựng.
+6. Bộ Xây dựng chủ trì, phối hợp với Bộ quản lý công trình xây dựng
+chuyên ngành, Bộ Quốc phòng và Bộ Công an quy định về đối tượng công
+trình, tần suất đánh giá, quy trình đánh giá an toàn chịu lực, an toàn vận hành.
+của công trình trong quá trình khai thác, sử dụng.
+Điểu 44. Xử lý đối với công trình có đấu hiệu nguy hiểm, không đảm.
+bảo an toàn cho khai thác, sử dụng
+1. Khi phát hiện công trình, hạng mục công trình có dấu hiện nguy hiểm,
+không đảm bảo an toàn cho việc khai thác, sử dụng thì chủ sở hữu hoặc người
+quản lý, sử dụng công trình có trách nhiệm thực hiện các việc sau đây:
+a) Kiểm tra lại hiện trạng công trình;
+b) Tổ chức kiểm định chất lượng công trình (nếu cần thiết);
+c) Quyết định thực hiện các biện pháp khẩn cấp như hạn chế sử dụng.
+công trình, ngừng sử dụng công trình, đi chuyển người và tài sản để bảo đảm
+an toàn nếu công trình có nguy cơ sập đổ;
+d) Báo cáo ngay với chính quyền địa phương nơi gần nhất;
+đ) Sửa chữa những hư hông có nguy cơ làm ảnh hưởng đến an toàn sử:
+dụng, an toàn vận hành của công trình hoặc phá đõ công trình khi cần thiết.
+2. Khi phát hiện hoặc nhận được thông tin bộ phận công trình hoặc công
+trình có đấu hiệu nguy hiểm, không đảm bảo an toàn cho việc khai thác, sử.
+dụng thì chính quyền địa phương có trách nhiệm:
+a) Tổ chức kiểm tra, thông báo, yêu cầu và hướng dẫn chủ sở hữu hoặc
+người quản lý, sử dụng công trình tổ chức khảo sát, kiểm định chất lượng.
+đánh giá mức độ nguy hiểm, thực hiện sửa chữa hoặc phá đở bộ phận công
+trình hoặc công trình, nếu cần thiết;
+37
+b) Yêu cầu chủ sở hữu hoặc người quản lý, sử dụng công trình thực hiện
+các biện pháp khẩn cấp nêu tại Điêm c Khoản 1 Điều này trong trường hợp.
+chủ sở hữu hoặc người quản lý, sử dụng công trình không chủ động thực hiện.
+để đảm bảo an toàn;
+c) Trường hợp công trình xây dựng, hạng mục công trình xây dựng có
+dấu hiệu nguy hiểm có thể dẫn tối nguy cơ sập đỗ thì cơ quan quản lý nhà
+nước có thẩm quyền có trách nhiệm chủ trì, phối hợp với chủ sở hữu hoặc
+người quản lý, sử dụng thực hiện ngay các biện pháp an toàn, bao gồm hạn.
+chế sử dụng công trình, ngừng sử dụng công trình, di chuyển người và tài sản
+nếu cần thiết để bảo đảm an toàn;
+d) Xử lý trách nhiệm của chủ sở hữu hoặc người quản lý, sử dụng công
+trình theo quy định của pháp luật khi không thực hiện theo các yêu cầu của cơ
+quan quản lý nhà nước có thẩm quyền quy định tại Khoản 2 Điều 45 Nghị
+định này.
+3. Riêng đối với chung cư cũ, chung cư có dấu hiệu nguy hiểm, không
+đảm bảo an toàn cho việc khai thác, sử dụng, chủ sở hữu hoặc người quản lý.
+sử dụng công trình thực hiện các quy định của Nghị định này và các quy định.
+khác của pháp luật về nhà ở.
+4. Mọi công dân đều có quyền thông báo cho chủ sở hữu hoặc người
+quản lý, sử dụng công trình, cơ quan quản lý nhà nước hoặc các phương tiện.
+thông tin đại chứng biết khả phát hiện bộ phận công trình, công trình xây dựng
+xảy ra sự cố hoặc có đấu hiệu nguy hiểm, không đảm bảo an toàn cho việc
+khai thác, sử dụng để xử lý kịp thời.
+5. Chủ sở hữu hoặc người quản lý, sử dụng công trình, cơ quan quản lý.
+nhà nước có thẩm quyền khi tiếp nhận được thông tin về bộ phận công trình,
+công trình xây dựng xảy ra sự cố hoặc có dấu hiệu nguy hiểm, không đảm bảo
+an toàn cho việc khai thác, sử dụng có trách nhiệm áp dụng các biện pháp an
+toàn nêu tại Điểm c Khoản 1 Điều này. Trường hợp không xử lý kịp thời, gây
+thiệt hại về người và tài sản thì phải chịu trách nhiệm trước pháp luật.
+Điều 45. Xử lý đối với công trình hết thời hạn sử dụng có như cầu sử
+dụng tiếp
+1. Công trình hết thời hạn sử dụng thì chủ sở hữu hoặc người quản lý, sử.
+dụng công trình phải thực hiện các công việc sau:
+a) Tổ chức kiểm tra, kiểm định, đánh giá chất lượng hiện trạng của công trình;
+b) Gia cố, cải tạo, sửa chữa bư hóng công trình (nếu có) để đảm bảo
+công năng và an toàn sử dụng trước khi xem xét, quyết định việc tiếp tục sử
+dụng công trình;
+38
+c) Tự quyết định việc tiếp tục sử dụng sau khi thực hiện các công việc:
+nêu tại Điểm a, Điểm b Khoản nây trừ các công trình quy định tại Điểm d
+Khoản này;
+d) Báo cáo kết quả kiểm tra, kiểm định, đánh giá chất lượng công trình,
+kết quả sửa chữa công trình (nếu có) với các cơ quan quy định tại Khoản 2
+Điều này để được xem xét và chấp thuận việc kéo đài thời hạn sử dụng đối.
+với công trình quy định tại Phụ lục II Nghị định này.
+2. Trách nhiệm thông báo và thẩm quyền xử lý đối với công trình bết
+thời hạn sử dụng có nhu cầu sử dụng tiếp:
+a) Bộ Xây dựng, Bộ quản lý công trình xây dựng chuyên ngành đối với.
+các công trình cấp đặc biệt thuộc phạm vi quản lý của Bộ theo quy định tại
+Khoản 1, Khoản 2 Điều 51 Nghị định này;
+b) Ủy ban nhân dân cấp tỉnh đối với các công trình cấp I, cấp II trên địa bàn;
+c) Ủy ban nhân dân cấp huyện đối với các công trình còn lại trên địa bàn;
+d) Bộ Quốc phòng, Bộ Công an quy định về trách nhiệm thông báo và
+thẩm quyền xử tý đối với công trình hết thời hạn sử dụng có nhu cầu sử dụng
+tiếp đối với công trình quốc phòng, an ninh;
+đ) Riêng đối với nhà ở, thẩm quyền xử lý theo quy định của pháp luật về
+nhà ở.
+3. Việc quyết định thời hạn tiếp tục sử dụng của công trình được căn cứ
+vào tình trạng kỹ thuật, yêu cầu sử dụng cụ thể, loại và cấp của công trình.
+4. Các trường hợp không tiếp tục sử dụng đối với công trình hết thời hạn
+sử dụng:
+a) Chủ sở hữu hoặc người quản lý, sử dụng công trình không có nhu cầu
+sử dụng tiếp;
+b) Chủ sở hữu hoặc người quản lý, sử dụng công trình đã thực hiện các.
+quy định tại Khoản 1 Điều này nhưng công trình không đảm bảo an toàn.
+5. Chủ sở hữu hoặc người quản lý, sử dụng công trình có trách nhiệm
+phá dỡ công trình quy định tại Khoản 4 Điều này.
+Chương VI
+SỰ CỔ CÔNG TRÌNH XÂY DỰNG
+Điều 46. Phân cấp sự cố trong quá trình thi công xây dựng và khai
+thác, sử dụng công trình
+Cấp sự cố được chia thành ba cấp theo mức độ hư hại công trình và thiệt
+hại về người, bao gồm sự cố cấp 1, cấp II và cấp III như sau:
+39
+1. Sự cố cấp I bao gồm:
+a) Sự cố công trình xây dựng làm chết từ 6 người trở lên;
+b) Sập, đổ công trình, hạng mục công trình cấp I trở lên hoặc hư hóng có
+nguy cơ gây sập, đổ công trình, hạng mục công trình cấp 1 trở lên.
+2. Sự cố cấp Ii bao gồm:
+a) Sự cố công trình xây dựng làm chết tử 1 người đến 5 người;
+b) Sập, đổ công trình, bạng mục công trình cấp II, cấp III hoặc hư hỏng
+có nguy cơ gây sập, đổ công trình, hạng mục công trình cấp II và cấp III.
+3. Sự cố cấp II, bao gồm các cự cố cản lại ngoài các sự cố công trình xây
+dựng quy định tại Khoản 1, Khoản 2 Điều này.
+Điều 47. Báo cáo sự cố công trình xây dựng
+1. Ngay sau khi xảy ra sự cố, bằng phương pháp nhanh nhất chủ đầu tư
+phải báo cáo tớm tất về sự cố cho Ủy ban nhân dân cấp xã nơi xảy ra sư cố và
+cơ quan cấp trên của mình, Ủy ban nhân dân cấp xã ngay sau khi nhận được
+thông tin phải báo cáo chọ Ủy ban nhân dân cấp huyện và cấp tỉnh về sự cố.
+2. Trong vòng 24 giờ kể từ khi xảy ra sự cố, chủ đầu tư báo cáo về sự cố.
+bằng văn bản tới Ủy ban nhân dân cấp huyện và Ủy ban nhân dân cấp tỉnh nơi.
+xảy ra sự cố. Đối với tất cả các loại sự cố, nến có thiệt hại về người thì chủ
+đầu tư gửi báo cáo cho Bộ Xây dựng và các cơ quan quản lý nhà nước có
+thẩm quyền khác theo quy định của pháp luật có liên quan.
+3. Sau khi nhận được báo cáo bằng văn bản hoặc nhận được thông tin về
+sự cố, Ủy ban nhân dân cấp tỉnh có trách nhiệm gửi báo cáo sự cố cho Bộ Xây
+dựng và Bệ quản lý công trình xây dựng chuyên ngành đối với các sự cố sự.
+cổ cấp T và các sự cố khác có thiệt hại về người.
+4. Cơ quan quản lý nhà nước có thẩm quyền được quyền yêu cầu chủ
+đầu tư và các bên liên quan cung cấp thông tin về sự cố.
+5. Trường hợp sự cố công trình xảy ra trong quá trình khai thác, sử dụng.
+chủ sở hữu hoặc người quản lý, sử dụng có trách nhiệm thực hiện theo quy
+định tại Khoản 1, Khoản 2, Khoản 3 Điều này.
+Điều 48. Giải quyết sự cố công trình xây dựng
+1. Khi xảy ra sử cố, chủ đầu tư và nhà thầu thì công xây dựng công trình.
+có trách nhiệm thực hiện các biện pháp kịp thời để tìm kiếm, cứu hộ, bảo đảm.
+an toàn cho người và tài sản, hạn chế và ngăn ngừa các nguy hiểm có thể tiếp
+40
+tục xảy ra; tổ chức bảo vệ hiện trường sự cố và thực hiện báo cáo theo quy.
+định tại Điền 47 Nghị định này. Ủy ban nhân dân các cấp chỉ đạo, hỗ trợ các
+bản có liên quan tổ chức lực lượng tim kiểm cứu mạn, bảo vệ hiện trường sự.
+cổ và thực hiện các công việc cần thiết khác trong quá trình giải quyết sự cố.
+2. Ủy ban nhân dân cấp tỉnh có trách nhiệm chủ trì giải quyết sự cố công
+trình xây dựng và thực hiện các công việc sau:
+a) Xem xét, quyết định đừng, tạm dùng thì công hoặc khai thác sử dụng
+đối với hạng mục công trình, một phần hoặc toàn bộ công trình túy theo mức
+độ và phạm vi sụ cố;
+b) Xem xét, quyết định việc phá đỡ, thu đợn hiện trường sự cố trên cơ sở.
+đáp ứng các yêu cầu sau: Đảm bảo an toàn cho người, tài sản, công trình và các
+công trình lân cận. Hiện trường sự có phải được các bên liên quan chụp ảnh.
+quay phùm, thu thập chứng cứ, ghi chép các tư hệu cần thiết phục vụ công tác.
+giám định nguyên nhân sự cố và lập hồ sơ sự cố trước khi phá đỡ, thu đọn;
+c) Thông báo kết quả giám định nguyên nhân sự cố cho chủ đầu tư, các
+chủ thể khác có liên quan; các yêu cầu đối với chủ đầu tư, chủ sở hữu hoặc
+các bên có lên quan phải thực hiện để khắc phục sự cổ;
+đ) Xử lý trách nhiệm của các bên có liên quan theo quy định của pháp luật.
+đ) Căn cứ điềc kiện thực tế của địa phương, Ủy ban nhân dân cấp tỉnh có
+thể phân cấp cho Ủy ban nhân dân cấp huyện chủ trì giải quyết đối với sự cố
+công trình xẩy dựng cấp III.
+3. Chủ đầu tư, nhà thầu thì công xây dựng trong quá trình thì công xây.
+dựng hoặc chủ sở hữu, người quản lý, sử đụng trong quá trình khai thác, sử
+dựng có trách nhiệm khắc phục sự cố theo yêu cầu của cơ quan nhà nước có
+thẩm quyền, Sau khi khắc phục sự cố, cơ quan có thẩm quyền quy định tạt
+Khoản 2 Điều này quyết định việc tiếp tục thi công hoặc đưa công trình vào.
+sử dụng.
+4. Tổ chức, cá nhấn gây ra sự cố có trách nhiệm bồi thường thiệt hại và
+chi phí cho việc khắc phạc sự cố tùy theo tỉnh chất, mức độ và phạm vi ảnh
+hưởng của sự cố.
+Điều 49. Giám định nguyên nhân sự cố công trình xây dựng
+1. Thẩm quyền chủ trì tổ chức giám định nguyên nhân sự cố công trình
+xây dựng được quy định như sau:
+a) Bộ Xây dựng, Bộ quản lý công trình xây dựng chuyên ngành chủ trì tổ
+chức giảm định nguyên nhân sự cố cấp 1 đối với công trình xây dựng chuyên.
+ngành theo trách nhiệm quản lý quy định tại Khoản 1, Khoản 2 Điều s1 Nghị
+định này, trừ trường hợp khác theo yêu cầu của Thủ tướng Chính phủ;
+41
+b) Ủy ban nhân dân cấp tỉnh tổ chức giám định nguyên nhân các sự cố
+cấp 1, cấp III trên địa bàn. Ủy ban nhân dân cấp tỉnh có thể đề nghị Bộ quản
+lý công trình xây dựng chuyên ngành phối hợp hoặc tổ chức thực hiện giảm
+định nguyên nhân sự cố nêu trên khi cần thiết;
+c) Bộ Quốc phòng, Bộ Công an tổ chức giám định nguyên nhân sự cố
+đối với công trình quốc phòng, an ninh.
+2. Cơ quan có thẩm quyền quy định tại Khoản 1 Điều này thành lập Tổ
+điều tra sự cổ để giám định nguyên nhân sự cố. Tổ điều tra sự có bao gồm đại.
+diện các đơn vị của cơ quan chủ trì giải quyết sự cố, các cơ quan có liên quan
+và các chuyên gia về những chuyên ngành kỹ thuật liên quan đến sự cố.
+Trường hợp cần thiết, cơ quan chủ trì tổ chức giám định nguyên nhân sự cố
+chỉ định tổ chức kiểm định thực hiện giám định chất lượng công trình phục vụ
+đánh giá nguyên nhân sự cố và đưa ra giải pháp khắc phục.
+Đối với sự cố có hậu quả nghiêm trọng, Thủ tướng Chính phủ quyết định
+thành lập Ủy ban hoặc Tổ điều tra sự cố do Bộ Xây dựng chủ trì, phối hợp với
+các cơ quan có liên quan để giám định nguyên nhân sự cổ.
+3. Nội dung thực hiện giám định nguyên nhân sự cố:
+a) Thu thập hồ sơ, tài liệu, số liệu kỹ thuật có liên quan và thực hiện các
+công việc chuyển môn để xác định nguyên nhân sự cố;
+b) Đánh giá mức độ an toàn của công trình sau sự cố;
+c) Phân định trách nhiệm của các tổ chức và cá nhân có liên quan;
+đ) Lập hồ sơ giám định nguyên nhân sự cố, bao gồm: Báo cáo giám định
+nguyên nhân sự cổ và các tài liệu liên quan trong quá trình thực hiện giám
+định nguyên nhân sự cố.
+4. Chi phí tổ chức giám định nguyên nhân sự cố công trình xây dựng
+a) Trường hợp sự cố công trình xây dựng xảy ra trong quá trình thi công
+xây dựng công trình, chủ đầu tư có trách nhiệm chí trả chi phí tổ chức giám định.
+nguyên nhân sự cố công trình xây dựng. San khi có kết quả giám định nguyên.
+nhân sự cố công trình xây dựng và phân định trách nhiệm thì tổ chức, cá nhân
+gây ra sự cố công trình xây dựng phải có trách nhiệm chi trả chi phí tổ chức
+giám định nguyên nhân sự có nêu trên. Trường hợp sự cố công trình xảy ra do
+nguyên nhân bắt khả kháng thi trách nhiệm chỉ trả chi phí tổ chức giám định
+nguyên nhân sự cố thực hiện theo quy định của hợp đồng xây dựng có liên quan;
+b) Trường hợp sự cố công trình xây dựng xảy ra trong quá trình khai
+thác, sử dụng công trình, chủ sở hữu hoặc người quản lý, sử dụng công trình
+có trách nhiệm chỉ trả chi phí tổ chức giám định nguyên nhân sự cổ công trình.
+42
+xây dựng. Sau khi có kết quả giám định nguyên nhân sự cố công trình xây.
+dựng và phân định trách nhiệm thì tổ chức, cá nhân gây ra sự cố công trình.
+xây dựng phải có trách nhiệm chị trả chi phí tổ chức giảm định nguyên nhân
+sự cổ nêu trên. Trường hợp sự có công trình xây ra do nguyên nhân bắt khả
+kháng thì trách nhiệm chỉ trả chi phí tổ chức giám định nguyên nhân sự cố do
+chủ sở hữu hoặc người quản lý, sử dụng công trình chi trả.
+Điều 50. Hồ sơ sự cố công trình xây dựng
+Chủ đầu tư, chủ sở hữu hoặc chủ quản lý, sử dụng có trách nhiệm lập hồ
+sơ sự cố bao gồm các nội dung sau:
+1. Biên bản kiểm tra hiện trường sự cố với các nội dung: Tên công trình,
+hạng mục công trình xảy ra sự cố; địa điểm xây dựng công trình, thời điểm.
+xảy ra sự cố, mô tà sơ bộ và diễn biến sự cố; tình trạng công trình khi xây ra
+sự cố: sơ bộ về tình hình thiệt hại về người và vật chất; sơ bộ về nguyên nhân.
+sự cố.
+2. Các tài liệu về thiết kế và thì công xây dựng công trình liên quan đến
+sự cố.
+3. Hồ sơ giám định nguyên nhân sự cố.
+4. Các tài liệu liên quan đến quá trình giải quyết sự cố.
+Chương VII
+QUẢN LÝ NHÀ NƯỚC VỀ CHẤT LƯỢNG CÔNG TRÌNH XÂY DỰNG
+Điều 51. Trách nhiệm quản lý nhà nước về chất lượng công trình
+xây dựng
+1. Bộ Xây dựng thống nhất quản lý nhà nước về chất lượng công trình
+xây dựng trong phạm vi cả nước và quản lý chất lượng các công trình xây
+dựng chuyên ngành, bao gồm: Công trình dân dụng; công trình công nghiệp
+vật liệu xây dựng; công trành công nghiệp nhạ; công trình hạ tầng kỳ thuật:
+công trình giao thông trong đô thị trừ công trình đường sắt, công trình cầu
+vượt sông và đường quốc lộ.
+2. Các Bộ quản lý công trình xây dựng chuyên ngành:
+a) Bộ Giao thông vận tải quản lý chất lượng công trình giao thông trừ
+các công trình giao thông do Bộ Xây dựng quản lý;
+b) Bộ Nông nghiệp và Phát triển nông thôn quản lý chất lượng công trình
+nông nghiệp và phát triển nông thôn;
+c) Bộ Công Thương quản lý chất lượng các công trình công nghiệp trừ
+các công trình công nghiệp do Bộ Xây dựng quản lý.
+43
+3. Bộ Quốc phòng, Bộ Công an quản lý chất lượng các công trình quốc
+phòng, an ninh.
+4. Ủy ban nhân dân cấp tỉnh quản lý chà nước về chất lượng công trình
+xây dựng trên địa bàn. Sở Xây dựng và các Sở quản lý công trình xây dựng
+chuyên ngành giúp Ủy ban nhân dân cấp tỉnh quản lý chất lượng công trình
+chuyên ngành trên địa bàn như sau:
+a) Sở Xây dựng quản lý chất lượng các công trình dân dụng; công trình
+công nghiệp vật liệu xây dựng, công trình công nghiệp nhẹ; công trình hạ tầng
+kỹ thuật công trình giao thông trong đô thị trở công trình đường sắt, công
+trình cầu vượt sông và đường quốc lộ;
+b) Sở Giao thông vận tải quản lý chất lượng công trình giao thông trừ
+các công trình giao thông do Sở Xây dựng quản lý.
+c) Sở Nông nghiệp và Phát triển nông thôn quản lý chất lượng công trình
+nông nghiệp và phát triển nông thôn;
+đ) Sở Công thương quản lý chất lượng công trình công nghiệp trừ các
+công trình công nghiệp do Sở Xây dựng quản lý.
+Điều 52. Nội dung thống nhất quản lý nhà nước về chất lượng công
+trình xây dựng của Bộ Xây dựng
+1. Ban hành và hướng dẫn các văn bản quy phạm pháp luật theo thẩm
+quyền về quản lý chất lượng công trình xây dựng.
+2. Tổ chức kiểm tra định kỳ theo kế hoạch và kiểm tra đột xuất công tác
+quản lý chất lượng của các Bộ, ngành, địa phương, các chủ thể tham gia xây
+dựng công trình và kiểm tra chất lượng các công trình xây dựng khi cần thiết
+3. Yêu cầu, đôn đốc các Bộ quản lý công trình xây dựng chuyên ngành,
+Ủy ban nhân dân cấp tỉnh thực hiện kiểm tra công tác quản lý chất lượng và
+chất lượng công trình xây dựng trong phạm vi quản lý của mình.
+4. Hướng dẫn việc đăng ký thông tin năng lực hoạt động xây dựng của
+các tổ chức, cá nhân trên cả nước và đăng tải trên trang thông tin điện tử do
+Bộ quản lý theo quy định.
+5. Thẩm định thiết kế xây dựng công trình theo quy định tại Nghị định
+về quản lý dự án đầu tư xây dựng công trình.
+6. Kiểm tra công tác nghiệm thu đối với công trình xây dựng chuyên
+ngành thuộc phạm vi quản lý của Bộ và phối hợp với Bộ quản lý công trình.
+xây dựng chuyển ngành kiểm tra đối vối các công trình xây dựng chuyên
+ngành theo quy định tại Điều 32 Nghị định này.
+44
+7. Hưởng dẫn về chi phí cho việc lập, thẩm tra và điều chỉnh quy trình
+bảo trì; xác định tổ chức, cá nhân có trách nhiệm bảo trì công trình xây dựng
+xả hướng dẫn việc đóng góp chi phí để bảo trì đối với các công trình thuộc
+phạm vi quản lý của Bộ; hướng dẫn phương pháp lập dự toán bảo trì công.
+trình xây dựng và tổ chức lập, công bố các định mức xây dựng phục vụ bảo trí.
+công trình xây dựng.
+8. Kiểm tra việc thực hiện bảo trì công trình xây dựng, đánh giá an toàn.
+chịa lực và an toàn vận hành trong quá trình khai thác sử dụng.
+9. xem xét, quyết định việc tiếp tục sử dụng đối với công trình hết tuổi
+thọ thiết kế, xử lý đối với công trình có hiểu hiện xuông cấp vệ chất lượng,
+không đảm bảo an toàn cho việc khai thác, sử dụng và thông báo thông tin các.
+công trình hết thời hạn sử dụng được tiếp tục sử dụng, tạm dừng sử dụng đối
+với các công trình thuộc phạm vi quản lý của Bộ.
+10. Chủ trì, phối hợp cùng các Bộ, cơ quan ngang Bộ và các địa phương.
+có liên quan thực hiện thanh tra, kiểm tra việc tuân thủ quy định của pháp luật
+về bảo trì công trình xây dựng trên phạm vi toàn quốc.
+11. Tổ chức giám định chất lượng đối với các công trình xây dựng quy.
+định tại Khoản 1 Điều 51 Nghị định này khi được yêu cầu hoặc khi phát hiện
+công trình có chất lượng không đảm bảo yêu cầu theo thiết kế, có nguy cơ
+mất an toàn chịu lực.
+12. Tổ chức giảm định nguyên nhân sự cố theo quy định tại Điều 49.
+Nghị định này đối với các công trình xây dựng quy định tại Khoản 1 Điều sT
+Nghị định này.
+13. Chủ trì tổ chức xét giải thưởng về chất lượng công trình xây dựng
+theo quy định tại Điều 9 Nghị định này.
+14. Tổng hợp, báo cáo Thủ tướng Chính phủ hằng năm về tình hình chất.
+lượng, công tác quản lý nhất lượng công trình xây dựng trên phạm vi cả nước
+và báo cáo đột xuất khi có yêu cầu.
+15. Xử lý vi phạm về quản lý chất lượng công trình xây dựng theo quy
+định.
+16. Thực hiện các nội dung quản lý khác theo quy định của pháp luật có
+liên quan đến quản lý chất lượng công trình xây dựng.
+Điền 53. Nội dung quản lý nhà nước về chất lượng công trình xây.
+dựng của các Bộ, ngành khác
+1. Các Bộ quản lý công trình xây dựng chuyên ngành có trách nhiệm
+quản lý chất lượng công trình xây dựng như sau:
+45
+a) Hường dẫn thực hiện các văn bản quy phạm pháp luật về quản lý chất
+lượng công trình xây dựng áp dụng cho các công trình xây dựng chuyên
+ngành;
+b) Tổ chức kiểm tra định kỳ theo kế hoạch, kiểm tra đột xuất công tác
+quản lý chất lượng của các chủ thể tham gia xây dựng công trình và kiểm tra
+chất lượng các công trình xây dựng chuyên ngành thuộc phạm vi quản lý của
+Bộ khi cần thiết hoặc khi được Bộ Xây dựng yêu cầu;
+c) Báo cáo Bộ Xây dựng kế hoạch kiểm tra, kết quả kiểm tra công tác.
+quản lý chất lượng và chất lượng các công trình xây dựng thuộc phạm vi quân.
+lý của Bộ;
+đ) Thực hiện các quy định từ Khoản 5 đến Khoản 9 Điều 52 Nghị định
+này đối với công trình xây dựng chuyên ngành thuộc phạm vi quản lý của Bộ;
+đ) Phối hợp với Bộ Xây dựng và các địa phương có liên quan thực hiện
+thanh tra, kiểm tra việc tuân thủ quy định của pháp luật về bảo trì công trình
+xây dựng trên phạm vi toàn quốc;
+c) Tổ chức giám định chất lượng đối với các công trình xây dựng theo
+quy định tại Khoản 2 Điều 51 Nghị định này khi được yếu cầu hoặc khi phát
+hiện công trình có chất lượng không đảm bảo yêu cấu theo thiết kế, có nguy
+cơ mất an toàn chịu lực;
+g) Tổ chức giám định nguyên nhân sự cố theo quy định tại Điều 49 Nghị
+định này đối với các công trình xây dựng quy định tại Khoản 2 Điều 51 Nghị
+định này;
+b) Phối hợp với Bộ Xây dựng tổ chức giải thưởng về chất lượng công
+trình xây dựng theo quy định tại Điều 9 Nghị định này.
+2. Bộ Quốc phòng, Bộ Công an có trách nhiệm quản lý chất lượng công
+trình xây dựng như sau:
+a) Hướng dẫn thực hiện các văn bản quy phạm pháp luật về quản lý chất
+lượng công trình quốc phòng, an ninh;
+b) Tổ chức kiểm tra định kỳ theo kế hoạch, kiểm tra đột xuất công tác.
+quản lý chất hượng của các chủ thể tham gia xây dựng công trình và kiểm tra
+chất lượng các công trình quốc phòng, an ninh do Bộ quản lý;
+c) Thực hiện các quy định từ Khoản 5 đến Khoản 9 Điều 52 Nghị định
+này đối với công trình quốc phòng, an ninh;
+đ) Kiểm tra việc tuân thủ quy định của pháp luật về bảo trì công trình
+xây dựng đối với công trình quốc phòng, an ninh;
+46
+đ) Tổ chức giám định chất lượng đối với các công trình xây dựng theo.
+quy định tại Khoản 3 Điều 51 Nghị định này khi được yêu cầu hoặc khi phát
+hiện công trình có chất lượng không đảm bảo yêu cấu theo thiết kế, có nguy
+cơ mất an toàn chịu lực;
+e) Tổ chức giám định nguyên nhân sự cố theo quy định tại Điều 49 Nghị
+định này đối với các công trình xây dựng quy định tại Khoản 3 Điều 51 Nghị
+định này.
+3. Các Bộ quản lý công trình xây dựng chuyên ngành và các Bộ, ngành.
+khác tổng hợp, báo cáo Bộ Xây dựng về tình hình chất lượng và công tác.
+quản lý chất lượng công trình xây dựng do Bộ, ngành quản lý trước ngày 15
+tháng 12 hằng năm và báo cáo đột xuất khi có yêu cầu.
+Điều 54. Trách nhiệm quản lý nhà nước về chất lượng công trình
+xây dựng của Ủy ban nhân dân cấp tỉnh
+1. Phân công, phân cấp trách nhiệm quản lý nhà nước về chất lượng công
+trình xây dựng cho các Sở qoản lý công trình xây dựng chuyên ngành, Ủy ban.
+nhân dân cấp huyện.
+Căn cứ và điều kiện cụ thể của địa phương, Ủy ban nhân dân cấp tỉnh có
+thể ủy quyền cho Ban quản lý các khu công nghiệp, khu kinh tế, khu công
+nghệ cao thực hiện chức năng quản lý nhà nước về chất lượng công trình xây
+dựng đối với các công trình thuộc địa bàn quản lý.
+2. Hướng dẫn triển khai thực hiện các văn bản quy phạm pháp luật về
+quản lý chất lượng công trình xây dựng trên địa bàn.
+3. Kiểm tra việc tuân thủ các quy định của Nghị định này đối với các tổ.
+chức, cá nhân tham gia xây dựng công trình trên địa bàn.
+4. Hướng dẫn xác định tổ chức, cá nhân có trách nhiệm bảo trì công trình
+xây dựng phù hợp với loại công trình, nguồn vốn bảo trì và hình thức sở hữu:
+công trình.
+5. Kiểm tra việc thực hiện bảo trì công trình xây dựng và đánh giá sự an
+toàn công trình theo quy định.
+6. Tổ chức giám định nguyên nhân sự cố theo quy định tại Điều 49.
+Nghị định này đối với các công trình xây dựng trên địa bàn theo quy định tại
+Khoản 4 Điều 51 Nghị định này.
+7. Tổ chức giám định chất lượng khi được yêu cầu đối với các công trình
+xây dựng trên địa bàn theo quy định tại Khoản 4 Điều 51 Nghị định này.
+47
+8. Phối hợp với Bộ Xây dựng tổ chức giải thưởng về chất lượng công
+trình xây dựng theo quy định tại Điều 9 Nghị định này.
+9. Tổng hợp, báo cáo Bộ Xây dựng về tình hình chất lượng và quản lý.
+chất lượng công trình xây dựng trên địa bàn trước ngày 15 tháng 12 hằng năm.
+và báo cáo đột xuất khi có yêu cầu.
+Điều 55. Trách nhiệm của các cơ quan chuyên môn giúp Ủy ban
+nhân dân tỉnh quản lý nhà nước về chất tượng công trình xây dựng
+1. Sở Xây dựng là cơ quan đầu mối giúp Ủy ban nhân dân cấp tỉnh thống
+nhất quản lý nhà nước về chất lượng công trình xây dựng trên địa bàn, thực
+hiện các việc sau:
+a) Trình Chủ tịch Ủy ban nhân dân cấp tỉnh ban hành các văn bản hướng
+dẫn triển khai các văn bản quy phạm pháp luật về quản lý chất lượng công
+trình xây dựng trên địa bàn;
+b) Hướng dẫn Ủy ban nhân dân cấp huyện, các tổ chức và cá nhân tham
+gia hoạt động xây dựng thực hiện các quy định của pháp luật về quản lý chất
+lượng công trình xây dựng;
+c) Kiểm tra thường xuyên, định kỳ theo kế hoạch và kiểm tra đột xuất
+công tác quản lý chất lượng của các cơ quan, tổ chức, cá nhân tham gia hoạt
+động xây dựng và chất lượng các công trình xây dựng trên địa bàn;
+6) Chủ trì, phối hợp với Sở quản lý công trình xây dựng chuyên ngành
+kiểm tra việc tuân thủ quy định về quản lý chất lượng công trình xây dựng
+chuyên ngành;
+đ) Thẩm định thiết kế xây dựng công trình xây dựng chuyên ngành do Sở
+quản lý theo quy định tại Nghị định về quản lý dự án đầu tư xây dựng công trình;
+c) Kiểm tra công tác nghiệm thu công trình xây dựng theo quy định tại.
+Điều 32 Nghị định này đối với công trình xây dựng chuyên ngành do Sở quản lý:
+g) Kiểm tra việc thực hiện bảo trì công trình xây dựng và đánh giá sự an
+toán chịu lực và vận hành công trình trong quá trình khai thác, sử dụng đối:
+với công trình xây dựng chuyên ngành do Sở quản lý;
+h) Giúp Ủy ban nhân dân cấp tỉnh tổ chức giám định công trình xây
+dựng khi được yêu cầu và tổ chức giám định nguyên nhân sự cố theo quy định
+tại Điều 49 Nghị định này; theo dõi, tổng hợp, báo cáo Ủy ban nhân dân cấp.
+tỉnh về tình hình sự cố trên địa bàn;
+48
+1) Hướng dẫn việc đăng ký thông tin năng lực hoạt động xây dựng của.
+các tổ chức, cá nhân trên cả nước và đảng tải trên trang thông tin điện tử do
+Sở quản lý theo quy định;
+k) Báo cáo Ủy ban nhân dân cấp tỉnh định kỳ, đột xuất về việc tuân thủ
+quy định về quản lý chất lượng công trình xây dựng và tình hình chất lượng
+công trình xây dựng trên địa bàn;
+1) Giúp Ủy ban nhân dân cấp tỉnh tổng hợp và báo cáo Bộ Xây dựng về
+tình hình chất lượng công trình xây dựng trên địa bàn định kỳ bằng năm và
+đột xuất; báo cán danh sách các nhà thầu vi phạm quy định về quản lý chất
+lượng công trình khi tham gia các hoạt động xây dựng trên địa bàn.
+2. Sở quản lý công trình xây dựng chuyên ngành có trách nhiệm:
+a) Chủ trì, phối hợp với Sở Xây dựng kiểm tra thường xuyên, định kỳ.
+theo kế hoạch và kiểm tra đột xuất công tác quản lý chất lượng của tổ chức, cá
+nhân tham gia xây dựng công trình chuyên ngành và chất lượng các công
+trình xây dựng chuyên ngành trên địa bàn;
+b) Thực hiện quy định tại Điểm đ, Điểm e Khoản 1 Điều này đối với.
+công trình xây dựng chuyển ngành thuộc phạm vi quản lý của Sở;
+c) Phối hợp với Sở Xây dựng tổ chức giám định công trình xây dựng
+chuyên ngành khí được yêu cầu và tổ chức giám định nguyên nhân sự cố đố:
+với công trình xây dựng chuyên ngành; tổng hợp, báo cáo Ủy ban nhân dân
+cấp tỉnh, Sở Xây dựng về tình hình chất lượng công trình xây dựng chuyên
+ngành trên địa bàn định kỳ hằng năm và đột xuất.
+3. Phòng có chức năng quản lý xây dựng thuộc Ủy ban nhân dân cấp
+huyện có trách nhiệm:
+a) Hướng dẫn Ủy ban nhân dân cấp xã, các tổ chức và cá nhân tham gia
+hoạt động xây dựng trên địa bàn thực hiện các văn bản quy phạm pháp luật về
+quản lý chất lượng công trình xây dựng;
+b) Kiểm tra định kỳ, đột xuất việc tuân thủ quy định về quản lý chất
+lượng công trình xây dựng đối với các công trình xây dựng được ủy quyền
+quyết định đầu tư và cấp giấy phép xây dựng trên địa bàn;
+c) Phối hợp với Sở Xây dựng, Sở quản lý công trình xây dựng chuyên
+ngành kiểm tra việc thực hiện bảo trì công trình xây dựng và đánh giá sự an
+toàn chịu lực và vận hành công trình trong quá trình khai thác;
+49
+đ) Phối hợp với Sở Xây dựng, Sở quản lý công trình xây dựng chuyên
+ngành kiểm tra công trình xây dựng trên địa bàn khi được yêu cầu;
+đ) Thực hiện quy định tại Điểm đ, Điểm e Khoản 1 Điều này đối với
+công trình được phân cấp;
+e) Báo cáo sự cố và giải quyết sự cố theo quy định của Nghị định này;
+g) Tổng hợp và báo cáo Ủy ban nhân dân tỉnh và Sở Xây dựng định kỳ.
+bằng năm, đột xuất việc tuân thủ quy định về quản lý chất lượng công trình
+xây dựng và tình hình chất lượng công trình xây dựng trên địa bàn.
+4. Ban quản lý các khu công nghiệp, khu kinh tế, khu công nghệ cao.
+thực hiện chức năng quản lý nhà nước về chất lượng công trình xây dựng đối
+với các công trình thuộc địa bàn quản lý trong trường hợp được Ủy ban nhân
+dân cấp tỉnh ủy quyền.
+Chương VIII
+ĐIỀU KHOẢN THI HÀNH
+Điều 56. Xử lý chuyển tiếp
+Công trình xây dựng khởi công trước ngày Nghị định này có hiệu lực thì
+việc kiểm tra công tác nghiệm thu đưa công trình vào sử dụng tiếp tục thực
+hiện theo quy định của Nghị định số 15/2013/NĐ-CP ngày 06 tháng 02 năm
+2013 của Chính phủ về quản lý chất tượng công trình xây dựng. Công trình
+xây dựng khởi công sau ngày Nghị định này có hiệu lực thì việc kiểm tra công
+tác nghiệm thu của chủ đầu tư trong quá trình thì công và khi hoàn thành thi
+công xây dựng công trình thực hiện theo quy định của Nghị định này.
+Điều 57. Tổ chức thực hiện
+1. Nghị định này có hiệu lực thì hành kể từ ngày 01 tháng 7 năm 2015 và
+thay thế Nghị định số 114/2010/NĐ-CP ngày 06 tháng 12 năm 2010 của
+Chính phủ về bảo trì công trình xây dựng và Nghị định số 15/2013/NĐ-CP
+ngày 06 tháng 02 năm 2013 của Chính phủ về quản lý chất lượng công trình
+xây dựng trừ các nội dung liên quan đến thẩm tra thiết kế của cơ quan quản lý
+nhà nước về xây dựng.
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan
+thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc
+Trung ương, Thủ trưởng tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức
+xã hội - nghề nghiệp và các tổ chức, cá nhân có liên quan chịu trách nhiệm
+thì hành Nghị định này.
+50
+3. Bộ Xây dựng chủ trì, phối hợp với các Bộ, ngành liên quan chịc
+trách nhiệm hướng dẫn và tổ chức thực hiện Nghị định này./.
+Nơi nhận:   TM. CHÍNH PHỦ
+- Ban Bí thư Trung ương Đảng;   THỦ TƯỚNG
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
+- HĐND, UBND các tỉnh, thành phố trực thuộc Trung ương;
+- Văn phòng Trung ương và các Ban của Đảng;
+- Văn phòng Tổng Bí thư;
+- Văn phòng Chủ tịch nước;
+- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
+- Văn phòng Quốc hội;
+- Tòa án nhân dân tối cao;
+- Viện Kiểm sát nhân dân tối cao;
+- Kiểm toán Nhà nước;
+- Ủy ban Giám sát tài chính Quốc gia;   Nguyễn Tấn Dũng
+- Ngân hàng Chính sách xã hội;
+- Ngân hàng Phát triển Việt Nam;
+- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan Trung ương của các đoàn thể;
+- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT;
+các Vụ, Cục, đơn vị trực thuộc, Công báo;
+- Lưu: Văn thư, KTN (3b). XH Lạo
+51
+Phụ lục I
+HẤN CÔNG TRÌNH XÂY DỰNG
+
+
+I. CÔNG TRÌNH DÂN DỤNG
+1. Nhà ở: Nhà chung cư và các loại nhà ở tập thể khác; nhà ở riêng lẻ.
+2. Công trình công cộng.
+a) Công trình giáo dục: Nhà trẻ, trường mẫu giáo; trường phổ thông các
+cấp; trưởng đại học và cao đẳng, trường trung học chuyên nghiệp; trường dạy.
+nghề, trưởng công nhên kỹ thuật, trường nghiệp vụ và các loại trường khác;
+b) Công trình y tế: Bệnh viện đa khoa, bệnh viện chuyên khoa từ trung
+ương đến địa phương; các phòng khám da khoa, khám chuyên khoa khu vực:
+trạm y tế, nhà hộ sinh; nhà điều dưỡng, phục hối chức năng, chính hình, nhà
+dưỡng lão; cơ sở phòng chống dịch bệnh; các cơ sở y tế khác;
+c) Công trình thể thao: Công trình thể thao ngoài trời, công trình thể thao.
+trong nhà và công trình thể thao khác;
+t) Công trình văn hóa: Trung tâm hội nghị, nhà hát, nhà văn hóa, câu lạc.
+bộ, rạp chiếu phùm, rạp xiếc, vũ trường; công trình vui chơi, giải trí và các
+công trình văn hoá tập trung đông người khác; các công trình di tích; bảo.
+tăng, thư viện, triển lăm, nhà trung bảy, tượng đải ngoài trời và các công trình.
+khác có chức năng tương đương; pa nổ, biển quảng cáo độc lập:
+đ) Công trình tôn giáo, tín ngưỡng.
+Công trình tôn giáo: Trụ sở của tổ chức tôn giáo, chủa, nhà thở, nhà
+nguyện, thành đường, thánh thất, niệm phật đường, trường đào tạo những
+người chuyên hoạt động tôn giáo, tượng đải, bía, tháp và những công trình
+tương tự của các tổ chức tôn giáo;
+Công trình tin ngưỡng: Đình, đền, am, miếu, từ đường, nhà thờ họ và
+những công trình tương tự khác;
+e) Công trình thương mại, dịch vụ và trụ sở làm việc: Công trình đa
+năng, khách sạn, nhà khách, nhà nghỉ; trụ sở làm việc của các tổ chức xã hội -
+nghề nghiệp, đơn vị sự nghiệp và doanh nghiệp; trung tâm thương mại, siên
+thị; chợp của hàng, nhà hàng ăn uống, giải khát và công trình tương tự khác;
+nhà phục vụ thông tin liên lạc: bau điện, bưu cục, nhà tấp đặt thiết bị
+thông tin;
+g) Nhà ga: bảng không, đường thủy, đường sát bến xe ô tô; cáp treo vận
+chuyển người;
+b) Trụ sở cơ quan nhà nước: Nhà làm việc, cửa Quốc hội, Chính phủ.
+Chủ tịch nước; nhà làm việc của các Bộ, ngành, Uỷ bánh ân dân và cơ quan
+chuyên mứn trực thuộc các cấp; trụ sở tổ ghức, cath trị, tổ chức chính trị -
+xã hội.
+II. CÔNG TRÌNH CÔNG NGHIỆP
+1. Công trình sản xuất vật liệu xây dựng: Nhà máy sản xuất xi măng; mô
+khai thảo vật liệu xây dựng và các công trình sản xuất vật liệu/sản phẩm xây
+dựng khác.
+2. Công trình huyện kim và cơ khí chế tạo: Nhà máy huyện kim mẫu; nhà
+mây huyện, cán tháp; nhà máy chế tạo máy động lực và máy nông nghiệp; nhà
+máy chế tạo máy công cụ và thiết bị công nghiệp; nhà máy chế tạo thiết bị
+năng hại nhà máy chế tạo máy xây dựng; nhà mày chế tạo thiết bị toán hội
+nhà máy sản xuất, tắp ráp phương tiện giao thông (ô tô, xe máy, tàu thủy, đầu
+máy cần hóa..); nhà máy chế tạo thiết bị điện- điện tử; nhà máy sản xuất công
+nghiệp hỗ trợ.
+3. Công trình khai thác mỏ và chế biến khoáng sản: Mỏ than hằm lở; mó
+than lộ thiên nhà máy sảng tuyển, chế biến than; nhà máy chế biết khoáng
+sản mô quặng bầm lớ; mó quảng lộ thiên; nhà máy tuyển quặng, làm giầu
+quặng; nhà máy sản xuất alumin.
+4. Công trình đầu khú: Các công trình khai thác trên biển (giàn khai thác
+và tào chứa dâu); nhà máy lọc đầu; nhà máy chế biến khi; nhà náy sản xuất
+nhiên liệu sinh học; kho xăng dầu; kho chứa khi hóa lông; tuyến ống dẫn khủ,
+đầu; trạm bản xăng đầu; trạm chiết khi hóa lóng; nhà máy sản xuất đầu nhôn;
+nhà máy tái chế dầu thải.
+5. Công trình năng lượng: Nhà máy nhiệt điện; nhà máy cấp nhiệt; nhà
+máy cấp hơi; nhà máy cấp khí nén; công trình thủy điện; nhà máy diện.
+nguyên tử; nhà máy đện giố; nhà máy điện mặt trởi; nhà máy điện địa nhiệt;
+nhà máy điện thủy triểu; nhà máy điện rác; nhà máy điện sinh khối; nhà máy.
+điện khi biogas; nhà máy điện đồng phát; đường đây điện và trạm biển áp.
+6. Công trình hoá chất:
+a) Công trình sản xuất sản phẩm phân bón; công trình sản phẩm hóa chất
+bảo vệ thực vật; công trình sản xuất sản phẩm hóa đầu; công trình sản xuất
+sản phẩm hóa được; công trình sản xuất sản phẩm hóa chất cơ bản và hóa chất
+Khác; công trình sản xuất sản phẩm nguồn diện hóa học; công trình sản xuất
+sản phẩm khí công nghiệp; công trình sản xuất sản phẩm cao su; công trình
+sản xuất sản phẩm tầy rừa; công trình sản xuất sản phẩm sơn, mực ín;
+b) Công trình sản xuất vật liệu nổ công nghiệp; công trình sản xuất tiền
+chất thuốc nổ; kho chứa vật liệu nổ công nghiệp.
+7. Công trình công nghiệp nhẹ:
+a) Công trình công nghiệp thực phẩm: Nhà máy sữa; nhà máy sản xuất
+bảnh kọo, mỷ án liền; kho đông lanh; nhà máy sản xuất dầu ăn, hưởng liệu:
+nhà máy sản xuất rượu, bìa, nước giải khát; nhà máy chế biến khác;
+b) Công trình công nghiệp tiêu đùng: Nhà máy xơ sợi; nhà máy đệt; nhà
+máy in, nhuệm; nhà mảy sản xuất các sản phẩm may; nhà máy thuộc đa và
+sản xuất các sản phẩm từ đai nhà máy sản xuất các sản phẩm rhựa, nhà máy
+sản xuất đổ sảnh sử, thủy tỉnh; nhà máy bột giấy và giấy; nhà máy sản xuất
+thuốc lá; các nhà máy sản xuất các sản phẩm tiêu dùng khác;
+c) Công trình công nghiệp chế biến nông, thủy và hài sản: Nhà máy chế
+biến thủy hài sản; nhà máy chế biến đổ hộp; các nhà máy xay xát, lau bóng
+gạo; các nhà máy chế biến nông sản khác.
+III. CÔNG TRÌNH HẠ TĂNG KÝ THUẬT
+1. Công trình cấp nước: Nhà máy nước, công trình xử lý nước sạch; trạm
+trơm (nước thô, nước sạch hoặc tăng áp); bể chứa nước sạch; tuyến ông cấp.
+nước (nước thô hoặc nước sạch).
+2. Công trình thoát nước: Tuyển cống thoát nước mưa, cổng chung;
+tuyến cổng thoát nước thải; bồ điều hóa; trạm bơm nước mưa; công trình xử.
+lý nước thải; trạm bơm nước thải; công trình xử lý bùn.
+3. Công trình xử lý chất thải rắn:
+a) Công trình xử lý cbất thải rắn thông thường: trạm trung chuyển; bãi.
+chôn lấp rác; khu liên hợp xử lý/khu xử lý; cơ sở xử lý chất thải rắn;
+b) Công trình xử lý chất thải nguy hại.
+4. Công trình chiếu sáng công cộng; mạng hưới diện chiếu sáng, cột đèn.
+5. Công trình khác:
+a) Công trình thông tin, truyền thông: Cột thông tin, công trình thu phát
+sởng; đường cáp truyền dẫn tin hiệu viễn thông (cáp chôn trực tiếp dưới lông
+đất, cáp trong cổng bê, cáp dưới đáy biển, cáp dưới đây sông, cáp treo); công
+trình xây dựng lập đặt cột bê tông (loại cột như trên) để treo các loại cáp.
+thông tin;
+b) Nghĩa trang, nhà tang lễ, cơ sở hỏa táng;
+c) Công viên, cây xanh;
+đ) Bãi đỗ ô tô, xe máy: bãi đỗ xe ngàm, bãi đỗ xe nổi;
+đ) Cống, bể kỹ thuật, hào và tuy nen kỹ thuật.
+IV. CÔNG TRỈNH GIAO THÔNG
+3
+1. Công trình đường bộ: Đường ô tô cao tốc các loại; đường ô tô, đường
+trong đô thị; đường nông thôn, bến phả.
+2. Công trình đường sắt: đường sắt cao tốc và cận cao tốc; đường sắt đô.
+thị, đường sắt trên cao, đường tầu điện ngắm (Mero); đường sắt quốc gia:
+đường sắt chuyên dụng và đường sắt địa phương.
+3. Công trình cầu; cầu đường bộ, cầu bộ hành (không bao gồm cầu treo.
+dân sảnh); cầu đường sắt; cầu phao; cầu treo dân sinh.
+4. Công trình hầm: Hằm đường ô tổ; hằm đường sắt; hằm cho người.
+đi bộ.
+5. Công trình đường thủy nội địa: Công trình sửa chữa/đóng mới phương.
+tiện thủy nội địa (bến, tự, triển, đã,...); cảng bến thủy nội địa; ân tầu; đường
+thủy chạy tàu (trên sông, hồ, vịnh và đường rà đảo, trên kênh đảo).
+6. Công trình hàng hài: bến cảng biển; công trình sửa chữa/đóng.
+mới phương tiện thủy nội địa (bến, triển, đả...); tuồng bảng bải (chạy tàu
+1 chiếu); công trình chính trị (đê chấn sông/chấn cát, kê hưởng đòng/bào
+vệ bờ).
+7. Các công trình hàng bái khác: bến phả/càng ngoài đào, bến cảng
+chuyên dụng, công trình nối trên biển; hệ thống phao báo hiện hàng bải trên
+sông/biển; đèn biển, đăng tiêu.
+8. Công trình hàng không: Khu bay (bao gồm cả các công trình đảm
+bảo bay).
+V. CÔNG TRÌNH NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN
+1. Công trình thủy lợi: hồ chứa nước; đập ngăn nước (bao gồm dặp tạo.
+bồ, đập ngăp mặt, giữ ngọt, điều tiết trên sông, suối.v...) trản xã lũ; công
+lấy xước, cống tiêu nước, cống xả nước; kênh, đường ống dẫn nước; đường
+hấm thủy công; trạm bơm tưới - tiêu và công trình thủy lợi khác.
+2. Công trình đê điều: đê sông; đê biến; để cửa sông và các công trình
+trên đê, trong đê và dưới đê.
+3. Công trình chăn nuôi, trồng trọt, lâm nghiệp, điêm nghiệp, thủy sản và
+các công trình nông nghiệp và phát triển nông thôn khác.
+VL CÔNG TRÌNH QUỐC PHÒNG, AN NINH
+Công trình quốc phòng, an ninh là công trình được đầu tư xây dựng bằng
+nguồn vẫn nhà nước do Bộ Quốc phòng, Bộ Công an quản lý, phục vụ quốc
+phòng, an ninh. Công trình quốc phòng, an ninh không thuộc các loại công
+trình đã nêu từ Mục 1 đến Mục V của Phụ lục này do Bộ Quốc phòng.
+Bộ Công an quy định.
+4
+Phụ lục II
+DANH MỤC CÔNG MỤC CÔNG TRÍNH CÓ ÁNH HƯỜNG
+
+
+thảng 5 năm 2015 của Chính phủ)
+Mã   Cấp công
+số   Loại công trình   trình
+I   CÔNG TRÌNH DÂN DỤNG
+L.1   Nhà ở   Nhà chung cư, nhà ở tập thể, ký trúc xá,   Cấp III trở lên
+nhà ở riêng lẻ từ 7 tầng trở lên
+1.2   Công trình công cộng
+1.2.1   Công trình giáo dục   Cấp III trở lên
+1.2.2   Công trình y tế   Cấp HI trở lên
+1.2.3   Công trình thể thao   Công trình thể thao ngoài trời (không bao
+gồm sân thể thao), công trình thể thao   Cấp uI trở lên
+trong nhà
+1.2.4   Công trình văn hóa   Trung tâm hội nghị, nhà hát, nhà văn hóa,
+câu lạc bộ, rạp chiếu phim, rạp xiếc, vũ   Cấp III trở lên
+trường
+Bảo tàng, thư viện, triển lãm   Cấp III trở lên
+Công trình vui chơi, giải trí và các công
+Cấp III trở lên
+trình văn hoá tập trung đông người khác
+1.2.5   Công trình thương   Công trình đa năng, khách sạn; trụ sở làm
+mại, dịch vụ và trụ sở   việc của các tổ chức xã hội, sự nghiệp và   Cấp III trở lên
+làm việc của các tổ   doanh nghiệp
+chức xã hội - nghề   Trung tâm thương mại, siêu thị   Cấp III trở lên
+nghiệp, đơn vị sự   Nhà phục vụ thông tin liên lạc: bưu điện,
+nghiệp và doanh   Cấp Ii trở lên
+bưu cục
+nghiệp
+Cửa hàng, nhà hàng ăn uống, giải khát và
+Cấp II trở lên
+công trình tương tự khác
+1.2.6   Cáp treo vận chuyển người   Mọi cấp
+1.2.7   7 Nhà ga   Nhà ga hàng không   Mọi cấp
+Nhà ga đường thủy, nhà ga đường sắt,
+bến xe ô tô   Cấp III trở lên
+II   CÔNG TRÌNH CÔNG NGHIỆP
+II.1   Công trình sản xuất
+vật liệu xây dựng   Cấp III trở lên
+II.2   Công trình luyện kim
+Cấp III trở lên
+và cơ khí chế tạo
+II.3   Công trình khai thác
+Cấp III trở lên
+mỏ và chế biến
+khoáng sản
+II.4   Công trình dầu khi
+Cấp III trở lên
+II.5   Công trình năng
+Cấp III trở lên
+Mã   số   Loại công trình   Cấp công   trình
+lượng
+TI.6   Công trình hóa chất
+Cấp III trở lên
+II.7   Công trình công
+nghiệp nhẹ   Cấp III trở lên
+III   CÔNG TRÌNH HẠ TẦNG KY THUẬT
+III.1   Cấp nước   Cấp II trở lên
+IIL.2   Thoát nước   Cấp II trở lên
+III.3   Xử lý chất thải rắn   Cấp II trở lên
+III.4   Công trình thông tin,   Tháp thư, phát sóng viễn thông, truyền
+truyền thông   thanh, truyền hình, cột BTS   Cấp III trở lên
+Đường cáp truyền dẫn tín hiệu viễn thông   Cấp II trở lên
+HI.5   Bãi đỗ xe ô tô, xe   Bãi đỗ xe ngâm   Cấp II trở lên
+máy   Bãi đỗ xe nổi   Cấp II trở lên
+III.6   Cống cáp; hào và tuy
+nen kỹ thuật   Tuy nen kỹ thuật   Cấp II trở lên
+IV   CÔNG TRÌNH GIAO THÔNG
+IV.1   Đường bộ   Đường ô tô cao tốc   Mọi cấp
+Đường ô tô, đường trong đô thị   Cấp I trở lên
+Bên phà   Cấp II trở lên
+Đường sắt   Mọi cấp
+Cầu   Cầu đường bộ, cầu bộ hành, cầu đường
+sắt, cầu phao   Cấp III trở lên
+Hầm   Hầm đường ô tô, hầm đường sắt, hẩm
+cho người đi bộ   Cấp III trở lên
+Hầm tàu điện ngầm (Metro)   Mọi cấp
+IV.2   Công trình đường   Cảng, bến thủy nội địa   Cấp III trở lên
+thủy nội địa
+nước chạy tầu (bao gồm cả phao tiêu,   Cấp III trở lên
+công trình chỉnh trị)
+IV.3   Công trình hàng hải   Cấp II trở lên
+Công trình hàng   Khu bay (bao gồm cả các công trình bảo
+IV.4   Mọi cấp
+không   đảm hoạt động bay)
+V   CÔNG TRÌNH NÔNG NGHIỆP VÀ PHẤT TRIỂN NÔNG THÔN
+V.1   Công trình thủy lợi   Công trình cấp nước   Cấp II trở lên
+Hồ chứa nước   Cấp III trở lên
+Tường chắn   Cấp uI trở lên
+Đập ngăn nước và các công trình thủy lợi
+chịu áp khác   Mọi cấp
+V.2   Công trình đê điều   Mọi cấp
+2

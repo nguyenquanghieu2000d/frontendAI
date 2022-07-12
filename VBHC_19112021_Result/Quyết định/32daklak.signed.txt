@@ -1,0 +1,250 @@
+Ký bởi: Cổng Thông tin điện tử Chính phủ
+Email: thongtinchinhphuạchịnhphu.vn
+Cơ quan: Văn phòng Chính phủ
+Thời gian ký: 01.10.2015 11:07:40 +07:00
+UỶ BAN NHÂN DÂN   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH ĐẮK LẮK   Độc lập - Tự do - Hạnh phúc
+Số:32/2015/QĐ-UBND   Đắk Lắk, ngày 25 tháng 3 năm 2015
+QUYẾT ĐỊNH
+Ban hành Quy chế quản lý, vận hành, khai thác hệ thống một cửa
+điện tử liên thông trên địa bàn tỉnh Đắk Lắk
+CÒNG THÔNG Tủ ĐỆN Từ CHÍNH PHủ
+UỶ BAN NHÂN DÂN TỈNH
+Căn cứ Luật Tổ chức HĐND và UBND ngày 26/11/2003;
+Căn cứ Luật Công nghệ thông tin ngày 29/6/2006;
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về
+ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước;
+Căn cứ Quyết định số 09/2015/QĐ-TTg ngày 25/03/2015 của Thủ tưởng
+Chính phủ ban hành Quy chế thực hiện cơ chế một cửa, cơ chế một cửa liên thông
+tại cơ quan hành chính nhà nước ở địa phương;
+Theo đề nghị của Giám đốc Sở Thông tin và Truyền thông tại Tẻ trình số
+62/TTr-STTTT ngày 17/9/2015,
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kiêm theo Quyết định này Quy chế quản lý, vận hành, khai.
+thác hệ thống một cửa điện tử liên thông trên địa bàn tỉnh Đắk Lắk
+Điều 2. Giao Sở Thông tin và Truyền thông chủ trì, phối hợp với các sở, ban,
+ngành 6 tỉnh; UBND các huyện, thị xã, thành phố; các tổ chức, cá nhân có liên quan.
+tổ chức thực hiện, theo đôi, kiểm tra, đôn đốc và định kỳ 6 tháng, hàng năm bác cáo
+UBND tỉnh việc thực hiện Quy chế.
+Điều 3. Quyết định này có hiệu lực kể từ ngày 10/10/2015.
+Chánh Văn phòng UBND tỉnh; Thủ trưởng các sở, ban, ngành ở tỉnh; Chủ
+tịch UBND các huyện, thị xã, thành phố và tổ chức, cá nhân có liên quan chịu trách
+nhiệm thì hành Quyết định này./.
+Nơi nhận:   TM. ỦY BAN NHÂN DÂN
+- Bộ TT&TT;   CHỦ TỊCH
+- TT Tỉnh ủy, TT HĐND tỉnh;
+- Đoàn Đại biểu Quốc hội tỉnh;
+- CT, các PCT UBND tỉnh;
+- UBMTTQVN tỉnh;
+- Vụ Pháp chế - Bộ TT&TT;
+- Cục Kiểm tra văn bản - Bộ Tư pháp;
+- Cổng thông tin điện tử Chính phủ;
+- Như Điều 3;
+- Báo Đắk Lắk, Đài PTTH tỉnh, Cổng TTĐT tỉnh;
+- VP UBND tỉnh: Các PCVP; Các P, TT;
+- Lưu: VT, CN (Tr 100). U   Phạm Ngọc Nghị
+UỶ BAN NHÂN DÂN   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH ĐẮK LẮK   Độc lập - Tự do - Hạnh phúc.
+QUY CHẾ
+Quản lý, vận hành và khai thác hệ thống một cửa điện tử
+liên thông trên địa bàn tỉnh Đắk Lắk
+(Ban hành kèm theo Quyết định số 22/2015/QĐ-UBND ngày 25/2/2015
+của Uỷ ban nhân dân tỉnh)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+1. Quy chế này quy định việc quản lý, vận hành và khai thác hệ thống một
+cửa điện tử liên thông đối với các cơ quan hành chính Nhà nước trên địa bàn
+tỉnh Đắk Lắk.
+2. Quy chế này được áp dụng đối với các cơ quan hành chính nhà nước
+trên địa bàn tỉnh tỉnh; các tế chức, cá nhân tham gia khai thác, vận hành, sử
+dựng thông tin trên hệ thống một cửa điện tử liên thông.
+Điều 2. Giải thích từ ngữ
+1. Phần mềm một cửa điện tử liên thông” là một bệ phần mềm ứng dụng
+công nghệ thông tin nhằm tin học bóa các giao dịch giữa tổ chức, cá nhân và
+doanh nghiệp với cơ quan hành chính nhà nước và giữa các cơ quan hành chính
+nhà nước theo cơ chế một cửa, một cửa liên thông” theo quy định của Chính.
+phủ để giải quyết công việc của tổ chức, cá nhân và doanh nghiệp thuộc trách.
+nhiệm, thẩm quyền của cơ quan hành chính nhà nước trên địa bàn tỉnh thông qua
+các thủ tục hành chính.
+2. Hệ thống tra cứu trực tuyến tình trạng hồ sơ hành chính là hệ thống
+thông tin phục vụ việc tra cức thông tin về tình trạng bổ sơ hành chính của tổ.
+chức, cá nhân và doanh nghiệp; đồng trời phục vự công tác theo dõi, chỉ đạo
+điều hành của UBND tỉnh và các sở, ban, ngành có liên quan thông qua: Trang
+thông tin điện tử, kosk tra cứu hồ sơ, phần mềm tra cứu bồ sơ qua tin nhấn
+(SMS), điện thoại hoặc các hình thức phù hợp khác.
+3. Hệ thống một của điện tử liên thông” là hệ thống thông tin bao gồm
+hệ phần mềm một cửa điện tử liên thông, bệ thống tra cức trọc tuyến tình trạng.
+hồ sơ hành chính và các trang thiết bị, hệ thống mạng nội bộ, đường truyền được
+triển khai, gử dụng, vận hành tại các cơ quan hành chính nhà nước trên địa bàn
+tỉnh Đắk Lắk
+1
+Điều 3. Mục tiêu triển khai hệ thống một cửa điện tử liên thông
+Việc triển khai hệ thống một của điện tử liên thông trên địa bàn tỉnh nhằm
+tăng cường ứng dụng công nghệ thông tin phục vụ cải cách hành chính, hiện đại
+hóa nần công vự theo cơ chế một cửa điện tử liên thông nhằm nâng cao năng
+lực, chất lượng hoạt động công vụ của cán bộ, công chức, viên chức nhà nước.
+trong tỉnh. Nâng cao chất lượng quản lý, chỉ đạo, điển hành của các cơ quan nhà
+nước và của lãnh đạo các cấp, các ngành, tăng cường sự giám sát của người dân
+và doanh nghiệp đối với hoạt động công vụ của các cơ quan hành chính nhà
+nước. Từng bước xây dựng hệ thống cơ sở dư liệu, thông tin kinh tế xã hội của
+tỉnh.
+Chương II
+MÔ HÌNH, TỔ CHỨC HỆ THỐNG MỘT CỬA
+ĐIỆN TỬ LIÊN THÔNG
+Điều 4. Mô hình, tổ chức hệ thống một cửa điện tử liên thông
+1. Phần mềm một cửa điện tử liên thông triển khai tại các cơ quan hành
+chính nhà nước trên địa bàn tỉnh được tổ chức theo mô hình quản lý tập trong
+với cơ sở dữ liệu được dùng chung đặt tại Trung tâm tích hợp dư liệu của tỉnh và
+cung cấp toàn bộ văn bản, thủ tục hành chính có liên quan theo quy định của
+pháp luật; quy trình, thủ tục hành chính thực hiệo theo Quyết định số
+09/2015/QĐ-TTg ngày 25/3/2015 của Thủ tướng Chính Phủ về ban hành Quy
+chế thực hiện cơ chế một cửa, cơ chế một cửa liên thông tại cơ quan hành chính
+Nhà nước ở địa phương
+2. Phần mềm một cửa điện tử liên thông tại UBND các huyện, thị xã,
+thành phố (sau đây gọi chung là UBND cấp huyện) vận hành trên môi trường
+mạng, dữ liệu được liên thông, luân chuyển khép kin từ bộ phận tiếp nhận và trả
+kết quả đến các phòng ban chuyên môn trong hệ thống.
+3. Tổ chức, cá nhân và doanh nghiệp nộp hồ sơ trực tiếp tại bộ phận tiếp
+nhận và trả kết quả; đồng thời có thể tải các mẫu đơn, mẫu tờ khai và khai bảo
+để hoàn thiện hồ sơ theo yêu cầu.
+4. Mỗi cá nhân sử dụng sẽ được cấp một tài khoản (tên đăng nhập và mật
+khẩu) để đăng nhập vào hệ thống.
+Điều 5. Mô hình, tổ chức hệ thống tra cứu trực tuyến tình trạng hồ sơ
+hành chính
+1. Hệ thống tra cứu trực tuyến tình trạng hồ sơ hành chính bao gồm:
+a) Trang thông tin điện tử về hồ sơ hành chính của UBND cấp huyện.
+b) Kiosk tra cứu thông tin đặt tại bộ phận một của của UBND cấp huyện.
+c) Hệ thống trả lời tự động qua tin nhắn SMS.
+2
+é) Trang thông tin tổng hợp tình trạng xử lý bồ sơ hành chính của tỉnh
+phục vụ tra cứu, chỉ đạo điểu hành của lãnh đạo các cếp, các ngành. Mọi thông
+tin được cập nhật tự động từ UBND các huyện, thị xã, thành phố.
+2. Tắt cả thông tin về tình trạng xử lý hồ sơ hành chính trên hệ thống tra
+cứu trực tuyến được cập nhật trực tuyến tử các cơ quan, đơn vị vận hành phần
+mềm một cửa điện tử liên thông.
+3. Tổ chức, cá nhân và doanh nghiệp có thể tra cứu tình trạng xử lý hồ sơ
+hành chính bằng cách nhập mã số hồ sơ (n sẵn trên biên nhận hể sơ) thông qua
+hệ thống tra cứu trực tuyến và thực hiện theo hướng dẫn của hệ thống.
+4 Địa chỉ cụ thể của trang thông tin điện tử tổng hợp một cửa điện tử liên
+thông về hồ sơ hành chính của tỉnh, số điện thoại cửa hệ thông trả lời tự động do
+Sở Thông tin và Truyền thông chịu trách nhiệm công bố và hướng dẫn sử dụng,
+khai thác (Website tổng hợp: http/motcua.dakhak.gov.vn/egate/).
+Điều 6. Mở rộng hệ thống một cửa điện tử liên thông
+Các cơ quan chuyên môn ở tỉnh, UBND các huyện, thị xã, thành phố khi
+triển khai phần mềm một của điện tử liên thông tại đơn vị mình hoặc tại đơn vị
+trực thuộc có tính năng tương tự phần mềm một cửa điện tử liên thông đã triển
+khai thi phải được Sở Thông tin và Truyền thông thẩm định và được UBND tỉnh.
+phê duyệt.
+Chương III
+TỔ CHỨC THỰC HIỆN
+Điền 7. Trách nhiệm của các cơ quan, đơn vị đã triển khai hệ thống
+một cửa điện tử liên thông
+1. Căn cứ vào Quy chế này, các quy định có liên quan và tình hình thực tế
+tại cơ quan, đơn vị, địa phương minh để xây dựng quy chế quản lý vận hành hệ
+thống một của điện tử liên thông tại đơn vị minh, đảm bảo vận hành liên tục và
+thông suốt phần mềm một của điện tử liên thông đã được triển khai; đảm bảo
+cang cấp dữ liệu hồ sơ hành chính của UBND cấp huyện cho hệ thống tra cứu
+trực tuyển tình trạng hồ sơ hành chính, phục vụ kịp thời nhu cầu tra của thông
+tin tỉnh trạng hồ sơ nành chính của tổ chức, cá phân và doanh nghiệp và phục vụ
+tết công tác giám sát, chỉ đạo điều hành của Tỉnh ủy, HĐND, UBND tỉnh; các
+sở, ban, ngành; UBND các huyện, thị xã, thành phố.
+2. Đảm bảo 10%% hồ sơ hành chính của tổ chức, cá nhân và doanh nghiệp
+được tiếp nhận, xử lý, trả kết quả đúng hẹo, cung cấp trực tuyến tình trạng hồ sơ
+hành chính thông qua hệ thống một cửa điện tử liên thông.
+3. Bố trí tối thiểu 01 cán bộ để quản trị hệ thống công nghệ thông tin của
+đơn vị, chịc trách nhiệm theo dõi, quản lý chung việc vận hành phần mềm một
+cửa điện tử liên thông tại cơ quan, đơn vị và địa phương minh; đảm bảo hệ
+3
+thống máy tính hoạt động ổn định, hệ thống mạng nội bộ, đường truyền thông
+suốt, liên tục; làm đầu mối tiếp nhận các ý kiến của người sử dụng tại các phòng
+ban đã triển khai phần mềm một cửa điện tử liên thông, kịp thời liên hệ với Sở
+Thông tin và Truyền thông và các đơn vị có liên quan để khắc phục, giải quyết
+các khó khăn, vướng mắc.
+4. Thường xuyên theo dõi, kiểm trả, đánh giá tình hình xử lý hồ sơ hành
+chính tại cơ quan, đơn vị mình thông qua phần mềm một cửa điện tử liên thông
+nhằm kịp thời phát hiện, giải quyết các vướng mắc phát sinh.
+5. Xây dựng kế hoạch, bố trí kinh phí từ nguồn dự toán ngân sách giao
+bảng năm để đảm bảo công tác bảo trì, vận hành hệ thống một cửa điện tử liên.
+thông của đơn vị; đầu tư, nâng cấp, trang bị hệ thống thiệt bị và đào tạo nhân lực .
+trong nội bộ cơ quan đảm bảo cho việc vận hành hệ thống một cửa điện tử liên.
+thông đồng bộ, thông suốt và hiệu quả.
+Điều 8. Trách nhiệm của Văn phòng UBND tỉnh
+1. Phối hợp với các cơ quan, đơn vị trong việc chỉ đạo quản lý, vận hành,
+khai thác hệ thống một cửa điện tử Biên thông đảm bảo hoạt động ổn định và an
+toàn.
+2. Tham mưu việc chấp hành thực hiện xử lý hồ sơ hành chính các lĩnh
+vực đã được triển khai trên hệ thống phần mếm một cửa điện tử liên thông.
+Điều 9. Trách nhiệm của Sở Thông tin và Truyền thông
+1. Chịu trách nhiệm quản lý Trang thông tin tổng hợp hệ thống một cửa
+điện tử liên thông của tỉnh, phối hợp với các cơ quan, đơn vị liên quan đảm bảo.
+đường truyền két nối thông suốt và liên tục phục vụ tốt việc vận hành hệ thống
+một cửa điện tử liên thông.
+2. Tổ chức chỉ đạo tuyên truyền trên các phương tiện thông tin đại chúng,
+trên mạng về phần mềm một cửa điện tử liên thông và hệ thống tra cứu trực
+tuyến tình trạng hồ sơ hành chính.
+3. Thường xuyên theo dõi, hướng dẫn, kiểm tra và đôn đốc việc sử dụng
+hệ thống một cửa điện tử liên thông tại các cơ quan hành chính Nhà nước trên.
+địa bàn tỉnh.
+4. Phối hợp với các cơ quan đơn vị xử lý sự cố của hệ thống một cửa điện
+tử liên thông khi có phát sinh.
+5. Tổ chức tập huấn sử dụng phần mềm một cửa điện tử liên thông cho
+các cơ quan hành chính nhà nước trên địa bàn tỉnh.
+6. Hỗ trợ chuyên môn nghiệp vụ cho các đơn vị sử dụng phần mềm khi
+gặp khó khăn về kỹ thuật trong vận hành.
+Điều 10. Trách nhiệm của Sở Nội vụ
+1. Phối hợp với Sở Thông tin và Truyền thông, Văn phòng UBND tỉnh
+theo dõi việc vận hành cơ chế một cửa, một cửa liên thông của các cơ quan, đơn.
+vị.
+4
+2. Đưa nội dung ứng dụng phần mềm một cửa điện tử liên thông thành
+một tiêu chí đánh giá trong Bộ Chỉ số cải cách hành chính cửa tỉnh.
+Điều 11. Trách nhiệm của Sở Tài chính
+1. Chủ trì phối hợp với các sở, ban, ngành liên quạn, trình UBND tỉnh cấp
+kinh phí nâng cấp, bảo trì hệ thống, tập huấn sử dụng phần mềm một cửa điện tử
+liên thông đã được đầu tư xây dựng.
+2. Hàng năm, hướng dân lập dự toán kinh phí bảo trì, vận hành hệ thống
+một của điện tử liên thông của các cơ quan, đơn vị để tổng hợp trình UBND tỉnh.
+phân bổ vốn thực hiện.
+Điều 12. Trách nhiệm của các đơn vị, tổ chức, cá nhân có liên quan
+1. Chấp hành các quy định của pháp luật, Quy chế về đảm bảo an toàn, an
+ninh thông tin trong hoạt động ứng dụng công nghệ thông tin của các cơ quan,
+đơn vị quản lý hành chính nhà nước trên địa bàn tỉnh Đắk Lắk, hướng dẫn của
+Sở Thông tin và Truyền thông, các quy định có liên quan trong Quy chế này.
+2. Thường xuyên theo dõi, đón đốc việc sử dụng phần mềm một cửa điện.
+tử liên thông của bán bộ, công chức, viên chức trong đơn vị ninh, đảm báo cho
+hệ thống vận hành liên tục, thông suốt.
+3. Các tổ chức, cá nhân phải thực hiện đúng quy trình xử lý và phải đảm
+bảo xử lý đúng thời hạn quy định của từng loại hồ sơ của thủ tục hành chính.
+4. Thường xuyên kiểm tra, đánh giá việc sử dụng và tình hình xử lý hồ sơ.
+hành chính thông qua nhần mềm một cửa điện tử liên thông của đơn vị minh
+đảm bảo đúng thời hạn.
+3. Khi phần mềm một cửa điện tử liên thông gặp sự cố phải báo ngay với.
+Sở Thông tin và Truyền thông để kịp thời khắc phục, xử lý.
+6. Các đơn vị, tổ chức, cá nhân vận hành và khai thác hệ thống một cửa
+điện tử liên thông được cấp tài khoản riêng có trách nhiệm bảo mật thông tin về
+tài khoản của mình.
+Chương IV
+CÔNG TÁC KIỂM TRA, BÁO CÁO VÀ THI ĐUA KHIỆN THƯỜNG VỀ.
+SỬ DỤNG PHẦN MÊM MỘT CỬA ĐIỆN TỬ LIÊN THÔNG
+Điền 13. Công tác kiểm tra, bảo cáo
+1. Sở Thông tin và Truyền thông phối hợp với Sở Nội vụ, Văn phòng
+UBND tỉnh kiểm tra định kỷ và đột xuất tình hình sử dụng kệ thống một cửa
+điện tử liên thông tại các cơ quan, đơn vị.
+2. Các cơ quan, đơn vị phải thực hiện báo cáo định kỳ 6 tháng một lần và
+đột xuất theo hướng dẫn vậ yêu cầu của Sở Thông tin và Truyền thông về tỉnh.
+5
+hình sử dụng Hệ thống một cửa điện tử liên thông của cơ quan gửi về Sở Thông
+tin và Truyền thông để tổng hợp, kịp thời báo cáo về UBND tỉnh, Ban Chỉ đạo
+thực hiện Chương trình Cải cách hành chính và ứng dụng công nghệ thông tin để
+giải quyết những khó khăn, vướng mắc.
+3. Việc chấp hành thực hiện Quy chế này là một tiêu chí để xét thi đua
+khen thưởng hàng năm đối với các cơ quan, đơn vị, cá nhân. Thủ trưởng các sở,
+ban, ngành; Chủ tịch UBND các huyện, thị xã, thành phố chịu trách nhiệm trước
+UBND tỉnh về việc thực hiện Quy chế này tại đơn vị mình.
+Trong quá trình thực hiện nếu có khó khăn, vướng mắc phát sinh, các cơ
+quan, đơn vị phản ánh kịp thời về Sở Thông tin và Truyền thông để tổng hợp,
+trình UBND tỉnh xem xét quyết định./.
+TM. ỦY BAN NHÂN DÂN
+CHỦ TỊCH
+Phạm Ngọc Nghị

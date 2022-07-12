@@ -1,0 +1,277 @@
+Ký bởi: Cổng Thông tin điện tử Chính phủ
+Email: thongtinchinhphuặchinhphu.vn
+Cơ quan: Văn phòng Chính phủ
+Thời gian ký: 31.07.2019 10:21:22 +07:00
+ỦY BẦN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH BẾN TRE   Độc lập - Tự do - Hạnh phúc
+Số:25 /2019/QĐ-UBND   Bến Tre, ngày 01 tháng7 năm 2019
+QUYẾT ĐỊNH
+Ban hành Quy định về quản lý điểm truy nhập Internet công
+cộng và điểm cung cấp dịch vụ trò chơi điện từ công cộng
+trên địa bàn tỉnh Bến Tre
+ỦY BAN NHÂN DÂN TỈNH BẾN TRE
+Căn cứ Luật tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015;
+Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm.
+2015;
+Căn cứ Luật Viễn thông ngày 23 tháng 11 năm 2009;
+Căn cứ Luật An ninh mạng ngày 12 tháng 6 năm 2018;
+Căi cứ Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của
+Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên
+mạng;
+Căn cứ Nghị định số 27/2018/NĐ-CP ngày 01 tháng 3 năm 2018 của
+Chính phủ về sửa đổi, bổ sung một số điếu của Nghị định số 73/2013/NĐ-CP.
+ngày 15 tháng 7 năm 2013 của Chính phủ vế quản lý, cung cấp, sử dụng dịch vự
+Internet công cộng và thông tin trên mạng:
+Theo đề nghị của Giám đốc Sở Thông tin và Truyền thông tại Tờ trình số
+833/TTr-STTTT ngày 13 tháng 6 năm 2019,
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy định về quản lý điểm
+truy nhập Internet công cộng và điểm cung cấp dịch vụ trò chơi điện tử công
+cộng trên địa bàn tỉnh Bến Tre.
+Điều 2. Điều khoản thì hành
+1. Chánh Văn phòng Ủy ban nhân dân tỉnh. Giám đốc Sở Thông tin và
+Truyền thông, Thủ trưởng các sở, ngành tỉnh; Chủ tịch Ủy ban nhân dân các.
+huyện, thành phố, Thủ trường các cơ quan, đơn vị và tổ chức, cá nhân có liến.
+quan chịu trách nhiệm thì hành Quyết định này.
+2
+2. Quyết định hày có hiệu lực kể từ ngày 12 tháng 7 năm 2019 và thay thế
+Quyết định số 18/2016/QĐ-UBND ngày 12 tháng 5 năm 2016 của Ủy ban nhân
+dân tỉnh Bến Tre về việc ban hành Quy định về quản lý điểm truy nhập Iniernet
+công cộng và điểm cung cấp dịch vụ trò chơi điện tử công cộng trên địa bàn tỉnh
+Bến Tre./.
+Nơi nhận :   TM. ỦY BAN NHÂN DÂN
+- Như Điều 2;   CHỦ TỊCH
+- Bộ TTTT (thay báo cáo);
+- Cục kiểm tra VBQPPL-Bộ Tư pháp (kiểm tra);
+- Website Chính phủ;
+- Thường trực Tỉnh ủy;
+- Đoàn Đại biểu Quốc hội tỉnh;
+- Thường trực HĐND tỉnh;
+- Chủ tịch, các PCT UBND tỉnh;
+- Sở Tư pháp (tự kiểm tra);   Cao Văn Trọng
+- Các Sở, ban, ngành tỉnh;
+- Các Bản đảng;
+- UBMTTQVN và các Đoàn thể tỉnh;
+- UBND các huyện, TP;
+- Báo Đồng Khởi; Đài PTTH;
+- Website tỉnh;
+- Trung tâm TTĐT (02);
+- Ban Tiếp dân (để niêm yết);
+- Chánh, PCVP KGXV;
+- Phòng KGVX, TH;
+- Lưu: VT (Ty).
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH BẾN TRE   Độc lập - Tự do - Hạnh phúc
+QUY ĐỊNH
+Về quản lý điểm truy nhập Internet công cộng và điểm cung cấp
+dịch vụ trộ chơi điện tử công cộng trên địa bàn tỉnh Bến Tre
+(kèm theo Quyết định số 25 /2019/QĐ-UBND ngày 01 tháng7 năm 2019
+của Ủy ban nhân dân tỉnh Bến Tre)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+1. Quy định này quy định về thời gian hoạt động của đại lý Internet và
+điểm truy nhập Inermet công cộng của doanh nghiệp không cung cấp dịch vụ
+trò chơi điện tử công cộng; điều kiện về diện tịch các phòng máy đối với điểm.
+cung cấp dịch vụ trò chơi điện tử công cộng; thẩm quyến, quy trình, thủ tục cấp,
+sửa đổi, bổ sung, gia hạn, cấp lại, thu hồi giấy chứng nhận đủ điều kiện hoạt
+động điểm cung cấp dịch vụ trò chơi điện tử công cộng trên địa bàn tỉnh Bến
+Tre.
+2. Những nội dung khác liên quan đến quản lý điểm truy phập Internet
+công cộng và điểm cung cấp dịch vụ trò chơi điện tử công cộng không được quy.
+định tại quy định này thì thực hiện theo quy định tại Nghị định số 72/2013/NĐ-
+CP ngày 15 tháng 7 năm 2013 của Chính phủ về quản lý, cung cấp, sử dụng
+dịch vụ Iniernet công cộng và thông tin trên mạng (sau đây gọi tắt là Nghị định.
+số 72/2013/NĐ-CP) và 27/2018/NĐ-CP ngày 01 tháng 3 năm.
+2018 của Chính phủ về sửa đổi, bổ sung một số điều của Nghị định số
+72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính phủ về quản lý, cung
+cấp, sử dụng dịch vụ Internet công động và thông tin trên mạng (sau đây gọi tất
+là Nghị định số 27/2018/NĐ-CP).
+Điều 2. Đối tượng áp dụng
+Quy định này áp dụng đối với chủ điểm truy nhập Internet công cộng; chủ
+điểm cung cấp dịch vụ trò chơi điện tử công cộng; các cơ quan quản lý nhà
+nước, các tổ chức, cá nhân có liên quan trên địa bàn tỉnh Bến Tre.
+Chương II
+QUY ĐỊNH VỀ THỜI GIAN HOẠT ĐỘNG, DIỆN TÍCH PHÒNG MẤY
+Điều 3. Thời gian hoạt động của đại lý Internet và điểm truy nhập
+Internet công cộng của doanh nghiệp không cung cấp dịch vụ trò chơi điện.
+tử công cộng
+2
+Thời gian hoạt động của đại lý Internet và điểm truy nhập Iatermet công
+cộng của doanh nghiệp không cung cấp dịch vụ trò chơi điện tử công công từ 08
+giờ đến 22 giờ hàng ngày.
+Điều 4. Điền kiện về diện tích các phòng máy đối với điểm cung cấp.
+dịch vụ trò chơi điện tử công cộng
+Tổng diện tích phòng máy của điểm cung cấp dịch vụ trò chơi điện tử
+công cộng trên địa bàn tỉnh phải đảm bảo tối thiểu:
+- Không nhô hơn 50m2 đối với đô thị loại II và III;
+- Không nhỏ hơn 40m2 đối với thị loại IV và loại V;
+- Không nhỏ hơn 30m2 đối với các khu vực khác.
+Chương III
+QUY TRÌNH, THỦ TỤC CẤP, SỬA ĐỐI, BỒ SƠNG, GIA HẠN, CẤP
+LẠI, THU HỔI GIẤY CHỨNG NHẬN ĐỦ ĐIỂU KIỆN HOẠT ĐỘNG
+ĐIỂM CUNG CẤP DỊCH VỤ TRỔ CHƠI ĐIỆN TỬ CÔNG CỘNG
+Điều 5. Giấy chứng nhận đủ điều kiện hoạt động điểm cưng cấp dịch
+vụ trò chơi điện tử công cộng
+Giấy chứng nhận đủ điểu kiện hoạt động điểm cung cấp dịch vụ trò chơi
+điện tử công cộng theo quy định tại Điều 352 Nghị định số 72/2013/NĐ-CP đã
+được sửa đổi, bổ sung tại Điều 1 của Nghị định số 27/2018/NĐ-CP.
+Điều 6. Thẩm quyền, thủ tục cấp, sửa đổi, bổ sung, gia hạn, cấp lại
+Giấy chứng nhận
+3. Ủy ban nhân dân các huyện, thành phố (sau đây gọi tắt là Ủy ban nhân
+dân cấp huyện) là cơ quan có thẩm quyền cấp, sửa đổi, bổ sung, gia hạn, cấp lại,
+thu hồi Giấy chứng nhận.
+2. Phòng Văn hóa và Thông tin là đơn vị chủ trì tham mưu giúp Ủy ban.
+nhân dân cấp huyện trong việc cấp, sửa đổi, bổ sung, gia hạn, cấp lại, thu hồi
+Giấy chứng nhận.
+3. Thủ tục cấp, sửa đổi, bổ sung, gia hạn, cấp lại Giấy chứng nhận thực
+hiện theo quy định tại các Điểu 35b, 36c, 35d Nghị định số 72/2013/NĐ-CP đã
+được sửa đổi, bổ sung tại Điều 1 của Nghị định số 27/2018/NĐ-CP.
+Điều 7. Quy trình thẩm định hồ sơ, kiểm tra thực tế cấp, sửa đổi, bổ
+sung, gia hạn, cấp lại Giấy chứng nhận
+1. Quy trình thẩm định hồ sơ, kiểm tra thực tế cấp Giấy chứng nhận.
+Trong thời bạn 10 (mười) ngày làm việc kể từ ngày nhận được đầy đủ hồ:
+sơ theo quy định, Phòng Văn hóa và Thông tin thực hiện thẩm định hồ sơ, kiểm
+tra thực tế và tham mưu Ủy ban nhân dân cấp huyện cấp Giấy chứng nhận cho
+tổ chức, cá nhân.
+3
+2. Quy trình thẩm định hồ sơ sửa đối, bổ sung, gia hạn, cấp lại Giấy.
+chứng nhận
+Trong thời hạn 05 (năm) ngày làm việc, kể từ ngày nhận được hồ sơ đầy
+đủ theo quy định, Phòng Văn hóa và Thông tin tiến hành phân tích, đánh giá
+việc đáp ứng yêu cầu cận hồ sơ, tham mưu Ủy ban nhân dân cấp huyện cấp 1
+Giấy chứng nhận sửa đổi, bổ sung, thay thế cho Giấy chứng nhận cũ (đối với :
+trường hợp đề nghị sửa đổi, bổ sung), ban hành quyết định gia bạn (đối với
+trường hợp gia hạn) hoặc cấp lại Giấy chứng nhận cho tổ chức, cá nhân.
+3. Trường hợp từ chối, Ủy ban nhân dân cấp huyện có trách nhiệm trả lời
+bằng văn bản trong đó nêu rõ lý do từ chối cho tổ chức, cá nhân biết.
+Điều 8. Thu hồi Giấy chứng nhận
+1. Việc thu hồi Giấy chứng nhận của chủ điểm cung cấp dịch vụ trò chời
+điện tử công cộng thực hiện theo quy định tại Khoản 1, Điều 350 Nghị định số
+72/2013/NĐ-CP đã được sửa đổi, bổ sung tại Điều 1 của Nghị định số:
+27/2018/NĐ-CP.
+2. Ủy ban nhân dân cấp huyện căn cứ vào kết quả thanh tra, kiểm tra của
+các phòng chuyên môn trực thuộc hoặc căn cứ đề nghị của các cơ quản quản lý
+nhà nước có thẩm quyền ra quyết định thu bồi Giấy chúng nhận. Phòng Văn -
+hóa và Thộng tin tham mưu Ủy ban nhân dân cấp huyện ban hành quyết định.
+thu hồi Giấy chứng nhận của các tổ chức, cá nhân vi phạm quy định pháp luật
+3. Việc cấp lại Giấy chứng nhận đối với chủ điểm cung cấp dịch vụ trò
+chơi điện tử công cộng sau khi bị thu hồi thực hiện theo quy định tại Khoản 2,
+Điều 254 Nghị định số 72/2013/NĐ-CP đã được sửa đổi, bổ sung tại Điều 1 của
+Nghị định số 27/2018/NĐ-CP.
+Chương IV
+TRÁCH NHIỆM CỦA CÁC CƠ QUAN, TỔ CHỨC CỔ LIÊN QUAN
+Điều 9. Sở Thông tin và Truyền thông
+1. Giúp Ủy ban nhân dân tỉnh thực hiện quản lý nhà nước đối với hoạt
+động quản lý, cung cấp, sử dụng dịch vụ truy nhập Internet công cộng và trờ
+chơi điện tử công cộng trên địa bàn tỉnh;
+2. Chủ trì, phối hợp với các cơ quan có liên quan thực hiện công tác tuyên.
+truyền, phổ biến các quy định của pháp luật về quản lý Internet và trò chơi điện
+tử công cộng trên địa bàn tỉnh;
+3. Dược phép sử dụng các biện pháp kỹ thuật, bao gồm cá phần mềm
+quản lý đại lý Internet để quản lý điểm truy nhập Inemet công cộng và điểm.
+cung cấp dịch vụ trò chơi điện tử công cộng, tuy nhiên phải đảm bảo không làm
+ảnh hướng đến chất lượng dịch vụ truy nhập Internet tại đại lý; không thu thập
+trái phép thông tia cá nhân, vi phạm quyền riêng tư của người sử dụng; bảo đảm -
+4
+sự cạnh tranh bình đẳng giữa các doanh nghiệp cung cấp dịch vụ truy nhập, dịch
+vụ ứng dụng và nội dung thông tin trên Internet tại đại lý;
+4. Chủ trì, phối hợp với Công an tỉnh, các cơ quan, đơn vị có liên quan
+thanh trả, kiểm tra nhằm ngân chặn và xử lý các tổ chức, cá nhân có hành vi vi
+phạm trong hoạt động cung cấp, sử dụng dịch vụ Inernet và trò chơi điện tử
+công cộng theo quy định của pháp luật hiện hành;
+5. Hướng dẫn Phòng Văn hóa và Thông tin các huyện, thành phố thực.
+hiện chức năng quản lý, thanh tra, kiểm tra, thống kê, báo cáo tình hình hoạt.
+động của điểm truy nhập Internet công cộng, điểm cung cấp dịch vụ trò chời
+điện tử công cộng tại địa phương;
+6. Định kỳ hàng năm báo cáo về Bộ Thông tin và Truyền thông; Ủy ban
+nhân dân tỉnh theo đúng quy định.
+Điều 10. Công an tỉnh
+1. Triển khai công tác đảm bảo an toàn, an nính và phòng, chống tội
+phạm trong hoạt động cang cấp, sử dụng dịch vụ Internet và trò chơi điện tử
+công cộng;
+2. Thư thập, xử lý thông tin, tài liệu, phát hiện, điều tra hành vi liên quan
+đến hoạt động cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng xâm
+phạm an ninh quốc gia, trật tự an toàn xã hội, bí mật nhà nước và các hành vi vi
+phạm pháp luật khác;
+3. Chỉ đạo các phòng nghiệp vụ liên quan và Công an các huyện, thành
+phố phối hợp với các cơ quan chức năng thực hiện công tác quản lý hoạt động.
+cung cấp, sử dụng dịch vụ trternet, trò chơi diện tử trên mạng tại các điểm truy
+nhập Inemet công cộng và điểm cung cấp dịch vụ trò chơi điện tử công cộng.
+tại địa phương.
+Điều 11. Sở Giáo dục và Đào tạo
+1. Phối hợp với Sở Thông tin và Truyền thông và các cơ quan liên quan
+xây dựng, ban hành văn bản hướng dẫn quản lý, cung cấp và sử dụng dịch vụ
+hiernet và trò chơi điện tử công cộng trong các trường học và các cơ sở giáo
+dục, đào tạo trên địa bàn tỉnh theo đúng quy định của pháp luật;
+2. Truyên truyền, phổ biến, hướng dẫn thì hành pháp luật về Internet, trở
+chơi điện tử cho học sinh, sinh viên; hướng dẫn, tạo điều kiện, định hướng học.
+sinh, sinh viên sử dụng Internet vào các hoạt động có ích, thiết thực trong học
+tập, cuộc sống bản thân và gia đình.
+Điều 12. Sở Kế hoạch và Đầu tư
+1. Cung cấp thông tin các doanh nghiệp đăng ký hoạt động kinh doanh trở
+chơi điện tử công cộng;
+2. Hướng dẫn Phòng Tài chính Kế hoạch các huyện, thành phố về thủ tục
+đăng ký hộ kinh doanh trong lĩnh vực kinh doanh trò chơi điện tử.
+5
+Điều 13. Sở Tài chính
+1. Hướng dẫn việc thu phí cấp, sửa đổi, bổ sung, gia hạn, cấp lại Giấy.
+chứng nhận sau khí liên Bộ Tài chính - Thông tin và Truyền thông ban hành.
+quy định về lệ phí cấp giấy chứng nhận đủ điều kiện hoạt động điểm cung cấp
+dịch vụ trò chơi điện tử công cộng;
+2. Bố trí kinh phí đảm bảo việc tuyên truyền, tập huấn, phổ biến giáo dục
+pháp luật; công tác thẩm định cấp, sửa đổi, bổ sung, gia hạn, cấp lại, thu hồi
+giấy chứng nhận; công tác quản lý, cung cấp, kiểm tra dịch vụ Intemet và hò
+chơi điện tử công cộng.
+Điều 14. Ủy ban nhân dân các huyện, thành phố
+1. Tổ chức thực hiện quản lý nhà nước đối với hoạt động của các điểm
+truy nhập Internét công cộng, điểm cung cấp dịch vụ trò chơi điện tử công cộng
+tại địa phương theo thẩm quyền;
+2. Công khai danh sách các điểm cung cấp dịch vụ trò chơi điện tử công
+cộng được cấp và bị thu hồi Giấy chứng nhận trên địa bàn;
+3. Giải quyết các khiếu nại về Giấy chứng nhận;
+4. Báo cáo định kỳ 6 tháng (trước ngày 10/6), báo cáo năm (trước ngày
+10/12 hàng năm) và đột xuất theo yêu cầu của Sở Thông tin và Truyền thông về
+tỉnh hình hoạt động các điểm truy nhập Internet công cộng và điểm cung cấp
+dịch vụ trò chơi điện tử công cộng tại địa phương về Sở Thông tin và Truyền
+thông.
+Điều 15. Báo Đồng Khởi, Đài Phát Thanh và Truyền hình Bến Tre
+Tăng cường công tác tuyên truyền, đăng tải tin, bài phổ biến Quy định này
+và các văn bản quy phạm pháp luật có liên quan nhằm nâng cao nhận thức cho
+người dân, các cơ sở kinh doanh và người sử dụng dịch vụ trò chơi điện tử tuân thủ.
+dùng quy định của pháp luật, nhất là học sinh, sinh viên hiểu rõ mặt tích cực và
+tiêu cực của trò chơi điện tử.
+Điều 16. Các doanh nghiệp cung cấp dịch vụ Internet trên địa bàn
+1. Đăng ký hợp đồng đại lý Internet mẫu với Bộ Thông tin và Truyền
+thông (Cục Viễn thông) để thực hiện thống nhất trong toàn doanh nghiệp. Tổ
+chức kỳ hợp đồng đại lý Intermet với các tổ chúc, cá nhân trên địa bàn đáp ứng
+các điều kiện theo quy định;
+2. Có trách nhiệm thông báo, hướng dẫn các chủ điểm truy nhập Internet
+công cộng có cung cấp dịch vụ trở chơi điện tử đang hoạt động và chủ điểm.
+đăng ký mới dịch vụ trò chơi điện tử công cộng thực hiện các thủ tục cấp giấy
+chứng phận đủ điều kiện hoạt động theo Quy định này và các văn bản khác có
+liên quan;
+3. Thường xuyên kiểm tra, giám sát hướng dẫn các chủ điểm truy nhập
+Internet công cộng, chủ điểm cung cấp dịch vụ trò chơi điện tử công cộng thực
+6
+hiện đúng các điều khoản đã ký kết trong hợp đồng, các quy định của pháp luật
+về cung cấp dịch vụ Internet, trò chơi điện tử công cộng;
+4. Báo cáo định kỳ 6 tháng (trước ngày 10/6), báo cáo năm (trước ngày
+10/12 hàng năm) về Sở Thông tin và Truyền thông và báo cáo đột xuất khi có
+cung cấp dịch vụ trò chơi điện tử công cộng để tổng hợp báo cáo Ủy ban nhân.
+dân tỉnh và Bộ Thông tin và Truyền thông;
+5. Chủ động tổ chức hoặc phổi hợp tổ chức đào tạo, tập huấn, hướng dẫn.
+các quy định của pháp luật có liên quan đến các điểm truy nhập Interntt công -
+cộng, các điểm cung cấp dịch vụ trổ chơi điện tử công cộng do đơi vị ký kết
+hợp đồng cung cấp dịch vụ;
+6. Cập nhật và thông báo danh sách trò chời G1 đã được Bộ Thông tỉn và
+Truyền thông phê duyệt nội dung, kịch bản hoặc thu hồi quyết định phê duyệt.
+nội dung, kịch bản đến các điểm cưng cấp dịch vụ trò chơi điện tử công cộng sử
+dụng dịch vụ Intetnet của doanh nghiệp.
+Trong quá trình thực hiện nếu có phát sinh vướng mắc, các doanh nghiệp,
+tổ chức, cá nhân có liên quản phản ảnh bằng văn bản về Sở Thông tin và Truyền
+thông để nghiên cứu, tổng hợp trình Ủy ban nhân dân tỉnh xem xét sửa đổi; bố
+sung Quy định này cho phù hợp./.
+TM.ỦY BAN NHÂN DÂN
+D T CHỦ TỊCH
+Cao Văn Trọng

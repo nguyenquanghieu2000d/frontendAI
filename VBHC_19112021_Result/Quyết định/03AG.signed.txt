@@ -1,0 +1,439 @@
+Ký bởi: Công Thông tin điện tử chính phủ
+Emai: thongtinchinhphuạchinhphu.vn
+Cơ quan: Văn phòng Chính phủ
+Thời gian ký: 10.03.2017 11:02:28 +07:00
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI.CHỦ NGHĨA VIỆT NAM
+TỈNH AN GIANG   Độc lập - Tự do - Hạnh phúc
+Số: 03/2017/QĐ-UBND   An Giang, ngày 13 tháng 01 năm 2017
+QUYẾT ĐỊNH
+Về việc ban hành Quy chế quản lý, vận hành, cung cấp thông tin
+và duy trì hoạt động Cổng thông tin điện tử của cơ quạn nhà nước
+trên địa bàn tỉnh An Giang
+THÔNG TIN ĐIỆN TỦ CHÍNH PHỦ
+ỦY BAN NHÂN DÂN TỈNH AN GIANG
+Căn cứ Luật Tổ chức chính quyền địa phương được Quốc hội thông qua
+ngày 19 tháng 6 năm 2015;
+Căn cứ Luật Ban hành văn bản quy phạm pháp luật được quốc họi thông qua.
+ngày 22 tháng 6 năm 2015;
+Căn cứ Luật Công nghệ thông tin được Quốc hội thông qua ngày 29 tháng 6
+năm 2006;
+Căn cứ Nghị định số 64/2097/NĐ-CP ngày 10 tháng 4 năm 2007 của Chánh
+cơ phả về sung dung công nghệ thông tin trong hoạt động của cơ quan, nhà nước.
+Ciến cứ Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 của ChàA
+phủ quy đinh về việc cụng cấp thông tin và dịch vụ công trực tuyến trên trang
+thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước:
+Căn cứ Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính
+phả về quản lý, cung cấp, sử dụng dịch vụ tniernet và thông tin trên mạng);
+Căn cứ Nghị định số 72/2015/NĐ-CP ngày 07 tháng 9 năm 2015 của Chính
+phủ về quản lý hoạt động thông tin đối ngoại;
+Theo đề nghị của Giám đốc Sở Thông tin và Truyền thông tại Tờ trình số.
+02/TTr-STTTT ngày 04 tháng 01 năm 2017.
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, vận hành,
+rung cấp thông tin và duy trì hoạt động Cổng Thông tia điệc tử của cơ quan nhấ
+nước trên địa bàn tỉnh An Giang”.
+: Điều 2. Quyết định này có hiệu lực kể từ ngày 25 tháng 01 năm 2017.
+Điều 3. Chánh Văn phòng Ủy ban nhân dân tỉnh; Giám đốc Sở Thông tin và
+Truyền thông; Thủ trưởng các sở, ban, ngàch tỉnh; Chủ tịch Ủy ban nhân dân huyện,
+thị xã, thành phố; các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Quyết định.
+này./. Kỹ
+Nơi nhận:   TM. ỦY BAN NHÂN DÂN
+- Như Điều 3;   KT. CHỦ TỊCH
+- Bộ Thông tin và Truyền thông;
+- Cục Tin học hóa - Bộ TTTT;   PHÓ CHỦ TỊCH
+- Cục Kiểm tra văn bản - Bộ Tư pháp;
+- TT.TU, HĐND tỉnh, UBND tỉnh;
+- Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh;
+- Các sở, ban, ngành thuộc tỉnh;
+- Chủ tịch UBND các huyện, thị xã, thành phố;
+- Đài PT-TH An Giang, Báo An Giang;
+- Cổng TTĐT Chính phủ, Cổng TTĐT tỉnh;
+- Lãnh đạo VP.UBND tỉnh,TTCB- Ttr;   Nguyễn Thanh Bình
+- Phòng: KGVX, TH;
+- Lưu: HC-TC.
+2
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH AN GIANG   Độc lập - Tự do - Hạnh phúc
+QUY CHẾ
+Ban hành Quy chế quản lý, vận hình, cung cấp thông tin và duy trì hoạt động
+Cổng thông tin điện tử của cơ quan nhà nước trên địa bàn tỉnh An Giang
+(Ban hành kèm theo Quyết định số 03 /QĐ-UBND ngày 48 tháng 01 năm 2017.
+của Ủy ban nhân dân tỉnh An Giang)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Quy chế này quy định về tổ chức, quản lý, cung cấp thông tin và dịch vụ
+công trực tuyến trên Cổng thông tin điện tử của các cơ quan nhà nước tỉnh An.
+Giang (sau đây gọi tắt là Cổng thông tin điện tử).
+Điều 2. Đối tượng áp dụng
+1. Các sở, ban, ngành cấp tỉnh, Ủy ban nhân dân (UBND) các huyện, thị xã,
+thành phố trên địa bàn tỉnh An Giang; các tổ chức, cá nhân tham gia cung cấp
+thông tin trên các Cổng thông tin điện tử.
++.2. Khuyến khích các cơ quan đoàn thể trên địa bàn tỉnh áp dụng quý phế này.
+trong tổ chức, quản lý, cung cấp thông tin trên cổng thông tin diện ta của đơn vị
+mình.
+Điều 3. Giải thích từ ngữ
+1. Cổng thông tin điện tử là điểm truy cập duy nhất của cơ quan trên môi
+trường mạng, liên kết, tích hợp các kênh thông tin, các dịch vụ và các ứng dụng toái
+qua đó người dùng có thể khai thác, sử dụng và cá nhân hóa việc hiển thị thông tin.
+2. Dịch vụ hành chính công là những dịch vụ liên quan đến hoạt động thực.
+thi pháp luật, không nhằm mục tiêu lợi nhuận, do cơ quan nhà nước có thẩm quyền
+cấp cho tổ chức, cá nhân dưới hình thức các loại giấy ở có giá trị pháp lý trong các.
+lĩnh vực mà cơ quan nhà nước đó quản lý.
+3. Dịch vụ công trực tuyến là dịch vụ hành chính công và các dịch vụ khác:
+của cơ quan nhà nước được cung cấp cho các tổ chức, cá nhân trên môi trường
+mạng.
+4. Cơ quan chủ quản Cổng thông tin điện tử là các cơ quan nhà nước quy
+định tại khoản 1 Điều 2 của Nghị định này (sau đây gọi tắt là cơ quan chủ quản).
+5. Mạng Internet là mạng máy tính toàn cầu, kết nối tới rất nhiều máy tính và
+mạng máy tính con trên toàn thể giới.
+3
+Điều 4. Vai trò Cổng thông tin điện tử của cơ quan nhà nước
+1. Cổng thông tin điện tử tỉnh An Giang là Cổng thông tin cung cấp các
+thông tời của tỉnh, tích hợp thông tin các lĩnh vực quản lý nhà nước trên phạm vị
+địa bàn lỉnh, tích hợp hoặc liên kết thông tin, dịch vụ công trực tuyến của đất cả cơ
+quan chuyên môn trực thuộc UBND tỉnh và UBND huyện, thị xã, thành phố trên
+địa bàn tỉnh.
+2. Cổng thông tin điện tử các sở, ban, ngành cấp tỉnh tích hợp thông tin các.
+lĩnh vục quản lý nhà nước thuộc phạm vi đơn vị quản lý, các dịch vụ công trực
+tuyến của đơn vị và các đơn vị trực thuộc.
+3. Cổng thông tin điện tử UBND huyện, thị xã, thành phố tích hợp thông tin
+các lĩnh vực quản lý nhà nước trên phạm vì địa bàn và của xã, phường, thị trấn của
+địa phương; các dịch vụ công trực tuyến của đơn vị và của UBND các xã, phường,
+thị trấn trên địa bàn.
+4. Cổng thông tin điện tử Sở Ngoại vụ, ngoài việc thực hiện quy định tại.
+khoản 2 Điều này, cón là Cồng thông tin thu thập, tổng hợp và cung cấp các thông
+tin về tình hình thể giới vào An Giang, phục vụ phát triển kinh tế - xã hội của tỉnh.
+5. Thông tin đăng tải trên Cổng thông tin điện tử của các cơ quan nhà nước.
+tỉnh An Giang là thông tin chính thống trên môi trường mạng.
+Điều 5. Nguyên tắc cung cấp thông tin
+Theo quy định tại Điều 5 Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm
+2011 của Chính phủ quy định về việc cung cấp thộng tin và dịch vụ công trực tuyến
+trên trung thông tin điện từ hoặc cổng thông tin điện tử của cơ quan nhà nước.
+Điều 6. Thu thập, xử lý và sử dụng thông tin cá nhân.
+Việc thu thập, xử lý và sử dụng thông tin cá nhân trên Cổng thông tin điệu tử
+phải tuân thủ theo quy định tại Điều 21, 22 của Luật Công nghệ thông tin và các
+quy định hiện hành.
+Điều 7. Tên miền truy cập Cổng thông tin điện tử
+1. Tên miền truy cập Cổng thông tin điện tử tuân thủ theo quy tắc sau:
+a) Đối với Cổng thông tin điện tử tỉnh An Giang có tên miền cấp 3 là:
+angiang.gov.vn.
+b) Đối với Cổng thông tin điện tử các cơ quan chuyên môn thuộc UBND tỉnh
+có tên miền cấp 4 là tên viết tắt của cơ quan bằng tiếng Việt không đấu theo dạng;
+- Các Sở: so(tên sở).angiang.gov.vn.
+- Các Ban: ban(tên ban).angiang.gov.vn.
+- Văn phòng UBND tỉnh: vpubndangiang.gov.vn.
+Trong đó, tên sở, tên ban có từ 03 (ba) chữ trở lên thì tên các đơn vị đô sẽ
+được viết tắt.
+4
+c) Đối với Cổng thông tin điện tử UBND cấp huyện, thành phố có tên miển
+cấp 4 sử dụng tên đầy đủ của địa phương bằng tiếng Việc không đấu theo dạng:
+tenhuyen.angiang.gov.vn.
+2. Sở Thông tin và Truyền thông có trách nhiệm cung cấp và quản lý tên
+miền truy cập Cổng thông tin điện tử theo quy định tại Khoản 1 Điều này.
+Điều 8. Công nghệ cổng thông tin điện tử
+1. Cổng thông tin điện tử tỉnh xây dựng theo Công nghệ nền: IBM
+W/bapher portai phiên bản 6.1 trở lên, được lưu trữ tại Trung tâm Tích hợp đữ
+liệu của tỉnh.
+2. Cổng thông tin điện tử thành phần (snb poral) sử dụng công nghệ phù.
+hợp, tích hợp thông tin với công nghệ được sử dụng cho công thông tin điện tử của.
+tỉnh, được lưu trữ tại Trung tâm Tích hợp dữ liệu của tỉnh.
+Điều 9. Bảo đảm tiêu chuẩn kỹ thuật
+1. Việc lưu trữ và trao đổi thông tin, dữ liệu trên Cổng thông tin điện tử thực.
+hiện theo Quyết định số 72/2007/QĐ-Ttg ngày 10 tháng 6 năm 2002 của Tỉnh
+tướng Chính phủ về việc thống nhất đủng bộ má các ký tự chữ Việt theo tiêu chuẩn
+TCVN 6909; 2001 trong trao đổi thông tin điện tử giữa các tổ chức của Đảng và
+Nhà nước.
+2. Tiêu chuẩn về truy cập thông tin thực hiện theo quy định tại Thông tư số
+22/2013/TT-BTTTT ngày 23 tháng 12 năm 2013 của Bộ Thông tin và Truyền
+thông về việc ban hành Danh, mục tiêu, chuẩn về ứng dụng công nghệ thông tân
+trong cơ quan nhà nước.
+3. Ngôn ngữ lưu trữ và trao đổi thông tin, dữ liệu trên Cổng thông tin điện tử:
+a) Các sở, ban, ngành tỉnh, UBND các huyện, thị xã, thành phố: ngôn ngữ.
+tiếng Việt có đấu;
+b) Cổng thông tin điện tử Sở Ngoại vụ: ngoài việc thực hiện quy định tại.
+điểm a khoản 3 điểu này, ngôn ngữ cung cấp thêm: tiếng Anh, tiếng Hoa, tiếng
+Pháp và tiếng Khmer;
+c) Cổng thông tin điện tử ngoài việc thực hiện quy định tại điểm a khoản 3
+điều này; khuyến khích xây dựng mục thông tin trêng nước ngoài khác, nhằm.
+quảng bá hình ảnh, đất nước và văn hóa của tỉnh.
+Điều 10. Đảm bảo an toàn thông tin trong hoạt động Cổng thông tin điện
+tử
+1. Các cán bộ, công chức, viên chức được phân công quản trị, đưa tia lên
+Cổng thông tin điện tử bằng quyết định của cơ quan chủ quân, quyết định đó được
+gửi đến Sở Thông tia và Truyền thông để quản lý các thành viên được phân công.
+2. Máy tính phục vụ đăng tin trên Cổng thông tin điện tử đảm bảo an toàn về
+dữ liệu, thông tin tải khoản, đữ liệu trên máy tính. Có biện pháp kỹ thuật ngân chận
+sự lây lan của mã độc.
+5
+3. Không lưu tên tài khoản Cổng thông tin điện tử trên trình duyệt. Đặt mặt
+khẩu các tài khoản thuộc loại mật khẩu mạnh và thường xuyên thay đổi theo quy.
+định.
+4. Sở Thông tin và Truyền thông có trách nhiệm:
+a) Quản lý, hướng dẫn, cập nhật kiến thức an toàn thông tin đối với các cán
+bộ, viên chức kỹ thuật được phân công quản trị, đưa tin lên Cống thông tin điện tử.
+b) Thực hiện các biện pháp kỹ thuật để bảo đảm an toàn thông tin và đữ liệu
+trên Cổng Thông tin điện tử.
+Chương II
+CUNG CẤP THÔNG TIN
+Điều 11. Cung cấp thông tin
+Cổng thông tin điện tử tỉnh; Cổng thông tin điện tử các huyện, thị xã, thành
+phố, các sở, ban, ngành tỉnh (sau đây gọi tắt là Cổng thông tin thành phẩn) theo.
+chức năng, nhiệm vụ, quyền bạn việc cung cấp thông tin theo quy định tại Chương
+II Nghị định số 43/2011/NĐ-CP ngày 12 tháng 6 năm 2011 của Chính phủ và các
+quy định về danh mục tài liệu, số liệc, thông tin công bổ, công khai của các cơ
+quan hành chính nhà nước các cấp trên địa bàn tỉnh An Giang;
+Điều 12. Thời hạn cung cấp và xử lý thông tin
+1. Thời hạn cung cấp và xử lý thông tin
+a) Bảo đảm cập phật thường xuyện, chính xác đối với các mục tin quy định...
+tại Điều 9 của Quy chế này.
+b) Đối với thông tin tuyên truyền, phổ biến, hướng dẫn thực hiện pháp luật,
+chế độ, chính sách: thời gian cập nhật không quá 15 (mười làm) ngày làm việc kế
+lừ khi văn bản pháp luật, chính sách, chế độ chính thức được ban hành.
+c) Đối với văn bản quy phạm pháp luật chuyên ngành và văn bản quản lý nhà
+nước
+- Thời gian cập nhật không quá 02 (hai) ngày làm việc kể từ ngày văn bản
+được ban hành đối với cơ quan ban hành văn bản.
+- Thời gian cập nhật không quá 10 (mười) ngày làm việc kể từ ngày văn bản.
+được ban hành đối với các cơ quan thuộc phạm vi điều chỉnh của văn bản.
+d) Mục thông tin Trao đổi - Hỏi đáp
+- Ban Biên tập Cổng thông tin điện tử có trách nhiệm tiếp nhận câu hỏi, phân
+loại câu hỏi và chuyển đến các đơn vị liên quan để trả lời. Trường hợp câu hỏi
+không liên quan đến phạm vi, lĩnh vực hoạt động của cơ quan thì phải thông báo
+ngay cho tổ chức, cá nhân đặt câu hỏi
+- Chậm nhất 15 (mười lăm) việc kể từ khi tiếp nhận câu hỏi, cơ
+quan nhà nước có trách nhiệm trả lời kết quả hoặc thông báo quả trình xử lý trong
+đó nói rõ thời hạn trả lới tới tổ chức, cá nhân. Đối với những vấn để có liên quan
+chung thì phải đăng câu trả lời lên Cổng thông tin điện tử.
+6
+đ) Đối với thông tin về chương trình, để tài khoa học: thời gian cập nhật
+không quá 20 thai mươi) ngày làm việc kể từ khi chương trình, để tải được phê
+duyệt hoặc sau khi chương trình, đề tài được nghiệm thu.
+c) Đối với thông tin, báo cáo thống kê; thời gian cập nhật không quá
+10 (mườ) ngày làm việc kể từ khi thông tin thống kê được thủ trưởng cơ quan.
+quyết định công bố.
+2. Các văn bản quy phạm pháp luật, văn bản quản lý hành chính thuộc thẩm
+quyền UBND tỉnh ban hành, khi phất hành phải gửi cho Ban Biên tập Cổng thông
+tỉa điện tử tỉnh để đăng tải trên Cổng thông tin điện tử tỉnh theo dùng thời gian quy.
+định tại Điều 10 Quy chế này.
+Điều 13. Cung cấp thông tin giải thích, làm rõ
+Cổng thông tin điện tử tỉnh; Cổng thông tin thành phần cung cấp thông tin.
+giải thích, làm rõ:
+1. Thông tin giải thích, làm rõ là những tư liệu, tài liệu, bồ sơ, lập luận nhằm
+giải thích, lâm rõ các thông tin sai lệch về tính; các sở, ban, ngành; huyện, thị xã.
+thành phố trên các lĩnh vực.
+2. Ủy ban nhân dân tỉnh các sở, ban, ngành; huyện, thị xã, thành phố khi
+nhận được thông tin, tài liệu, báo cáo sai lệch ảnh hưởng đến uy lin, hình ánh Việt
+Nam của các tổ chức, cá nhân ở trong và ngoài nước có trách nhiệm chủ động cung
+cấp những tư liệu, tài liệu, bồ sơ, lập luận nhằm giải thích, làm rõ; triển khai các
+biển pháp thông tin tuyên truyền cấp thiết để bảo vệ và nâng cao uy tín, hình ánh
+3. Sở Thông tin và Truyền thông, Công an tỉnh, Sở Ngoại vụ và các cơ quan
+liên quan, phù hợp với chức năng, nhiệm vụ, quyền hạn theo quy định của pháp
+luật, có trách nhiệm tổng hợp dư luận bảo chí trong nước, nước ngoài để phát hiện
+các thông tin sai lệch về An Giang, thông báo cho UBND tỉnh, cơ quan liên quan.
+để chủ động cung cấp thông tin giải thích, làm rõ.
+Chương III
+CUNG CẤP DỊCH VỤ CÔNG TRỰC TUYẾN
+Điều 14. Thông tin về dịch vụ công trực tuyến
+1. Cổng thông tin điện tử tỉnh; Cổng thông tin thành phần phải có mục dích.
+vụ công trực hyện” thông báo danh mục các dịch vụ hành chính công và các dịch
+vụ công trực tuyến đang thực hiện và nêu rõ mức độ của dịch vụ. Các dịch vụ được
+tổ chức, phân loại theo ngành, lĩnh vực.
+2. Phải cung cấp chức năng hướng dẫn sử dụng, theo dõi tần suất sử dụng.
+quá trình xử lý,..
+3. Các dịch vụ công trực tuyến từ mức độ 3 trở lên, có mục lựa chọn nhận kết
+quả giải quyết bằng dịch vụ bưu chính.
+7
+Điều 15. Trách nhiệm cung cấp dịch vụ công trực tuyến
+1. Cổng thông tin điện tử tỉnh An Giang là Cổng thông tin tích hợp hoặc liên
+kết thông tin, dịch vự công trực tuyến của tất cả cổng thông tin thành phần.
+2. Cổng thông tin điện tử các sở, ban, ngành cấp tỉnh tích hợp các dịch vụ
+công trực tuyến của đơn vị và các đơn vị trực thuộc.
+3. Cổng thông tin điện tử các UBND huyện, thị xã, thành phố tích hợp các
+dịch vụ công trực tuyến của đơn vị và của UBND xã, phường, thị trấn trên địa bàn.
+Chương IV
+BẢO ĐĂM HOẠT ĐỘNG CHO CÔNG THÔNG TIN ĐIỆN TỬ
+Mục 1
+BẢO ĐẢM NHÂN LỰC
+Điều 16. Ban Biên tập Cổng Thông tin điện tử
+1. Quyết định thành phần Ban Biên tập:
+a) Ban Biên tập Cổng thông tin điện tử tỉnh An Giang do Chủ tịch UBND
+tỉnh quyết định thành lập, là bộ phận giúp việc cho Chủ tịch UBND tỉnh trong việc
+tiếp nhận, xử lý, biên tập, cập nhật thông tin và phối hợp xử lý dịch vụ công để đám.
+bảo hoạt động của Cổng thông tin điện tử tỉnh. Sở Thông tin và Truyền thông là cơ
+quan Thường trực của Ban Biên tập Cổng thông tin điện tử tỉnh An Giang.
+b) Ban Biên tập Cổng thông tin điện tử các huyện, thị xã, thành phố do Chủ
+1.tịch UBND huyện, thị xã, thành phố quyết định thành lập, là bộ phận giáp việc cho -
+Chủ tịch UBND huyện, thị xã, thành phố trong việc tiếp nhận, xử lý, biến tập, các
+nhật thông tin và phối hợp xử lý dịch vụ công để đảm bảo hoạt động của Công
+thông tin điện tử huyện, thị xã, thành phố.
+c) Ban Biên tập Cổng thông tin điện tử các sở, ban, ngành cấp tỉnh do Thú
+trưởng đơn ví quyết định thành lập, là bộ phận giúp việc cho Thủ trưởng đơn vị
+trong việc tiếp nhận, xử lý, biên tập, cập nhật thông tia và phối hợp xử lý dịch vụ
+công để đảm bảo hoạt động của cổng thông tin điện tử của đơn vị.
+2. Quy mô và tổ chức của Ban Biên tập Cống thông tin điện tử tỉnh An Giang
+do Chủ tịch UBND tỉnh quyết định; quy mô và tổ chức của Ban Biên tập Cổng
+thông tin điện tử các đơn vị do Thủ trưởng đơn vị quyết định căn cứ trên tỉnh hình
+thực tế và khả năng kinh phí hoạt động Cổng thông tin điện tử.
+3. Ban Biên tập Cổng thông tin điện tử gồm có Trưởng ban, Phó Trưởng ban
+và các thành viên. Lãnh đạo Ban Biên tập làm việc theo chế độ kiêm nhiệm. Chế độ
+làm việc của các thành viên do Thủ trưởng cơ quan chủ quản quyết định.
+4. Tổ chức, chức năng, nhiệm vụ của Ban Biên tập thực hiện theo hướng dẫn
+của Bộ Thông tin và Truyền thông và các cơ quan có liên quan.
+Điều 17. Nhân lực quản trị kỹ thuật và xử lý dịch vụ công trực tuyến
+Đơn vị quản lý, vận hành Cổng thông tin điện tử có trách nhiệm bố trí đủ
+nhân lực chuyên môn để quản trị Cổng thông tin điện tử (sax đây gọi tất là cán bộ.
+8
+quản tr) và phân công, bố trí đủ nhân lực phụ trách xử lý, giải quyết các dịch vụ
+công trực tuyến thuộc trách nhiệm của cơ quan mành theo đúng thời hạn quy định.
+Điều 18. Đào tạo nguồn nhân lực
+Cán bộ Ban Biên tập và cán bộ, viên chức quản trị hàng năm được đào tạo,
+bồi dưỡng kiến thức chuyên môn nghiệp vụ phù hợp với tỉnh vực đảm nhiệm để
+bảo đảm phục vụ cho hoạt động của Cổng Thông tin điện tử.
+Mục 2
+BẢO ĐẢM KINH PHÍ
+Điều 19. Kinh phí duy trì hoạt động và nâng cấp Cổng thông tin điện tử
+Kinh phí duy trì hoạt động và phát triển Cổng thông tin điện tử được báo.
+đảm từ các nguồn:
+1. Ngân sách nhà nước
+a) Kinh phí chi cho Cổng thông tin điện tử được bố trí trong dự toán chi ngân.
+sách hàng năm theo các lĩnh vực chi của đơn vị, Nhiệm vụ chí cho Cổng thông tin
+điện tử bảo đảm theo quy định của pháp luật hiện hành về phân cấp ngân sách nhà.
+nước.
+Trong đó, kinh phí duy trì hoạt động của Cổng thông tin điện tử tỉnh được dự.
+toán chí ngân sách sự nghiệp hàng năm của Sở Thông tin và Truyền thông; kinh phí
+duy trì hoạt động Cổng thông tin điện tử các sở, ban, ngành, đoàn thể cấp tỉnh tích.
+hợp vào Cổng thông tin điện tử tỉnh được dự toán chí ngân sách hàng năm của từng
++ đơn vị Sở Thông tia và Truyền nhhi phối hợp với các đơn yị tổng hợp dự toên
+trên cơ sở nhu cầu thực tế của các đơn vị gửi Sở Tài chính cấp kinh kinh cho từng.
+đơn vó; kinh phí duy trì hoạt động Cổng thông tin điện tử các huyện, thị xã, thành
+phố được cân đối tử nguồn ngân sách huyện, thị xã, thành phố.
+b) Kinh phí chỉ cho công tác đào tạo, bồi dưỡng cán bộ phục vụ Cổng thông
+tin điện tử được dự toán bố trí hàng năm trong dự toân ngân sách giao của Sở
+Thông tin và Truyền thông.
+c) Kinh phí nâng cấp các cổng thông tin được dự toán chi ngân sách sự.
+nghiệp hàng năm giao của Sở Thông tin và Truyền thông.
+d) Sở Tài chính có trách nhiệm cản đối ngân sách của tỉnh để bảo đảm kinh
+phí hoạt động, duy trì Cổng thông tin điện tử của tỉnh và các sở, ban, ngành; kinh
+phí nâng cấp các Cổng thông tin điện tử.
+đ) Ủy ban nhân dân các huyện, thị xã thành phố cản đối ngân sách của
+huyện, thị xã, thành phố để đảm bảo kính phí duy trì hoạt động Cổng thông tin các
+huyện, thị xã, thành phố.
+2. Nguồn thu từ hoạt động quảng cáo trên Cổng thông tin điện tử, nguồn thư
+hợp pháp của các cơ quan, đơn vị được phép để lại sử dụng để duy trì, nâng cấp các.
+cổng thông tin theo quy định của pháp luật.
+9
+Điều 20. Mức chỉ tạo lập thông tin và chi trả nhuận bát
+1. Chế độ thù lao, nhuận bút cho việc cung cấp thông tin trên Cổng thông tin
+điện tử được hưởng theo quy định hiện hành.
+2. Mức chỉ cho việc tạo lập, chuyển đối và số hóa thông tin cho Cổng thông
+tân điện tử thực hiện theo các quy định và hướng dẫn hiện hành về mức chỉ tạo lập.
+thông tin điện tử.
+3. Căn cứ khả năng kinh phí của hoạt động Cổng thông tin điện tử, Trưởng
+ban biên tập quyết định mức chi cụ thể cho việc tạo lập thông tin và chi trả nhuận.
+bút, thù lao phù hợp với các quy định hiện hành.
+Mực 3
+BẢO ĐẨM VẬN HÀNH VÀ DUY TRỪ
+Điều 21. Bảo trì, bảo dưỡng, duy trì hoạt động, nâng cấp, chỉnh sửa
+Cổng thông tin điện tử
+1. Cổng thông tin điện tử phải được thường xuyên kiểm tra, bảo trì, bảo
+dưỡng, chính sửa, giám sát hoạt động để bảo đảm hoạt động liên tục 24 giữ trong
+tất cả các ngày.
+2. Hàng năm, Cổng thông tin điện tử phải được rà soát, đề xuất phương án
+nâng cấp, chỉnh sửa cho phù hợp với nhu cầu thực tế.
+Điều 22. Bảo đảm đường truyền, máy móc, trang thiết bị phục vụ việc.
+thu thập, xử lý thông tin
+Sở Thông tin và Truyền thông xây dựng phương án đầu tư xây dựng hạ tầng
+để bảo đảm cho hoạt động của Cổng thông tin điện tử theo nguyên tắc tiết kiệm chỉ
+phí và bảo đảm hiệu quả; để xuất, trình UBND tỉnh trang bị đầy đủ trang thiết bị
+cần thiết phục vụ cho việc an toàn thông tin, thu thập, biên tập, xử lý và cập nhật
+thông tin cho Cổng thông tin điện tử.
+Điều 23. Đảm bảo vận hành
+1. Sở Thông tin và Truyền thông có nhiệm vụ
+a) Thực hiện vận hành, quản trị, đảm bảo các điều kiện cho việc đăng tải, lưu.
+trữ thông ti, dịch vụ công trực tuyến trên Cổng thông tin điện tử tỉnh An Giang
+được thông suốt, hiệu quả, chất lượng.
+b) Hướng dẫn, hỗ trợ các cơ quan, đơn vị, tổ chức, cá nhân trong cung cấp,
+quản lý, lưu trữ thông tin trên Cổng thông tin điện tử.
+c) Nghiên cứu, đề xuất các biện pháp kỹ thuật, công nghệ phù hợp cho việc.
+vận hành Cổng thông tin điện tử. Hướng dân các cơ quan, đơn vị, tổ chức lập kế
+hoạch nâng cấp cổng thông tin điện tử, mạng máy tỉnh cơ quan đảm báo hoạt động
+thông suốt, hiệu quả.
+2. Các đơn vị có Cổng thông tin điện tử tích hợp vào Cổng thông tin điện tử
+tỉnh có nhiệm vụ bố trí cán bộ quản lý, phân công cụ thể cán bộ quản trị, biên tập.
+10
+cập nhật thông tin, dịch vụ công trực tuyến và vận hành dịch vụ công trực tuyến tại
+đơn vị.
+Chương V
+NGUYÊN TẮC, QUY TRÌNH CƠNG CẤP, TIẾP NHẬN
+VÀ LƯC TRC THÔNG TIN TRÊN CÔNG THÔNG TIN ĐIỆN TỬ
+Điều 24. Nguyên tắc, quy trình cung cấp, tiếp nhận thông tin trên Cổng
+thông tin điện tử
+1. Ban Biên tập Cống thông tin điện tử có trách nhiệm biên tập, xử lý, kiểm
+duyệt thông tin, cung cấp thông tin liên quan đến lĩnh vực quản lý và hoạt động
+chuyên ngành của cơ quan, đơn vị minh lên Cổng Thông tin điện tử theo đúng Quy.
+chế này và chịu trách nhiệm về nội dung các thông tin được duyệt đăng tải lên
+Cổng thông tin điện tử.
+2. Các cơ quan, đơn vị, tổ chức, cá nhân khi cung cấp thông tin, chịu sự kiểm
+duyệt của Ban Biên tập Cổng thông tin điện tử và chịu trách nhiệm về tính chính
+xác của nội dung cung cấp cho Ban Biên tập.
+Điều 25. Tưu trữ thông tin trên Cổng Thông tin điện tử
+1. Lưu trữ thông tin: Các đơn vị quản lý Cổng thông tin điện tử có trách
+nhiệm bảo đảm việc lưu trú thông tin trên Cổng thông tin điện tử, lưu trữ thông tin.
+đã duyệt của Cổng thông tin điện tử theo quy định của Nhà nước về Lưu trữ.
+2, Các thông tin, bài viết về chính sách, chủ trương của Trung ương, địa
+phảng khi đinh sách, chủ trưởng đô đã bị bã bộ hoặc chủ trương vài bảa cấp.
+dưới không còn phù hợp với chá trương, văn bản cấp trên, nhưng vẫn còn thời gian
+lưu trú thông tin trên Công thông tin điện tử, Ban Biên tập Cổng thông tin điện tử
+có trách nhiệm gỡ bỏ thông tin, bài viết đó.
+Chương VI
+TỔ CHỨC THỰC HIỆN
+Điều 26. Chế độ báo cáo và kiểm tra
+1. Sở Thông tin và Truyền thông chủ trì kiểm tra việc thực hiện Quy chế này;
+các báo cáo, đánh giá về hoạt động Cổng thông tin điện tử thành phần được đảng
+tải trên Cổng thông tin điện tử tỉnh An Giang.
+2. Các sở, ban, ngành tỉnh; thị xã, thành phố gửi báo cáo hoạt
+động Cổng thông tin điện tử thành phần về Sở Thông tin và Truyền thông, theo.
+định kỳ bảng quý, năm (trước ngây ngày 20 tháng 11 bằng, năm) và đột xuất khí có
+yêu cấn của cấp có thẩm quyền; Sở Thông tin và Truyền thông tổng hợp báo cáo
+UBND tỉnh, báo cáo năm trước ngày 01 tháng 12 hàng năm.
+Điều 27. Trách nhiệm của Sở Thông tin và Truyền thông
+1. Sở Thông tin và Truyền thông chịu trách nhiệm hướng dẫn, kiểm tra, đôn
+đốc việc triển khai thực hiện Quy chế này, giáp Chủ tịch UBND tỉnh quản lý, chịn
+trách nhiệm trước Chủ tịch UBND tỉnh về hoạt động của Cổng thông tin điện tử
+11
+tỉnh, Phối hợp với các cơ quan, đơn và, tổ chức, cá nhân thực hiện đưa thông tin,
+cập nhật dịch vụ công trực tuyến lên Cống thông tin điện tử đình theo đúng quy.
+định.
+2. Chỉ đạo, giám sát hoạt động các Cổng thông tin điện tử của các sở, ban,
+ngành, huyện, thị xã, thành phố tích hợp vào Cổng thông tin điện tử tỉnh
+3. Tổ chức thực hiện và giám sát các đơn vị thực hiện các tiêu chuẩn, quy.
+chuẩn kỹ thuật trong việc xây dựng, duy trì hoạt động và nâng cấp Cổng thông tin.
+điện tử theo quy định.
+4. Chủ trì phối hợp với các cơ quan liên quan xây dựng phương thức và cơ
+chế thanh toán đối với việc thực hiện dịch vụ công trực tuyến.
+5. Cung đầu mối liên hệ hỗ trợ các cơ quan, đơn vị, tổ chức, cá nhân trong
+việc cung cấp, quản lý, lưu trữ thông tin trên Cổng thông tin điện tử.
+Điều 28. Tránh nhiệm của các cơ quan có liên quan
+1. Cổng thông tin điện tử các huyện, thị xã, thành phố do UBND huyện, thị
+xã, thành phố quản lý. Tủy tình hình thực tế từng địa phương UBXD huyên, thị xã.
+thành phố chọn đơn vị quản trì, vận hành và chịu trách nhiệm trước Chủ tịch
+UBND huyện, thị xã, thành phố về hoạt động của Cổng thông tin điện tử huyện, thị
+xã, thành phố.
+2. Các sở, ban, ngành cấp tỉnh quản lý và chịu trách nhiệm về hoạt động của.
+Cổng thông tin điện tử thuộc đơn vị mình quản lý.
+Điều.29. Áp dụng chuyển tiếp:
+Các Cổng thông tin điện tử thành phần chưa phù hợp quy chế này, cơ quan quản
+lý cổng thông tin điện tử thành phần phối hợp Sở Thông tin và Truyền thông có lẻ
+trình nâng cấp, chuyển đổi theo quy chê này. Đối với trên miền chuyển đổi tên miền
+đúng theo quy định quy chế này, duy trì song song tên miền cũ trong thời gian 03
+tháng, san đơi gian trên, chuyển hoạt động Cổng thông tin điện tử thành phần hoàn
+toàn theo tên mới.
+Điều 30. Trọng quá trình thực hiện có khó khăn, vướng mắc hoặc kiến nghị bổ
+sung, các đơn vị kịp thời báo cáo về Sở Thông tin và Truyền thông để tổng hợp.
+trình UBND tỉnh xem xét quyết định./.
+TM. UỶ BAN NHÂN DÂN
+KT. CHỦ TỊCH
+PHÓ CHỦ TỊCH
+Nguyễn Thanh Bình
+12

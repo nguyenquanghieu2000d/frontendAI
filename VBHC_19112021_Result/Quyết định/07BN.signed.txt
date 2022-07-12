@@ -1,0 +1,387 @@
+Ký bởi: Cổng Thông tin điện tử Chính phủ
+Email: thongtinchinhphu@chinhphu.vn
+Cơ quan: Văn phòng Chính phủ
+n Thời gian ký: 07.09.2017 10:12:21 +07:00
+ỦY BAN NHÂN DÂN   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH BẮC NINH   Độc lập - Tự do - Hạnh phúc
+Số: 07/2017/QĐ-UBND   Bắc Ninh, ngày 03 tháng 5 năm 2017
+QUYẾT ĐỊNH
+Ban hành Quy chế quản lý, khai thác, sử dụng
+Phần mềm quản lý tài sản nhà nước trên địa bàn tỉnh Bắc Ninh
+
+ỦY BAN NHÂN DÂN TỈNH BẮC NINH
+Căn cứ Luật Tổ chức Chính quyền địa phương năm 2015;
+Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22/6/2015;
+Căn cứ Luật Quản lý, sử dụng tài sản nhà nước ngày 03/6/2008 và các văn
+bản hướng dẫn thì hành Luật;
+Căn cứ Luật Công nghệ thông tin ngày 29/6/2006 và các văn bản hướng
+dẫn thì hành Luật;
+Căn cứ Thông tư số 184/2014/TT-BTC ngày 01/12/2014 của Bộ Tài
+chính, hướng dẫn việc quản lý, sử dụng, khai thác Phần mềm Quản lý đăng ký.
+tài sản nhà nước;
+Căn cứ Thông báo số 26/TB-UBND ngày 24.4.2017 của UBND tỉnh
+thông báo kết luận của Chủ tịch UBND tỉnh tại phiên họp UBND tỉnh ngày.
+21.4.2017;
+Xét Tờ trình số 68/TTr-STC ngày 17/4/2017 của Sở Tài chính,
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy chế khai thác, sử dụng
+Phần mềm quản lý tài sản nhà nước trên địa bàn tỉnh Bắc Ninh.
+Điều 2. Quyết định này có hiệu lực từ ngày 02 tháng 6 năm 2017.
+Điền 3. Giám đốc các sở; Thủ trưởng các ban, ngành, đơn vị sự nghiệp.
+công lập; Chủ tịch UBND cấp huyện, Chủ tịch UBND cấp xã và các cơ quan, tổ
+chức, đơn vị có liên quan chịu trách nhiệm thì hành quyết định này./.
+Nơi nhận:   TM. UBND TỈNH
+- Như điều 3;   KT CHỦ TỊCH
+- Bộ Tài chính (b/c);
+- Cục KTVBQPPL-Bộ Tư pháp;
+- TT Tỉnh ủy, TTHĐND tỉnh;
+- Chủ tịch, các PCT UBND tỉnh;
+- Website Chính phủ;
+- Công báo tỉnh;
+- Cổng thông tin điện tử tỉnh;   Nguyễn Tử Quỳnh
+- LĐVP:
+- Lưu: VT, KGVX, XDCB, NN-TN, KTTH.
+UỶ BAN NHÂN DÂN   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH BẮC NINH   Độc lập - Tự do - Hạnh phúc
+QUY CHẾ
+Quản lý, khai thác, sử dụng phần mềm
+quản lý tài sản nhà nước trên địa bàn tỉnh Bắc Ninh
+(Ban hành kèm theo Quyết định số: 07 /2017/QĐ-UBND ngày211/5/2017
+của UBND tỉnh Bắc Ninh)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng
+1. Quy chế này quy định về việc quản lý, sử dụng và khai thác Phần mềm
+quản lý tài sân tỉnh Bắc Ninh (sau đây gọi tắt là Phần mềm quản lý tài sản) và
+Cơ sở dữ liệu tài sản của tỉnh Bắc Ninh.
+2. Quy phế này áp dụng đối với cơ quan, tổ chức, đơn vị, Ban quản lý dự
+án sử dụng vốn ngân sách nhà nước trên địa bàn tỉnh; cán bộ, công chức, viên
+chức và cá nhân có liên quan tham gia khai thác và sử dụng phần mềm Quản lý.
+tài sản nhà nước.
+Điều 2. Nguyên tắc chung
+1. Các tài sản hiện có của cơ quan, tổ chức, đơn vị phải được nhập đầy đủ
+trên Phần mềm quản lý tài sản.
+2. Khi có biến động về tài sản (tăng hoặc giảm) phải được cập nhật kịp
+thời trên Phần mềm quản lý tài sản.
+3. Cơ sở dữ liệu tài sản được quản lý, bảo mật, bảo đảm an toàn; chỉ cơ
+quan, tổ chức, đơn vị, cá nhân được giao nhiệm vụ, mối được khai thác, sử dụng
+theo quy định của pháp luật.
+4. Thông tin giữn Cơ sở dữ liệu tài sản và Số tài sản phải giống nhau,
+trường hợp có sự khắc nhau thì phải kiểm tra, xác định nguyên nhân, điều chỉnh.
+cho phù hợp.
+5. Các cơ quan, tổ chức, đơn vị, BQLDA sử dụng vốn ngân sách nhà nước
+và cá nhân tham gia vào việc quản lý, sử dụng, khai thác Phần mềm quảp lý tài
+sản có trách nhiệm bảo đảm bí mật về mật khẩu đăng nhập, không làm mất cơ sở.
+đữ liệu tài sản, thực hiện đúng các quy định tại Quy chế này và hướng dẫn của
+cơ quan chuyên ngành theo nhiệm vụ được giao.
+Điều 3. Các hành vi bị nghiêm cấm
+1. Tự ý xóa (chưa được sự đồng ý của cấp trên) dữ liệu tài sản trên Phần
+mềm quản lý tài sản.
+2
+2. Cung cấp họặc cố ý để lộ thông tin về tài khoản đăng nhập Phần mềm.
+quản lý tài sản cho tổ chức, cá nhấn không được giao quyền quản lý, sử dụng và
+khai thác phần mềm.
+3. Cố ý làm sai lệch thông tin về dữ liệu tài sản trên Phần mềm quản lý tải
+sản.
+4. Truy cập trái phép, phá hoại thông tin trong Cơ sở dữ liệu tài sản.
+Điều 4. Giải thích từ ngữ
+1. Phần mềm quản lý tài sản nhà nước là phần mềm hỗ trợ các Sở, ngành;
+các huyện, thị xã, thành phố; các cơ quan, tổ chức, đơn vị thực hiện:
+a) Để quản lý, cập nhật, theo dõi tài sản của cơ quan, tổ chức, đơn vị:
+b) Theo dõi tình hình biến động (tăng, giảm, thay đổi thông tin) của các
+loại tài sản nhà nước;
+c) Tin học hoá quá trình báo cáo tài sản nhà nước theo quy định của pháp.
+luật về quản lý, sử dụng tài sàn nhà nước;
+đ) Kết xuất Báo cáo kê khai tài sản nhà nước, các báo cáo tổng hợp tình
+hình kê khai tài sản nhà nước;
+đ) Tổng hợp tình hình quản lý, sử dụng tài sản nhà nước trong phạm vị
+từng cơ quan, tổ chức, đơn v: từng Sở, ngành; từng huyện, thị xã, thành phố,
+dần hình thành Cơ sở dữ liệu vệ tài sản nhà nước của tỉnh theo quy định của
+pháp luật về quản lý, sử dụng tài sản nhà nước;
+e) Địa chỉ truy cập của phần mềm là lttps:/bacninh.ạits.vn
+2. Cán bộ tài sản là người được giao nhiệm vụ làm công tác theo đõi tài
+sản tại đơn vị.
+3. Cơ sở đủ liệu tài sản: là dữ liệu được hình thành trong quá trình sử
+dụng Phần mềm quản lý tài sản (nhập trực tiếp vào phần mềm khi cổ biến động
+tăng giảm tài sản hoặc nhập khẩu số liệu từ excal).
+4. Tài khoản (dcoan): Bạo gồm tên đơn vị, tên đăng nhập và mật khẩu
+để truy cập vào hệ thống phẫn mềm.
+5. Đơn vị cung cấp phần mềm: đơn vị cung cấp, chuyển giao phần mềm
+thống nhất trên địa bàn tỉnh Bắc Ninh, là Công ty Cổ phần MISA.
+Chương II
+QUẢN LÝ, SỬ DỤNG, KHAI THÁC PHẦN MỜM QUẢN LÝ TÀI SẢN
+Điều 5. Cài đặt, vận hành và duy tri hoạt động Phần mềm quản lý tài
+sản
+1. Phần mềm quản lý tài sản được cải đặt tại Trung tâm dữ liệu của đơn vị
+cung cấp phần mềm. Cơ sở dữ liệu tài sản và Phần mềm quản lý tài sản được lưu.
+trữ, bảo mật, sao lưu tại trung tâm dữ liệu do đơn vị cung cấp quản lý.
+3
+2. Đơn vị cung cấp phần mềm thực hiện việc cải đặt, vận hành và duy trì
+hoạt động của Phần mềm quản lý tài sản trên mạng Inernet bảo đảm 24 giữ/ngày
+và 7 ngày/01 tuần. Đơn vị cung cấp phần mềm bảo đảm về sự bảo mật, toàn vạn.
+của Cơ sở dữ liệu tài sản tỉnh Bắc Ninh.
+3. Trường hợp có sự cố hoặc thay đối nhỏ, hoặc thay đối do cơ quan quản
+lý nhà nước có thẩm quyền ban hành chính sách mới hoặc sửa đổi bổ sung chính
+sách; đơn vị cung cấp phần mềm sẽ tự khắc phục và nâng cấp theo quy định.
+Ngoài ra, tùy theo từng trường hợp cụ thể, nếu cần phải nâng cấp hoặc sửa
+chữa Phản mềm quản lý tài sản theo yêu cầu quản lý, Sở Tài chính sẽ có văn bản
+đề nghị đối với đơn vị cung cấp phần mềm.
+4. Đơn vị cung cấp phần mềm có trách nhiệm hỗ trợ Sở Tài chính thực
+hiện việc kết nối Cơ sở dữ liệu tài sản của tỉnh Bắc Ninh với Cơ sở dữ liệu tài
+sản của quốc gia khi có chỉ đạo và hướng dẫn của Bộ Tài chính và khi có yêu
+cầu của Sở Tài chính Bắc Ninh.
+5. Kinh phí duy trì phần mềm: Sở Tài chính ký hợp đồng với nhà cung
+cấp thời bạn 05 năm, thanh toán tập trung theo năm. Sở Tài chính báo cáo
+UBND tỉnh xem xét quyết định việc thực hiện duy trì giai đoạn tiếp theo.
+Điều 6. Quy định về cơ quan, tổ chức, đơa vị khai thác Phần mềm
+quản lý tài sản
+1. Sở Tài chính là cơ quan sử dụng Phần mềm tổng hợp quản lý tài sản và
+khai thác Cơ sở dữ liệu tài sản trong phạm vi toàn tỉnh.
+2. Các Sở, ngành được trang bị phần mềm tổng hợp là cơ quan sử dụng Phần
+mềm tổng hợp quản lý tài sản và khai thác Cơ sở dữ liệo tài sản trong phạm vi
+ngành mình quản lý.
+3. Phòng Tài chính - Kế hoạch các huyện, thị xã, thành phố là cơ quan sử
+dụng Phần mềm tổng hợp quản lý tài sản và khai thác Cơ sở dữ liệu tài sản trong
+phạm vi huyện, thị xã, thành phố thuộc phạm vi quản lý.
+4. Các cơ quan, tổ UBND cấp xã được trang bị phần mềm
+quản lý tài sản: sử dụng Phần mềm quản lý tài sản, khai thác Cơ sở dữ liệu tái
+sản trong phạm vi đơn vị mình quản lý.
+5. Ngoài các cơ quan, tổ chức, đơn vị nêu trên, không có cơ quan, tổ chức,
+đơn vị nào được tham gia sử dụng Phần mềm quản lý tài sản và khai thác Cơ sở
+dữ liệu tài sản.
+Điều 7. Quản lý danh mục tài sản, tài khoản tham gia Phần mềm
+quản lý tài sản
+1. Đơn vị cung cấp phần mềm có trách nhiệm cập nhật danh mục loại.
+tài sản theo quy định của Bộ Tài chính, danh mục tài sản đặc thủ đo UBND
+tỉnh Bắc Ninh ban hành (nếu có); kịp thời cập nhật, bổ sung, sửa đổi các nội
+dung và mẫu biểu phù hợp theo các quy định do Chính phủ, Bộ Tài chính mới.
+4
+banh hành về quản lý tài sản; đồng thời tập huấn, hướng dẫn kịp thời cho đơn.
+vị.
+2. Tài khoản đăng nhập phần mềm quản lý tài sản:
+a) Sở Tài chính; Phòng Tài chính - Kế hoạch các huyện, thị xã, thành phố
+(sau đây gọi là Phòng Tài chính cấp huyện); UBND xã, phường, thị trấn (sau.
+đây gọi là UBND cấp xã), các cơ quan, tổ chức, đơn vị mỗi đơn vị được cấp.
+một tài khoản tham gia Phần mềm quản lý tài sản với quyền truy cập cao nhất.
+(quyền admin);
+b) Đăng nhập Phần mềm quản lý tài sản tại địa chỉ: http://bacninhates.vn
+- MQHNS: mã QHNS của đơn vị.
+- Tên đăng nhập: ADMIN
+- Mật khẩu: mật khấu của đơn vị.
+3. Sở Tài chính quản lý, sử dụng tài khoản Phần mềm tổng hợp quản lý tài
+sản của tỉnh; là cơ quan quản lý thống nhất toàn bộ nội dung về tài khoản tham.
+gia Phần mềm quản lý tài sản, trừ các nội dung quy định tại Điều 5 Quy chế này.
+4. Các Sở, ngành được trang bị phần mềm tổng hợp giao cho 01 cán bộ quản
+lý, sử dụng tài khoản Phần mềm tổng hợp để theo dõi tài sản trong phạm vi ngành.
+mình quản lý.
+5. Phòng Tài chính - Kế hoạch cấp huyện giao cho 01 cán bộ tài sản quản lý,
+sử dụng tải khoản Phần mềm tổng hợp quản lý tài sản của huyện, thị xã, thành phố
+thuộc phạm vi quản lý.
+6. Thủ trưởng các cơ quan, tổ chức, đơn vị và Chủ tịch UBND cấp xã,
+giao cho 01 cán bộ tài sản quản lý, sử dụng tái khoản Phần mềm quản lý tài sản
+trong phạm vi đơn vị mình quản lý. Danh sách cán bộ sử dụng phần mềm quản.
+lý tài sản nhà nước (họ và tên, điện thoại, mail) gửi về Sở Tài chính để phối
+hợp theo dõi, quản lý.
+7. Cơ quan, tổ chức, đơn vị, cá nhân được giao quản lý, sử dụng tài khoản
+chịu trách nhiệm bảo quận, giữ bảo mật tài khoản. Trường hợp mất mật khẩu
+của tài khoản, thực hiện lấy lại mật khẩu theo quy định tại Điều 8 Quy chế này.
+8. Trường hợp có sự thay đổi người quản lý, sử dụng tài khoản, cơ
+quan, người có thẩm quyền quy định tại khoản 3, 4, 5, 6 Điều này, phải có
+văn bản bản giao người quản lý, sử dụng tài khoản. Đồng thời, người được
+giao quản lý, sử dụng thực hiện thay đổi mật khẩu của tài khoản đó. Danh.
+sách cán bộ sử dụng phần mềm quản lý tài sản nhà nước (họ và tên, điện
+thoại, mai) gửi về Sở Tài chính để phối hợp theo dõi, quản lý.
+9. ít nhất 6 tháng/1 lần, thay đổi mật khẩu của tài khoản để bảo đảm tính
+bảo mật. Mật khẩu tối thiểu là 8 ký tự.
+10. Cấp, sửa, xoá tài khoản tham gia Phần mềm quản lý tài sản: Sở Tài
+chính lâm đầu mối yêu cầu nhà cung cấp sửa, xóa tài khoản cua các đơn vị khi
+có thay đổi về tên, địa chỉ, mã quan hệ ngân sách... Các cơ quan, tổ chức, đơn vị
+5
+muốn sửa đổi, bổ sung các thông tin trên dây, có văn bản đề nghị gửi Sở Tài
+chính, Sở Tài chính đề nghị đơn vị cung cấp phần mềm thực hiện.
+Điều 8. Khắc phục khi Phần mềm quản lý tài sân gặp sự cố
+1. Khi không truy cập được vào Phần mềm quản lý tài sản hoặc gặp sự cố
+khác khi sử dụng phần mềm; các cơ quan, tổ chức, đơn vị liên hệ với đơn vị
+cung cấp phần mềm hoặc Sở Tài chính để được hướng dẫn, xử lý.
+a) Đơn vị cung cấp phần mềm: Công ty Cổ phần MISA
+- Điện thoại: 19008677 hoặc 0437 959595
+- Email: asales@han.misa.com.vn
+- Địa chỉ: Tầng 9, tòa nhà TECHNOSOPT, phố Duy Tân, P.Dịch Vọng
+Hậu, Q.Cầu Giấy, TP Hà Nội.
+b) Sở Tài chính: qua phòng Tài chính Hành chính sự nghiệp
+- Điện thoại: 02413 822921
+- Email: ptchcsn.stc@bacninh.gov.vn
+- Địa chỉ: Số 4 Lý Thái Tổ, P. Suối Hoa, TP Bắc Ninh, tỉnh Bắc Ninh.
+2. Ngay sau khi nhận đực thông tin về sự cố, đơn vị cung cấp phần mềm
+hướng dẫn người sử dụng khắc phục sự cố hoặc lối truy cấp Phần mềm quản lý
+tài sản.
+Điều 9. Quy định về nội dung quản lý tài sản và công cụ dụng cụ trên
+Phần mềm quản lý tài sản
+1. Quản lý đối với tài sản: Ghi tăng tài sản, thay đổi thông tin tài sản, đánh
+giá lại, đều chuyển, ghi giảm, tỉnh hao môn, kiểm kê, các nội dung khác: kế
+hoạch mua sắm, đề nghị sử lý tài sản...
+2. Quản lý đối với công cụ dụng cụ: Ghi tăng, điều chuyển, kiểm kê, ghi
+giảm.
+Điều 10. Quy định về sử dụng Phần mềm quản lý thi sản để thực hiện
+các công việc liên quan tới quản lý tài sản
+1. Đăng nhập tài sản (Nhập dữ liệu): Nhập tài sản đã có từ các năm trước
+chuyển sang (khi Phần mềm quản lý tài sản được sử dụng đăng nhập lần đầu).
+nhập tất cả tài sản mua mới, tài sản nhận điều chuyển của các đơn vị khác.
+2, Thay đổi thông tin tài Sản: phục vụ cho việc thay đổi các thông tin liên
+quan đến tài Sản: Nhà (thay đổi về số tầng, diện tích..) Đất (thay đổi về điện
+tích m2...), ô tô (thay đổi về công suất, chỗ ngối, biển số...).
+3. Đánh giá lại tài Sản: dùng cho việc đánh giá lại, xác định lại nguyên
+giá, năm sử dụng của tất cả các tài sản sau khi có sửa chữa, nâng cấp...
+4. Điều chuyển tài sản: dùng cho việc điều chuyển tài sản trong nội bộ
+đơn vị từ bộ phận này sang bộ phận khác.
+6
+5. Ghi giảm tài sản: dùng cho việc thanh lý tài sản, khi tài sản không còn
+giá trị sử dụng, khi mất tải sản, khi hông tài sản, khi tài sản được đều chuyển
+sang một đơn vị khác.
+6. Tính hao mòn tài sản: dùng để tỉnh hao mòn tài sản hàng năm.
+7. Kiểm kê tài sảm: dùng để kiểm kê số lượng tải sản tại đơn vị, theo dõi.
+giữa số sách và thực tế.
+8. Xử lý các tài sản không đủ tiêu chuẩn là tài sản cố định, được điều
+chuyển sang công cụ dụng cụ sử dụng lâu bền.
+9. In các loại báo cáo sổ sách trên Phần mềm quản lý tài sản:
+a) Báo cáo công khai quản lý, sử dụng tải sản: Gồm các báo cáo:
+- Công khai kế hoạch mua sắm TSNN.
+- Công khai kết quả thực hiện mua sắm TSNN.
+- Công khai QL, SD trụ sở làm việc, cơ sở hoạt động sự nghiệp.
+- Công khai QL, SD phương tiệnđi lại và tài sản kháo.
+- Công khai việc cho thuê TSNN.
+- Công khai tình hình xử lý TSNN gồm điều chuyển, thanh lý, bán, chuyển
+nhượng và các hình thức khác.
+b) Báo cáo kê khai tài sản nhà nước: Gồm các loại báo cáo đã được xây
+dựng trên Phần mềm quản lý tài sản, trong đó có các báo cáo sau:
+- Báo cáo liên quan đến đăng ký kê khai tài sản nhà nước: Mẫu số 01-
+ĐK/TSNN, Mẫu số 02- ĐK/TSNN, Mẫu số 03-ĐK/TSNN.
+- Báo cáo liện quan đến thay đổi thông tin tài sản nhà nước: Mẫu số 04b-
+ĐK/TSNN, Mẫu số 04c-ĐK/TSNN, Mẫu số 040-ĐK/TSNN.
+- Báo cáo liên quan đến việc xóa thông tin tài sản nhà nước ra khôi dữ
+liệu: Mẫu số 04đ-ĐK/TSNN.
+c) Báo cáo liên quan đến chế độ kế toán: Báo cáo tăng giảm tài sản cố
+định, Báo cáo kiểm kê tài sản cố định, Bảng tỉnh hao mòn, Sổ tài sản cố định...
+đ) Báo cáo tài sản hạ tầng đường bộ: Mẫu số 01-BC TSHTĐB, Mẫu số
+02-BC TSHTĐB, Mẫu số 03-BC TSHTĐB, Mẫu số 04-BC TSHTĐB, Mẫu số
+05-BC TSHTĐB;
+đ) Báo cáo quân trị: Gồm các loại báo cáo đã được xây dựng trên Phần
+mềm quản lý tài sản. Tùy theo yêu cầu quản lý của đơn vị, thực hiện in các loại
+báo cáo này.
+10. Trao đổi dữ liệu giữa Phần mềm quản lý tài sản và Phần mềm Quản lý
+đăng ký tài sản nhà nước (Cơ sở dữ liệu quốc gia về tài sản nhà nước do Bộ
+Tài chính quản lý):
+Phần mềm Quản lý đăng ký tài sản nhà nước thực hiện nhận dữ liệu về tài
+sản nhà nước thông qua chức năng: Trao đổi thông tinh dữ liệu biển động.
+7
+Các dữ liệu về tài sản nhận vào phần mềm Quản lý đăng ký tài sản bao gồm các
+loại tài sản: Đất, nhà, ô tô và tài sản khác có nguyên giá trên 500 triệu.
+Phần mềm Quản lý đăng ký tài sản nhà nước nhận dữ liệu về tài sản nhà
+nước thông qua tệp định dạng XML
+11. Các nghiệp vụ khác: Kế hoạch mua sắm, Bảo dưỡng tài sản, đề nghị
+xử II, đề nghị trang cấp, sử dụng tài sản.
+a) Kế hoạch mua sắm: dùng để lập kế hoạch mua tài sản gửi cho đơn vị
+cấp trên, để cấp trên phê duyệt;
+b) Báo dưỡng tài sản: Để đảm bảo các tài sản sử dụng tại đơn vị hoạt động
+tốt, thông thường các tài sản thường được báo dưỡng theo ký (như: bảo dưỡng 6
+tô, máy móc...). Cán bộ quản lý tài sản cần lập phiểu bảo dường tài sản với dự
+kiến về chi phí, thời gian bảo dưỡng...
+Thao tác và các bước công việc tại khoản 1 đến khoản 11 Điều này, thực
+hiện theo hướng dẫn, chuyển giao sử dụng Phần mềm quản lý tài sản.
+Chương III
+ĐIỀU KHOẢN THI HÀNH
+Điều 11. Trách nhiệm của Giám đốc Sở Tài chính trong quản lý Phần
+mềm quản lý tài sản
+1. Tổ chức thực hiện quản lý Phần mềm quản lý tài sản theo quy định tại
+khoản 1 Điều 6 Quy chế này.
+2. Tổ chức phối hợp với đơn vị cung cấp phần mềm:
+a) Đảm bảo vận hành Phần mềm quản lý tài sản bảo đảm thông suốt 24
+giờ/ngày, 7 ngày/01 tuần;
+b) Phối hợp hỗ trợ các cơ quan, đơn vị về việc khắc phục sự cố trong quá
+trình sử dụng Phẩn mềm quản lý tài sản;
+c) Phối hợp tổ chức đặo tạo, tập huấn, hướng dẫn sử dụng Phần mềm quân
+lý tài sản cho các cơ quan, tổ chức, đơn vị và cán bộ có liên quan;
+đ) Phối hợp nâng cấp, hiệu chỉnh phần mềm, để kịp thời đáp ứng các yêu
+cầu trong công tác quản lý tài sản và yêu cầu của thực tiễn.
+3. Tổ chức việc theo dõi, đôn đốc các ngành, các cấp, các đơn vị sử dụng,
+khai thác Phần mềm quản lý tài sản hiệu quả, thường xuyên, liên tục.
+Điều 12. Trách nhiệm của Giám đốc các Sở, ngành, Chủ tịch UBND
+cấp huyện
+1. Tổ chức triển khai sử dụng, khai thác Phần mềm quản lý tài sản thuộc
+phạm vi quản lý, bảo đảm hiệu quả, thường xuyên, liên tục.
+Giao nhiệm vụ cho cơ quan chuyên môn phê duyệt các báo cáo về tài sản
+trên phần mềm quản lý tài sản, do các đơn vị cấp dưới trình phê duyệt.
+8
+2. Hàng năm tổ chức việc lập cáo gửi về Sở Tài chính (Báo cáo
+bằng văn bản và Báo cáo trên phần mềm quản lý tài sản), để tổng hợp báo cáo
+UBND tỉnh và Bộ Tải chính:
+a) Báo cáo kê khai tài sản nhà nước, đối với tài sản là trụ sở làm việc;
+quyền sử dụng đất; xe ô tô và tài sản trên 500 triệu đồng trở lên/1 đơn vị tài sản.
+Thời gian chậm nhất sau 30 ngày kể từ ngày phát sinh các thay đổi;
+b) Báo cáo tình hình quản lý sử dụng tài sản nhà nước: Thực hiện báo cáo
+trước ngày 28 tháng 02 hàng năm;
+c) Báo cáo tình hình thực hiện công khai quản lý, sử dụng tài sản nhà
+nước: Thực hiện báo cáo trước ngày 15 tháng 02 hàng năm.
+Điều 13. Trách nhiệm của Trưởng phòng Tài chính kế hoạch cấp huyện.
+1. Tham mưu với Chủ tịch UBND cùng cấp triển khai nhiệm vụ quy định
+tại Điều 12 Quy chế này.
+2. Phân công bằng văn bản cán bộ quản lý, sử dụng tài khoản Phần mềm.
+quản lý tài sản.
+Phê duyệt các báo cáo về tài sản trên phần mềm quản lý tài sản, do các.
+đơn vị trên địa bàn và UBND cấp xã trình phê duyệt.
+Thực hiện việc theo dõi, đôn đốc và hỗ trợ việc sử dụng, khai thác Phần
+mềm quản lý tài sản tại huyện, thành phố, thị xã; bảo đảm về tình chính xác, thống
+nhất, kịp thời về dữ liệu trên Phần mềm quản lý tài sản theo chức năng, nhiệm vụ
+được giao.
+Điều 14. Trách nhiệm của Thả trưởng các cơ quan, tổ chức, đơn vị:
+Chủ tịch UBND cấp xã trong việc sử dụng, khai thác Phần mềm quản lý tài
+sản
+1.Phân công bằng văn bản cho cán bộ quản lý, sử dụng tải khoản Phần
+mềm quản lý tài sản.
+2. Tổ chức thực hiện cập nhật kịp thời vào phần mềm tài sản tình hình
+biến động (tặng, giảm) về tài sản, công cụ dụng cụ. Tổ chức triển khai sử dụng.
+khai thác Phần mềm quản lý tài sản bảo đảm hiệu quả, thường xuyên, liên tục.
+3. Thực hiện báo cáo cấp trên kịp thời và đầy đủ các loại báo cáo tài sản
+(Báo cáo bằng văn bản và Báo cáo trên phần mềm quản lý tài sản):
+a) Báo cáo kê khai tài sản nhà nước, đối với tài sản là trụ sở làm việc;
+quyền sử dụng đất; xe ô tô và tài sản trên 500 triệu đồng trở lên/1 đơn vị tài sản.
+Thời gian chậm nhất sau 30 ngày kể từ ngày phát sinh các thay đổi;
+b) Báo cáo tình hình quản lý sử dụng tài sản nhà nước: Thực hiện báo cáo
+trước ngày 31 tháng 01 hàng năm;
+c) Báo cáo tình hình thực hiện công khai quản lý, sử dụng tài sản nhà
+nước: Hàng năm phải gửi báo cáo tình hình thực hiện công khai việc quản lý, sử
+dụng tài sản nhà nước tại đơn vị mình đến cơ quan quản lý cấp trên trực tiếp và
+cơ quan tài chính cùng cấp: Thực hiện báo cáo trước ngày 31 tháng 01.
+9
+Điều 15. Trách nhiệm của cán bộ được giao quản lý, sử dụng, khai
+thác Phần mềm quản lý tài sản
+1. Tham mưu với Thủ trưởng đơn vị triển khai nhiệm vụ quy định tại
+Điều 14 Quy chế này.
+2. Sử dụng tải khoản đăng nhập phần mềm quản lý tài sản đã được cấp, để
+khai thác phần mềm, giải quyết công việc được giao liên quan tới tài sản của
+đơn vị được thao tác trên phân mềm, Thực hiện bảo quân, giữ bảo mật tài khoản
+Phần mềm quản lý tài sản đã được cấp.
+Điều 16. Khen thưởng và xử lý vi phạm
+1. Trên cơ sở theo dõi, tổng hợp báo cáo của các cấp, các ngành, các đơn
+vị; Sở Tài chính tham mưu với UBND tỉnh hình thức khen thưởng đối với.
+những cơ quan, tổ chức, đơn vị và cá nhân sử dụng, khai thác có hiệu quả Phần
+mềm quản lý tài sản.
+2. Các hành vi vi phạm quy định Quy chế này, tùy theo mức độ vi phạm
+sẽ bị xử lý theo các quy định của pháp luật.
+Cơ quan, tổ chức, đơn vị không thực hiện báo cáo hoặc báo cáo không
+đúng thời hạn, cơ quan tài chính nhà nước có quyền yêu cầu kho bạc nhà nước
+tạm đình chỉ thanh toán các khoản chi phí liên quan đến tài sản phải báo cáo và
+không bố trí kinh phí mua sắm tài sản cố định vào dự toán ngân sách năm sau:
+của cơ quan đó; người đứng đầu cơ quan được giao quản lý, sử dụng tài sản nhà
+nước bị xử lý theo quy định.
+Điều 17. Tổ chức thực hiện
+Giám đốc các sở, Chủ tịch UBND cấp huyện, Chủ tịch UBND cấp xã; Thộ
+trưởng các cơ quan, tổ chức, đơn vị chịu trách nhiệm trước UBND tỉnh về việc tổ
+chức triển khai thực hiện Quy chế này trong phạm vi quản lý của mình.
+Trong quá trình thực hiện, nếu gặp yướng mắc, phát sinh các cơ quan, tổ
+chức, đơn vị phản ảnh về Sở Tài chính để tổng hợp, báo cáo Ủy ban nhân dân
+tỉnh xem xét, quyết định./.
+TM. UBND TỈNH
+PHỦ TỊCH
+Nguyễn Tử Quỳnh
+10

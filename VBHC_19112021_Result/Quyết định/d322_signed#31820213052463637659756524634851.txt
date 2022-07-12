@@ -1,0 +1,258 @@
+Ký bởi: Văn phòng Ủy ban Nhân dân
+Thời gian ký: 25/01/2016 16:31:35
+UỶ BAN NHÂN DÂN   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH THANH HOÁ   Độc lập - Tự do - Hạnh phúc
+Số: 322 /QĐ-UBND   Thanh Hoá, ngày 26 tháng 01 năm 2016
+QUYẾT ĐỊNH
+về việc phê duyệt Báo cáo kinh tế - kỹ thuật xây dựng công trình nâng cấp.
+trạm bơm tưới Thanh Điền, xã Vạn Hòa, huyện Nông Cổng
+CHỦ TỊCH UBND TỈNH THANH HÓA
+Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015;
+Căn cứ Luật Xây dựng ngày 18/6/2014;
+Căn cứ Nghị định số 39/2015/NĐ-CP ngày 18/9/2015 về quản lý dự án đầu:
+tư xây dựng; Nghị định số 32/2015/NĐ-CP ngày 25/3/2013 về quản lý chi phí
+đầu cư xây dựng; Nghị định số 46/2015/NĐ-CP ngày 12/5/2015 về quản lý chát
+lượng và báo trì công trình xây dựng của Chính phủ;
+Căn cứ Quyết định số 2933/QĐ-UBND ngày 06/8/2018 của Chủ tịch
+UBND tỉnh phê duyệt chủ trương đầu tư nâng cấp trạm ban tưới Thanh Điền,
+xã Vạn Hòa, huyện Nông Cống;
+Xét đề nghị của UBND huyện Nông Cổng tại Tờ trình số 222/TTr-UĐND
+ngày 08/12/2013 (tèm theo hồ sơ) và Công văn số 3594/8NXPTNC-
+QLXDCT ngày 22/12/2015 của Sở Nông nghiệp và Phát triển nông thôn về việc
+phê duyệt Báo cáo kinh tế - kỹ thuật xây dựng công trình nâng cấp trậm bơn.
+tưới Thanh Điền, xã Vạn Hòa, huyện Nông Cống,
+QUYẾT ĐỊNH:
+Điều 1. Phê duyệt Bác các kinh tế - kỹ thuật xây dựng công trình nâng cấp.
+trạm bon tưới Thanh Điền, xã Vạn Hòa, huyện Nông Cống, với những nội dung
+chính sau:
+1. Tên công trình: Nâng cấp trạm bơn tưới Thanh Điền, xã Vạn Hàx,
+huyện Nông Cống.
+2. Chủ đầu tư: UBND huyện Nông Cống.
+3. Mục tiên đầu tu: Cấp nước tưới cho 79 ha đất sản xuất nông nghiệp của
+xã Vạn Hèa, góp phần thúc đây phát triển kinh tế xã hội của địa phương.
+4. Quy mô đầu tư:
+Xây dựng hệ thống công trình gồm các hạng mục: Trạm bơm tưới lắp đặt 1
+máy H1 700.7; trạm biển áp công suất 50KvA) kiên cố hỏa hộ thống kếnh (kênh.
+chính và 7 tuyển kênh nhánh với tông chiều đài 3.998,8 tr; đường thì công kết
+hợp quản lý vận hành dài 1.999,8 m.
+- Tần suất đảm bảo tưới: p = 75%.
+- Tần suất lưu lượng, mực nước lớn nhất:
++ Thiết kế:   Ptk = 2%;
++ Kiểm tra:   Pkt = 1%.
+- Hệ số tưới thiết kế:   qlúa = 1,2 l/s/ha.
+- Hệ số lợi dụng kênh mương: ro= 0,75.
+5. Nội dung đầu tư và giải pháp kỹ thuật:
+5.1. Thông số kỹ thuật chính:
+a) Đầu mối trạm bơm: Lắp đặt 1 tổ máy Đơm hỗn lưu HI 700-7.
+Bảng 1: Thông số kỹ thuật của máy bơm
+Q   H   N   Nđc   Dh   Dx
+Tên máy   (m3 /h) (mị   (m)   (v/ph)   (KW)   (mm)   (mm)
+HL 700-7   700   7   980   22   300   300
+Bảng 2: Các thông số thiết kế chủ yếu của trạm bơm
+TT   Thông số thiết kế   Đơn vị   Giá trị
+1   Bể hút
+- Mực nước thiết kế p75%   m   -0.95
+- Cao trình đáy bể hút   m   - 2.25
+2   Bể xả
+Mực nước thiết kế   m   + 5.10
+- Cao trình đáy bể xả   m   +3.90
+3   Cao trình đặt máy   m   44.40
+4   Cao trình sùn chống lã   m   +5.90
+5   Mực nước lũ thiết kế P2%   m   4 5.17
+6   Mực nước lũ kiểm tra P1%   1n   +5.42
+7   Lưu tượng thiết kế OTn   m3/s   0,182
+b) Hệ thống kênh:
+- Tổng chiều dài: L = 3 998,8 m.
+- Hệ số nhám lòng kênh r = 0,015; hệ số trái kênh m = 0.
+Bảng 3: Các thông số thiết kế kênh
+l
+L   Qtk   i   ho   lmnax   Blk   Hk
+TT   Đoạn kênh   (m)   tưới   (m3/s)   (10+   (m)   (m)   (m)   (m)
+(ha)
+1   Kênh chính   1.083,8
+Bể xả đến K0+000   14   79   0.182   35.71   0.28   0.33   0,6   0.6
+K04000- K0+035   35   79   0.182   6,29   0.5   0,59   0,65   0.7
+K0+035-K0+551.8   516.8   65   0.147   6,19   0 5   0.6   0.65   0,7
+2
+K0+551,8-K0+886,8   335   43   0,1   6,21   0,42   0,49   0.5   0,7
+K0+886,8-K1+069,8   183   18   0,041   10,93   0,25   0,29   0,35   0,4
+2   Kênh N1   1.355
+K0+000-K0+870   870   15   0,035   6,32   0.24   0,27   0,4   0,45
+K0+870-K1+355   485   12   0,028   4,12   0,23   0,27   0,4   0,45
+3   Kênh N2   124
+K0+000- K04 124   124   2   0,005   7,2   0,07   0,08 0,   0,35
+4   Kênh N3   151
+K0+000- K0+151   151   5   0,016   36,7   0,08   0,09   0,3   0.35
+5   Kênh N4   101
+K0+000-K0+101   101   4   0,01   14,85   0.09   0,1   0,3   0,35
+6   Kênh N5   205
+K0+000- K0+205   205   3   0.007   39.02   0.05   0,06   0,3   0.35
+7   Kênh N6   930
+K0+000---104930   930   25   0.057   1,61   0,45   0,54   0,5   0,7
+8   Kênh N7   63
+K0+000- K0+063   63   7   0,016   15,8   0.13   0.15   0,3   0,35
+Công trình trên kênh: Tổng số 28 cải, cụ thể theo báng sau:
+Bảng 4: Công trình trên kênh
+Đơn   Tên kênh   Tổng
+TT   Loại công trình
+vị   N1   N2   N3   N4   N5   N6   N7   cộng
+1   Cống đầu kênh   cái   1   1   1   1   7
+2   Cống tưới trực tiếp   cái
+3   Cửa chia nước   cái   5   2   2   2   4   2   2   19
+4   Cầu máng   cái   1
+Tổng cộng   cái   7   3   3   3   5   4   3   28
+c) Đường thì công kết hợp quản lý vận hành:
+Gồm 2 tuyến, tổng chiếu đất L = 1999 8 m. Chiếu rộng nền đường tin =
+4m; chiều rộng mặt gia có Bọc = 3 m; chiếu rộng lề mỗi phía Bí = 0,5 m.
+d) Hệ thống điện:
+- Xây dựng tuyến đưởng dây 22kV dài 565 m.
+- Trạm biến áp công suất 50kvA-10(22)/0,4kV.
+- Điện động lực trạm bơm; điện tự dùng trong nhà trạm.
+5.2. Giải pháp kỹ thuật chủ yếu:
+a) Đầu mối trạm bơm:
+- Nhà nây bươ: Kích thước (rộng 28) (6,6x4,5) m, được chủa thành 2
+gian, gồm: 1 gian máy, 1 gian lắp ráp sửa chữa.
+3
+Hình thức kết cắu: Nhà 1 tầng kiểu khung cột bằng bố tông cốt thép
+(BTCT) M250, tường xây bao bằng gạch, mái bằng BTCT M250 được chộng
+đội và cách nhiệt bằng mái tôn, nền lát gạch Cerarric, tường quét ve, hệ thống
+cửa đi và cửa sở bằng nỗ nhóm IV. Toàn bộ sản khu trạm bơm được gát cổ bằng
+bê tông thường M200 đày 15 cm, Tót 1 lớp ni lông tái sinh.
+- Bể hút: Kích thước (rộngxdài) = (3x4,7) m.
+Hình thức iết cấu: Bằng BTCT M230 toàn khối đố tại chỗ trên lớp bê tông
+lôt M100 đây 1 cơ; cửa vào bằng bê tông tường M200. Nến gia cổ bằng cọc
+tre 016+8) cư đài l = 3 m, mật độ 25 cọc/m2 đối với nắn bể lút và 16 cọc/n2
+đố: với nến cửa vào. Mải bể hút phòa nhà máy được gia cổ bằng bê tông thường
+M/00 đáy 20 can, lớ: 1 lớp rử lông tái sinh, nhân mái bố trí 2 hàng 1ỗ thoát nước
+giảm áp.
+- Bể xả: Kích thước (rộngxdài) = (2x3,5) m.
+Hình thức kết cấu: Bằng TTCT M250 toàn khối đổ tại chỗ trên lớp bê tông
+lót M100 dày 10 cm.
+b) Hệ thống kênh: Được kiên cố trên cơ sở các tuyến kênh củ hiện có.
+- Hình thức kết cấu: Kênh hộp mặt cắt chữ nhật bằng bỏ tông thường M200,
+bải lớp ri lông tái sinh. Đọc tuyển cứ 10 ra cất 1 khe lin chén giấy dân tầm
+nhựa đường. Các đoạn kênh có nhiều cao tường 11 + (0,540,7) m đình kênh bố
+trị thanh giảng bằng ITCT M250. Đất đấp hoàn thiện được đẩm nận đản báo độ
+chặt K = 0,95
+.. Công trình trên kènh: Bảng bê tông thưởng M200 và BTC M150. Cán
+cống lấy nước dần kênh nhánh điều tiết bằng cửa van phầng, ổ khóa khẩu trục vi.
+vận hành bằng quay tay.
+c) Đường thì công kết hợp quản lý vận bảnh: Sử dụng 2 tuyến đường hiện.
+có (đã được gia cổ bằng bẻ tông) để làm đường thi công. Sửa chữa, hoàn tra san
+thi công làm đường quản lý vận hành.
+- Tuyến số 1: Là hữu: kênh chính, chiều dài tuyến Li = 1.069 8 m, gồm 2
+đoạn, cụ thể như sau:
++ Đoạn 1 từ K0+900-K0-311,8: Đài 3118 m, hiệu tại là đường đất.
+Biện pháp gia cố: Nến bằng đất đấp đảm bảo độ chặ: K * 0,96. Mặt gia cế.
+bằng kế tông thưởng M200 đảy 16 cơn, tút Lớp ni lông tái sinh, nào gia cổ bằng.
+1 lớp cấp phối đả đảm (CPĐT) loại 2 dây 12 ca, Đọc tuyến có 7,5 tri cất 1 khe
+lún ngang vưông góc tỉnh tuyển, đảng máy cất tạo mạch, chiều sâu khe cắt là =
+13 cm;
++ Đoạn 2 từ KO+311,8+K1+069,8: Đà: 758 m, hiện tại là đường liên thôn.
+bằng bê tông dày trung binh 15 cm.
+Kết cấu hoàn trả: Mặt gia cổ bằng bê tông thường M200 dày 16 cư, lót 1
+lớp ní lông tài sinh, hế phụ tạo phảng bằng CPĐD toài 2. Đọc tuyếc cứ 7,5 cất
+1 khe tôn ngang vuông góo tìm tuyển đông máy cất tạo mạch, phiều sảu khe cắt:
+h = 13 cm.
+4
+- Tuyển số 2: Là bờ tà kênh Nó, chiếu dài tuyến L2 - 930 m; hiện tại là
+đường giao thông tiên xã bằng bê tông dây trung binh 20 cen.
+Kết cấu hoàn trái Mặt gia cổ bằng bê tông thường M200 cây 20 em, lót /
+láp va lông đi sinh, bà phợ tạo phằng bằng CPĐD loại 2. Đọc tuyến cứ 7.5 m tắc
+1 khe làn ngang vuông góc tìm tuyến, đúng máy cất tạc mạch, chiều sáu khe cát
+h = 17 cm.
+d) Hệ thống điện:
+- Trạm biến áp:
++ Vị trí giáp trạm bơm Thanh Điển;
++ Kiến trúc trạm: Kiểu trạm troo, máy biến áp và các thiết bị cao hạ thể
+được lắp đặt trên sản mày, hệ xã (ng kêm nhỏng nóng) và trên 2 cột tr-12C,2
+móng MT5 (móng cột bê tông M150 đúc tại chỗ).
+- Đường dây 228V: Nhành rẽ ĐDK-22lV (trước mất vận hành rấp điện áp
+10kV) cấp diện cho trạm biến áp 50kVA-11(22y/(kkV trạm hơm tưới Thanh.
+Điền, xã Vạn Hóa, huyện Nông Cống có chiều đải tuyển đường đây 565 m,
+được đấn nối tại cột số 39 thuộc 1ộ 97819.8 Nông Công ti Như Thanh.
+- Điện chiêu sáng nhà trạm hom và điện động lực trạm bơnr: Hệ thống diện.
+chiếu sáng nhà trạm Đươ đúng 5 bộ đên huệnh quang 4C8; chiếu sáng ngoài
+bằng 2 bộ đên cao áp 250W. Tiếp địa trạn kiểu trọc tu hỗn hợp, đảm bảo tr; số
+điện trở nối đất R < 452
+6. Địa điểm xây dựng: Xã Vạn Hòa, huyện Nông Cống.
+7. Diện tích sử dụng đất: 1,06 ha:
+8. Loại, cấp công trình: Công trình thủy lợi, cấp IV.
+9. Phương án giải phóng mặt bảng: Chủ đầu tư tổ chức thực hiện bồ:
+thưởng GPMB theo đúng các quy định hiện hành của nhà nước.
+10. Tổng mức đầu tư:   10. Tổng mức dầu tu: 10.103,3 triệu đồng   10.103,3 triệu đồng;
+Trong đó:
+Chi phí quản lý dự án
+Chi phi tư vấn ĐTXD
+Chi phí khác
+Chi phí bổi thường GPMB
+Chi phí dự phòng   923,9 triệu đồng.
+(Có phụ biểu chi tiết kèm theo)
+11. Nguồn vốn đầu tư: Phần chi phí xây dựng và thiết bị đầu tư từ nguồn
+vốn thực hiện chính sách bảo vệ và phát triển đất trồng lĩa theo Nghị định số
+35/2015/NĐ-CP ngày 13/4/2014 nhang không quá 8 tỷ đồng; UBND huyện
+Nông Cống bố trí ngân sách huyện và huy động các nguồn hợp pháp khác đố
+5
+đầu tư phần còn lại theo đúng cam kết tại Công văn số 814/UBND-NN ngày
+68/7/2015 (theo Quyết định số 2923/QĐ-UBND ngày 06/8/2015 của Chủ tích
+UBND tỉnh).
+12. Hình thức quản lý dự án: Chủ đầu tư trực tiếp quản lý dự án.
+13. Thời gian thực hiện: Không quá 2 năm, kể từ ngày khởi công xảy
+dựng công trình.
+Điều 2. Triển khai thực hiện:
+- Chủ đần tư chịu trách nhiệm tổ chức thực hiện dự án theo đúng Luật Xây
+dựng năn 2014: Luật Đầu thấu năm 2013 và các quy định hiện hành của Nhà
+nước.
+- Yêu cần chủ đấu tư lập và đăng ký kế hoạch bản vệ môi trường trước khi
+Triển khai trực hiện dự án theo quy định hiện hành của pháp luật.
+Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày ký.
+Chánh Văn phòng UBND tỉnh, Giám đốc các Sở: Kế hoạch và Đầu tư, Tài
+chính, Nông nghiệp và PTNT; Giám đốc Kho bạc Nhà nước tỉnh; Chủ tịch
+UBND huyện Nông Cống và Thủ trưởng các ngàch, đơn vị liên quan chịu trách
+nhiệm thì hành Quyết định này./.
+Nơi nhận:   KT. CHỦ TỊCH
+- Như Điều 3 QĐ;   PHÓ CHỦ TỊCH
+- Chủ tịch UBND tỉnh (để b/c);
+- Phó Chủ tịch UBND tỉnh Nguyễn Đức Quyền;
+- Phó Chánh Văn phòng Lê Thanh Hải;
+- Lưu: VT, NN.
+Nguyễn Đức Quyền
+6
+PHỤ TỊ TÔNG MỨC ĐẦU TƯ
+Công trình: Nông cấp ngành Điền, xã Vạn Hòn, huyện Nông Cống
+Đơn vị tính: Triệu đồng
+Thành tiền
+STT   Khoản mục chi phí   Cách tính   Phần thủy   Phần điện   Tổng cộng
+lợi
+I   Chi phí xây dựng (Gxd)   Chi tiết   5.755,6   805,3   6.560,9
+II   Chi phí thiết bị (Gtb)   Chi tiết   90,3   214,2   304,4
+III   Chi phí quản lý dự án (Gqlda)   2,3910% x (Gxd+Gtb)/1,1   127,1   24,6   151,7
+IV   Chi phí tư vấn đầu tư xây dựng   744,9   83,9   828,8
+1   Chi phí khảo sát giai đoạn lập Báo   Công văn số 3214   295,325   17,102   312,427
+cáo kinh tế kỹ thuật theo Công văn
+số 3214/SNN&PTNT-QLXDCT
+ngày 24/11/2015)
+2   Chi phí lập Báo cáo kinh tế kỹ thuật   3,1686% x (Gxd+Gtb)   185,231   37,719   222,950
+3   Chi phí lập hồ sơ mời thầu, đánh   0,2820% x Gxd   16,231   4,475   20,706
+giá hồ sơ dự thầu xây lắp
+4   Chi phi giám sát thi công xây dựng   2,0790% x Gxd   119,659   22,596   142,255
+5   Chi phí giảm sát lắp đặt thiết bị   0,5740% x Gtb   0,518   1,966   2,484
+6   Chi phí giám sát, đánh giá dự án   20,000% x Gqlda   27,955   27,955
+7   Chi phí cam kết môi trường   Tạm tính   100,000   100,000
+V   Chi phí khác   98,6   35,0   133,6
+1   Lệ phí thẩm định Báo cáo kinh tế   0,0190% x TMĐT   1,010   1,010
+kỹ thuật
+2   Chi phi thẩm định thiết kế bản vẽ   0,1210% Gxd   6,331   1,391   7,722
+thi công
+3   Chi phí thẩm định dự toán   0,1170% x Gxd   6,122   1,354   7,476
+4   Thẩm định hồ sơ mời thầu và thẩm   0,10% x (Gxd+Gtb)   5,314   5,314
+định kết quả lựa chọn nhà thầu
+5   Bảo hiểm xây dựng công trình   0,68% x (Gxd+Gtb)   39,752   2,416   42,168
+6   Thẩm tra phê duyệt quyết toán   0,2599% X TMĐT   22,874   3,627   26,501
+7   Chi phi kiểm tra công tác nghiệm   Chi tiết   3,700   18,919   22,619
+thu đưa công trình vào sử dụng
+8   Chi phí kiểm toán   7,254   7,254
+9   Lệ phí tài nguyên môi trường   1.500 đồng/lm3 x KL đào   13,518   13,518
+VI   Chi phí bồi thường GPMB   Tạm tính   1.200,0   1.200,0
+VII   Chi phí dự phòng   Chi tiết   865,8   58,1   923,9
+Tổng cộng   8.882,3   1.221,0   10.103,3

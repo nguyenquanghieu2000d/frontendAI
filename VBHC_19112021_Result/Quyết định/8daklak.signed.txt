@@ -1,0 +1,324 @@
+Ký bởi: Công Thông tin điện tử Chính phủ
+Email: thongtinchinhphuạchinhphu.vn
+Cơ quan: Văn phòng Chính phủ
+Thời gian ký: 26.05.2014 09:47:10 +07:00
+UỶ BAN NHÂN DÂN   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH ĐẮK LẮK   Độc lập - Tự do - Hạnh phúc
+Số: 08 /2014/QĐ-UBND   Đắk Lắk, ngày 09 tháng 5 năm 2014
+QUYẾT ĐỊNH
+Ban hành Quy chế quản lý, khai thác, sử dụng và
+vận hành Hệ thống thư điện tử tỉnh Đắk Lắk
+ỦY BAN NHÂN DÂN TỈNH ĐẨK LẮK
+Căn cứ Luật tổ chức HĐND và UBND ngày 26/11/2003;
+Căn cứ Luật Công nghệ thông tin ngày 29/6/2006;
+Căn cứ Luật Ban hành văn bản Quy phạm pháp luật ngày 03/6/2008;
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về
+ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước;
+Căn cứ Nghị định số 90/2008/NĐ-CP ngày 13/8/2008 của Chính phủ về
+chống thư rác;
+Căn cứ Nghị định số 72/2013/NĐ-CP, ngày 28/8/2008 của Chính phủ về
+quản lý, cung cấp, sử dụng dịch vụ Intemẹt và thông tin trên mạng;
+Căn cứ Chỉ thị số 34/2008/CT-TTg ngày 03/12/2008 của Thủ tướng Chính.
+phủ về tăng cường sử dụng Hệ thống thư điện tử trong hoạt động của cơ quan
+nhà nước;
+Căn cứ Chỉ thị số 15/CT-TTg ngày 15/7/2013 của Thủ tướng Chính phủ về
+việc tăng cường sử dụng văn bản điện tử trong hoạt động của cơ quan nhà nước;
+Xét đề nghị của Giám đốc Sở Thông tin và Truyền thông tại Tờ trình số
+16/TTr-STTTT ngày 11/3/2014,
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, khai thác, sử
+dụng và vận hành hệ thống thư điện tử tỉnh Đắk Lắk.
+Điều 2. Giao Sở Thông tin và Truyền thông chủ trì, phối hợp với các cơ
+quan, đơn vị, địa phương tổ chức triển khai, theo dõi, đôn đốc, kiểm tra thực
+hiện Quyết định này và định kỳ 06 tháng, hàng năm báo cáo UBND tỉnh theo
+quy định.
+Điêu 3. Quyết định nay có hiệu tạc sau 10 ngày kê từ ngay ký và thay thế
+Quyết định số 2390/QĐ-UBND ngày 26/10/2005 của UBND tỉnh về việc ban
+hành Quy định quản lý và sử dụng hệ thống thư điện tử tỉnh Đắk Lắk.
+Điều 4. Chánh Văn phòng UBND tỉnh, Giám đốc các sở, ban, ngành; Chú
+tịch UBND các huyện, thị xã, thành phố; các tổ chức, cá nhân có liên quan chịu
+trách nhiệm thì hành Quyết định này./.
+Nơi nhận:   TM. ỦY BAN NHÂN DÂN
+- Văn phòng Chính phủ;   CHỦ TỊCH
+- Bộ Thông tin và Truyền thông;
+- TT Tỉnh ủy, TT HĐND tỉnh;   (b/c)
+- Đoàn Đại biểu Quốc hội tỉnh; .
+- CT, các PCT UBND tỉnh;
+- UBMTTQVN tỉnh;
+- Vụ Pháp chế - Bộ TT&TT;
+- Cục Kiểm tra văn bản - Bộ Tư pháp;
+- Cổng thông tin điện tử Chính phủ;
+- Như Điều 4;
+- Báo Đắk Lắk, Đài PTTH tỉnh;
+- TT Quản lý Cổng thông tin điện tử tỉnh;   Hoàng Trọng Hải
+- VP UBND tỉnh: Các PCVP; Các P, TT;
+- Lưu VT, CN. (Tr.110) Lu
+UỶ BAN NHÂN DÂN   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH ĐẮK LẮK   Độc lập - Tự do - Hạnh phúc
+QUY CHẾ
+Quản lý, khai thác, sử dụng và vận hành Hệ thống
+thư điện tử tỉnh Đắk Lắk
+(Ban hành kèm theo Quyết định số 08 /2014/QĐ-UBND ngày 09/3/2014
+của Uỷ ban Nhân dân tỉnh)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Quy chế này quy định về việc quản lý, khai thác, sử dụng và vận hành Hệ
+thống thư điện tử của tỉnh Đắk Lắk
+Điều 2. Đối tượng áp dụng
+Quy chế này được áp dụng đối với tất cả các cơ quan, đơn vị nhà nước, các.
+tổ chức Đảng, các tổ chức chính trị - xã hội (sau đây gọi tắt là các tổ chức) và
+các cán bộ, công chức, viên chức, người lao động (sau đây gọi tắt là các cá
+nhân) của tỉnh Đắk Lắk tham gia khai thác, sử dụng Hệ thống thư điện tử của
+tỉnh.
+Điều 3. Vai trò, mục đích của Hệ thống thư điện tử trong hoạt động
+của cơ quan nhà nước
+Hệ thống thư điện tử trong hoạt động của tổ chức nhà nước tỉnh Đắk Lắk
+là hệ thống nhằm phục vụ các tổ chức và các cá nhân của tỉnh Đắk Lắk trong
+việc gửi, nhận thông tin dưới dạng thư tín qua mạng internet, phục vụ công tác
+theo chức năng, nhiệm vụ được phân công.
+Điều 4. Đơn vị chịu trách nhiệm tổ chức xây dựng, duy trì hoạt động
+của Hệ thống thư điện tử
+Sở Thông tin và Truyền thông là đơn vị chịu trách nhiệm tổ chức xây.
+dựng, duy trì hoạt động của Hệ thống thư điện tử.
+Chương II
+TỔ CHỨC HỆ THỐNG THƯ ĐIỆN TỬ
+Điều 4. Thành phần, quy mô và nguyên tắc vận hành, thiết lập Hệ
+thống thư điện tử của tỉnh
+1. Hệ thống thư điện tử của tỉnh Đắk Lắk được thiết lập và vận hành trên
+hạ tầng kỹ thuật của Trung tâm Công nghệ thông tin và Truyền thông - Sở
+Thông tin và Truyền thông.
+2. Hệ thống thư điện tử của tỉnh có tên miền trên mạng internet là:
+http://mail.daklak.gov.vn.
+3. hộp thư điện tử dành cho các tổ chức của tỉnh do bộ phận Quản trị thư
+điện tử của Sở Thông tin và Truyền thông thiết lập.
+4. Hộp thư điện tử dành cho cá nhân do quân trị công nghệ thông tin của.
+các tổ chức tự thiết lập theo danh sách đã được Thủ trưởng tổ chức phê duyệt.
+5. Mọi thông tin của tổ chức, các nhân khi đăng ký sử dụng hộp thư điện tử.
+của tỉnh được lưu trữ trong một cơ sở dữ liệu đặt tại Trung tâm tích hợp dữ liệu
+của tỉnh, gọi là danh bạ thư điện tử của tỉnh và được tích hợp trong Hệ thống
+thư điện tử của tỉnh.
+Điều 5. Nguyên tắc sử dụng và quy tắc đặt tên cho địa chỉ thư điện tử
+của tỉnh
+1. Cán bộ, công chức, viên chức, người lao động của tỉnh bắt buộc phải sử
+dụng hộp thư có tên miền (y-tentochuc=daklkk.gov.vn trong trao đổi thông tin
+điện tử phục vụ cho công tác.
+2. Quy tắc đặt tên cho địa chỉ thư điện tử của tỉnh.
+x) Hộp thư điện tử của Chủ tịch và các Phó Chủ tịch UBND tỉnh đặt tên.
+theo quy tắc:
+Họ và tên đầy đủ“ãdaklak.gov.vn
+b) Hộp thư điện tử dành cho các tổ chức nhà nước của tỉnh Đắk Lắk Là
+loại hộp thư đặc biệt đảnh cho cơ quan nhà nước được lập ra nhằm trao đồi
+công việc giữa các tổ chức, địa phương và tổ chức, cá nhân với nhau. Hộp thư
+điện tử dành cho tổ chức được đặt tên theo quy tắc:
+LTên tổ chức“(daklakgov.vn.
+- Đối với các tổ chức là các sở, ban, ngành, đoàn thể cấp tỉnh thì stên tổ
+chức” có thể là tên đầy đủ hoặc tên viết tắt Tiếng Việt của tổ chức trên nguyên.
+tắc đảm bảo dễ nhớ, đễ hiểu.
+Ví dụ: Văn phòng UBND tỉnh Đắk Lắk có địa chỉ thư điện tử lả:
+vpubnd@daklakgov.vn
+Sở Thông tin và Truyền thông tỉnh Đắk Lắk có địa chỉ thư điện tử là:
+sttttadallal.gov.vn
+- Đối với các tổ chức là UBND các huyện, thị xã, thành phố thì siên tổ
+chức” phải là tên đầy đủ của địa danh địa phương mình.
+Ví dụ: UBND Thành phố Buôn Ma Thuột phải có địa chỉ thư điện tử là:
+buonmathuot@dallalk.gov.vn
+2
+UBND huyện Cư Kuin phải có địa chỉ thư điện tử là::
+cukuin@dallalk.gov.vn
+c) Hộp thư điện tử dành cho, các phòng, ban, đơn vị, cá nhân, UBND các.
+xã, phường thị trấn trực thuộc tổ chức được đặt tên theo quy tắc sau:
+- Đối với các phòng ban, đơn vị:
+Tên đây đủ hoặc viết tắt phòng ban, đơn vị (t -tên viết tắt cửa tổ.
+chức quản lý”.daklak.gov.vn.
+Ví dự: Phòng Công nghệ thông tin của Sở Thông tin và Truyền thông có
+địa chỉ thư điện tử là:
+phongcntt@tttt.daklak.gov.vn
+- Đối với UBND các xã, thị trấn trực thuộc huyện:
+Tên đầy đủ của địa phương”-Tên đầy đủ của cấp Huyện, thị xã”.
+daklak.gov.vn
+Vi đụ: UBND Thị trấn Quảng Phú, huyện CuMgar phải có địa chỉ hộp thư
+điện tử là:
+quangphu@cumgar.daklal.gov.vn
+- Đối với UBND các phường, xã thuộc Thành phố Buôn Ma Thuột:
+Tên đầy đủ của địa phương-@buonmathuot.daklak.gov.vn.
+Ví dụ: UBND phường Thành Nhất phải có đị chỉ là thư điện điện là:
+thanhnhat@.daklak.gov.vn
+- Đối với các cá nhân:
+Tên, viết rất của họ và chữ lót của người sử dụng”f-tên của tổ chức
+đang công tác”-daklal.gov.vn
+Ví dụ: ông Trần Văn Nam đang công tác tại Văn phòng UBND tỉnh Đắk
+Lắk có địa chỉ hộp thư điện tử là:
+namtv@vpubnd.daklak.gov.vn
+Trong trường hợp tên hộp thư điện tử cá nhân bị trùng, bộ phận quản trị Hệ
+thống thư điện tử chấu trách nhiệm thay đổi trên cơ sở nguyên tắc trên và bổ.
+sung thêm các ký tự a, b, c... hoặc tên viết tắt của phòng, ban công tác nhằm
+đảm bảo tính đễ nhớ, đễ hiểu của tên hộp thư điện tử cá nhân.
+Điều 6. Quy trình cấp mới, thay đổi, hủy bỏ hộp thư điện tử cho tổ
+chức và cá nhân
+Bộ phận quản lý nhân sự của các tổ chức có trách nhiệm lập danh sách yệu.
+cầu về khởi tạo hộp thư mới của đơn vị trục thuộc; cá nhân mới được tuyển
+dụng, điều động, bố nhiệm; hoặc yêu cầu hủy bỏ, thay đổi hộp thư điện tử của
+đơn vị đã giải thể, cá nhân thối công tác hoặc chuyển công tác sang tổ chức.
+khác trình Thủ trưởng cơ quan, đơn vị phê duyệt và giao cho quản trị công nghệ
+3
+thông tin của tổ chức thực hiện việc thiết lập, thay đối hoặc hủy bỏ theo quy.
+định.
+Chương III
+SỬ DỤNG, QUẢN LÝ HỆ THỐNG THƯ ĐIỆN TỬ
+Điều 7. Thời gian kiểm tra Hệ thống thư điện tử
+1. Tất cả cá nhân phải thường xuyên kiểm tra hộp thư điện tử của mình
+trong giờ làm việc, ít nhất 04 lần trong ngày, 02 lần vào buổi sáng và 02 tần buổi
+chiếu để kịp thời xử lý công việc nhận được qua hộp thư điện tử một cách nhanh.
+nhất, hiệu quả nhất. Khuyến khích các cá nhân mở hộp thư điện tử của mình.
+thường xuyên trong giờ làm việc.
+2. Riêng hộp thư điện tử của tổ chức được quy định trách nhiệm tại Điểm
+c, Khoản 1, Điều 12 Quy chế này phải được mở thường xuyên trong giờ hành.
+chính để tiếp nhận và xử lý thư điện tử của tổ chức, cá nhân khác gửi đến.
+Điều 8. Các loại văn bản bắt buộc hoặc khuyến khích được trao đổi
+qua Hệ thống thư điện tử
+1. Các loại văn bản bắt buộc phải gửi, nhận qua Hệ thống thư điện tử kèm
+theo văn bản giấy: Giấy mời, lịch công tác của cơ quan, các tài liệu trao đổi.
+phục vụ công việc, tài liệu phục vụ các cuộc họp, văn bản sao y, báo cáo chuyên
+đề, báo cáo tuần, tháng, quý, năm, thông báo, những văn bản gửi đến những cơ
+quan để biết, để báo cáo, các văn bản dự thảo đề nghị góp ý (trừ những văn bản
+mật).
+2. Khuyến khích sử dụng Hệ thống thư điện tử để gửi, nhận các loại văn
+bản: Công văn, báo cáo các cấp, những thông tin chỉ đạo, điều hành của Thủ.
+trưởng và các văn bản khác (trừ những văn bản mật).
+3. Những văn bản được chuyển qua Hệ thống thư điện tử phù hợp với quy
+định của pháp luật về giao dịch điện từ có giá trị pháp lý tương đương với văn
+bản giấy trong giao dịch giữa các tổ chức.
+Điều 9. Quy định về việc gửi văn bản điện tử kèm theo văn bản giấy.
+Khi phát hành văn bản giấy, trừ những văn bản mật, ngoài việc gửi văn
+bản tới nơi nhận theo cách thông thường, phải gửi văn bản điện tử (ương ứng
+nội dung văn bản giấy đã được ban hành chính thức) vào địa chỉ thư diện tử của
+cơ quan có tên trong phần Nơi nhận” hoặc cung cấp địa chỉ để có thể liên lạc,
+nhận văn bản điện tử.
+Điều 10: Quy định về sử dụng bộ mã các ký tự chữ Việt theo tiêu
+chuẩn TCVN 6909:2001
+4
+Hệ thống thư điện tử sử dụng bộ mã các ký tự chữ Việt theo tiêu chuẩn
+TCVN 6909/2001 (Ubieode) để thể hiện các nội dung trao đồi trong Hệ thống.
+thư điện tử.
+Chương IV
+QUẢN LÝ, DUY TRÌ, XỬ LÝ NỘI DUNG THÔNG TIN
+HỆ THỐNG THƯ ĐIỆN TỬ
+Điều 11. Trách nhiệm của Sở Thông tin và Truyền thông
+1. Giúp UBND tỉnh thực hiện nhiệm vụ quản lý Hệ thống thư điện tử của.
+tỉnh và các dịch vụ cơ bản của Hệ thống, đảm bảo cha Hệ thống thư điện tử hoạt
+động thông suốt, liên tục.
+2. Thiết lập hệ thống danh bạ thư điện tử của tỉnh, thông tin về danh bạ thư
+điện tử. Cấp phát cho các cơ quan, đơn vị địa chỉ thư điện tử và mật khẩn ban.
+đầu để sử dụng, khai thác thư điện tử.
+3. Cập nhật thông tin về thư điện tử của các tổ chức, cá nhân của tỉnh; cập.
+nhật bổ sung danh bạ hộp thư điện tử cho phù hợp với từng đơn vị khi có thay.
+đổi như: tách, sáp nhập, đổi tên đơn vị...
+4. Bảo đảm an toàn, bảo mật thông tin đối với Hệ thống thư điện tử, quản
+lý quyền truy cập của các đơn vị, cán bộ, công chức, viên chức.
+5. Phòng chống viru tin học đối với Hệ thống thư điện tử, lọc thư rác và
+các thư điện tử có nội dung không phù hợp với mục đích phục vụ công tác
+chuyên môn, nghiệp vụ của các cơ quan, đơn vị.
+6. Thường xuyên bảo trì, sửa chữa khi có sự cố xảy ra với Hệ thống thư
+điện tử của tỉnh.
+7. Xây dựng và thực hiện kế hoạch tổ chức bồi dưỡng, tập huấn cho cán
+bộ, công chức, viên chức của tỉnh khai thác, sử dụng Hệ thống thư điện tử.
+8. Lập mới, cập nhật lại thông tin về thư điện tử hoặc xoá bỏ các thư điện
+tử cá nhân của cán bộ công chức, viên chức mới được tuyển dụng, chuyển công
+tác sang đơn vị khác thuộc tỉnh hoặc không còn công tác tại tỉnh.
+9. Kinh phí cho việc quản lý, xây dựng, duy trì và nâng cấp Hệ thống thư
+điện tử của tỉnh hàng năm do Sở Thông tin và Truyền thông lập và được dự
+toán chung vào kinh phí sự nghiệp hàng năm của Sở do UBND tỉnh cấp.
+Điều 12. Trách nhiệm của các tổ chức trong việc quản lý, duy trì hoạt
+động của Hệ thống thư điện tử
+1. Trách nhiệm của Thủ trưởng các tổ chức:
+a) Chỉ đạo cán bộ, công chức, viên chức, người lao động trong tổ chức.
+mình phụ trách quản lý phải thường xuyên sử dụng hộp thư điện tử để phục vụ
+trong công việc.
+5
+b) Chỉ đạo các cơ quan, đơn vị thuộc phạm vi quản lý bảo đảm các điều
+kiện để triển khai hiệu quả Hệ thống thư điện tử của tỉnh, bao gồm: Điều kiện
+về nguồn nhân lực, tài chính, sự phối hợp giữa các cơ quan, cải tiến quy trình.
+làm việc.
+c) Hộp thư điện tử của tổ chức do Thủ trưởng tổ chức quản lý. Thủ trưởng
+tổ chức có thể ủy quyền cho một hoặc một số người trong tổ chức mình sử
+dụng.
+d) Hàng ngày, Thủ trưởng tổ chức có trách nhiệm xem xét, xử lý thông tin
+nhận được qua hộp thư điện tử.
+e) Khi thay đổi vị trí công tác, Thủ trưởng đơn vị cũ có trách nhiệm bản
+giao hập thư, mật khẩu và toàn bộ nội dung dữ liệu của hộp thư điện tử đơn vị
+cho Thủ trưởng đơn vị mới.
+2. Thông báo việc thay đổi thông tin liên quan đến hộp thư điện tử của cá
+nhân trong cơ quan, đơn vị gửi về cho Sở Thông tin và Truyền thông để cập
+nhật các thông tin thay đổi vào danh bạ thư điện tử của tỉnh.
+Điều 13. Trách nhiệm của cá nhân sử dụng hộp thư điện tử
+1. Không sử dụng các hộp thư điện tử cá nhân dạng khác (như Yehoo.
+Mai), Gmail, Hotmail...) để trao đổi công việc của cơ quan, đơn vị trên môi.
+trường mạng internet.
+2. Đối mật khẩu ban đầu được cung cấp nhằm bảo mật thông tin. Trường
+hợp quên mật khẩu phải báo ngay cho cán bộ chuyên trách công nghệ thông tin.
+của cơ quan, đơn vị để được thay đổi mật khẩu.
+3. Bảo vệ mật khẩu sử dụng hộp thư điện tử của mình; không được cung
+cấp mật khẩu hoặc để lộ mật khẩu vào Hệ thống thư điện tử cho người khác,
+chịu trách nhiệm về nội dung thư điện tử của mình.
+4. Không truy nhập vào hộp thư của người khác và không để người khác.
+sử dụng địa chỉ, hộp thư điện tử của mình.
+5. Không phát tân thư rác hoặc các thư điện tử có nội dung không phù hợp.
+với mục đích phục vụ công tác thông qua địa chỉ sử dụng của minh.
+6. Trong trường hợp chuyển công tác sang cơ quan, đơn vị, địa phương
+khác thì phải bản cho cán bộ chuyên trách công nghệ thông tin của cơ quan, đơn.
+vị biết để thay đổi hoặc hủy bỏ hộp thư điện tử cá nhân theo quy định.
+7. Khi gặp sự cố về Hệ thống thư điện tử phải báo ngay cho cán bộ chuyên
+trách công nghệ thông tin của cơ quan, đơn vị hoặc báo về bộ phân chuyên trách.
+của Sở Thông tin và Truyền thông để kịp thời khắc phục, sửa chữa.
+8. Không sử dụng các hộp thư điện tử cá nhân, đơn vị trong Hệ thống thư.
+điện tử tỉnh vào mục đích cá nhân.
+9. Tuân thủ các quy định khác của Pháp luật hiện hành về cung cấp, sử.
+dụng thông tin trên mạng.
+6
+Điều 14. Yêu cầu quản lý thông tin trong hộp thư điện tử
+1. Các thông tin, văn bản phát hành chính thức của tổ phức phải đúng chủ
+trương của 2ảng, chính sách, pháp luật của thả nước và phải được Thủ truởng
+cơ quan, đơn vị duyệt trước khi gửi đi.
+2. Mỗi tổ chức, cá nhân cần phải tạo những thư mục riêng trên máy tính
+làm việc của mình một cách khoa học (theo loại văn bản, theo tháng, năm,..),
+để lưu tất cả các loại văn bản gửi, nhận phòng khi đường truyền internet hoặc.
+Hệ thống thư điện tử có sự cố và đặc biệt là tìm kiếm lại các loại văn bản trước.
+đây, giúp giải quyết công việc được nhanh chóng.
+3. Khi soạn thảo văn bản, phần nơi nhận của công văn đi, cần ghi cụ thể
+địa chỉ thư điện tử tại nơi nhận (nếu gửi qua hộp thư điện tử) để cán bộ phụ
+trách việc gửi công văn được thuận tiện hơn.
+Chương V
+CÔNG TÁC KIỂM TRA, BÁO CÁO, KHIỂN THƯỞNG
+VÀ XỬ LÝ VI PHẠM
+Điều 15. Quy định về công tác kiểm tra, báo cáo tình hình sử dụng thư điện
+tử
+Sở Thông tin và Truyền thông có trách nhiệm xây dựng kế hoạch và
+thường xuyên kiểm tra tình hình hoạt động Hệ thống thư điện tử của các tổ
+chức, cá nhân để có hướng đề xuất giải quyết kịp thời.
+Các tổ chức báo cáo thực hiện Quy chế này định kỳ 6 tháng một lần và đột
+xuất theo hướng dẫn và yêu cầu của Sở Thông tin và Truyền thông để tổng hợp.
+báo cáo UBND tỉnh. Thời hạn báo cáo định kỷ là trước ngày 15/01 và 15/7 hàng
+năm.
+Điều 16. Quy định về khen thưởng và xử lý vi phạm
+1. Đối với các tổ chức, cá nhân thực hiện tốt các quy định trong Quy chế
+này được đề nghị khen thưởng. Các tổ chức cần xem xét đưa việc ứng dụng Hệ
+thống thư điện tử trong công việc của các phòng ban, đơn vị và cá nhân thuộc tổ.
+chức mình quản lý thành một trong những tiêu chí binh xét thi đua hàng năm.
+2. Trường hợp tổ chức, cá nhân vi phạm các quy định trong Quy chế này.
+thì bị xử lý theo quy định.
+Chương VI
+TỔ CHỨC THỰC HIỆN
+Điều 17. Tổ chức thực hiện
+7
+Thủ trưởng các Sở, ban, ngành, UBND các huyện, thị xã, thành phố, các tổ
+chức Đảng, tổ chức Chính trị - Xã hội chịu trách nhiệm tổ chức triển khai thực
+hiện Quy chế này. Sở Thông tin và Truyền thông có trách nhiệm hướng dẫn tổ.
+chức triên khai thực hiện.
+Điều 18. Trong quá trình tổ chức thực hiện, nếu có những vấn để khó khăn,
+vướng mắc, các đơn vị, địa phương phản ảnh về Sở Thông tin và Truyền thông để
+tổng hợp, trình UBND tỉnh xem xét, sửa đổi, bổ sung cho phù hợp//
+TM. ỦY BAN NHÂN DÂN
+CHỦ TỊCH
+Hoàng Trọng Hải
+8

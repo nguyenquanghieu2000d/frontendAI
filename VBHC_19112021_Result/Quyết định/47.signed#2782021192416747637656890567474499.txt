@@ -1,0 +1,490 @@
+Ký bởi: Cổng Thông tin điện tử Chính phủ
+Email: thongtinchinhphu@chinhphu.vn
+Cơ quan: Văn phòng Chính phủ
+m Thời gian ký: 17.10.2016 15:20:47 +07:00
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH BẾN TRE   Độc lập - Tự do - Hạnh phúc
+Số:4766/2016/QĐ-UBND   Bến Tre, ngày 20 tháng 9 năm 2016
+QUYẾT ĐỊNH
+Ban hành Quy chế thu thập, quản lý, cập nhật khai thác và sử dụng
+dữ liệu tài nguyên và môi trường tỉnh Bến Tre
+CÔNG THỘNG TIN ĐIỆN TỬ CHÍNH PHỦ
+ỦY BAN NHÂN DÂN TỈNH BẾN TRỰ
+Căn cứ Luật tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015;
+Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm.
+2015;
+Căn cứ Nghị định số 102/2008/NĐ-CP ngày 15 tháng 9 năm 2008
+các Chính phủ về việc kha tháp, quản lý khai thác và sử dụng dữ liệc về cải
+nguyên và môi trường;
+Căn cứ Thông lự số 26/2009/TT- BTTTT ngày 31 tháng 7 năm 2009 của
+Bộ Thông tin và Truyền thông quy định về việc cang cấp thông tin và bảo đảm
+khả năng truy cập thông tin điện tử của cơ quan nhà nước;
+Căn cứ Thông tư số 67/2009/TT-BTNMT ngày 10 tháng 7 năm 2009 của Bộ
+Tái nguyên và Môi trường quy định chi đất mặt sở đến của Nghị định số
+102/2008/NĐ-CP ngày 15 tháng 9 năm 2008 của Chính phủ về việc thu thập, quản
+lý, khai thác và sử dụng dữ liệu tài nguyên và môi trưởng;
+Căn cứ Thông tư số 34/2013/TT-BTNMT ngày 30 tháng 10 năm 2013 của
+Bộ Tài nguyên và Môi trường quy định về giao nập, tha nhận, hưa bã bảo quản
+và cung cấp dữ liệu môi trường;
+Căn cứ Thông tư số 34/2014/TT-BTNMT ngày 30 tháng 06 năm 2014 của
+Bộ Tài nguyên và Môi trường quy định về xây dựng, quôn lý, bai thác hệ thống
+thông tin đất đai;
+Theo đề nghị của Giám đốc Sở Tài nguyên và Môi trường tại Tờ trình số.
+2442/TTr-STNMT ngày 13 tháng 9 năm 2016.
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy chế thu thập, quản lý, cập.
+nhật khai thác và sử dụng dữ liệu tải nguyên và môi trường trên địa bàn tỉnh Đến
+Tre.
+Điều 2. Chánh Văn phòng Ủy ban nhân dân tỉnh, Giám đốc Sở Tài
+nguyên và Môi trường; Thủ trưởng các Sở, ngành tỉnh; Chủ tịch Ủy ban shân.
+2
+dân cấp huyệp, thành phố; các tổ chức và cá nhân có liên quan chịu trách nhiệm
+thi hành Quyết định này.
+Quyết định này có hiệu lực từ ngày 01 tháng 10 năm 2016./.
+Nơi nhận:   TM. ỦY BAN NHÂN DÂN
+- Như Điều 2;   KT. CHỦ TỊCH
+- Bộ Tài nguyên và Môi trường;   - Website Chính phủ;   PHÓ CHỦ TỊCH
+- Thường trực Tỉnh ủy;
+- Thường trực HĐND tỉnh;
+- Đoàn ĐBQH tỉnh Bến Tre;
+- Cục KT VB QPPL - Bộ Tư pháp;
+- Chủ tịch, các Phó CT UBND tỉnh;
+- Chánh, các Phó CVP UBND tỉnh;   Trương Duy Hải
+- NC: TH, KT; TT TTĐT;
+- Ban tiếp công dân tỉnh;
+- Website tỉnh;
+- Sở Tư pháp (tự kiểm tra);
+- Đài PT&TH; Báo Đồng Khởi;
+- Lưu VT, TNMT.
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH BẾN TRE   Độc lập - Tự do - Hạnh phúc
+QUY CHẾ
+Thư thập, quản lý, cập nhật, khai thác và sử dụng dữ liệu
+tài nguyên và môi trường tỉnh Bến Tre
+(Ban hành kèm theo Quyết định số 47 /2016/QĐ-UBND ngày
+20 tháng 3 năm 2016 của Ủy ban nhân dân tỉnh Bến Tre)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Quy chế này quy định: Việc thu thập, quản lý, cập nhật, khai thác và sử
+dụng dỡ liệu đất đai, tài nguyên nước, địa chất và khoáng sán, môi trường, khí
+tượng thủy văn, đo đạc và bản đồ, tài nguyên môi trường biển và đảo, biến đổi
+khí hậu (sau đẩy gọi chung là dữ liệu về tài nguyên và môi trường)mội dung
+phối hợp giữa Sở Tài nguyên và Môi trường và các Sở, ban, ngành, Ủy ban nhân
+dân cấp huyện, thành phố trongtnh bến Tre về việc lập kế hoạch, thu thập, kiểm.
+tra, đánh giá, xử lý, cung cấp dữ liệu và khai thác, sử dụng, chía sẻ dữ liệu về tài
+nguyên và môi trường; trách nhiệm và quyền hạn của các cơ quan, tổ chức, cá
+nhân trong việc thu thập, quản lý, cập nhật, khai thác và sử dụng dữ liệu về tái
+nguyên và môi trường trên địa bàn tỉnh Bến Tre.
+Điều 2. Đối tượng áp dụng
+Quy chế này áp dụng đối với cơ quan nhà nước, tổ chức, cá nhân trong
+nước, người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước người (san.
+đây gọi chung là tổ chức, cá nhân) trong việc thu thập, quản lý, khai thác và sử.
+dụng dữ liệu về tài nguyên và môi trường trên địa bàn tỉnh Bến Tre.
+Điều 3. Dữ liệu về tài nguyên và môi trường tỉnh Bến Tre
+Dữ liệu về tài nguyên và môi trường tỉnh Bến Tre phải là các bản chính, bàn.
+gốc các tài liệu, mẫu vật, dữ liệu phải được chuyển sang dạng số và lưu trữ theo
+quy định, quy trình, quy phạm, tiêu chuẩn, quy chuẩn kỹ thuật để bảo đảm an.
+toán, để quản lý, truy cập, tm kiểm thông ting Dữ liệu về tài nguyên và môi
+trường tỉnhBến Tre bao gồm:
+1. Dữ liệu về đất đai:
+a) Số liệu phân hạng, đánh giá đất, thống kê, kiểm kê đất đai; bản đồ phân
+hạng đất; bán đổ địa giới hành chính; bản đổ hiện trạng sử dụng đất; bồ sơ cấp
+Giấy chứng nhận qua các thời kỳ; Giấy chứng nhận quyền sử dụng đất, quyền sở
+hữu nhà ở và tài sản khác gắn liền với đất; số liệu điểu tra về giá đất;
+b) Quy hoạch, kế hoạch sử dụng đất đã được cấp có thẩm quyền phê
+duyệt;
+2
+c) Bản đồ địa chính; kết quả giao đất, cho thuê đất, thu bồi đất, chuyển
+mục đích sử dụng đất, thực hiện các quyền của người sử dụng đất; số lượng các
+khu đất giao quản lý phát triển quỹ đất; kết quả các khu đất giao đấu giá quyền
+sử dụng đất.
+2. Dữ liệu về tài nguyên nước:
+a) Số lượng, chất lượng nước mặt, nước dưới đất (bao gồm các số liệu
+quan trắc về tài nguyên nước);
+b) Số liệu điều tra khảo sát địa chất thủy văn;
+c) Các dữ liệu về khai thác và sử dụng tài nguyên nước;
+d) thoạch các lưu vực sông, quản lý, khai thác, bảo vệ các nguồn
+nước;
+đ) Kết quả cấp phép, gia hạn các loại giấy phép, thu hồi, trả lại các loại.
+giấy phép thăm đò, khai thác, sử dụng tài nguyên nước; trám lắp giếng khoan
+không sử dụng; dữ hệu về điều tra đánh giá tài nguyên nước dưới đất; điều tra
+đánh giá hiện trạng xả nước thải và khả năng tiếp nhận nước thải của nguồn
+nước;
+e) Các dữ liệu về các yếu tố ảnh hưởng đến tài nguyên nước.
+3. Dữ liệu về địa chất và khoáng sản:
+a)T hống kê trữ lượng khoáng sản (cát, sét...);
+b) Kết quả điều tra cơ bản địa chất về tài nguyên khoảng sản và các mẫu
+vật địa chất, khoáng sản; dữ liệu địa tầng, địa chất khu vực, vùng định hướng
+quy hoạch xây dựng;
+c) Quy hoạch, kế hoạch điều tra cơ bản địa chất về tài nguyên khoáng sản,
+quy hoạch về thăm đò, khai thác, chế biến và sử dụng khoáng sảng
+đ) Bản đồ địa chất khu vực, địa chất tai biến, địa chất môi trường, địa chất
+khoáng sản, địa chất thủy văn, địa chất công trình và các bản đồ chuyên đề về
+địa chất và khoáng sản;
+d) Khu vực đấu giá hoạt động khoáng sản; khu vực có khoáng sản đặc
+biệt, độc hại; các khu vực cấm, tạm thời cấm hoạt động khoáng sản; khu vực dự
+trữ khoáng sản;
+c) Báo cáo hoạt động khoáng sản; báo cáo quản lý nhà nước bàng năm về
+hoạt động khoáng sản;
+g) Kết quả cấp, gia bạn, thu hồi, cho phép, trả lại giấy phép hoạt động
+khoáng sản, cho phép tiếp tục thực hiện quyền hoạt động khoáng sản.
+4.Dữ liệu về môi trường:
+a) Các kết quả điều tra, khảo sát, thanh tra, kiểm tra về môi trường:
+b Kết quả của các chương trình mục tiêu quốc gia; sử dụng bền vững tải
+nguyên và bảo vệ môi trường;
+c) Kết quả hoạt động của các dự án hợp tác quốc tế về môi trường;
+d) Báo cáo hiện trạng môi trường;
+3
+d) Danh sách các cơ sở bảo tồn da dạng sinh học, các khu bảo tồn thiên
+nhiên;
+c) Báo cáo Quy hoạch tổng thể bảo tồn đa dạng sinh học, các hệ sinh thái
+(trên cạn, dưới nước) và an toàn sinh học;
+8) Báo cáo đánh giá môi trường chiến lược, đánh giá tác động môi trường.
+đề án bảo vệ môi trường, cam kết bảo vệ môi trường;
+b) Báo cáo về nguồn thải, lượng chất thải. nguồn gây ô nhiễm, chất thải
+thông thường, chất thải nguy hại có nguy cơ gây 6 nhiềm môi trường; kết quả
+cải tạo, phục hồi môi trường trong các hoạt động khai thác khoáng sản: hiện
+trạng môi trường tại các mô khai thác khoáng sản; hiện trạng môi trưởng các
+điểm ô nhiễm hóa chất bảo vệ thực vật tần lưới dự án xử lý và phục hồi môi.
+trưởng các điểm ô nhiễm hóa chất bảo vệ thực vật tồn lưu;
+l) Báo cán về tình hình nộp phí bảo vệ môi trường; kết quả giải quyết bồi
+thường thiệt hại, tranh chấp, khiếu nại, tố cáo về môi trường đã được cơ quan.
+nhà nước có thẩm quyền giải quyết;
+k) Báo cáo về khu vực bị ô nhiễm, nhạy cảm, suy thoái, sự cố môi trường;
+khu vực có nguy cơ xây ra sự cố môi trường; bản đổ 6 nhiễm môi trường và các
+biện pháp kiểm soát, phòng ngừa, giảm thiểu ô nhiễm môi trường;
+1) Danh mục về các cơ sở gây ô nhiễm môi trường nghiêm trọng; Danh
+mục và tình bình bảo vệ môi trường làng nghề, khu công nghiệp, nạm công
+nghiệp;
+m) Kết quả về quản lý môi trường lưu vực sông, ven biển và biển; ô
+nhiễm môi trường xuyên biên giới;
+c) Kết quả về xử lý chất thải, khí thải, nước thải, tiếng ổn, độ rung và các:
+công nghệ môi trường khác;
+c) Kết quả về đào tạo và truyền thông nâng cao nhận thức cộng đồng bảo.
+vệ môi trường;
+p) Thông tin, dữ liệu quan trắc môi trường được phép trao đổi;
+r) Kết quả cấp, gia hạn, thu hồi các loại giấy phép về môi trường.
+5. Dữ liệu về khí tượng thủy văn:
+a) Các tài liệu, số liệu điều tra cơ bản về khí tượng thủy văn, môi trường
+không khi và nước, biến đổi khí hậu;
+b) Các loại biểu đổ, bản đồ, ảnh thu từ vệ tỉnh, các loại phím, ảnh về các
+đối tượng nghiên cứu khí tượng thủy văn;
+c) Hồ sơ kỹ thuật của các công trình khí tượng thủy văn;
+d) Kết quả cấp, gia hạn, thu hồi các loại giấy phép về hoạt động khí
+tượng, thủy văn.
+6) Dữ liệu về đo đạc và bản đồ:
+a) Hệ quy chiếu Quốc gia;
+b) Hệ thống số liệu gốc đo đạc quốc gia, hệ thống số liệu gốc các điểm địa
+4
+chính cơ sở; hệ thống điểm độ cao;
+c) Hệ thống ảnh máy bay, ảnh vệ tinh phục vụ đo đạc và bản đồ;
+d) Hệ thống bản đồ địa hình, bản đồ nền, bản đổ biên giới quốc gia, bản.
+đồ địa chính cơ sở, bản đồ hành chính, bản đồ địa lý tổng hợp và các loại bán đồ
+chuyên đề khác;
+đ) Hệ thống thông tin địa lý;
+c) Thông tin tư liệu thứ cấp được bình thành từ các thông tin tư liệu về đơ
+đạc và bản đồ nêu tại Điểm ạ, b, c, đ, đ và thông tin tư liệu tích hợp của thông
+tin tư liệu về đo đạc và bản đồ với các loại thông tin tư liệu khác;
+g) Kết quả cấp, gia hạn, thu hồi các loại giấy phép về hoạt động đo đạc và
+bản đồ.
+7. Dữ liệu tài nguyên môi trường biển và đảo:
+a) Dữ liệu về đất có mặt nước biển;
+b) Dữ liệu về địa hình đáy biển;
+c) Đữ liệu về tính chất cơ lý của nước biển;
+d) Dữ liệu về địa chất biến, địa vật lý biển, khoảng sản biển;
+đ) Dữ liệu về dầu, khí biển;
+g) Dữ liệu về chất lượng môi trường biển;
+h) Dữ liệu về khí tượng, thủy văn biển;
+i) Dữ liệu về đảo;
+k) Dữ liệu khác liên quan đến tài nguyên, môi trường biển.
+8. Dữ liệu về biến đổi khí hậu:
+a) Chương trình, dự án, để tài về biến đổi khí hậu;
+b) Các dạng dữ liệu về biến đối khi hậu và kết quả của các chương trình,
+dự án biến đổi khí hậu đã thực hiện;
+9. Kết quả giải quyết tranh chấp, khiếu nại, tố cáo về tài nguyên và môi
+trường đã được cơ quan nhà nước có thẩm quyền giải quyết;
+10. Các tiêu chuẩn, quy chuẩn kỹ thuật, định mức kinh tế - kỹ thuật về tài
+nguyên và môi trường;
+1.1. Kết quả của các dự án, chương trình, để tài nghiên cứu khoa học công
+nghệ về tài nguyên và môi trường;
+12. Dữ liệu khác liên quan đến các lĩnh vực quản lý nhà nước của Sở Tài
+nguyên và Môi trường;
+Điều 4. Cơ sở dữ liệu về tài nguyên và môi trường tỉnh Bến Tre
+Cơ sở dữ liệu tài nguyên và môi trườngtnh Bến Tre (sau đây gọi là Cơ sở dữ
+liệu tài nguyên và môi trường tỉnh) thực hiện theo Điều 3 của quy chế này lập hợp.
+toàn bộ các dữ liệu tài nguyên và môi trường đã được kiểm tra, đảnh giá, xử lý,
+5
+tích hợp, cập nhật chỉnh lý biến động thường xuyên và được lưa trữ một cách có.
+hệ thống, có tổ chức dưới dạng tệp dữ liệu lưi trên các hệ thống tin học, các thiết
+bị lưu trở và các loại ổ cứng máy tính, bảng từ, đia CĐ, DVDvà các thiết bị lưu
+trữ khác hoặc văn bản, tài liệu được xây dựng, cập nhật và duy trì phục vụ quản lý.
+nhà nước và các hoạt động kinh tế, xã hội, quốc phòng, an ninh, nghiên cứu khoa.
+học, giáo dục đào tạo và nâng cao dân trí trên địa bàn tỉnh.
+Chương II
+QUY ĐỊNH CỤ THỂ
+Mục 1
+THU THẬP, QUẢN LÝ, CẬP NHẬT DỮ LIỆU
+VỀ TÀI NGUYÊN VÀ MÔI TRƯỜNG
+Điều 5. Nguyên tắc thu thập, quản lý, cập nhật,khai thác và sử dụng
+dữ liệu
+Việc thu thập, quản lý, cập nhật, khai thác và sử dụng dữ liệu về tài
+nguyên và môi trườngphải tuân theo các nguyên tắc sau đây:
+1. Phục vụ kịp thời công tác quản lý nhà nước và đáp ứng yêu cầu phát
+triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh.
+2. Bảo đảm tính chính xác, trung thực, khách quan.
+.. Bảo đảm tính khoa học, thuận tiện cho khai thác và sử dụng.
+4. Bảo đảm tính kịp thời, đầy đủ và có hệ thống.
+5. Sử dụng dữ liệu đúng mục đích.
+6. Khai thác và sử dụng đã liệu phải thực hiện nghĩa vụ tài chínhtheo quy.
+định pháp luật.
+7. Tuân theo các quy định của pháp luật về bảo vệ bí mật nhà nước.
+Điều 6. Cơ quan chuyên môn thu thập, quản lý, cập nhật, khai thác
+và sử dụng dữ liệu về tài nguyên và môi trường
+1. Sở Tài nguyên và Môi trường có trách nhiệm chủ trì phối hợp với các
+sở, ban, ngành; Ủy ban nhân dân các huyện, thành phố và các tổ chức, cá nhân.
+có liên quan thu thập, quản lý, cập nhật, khai thác và sử dụng dữ liệu về tái
+nguyên và môi trường trên địa bàn tỉnh.
+2. Giám đốc Sở Tài nguyên và Môi trường chỉ đạo Trung tâm Công nghệ
+thông tin thu thập, quản lý, cập nhật khai thác và sử dụng dữ liệu về tài nguyên
+và môi trường của tỉnh.
+Điều 7. Lập, phê duyệt kế hoạch thu thập dữ liệu
+1. Hàng năm căn cứ vào Điều 11, Điều 12 Thông tư số 07/2009/TT-
+BTNMT ngày 10 tháng 7 năm 2009 của Bộ Tài nguyên và Môi trường các Sở.
+ban, ngành của tỉnh trong phạm vi chức năng, nhiệm vụ được giao xác định dữ
+liệu cần thu thập, cập nhật, đề xuất các hoạt động, nhiệm vụ thu thập, cập nhật
+6
+dữ liệu về tài nguyên và môi trường, gửi về Sở Tài nguyên và Môi trường
+trướcngày 15 tháng 9 hàng năm để tổng hợp, lập kế hoạch dự kiến.
+2. Sở Tài nguyên và Môi trường tổng hợp để xuất của các Sở, ban, ngành
+về các hoạt động, nhiệm vụ thu thập, cập nhật dữ liệu của mình dự thảo kế
+hoạch; chủ trì, phối hợp với các Sở, ban, ngành của tỉnhtrình Ủy ban nhân dân
+tỉnh phê duyệt kế hoạch thu thập dữ liệu về tải nguyên và môi trường bàng năm.
+của tình trước ngày 15 tháng 1 hàng năm và tổ chức triển khai, theo dõi, đôn.
+đốc việc thực hiện kế hoạch sau khi được phê duyệt.
+Sau khi phê duyệt, Ủy ban nhân dân cấp tỉnh gửi một bản kế hoạch thu thập.
+dữ liệu về tài nguyên và môi trường bàng năm của mình đến Bộ Tài nguyên và Mổi
+trường, Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ có phạm vi quản lý nhà
+nước liên quan đến các dữ liệu cần thu thập theo kế hoạch đã phê duyệt
+Điều 8. Thực hiện kế hoạch thu thập, cập nhậtdữ liệu
+Thực hiện kế hoạch thu hập, cập nhật dữ liệu tài nguyên môi trường tỉnh
+Bến Tre được thực hiện như sau:
+1. Sở Tài nguyên và Môi trường có trách nhiệm giúp Ủy ban nhân dân
+tỉnh triển khai thực hiện kế hoạch thu thập, cập nhật dữ liệu tài nguyên và môi
+trường hàng năm sau khi được Ủy ban nhân dân tỉnh phê duyệt.
+2. Việc thu thập dữ liệu về tài nguyên và môi trường phải tuân thủ đúng.
+các quy định, quy trình, quy phạm, tiêu chuẩn, quy chuẩn kỹ thuật, định mức.
+kinh tế - kỷ thuật về thu thập, cập nhật dữ liệu. Nội dung dữ liệu thu thập, cập.
+nhật phải phù hợp, chính xác, kịp thời, hiệu quả; ưu tiên mục tiên sử dụng dài
+hạn; ưu tiên dữ liệu có thể dùng cho nhiều mục đích sử dụng khác nhau.
+Trong quá trình thực hiện việc thu thập, xử lý dữ liệu, các Sở, ban, ngành,
+Ủy ban nhân dân huyện, thành phố và Sở Tài nguyên và Môi trường phối hợp.
+chặt chẽ, thường xuyên thông báo, trao đổi, bảo đảm nhiệm vụ được thực hiện.
+nhanh chóng, hiệu quả, chính xác, tin cậy, tiết kiệm.
+3. Trường hợp pháp luật quy định việc thu thập dữ liệu phải được phép
+của cơ quan nhà nước có thẩm quyền thì đơn vị được giao chủ trì việc thu thập.
+dữ liệu phải làm thủ tục xin pháp theo quy định và chỉ được tiến hành thụ thập.
+dữ liệu sau khi được cơ quan nhà nước có thẩm quyền cho phép.
+4. Việc thu thập dữ liệu về tài nguyên và môi trường thuộc danh mục tài
+liệu bí mật nhà nước phải thực hiện đúng quy định của pháp luật về bảo vệ bì
+mật nhà nước.
+5. Hình thức thu thập dữ liệu: Yêu cầu cung cấp dữ liệu và tiếp nhận dữ
+liệu từ các tổ chức, cá nhân theo kế hoạch được lập hàng năm.
+Điều 9. Giao nộp dữ liệu tài nguyên và môi trường
+Thực hiện theo quy định tại Điều 16 Thông tư 07/2009/TT-BTNMT.
+Dữ liệu tài nguyên và môi trường khi giao nộp phải được lập thành biên
+bản và lưu vào hồ sơ theo quy định.
+Điều 10. Kiểm tra, đánh giá, xử lý dữ liệu
+7
+1.Nguyên tắc, kiểm tra, đánh giá, xử lý dữ liệu tài nguyên và môi trường
+thực hiện theo quy định tại Điều 17 Thông tư số 07/2009/TT-BTNMT.
+2. Trung tâm Công nghệ thông tin thuộc Sở Tài nguyên và Môi trường có
+trách nhiệm kiểm tra, đánh giá, xử lý dê liệu khi thu thập. Nội dung kiểm tra,
+đánh giá dữ liệu tuân thú theo Điều 18 Thông tư 07/2009/TT-BTNMT.
+3. Việc xử lý dữ liệu tài nguyên môi trường tỉnh Bến Tre tuân thủ theo
+Điều 19 Thông tư 07/2009/TT-BTNMT.
+Điều 11. Lưu trữ, bảo quản dữ liệu
+1. Tất cả các dữ liệu về tài nguyên và môi trường thập được, phái được
+phân loại kịp thời, đánh giá, xử lý vế mặt vật lý, hóa học, và chuẩn hóa, số hóa
+để lưu trữ, bảo quảntrong các kho lưu trở Trung tâm Công nghệ thông tin.
+2. Việc lưu trữ, bảo quản dữ liệu về tài nguyên và môi trường, tiêu hủy tải
+liệu hết giá trị phải tuân theo các quy định, pháp luật về lưu trữ.
+Mục 2
+CUNG CẤP, KHAI THẮC, SỬ DỤNG ĐỮ LIỆU
+TÀI NGUYÊN VÀ MÔI TRƯỜNG
+Điều 12. Công bố danh mục dữ liệu
+Việc công bố danh mục dữ liệu về tài nguyên môi trường được thực hiệc.
+theo Điều 11Nghị định số 102/2008/NĐ-CP ngày 15 tháng 9 năm 2008.
+Điều 13.Thẩm quyền cung cấp dữ liệu tài nguyên và môi trường
+1. Đối với các thông tin dữ liệu tài nguyên và mội trường thuộc bí mật nhà
+nước:
+a) Chủ tịch Ủy ban nhân dân tỉnh quyết định việc cung cấp thông tin bí.
+một nhà nước độ tuyệt mật và tối mật cho cơ quan, tổ chức, công dân Việt Nam;
+độ mật cho cá nhân, tổ chức nước ngoài ;
+b) Giám đốc Sở Tài nguyên và Môi trường quyết định việc cung cấp
+thông tin bí mật nhà nước độ mật cho cơ quan, tổ chức, công dân Việt Nam.
+2. Giám đốc Sở Tài nguyên và Môi trường chỉ đạo Trưng tâm Công nghệ
+thông tin cung cấp các thông tin dữ liệu tài nguyên và môi trường được phép
+công khai, công bố rộng rải (không thuộc thông tin, tài liệu bí mật nhà nước).
+Điều 14.Hình thức khai thác, sử dụng dữ liệu
+Việc khai thác và sử dụng dữ liệu về tài nguyên và môi trường thực hiện
+theo các hình thức sau đây:
+1. Khai thác và sử dụng dữ liệu qua mạng Internet trên cổng thông tin
+điện tử của Sở Tài nguyên và Môi trường, cổng thông tin điện tử tỉnh Bến: Tre.
+hoặc có thể khai thác trợc tuyến thông qua hệ thống thông tin chuyên ngành theo.
+quy định của Nhà nước.
+2. Khai thác và sử dụng dữ liệu thông qua phiếu yêu cầu hoặc văn bản yêu
+cầu tại cơ quan quản lý dữ liệu.
+8
+3. Khai thác và sử dụng dữ liệu bằng bình thức hợp đồng giữa cơ quan.
+quản lý dữ liệu và bên khai thác, sử dụng dữ liệu theo quy định của pháp luật.
+Điều 15. Phạm vi, mức độ, đối tượng được khai thác, sử dụng dữ liệu
+về tài nguyên và môi trường tỉnh Bến Tre
+1. Căn cứ danh mục dữ liệu về tài nguyên và môi trường tính được Ủy
+ban nhân dân tỉnh công bố theo đề nghị của Sở Tài nguyên và Môi trường, tổ.
+chức, cá nhân được khai thác, sử dụng tài nguyên và môi trường tỉnh Bến Tree.
+2. Đối với các thông tin dữ liệu tài nguyên môi trường thuộc bí mật nhà
+nước thực hiện theo Khoản 1 Điều 13 của Quy chế này.
+3. Trách nhiệm và quyền hạn của tổ chức, cá nhân khai thác và sử dụng
+dữ liệu về tải nguyên và môi trường thực hiện theo đúng quy định tại Điều 13
+của Nghị định số 102/2008/NĐ-CP của Chính phủ.
+Điều 16. Trình tự, thủ tục cung cấp dữ liệu về tài nguyên và môi
+trường
+1. Nguyên tắc cung cấp, khai thác và sử dụng dữ liệu thực hiện theo quy.
+định tại Điều 20 của Thông tư số 07/2009/TT-BTNMT.
+2. Cung cấp, khai thác và sử dụng dữ liệu trên mạng Internet, trang điện.
+tử thực hiện theo quy định tại Điều 21 của Thông tư số 07/2009/TT-BTNMT.
+3. Trình tự, thủ tục cung cấp dữ liệu bằng phiếu yêu cầu, văn bản yêu cầu
+và theo hình thức hợp đồng; Thực hiện theo quy định tại Điều 22, Điều 22, Điều
+24, Điều 26 của Thông tư số 07/2009/TT-BTNMT.
+4. Trường hợp cung cấp dữ liệu về tài nguyên và môi trường để phục vụ
+cho các mục đích quốc phóng và an ninh, phục vụ yêu cầu trực tiếp của lãnh đạo.
+Đảng và Nhà nước hoặc trong tình trạng thần cấp, các đơn vị thuộc Sở Tài
+nguyên và Môi trường quản lý Cơ sở dữ liệu dử liệu về tài nguyên và môi
+trường có trách nhiệm tổ chức thực hiện theo chỉ đạo của Thủ trưởng cơ quan,
+không thu phí khai thác, sử dụng.
+Điều 17. Những trường hợp không cung cấp dữ liệu
+Thực hiện theo quy định tại Điều 25 Thông tư 07/2009/TT-BTNMT.
+Điều 18. Phối hợp, chỉa sẻ dữ liệu tài nguyên và môi trường
+1. Việc phối hợp, chia sẻ dữ liệu về tài nguyên và môi trường giữa Sở Tài
+nguyên và Mồi trường với các Sở, ban, ngành trên địa bàn tỉnh Bên Trelã việc
+trao đổi, cung cấp các dữ liệu giữa Sở Tài nguyên và Môi trường với các Sở,
+ban, ngành trên địa bàn tỉnh Bến Tre, giữa các Cơ sở dữ liệu về tài nguyên và
+môi trường và giữa các cơ quan, tổ chức có liên quan trên nguyên tắc:
+a) Bảo đảm việc tiếp cận và sử dụng dữ liệu về tài nguyên và môi trường
+phục vụ kịp thời cho việc đánh giá, dự báo, xây dựng kế hoạch, tăng cường hiệu.
+lực, hiệu quả công tác quản lý nhà nước và đáp ứng yêu cầu phát triển kinh tế -
+xã hội, bảo đảm quốc phòng, an ninh;
+b) Trên cơ sở chức năng, nhiệm vụ của mỗi cơ quan, tổ chức; bảo đảm
+không trùng lập, chồng chéo nhiệm vụ giữa các tổ chức, đơn vị có liên quan và
+9
+bản đảm có sự phối hợp chặt chẽ trong việc thu thập, quản lý dữ liệu về tài
+nguyên và môi trường;
+c) Bảo đảm dữ liệu được thu thập đầy đủ, chính xác và có hệ thống; thống
+nhất các dữ liệu đã được thu thập, cập nhật, quản lý;
+đ) Bảo đảm việc trao đổi, cung cấp dữ liệu được thông suốt, kịp thời; bảo.
+đảm các yêu cầu vềan toàn thông tin;
+đ) Bảo đảm thu thập, quản lý, cập nhật, khai thác và sử dụng hiệu quả,
+khả thì, tiết kiệm kinh phí, nguồn nhân lực.
+2. Nội dung phối hợp, chia sẻ dữ liệu:
+a) Các Sở, ban, ngành, Ủy ban nhân dân huyện, thành phố quản lý dữ liệu.
+và cơ sở dữ liệu tài nguyên và môi trường có trách nhiệm áp dụng các biện pháp.
+nghiệp vụ - kỹ thuật cần thiết để bảo mật hệ thống dử liệu chung, bảo đảm sự
+chía sẽ dữ liệu chính xác, kịp thời, hiệu quả cho các tổ chức, cá nhân;
+b) Sở Tài nguyên và Môi trường cung cấp cho các Sở, ban, ngành và Ủy.
+ban nhân dân các huyện, thành phố quyền truy cập để khai thác, sử dụng dữ liệu.
+từ cơ sở dữ liệu tài nguyên và môi trường của tỉnh thông qua mạng điện tử.
+Chương III
+TỔ CHỨC THỰC HIỆN
+Điều 19. Trách nhiệm của Sở Tài nguyên và Môi trường
+Sở Tài nguyên và Môi trường có trách nhiệm:
+1. Tổ chức, hướng dẫn, đào tạo, bồi dưỡng cán bộ, công chức, viên chức.
+làm công tác thu thập, quản lý, cập nhật, khai thác, sử dụng dữ liệu tải nguyên
+và môi trường; tiến hành theo dõi, kiểm tra việc thực hiện Quy chế này.
+2. Chủ trì, phối hợp với các cơ quan liên quan lập, trình Ủy ban nhân dân
+tỉnh phê duyệt Kế hoạch thu thập dữ hệu về tài nguyên và môi trường hàng năm
+trên địa bàn tỉnh và tổ chức triển khai, theo dõi, đôn đốc việc thực hiện kế hoạch.
+sau khi được phê duyệt.
+Chủ trì, phối hợp với các đơn vị có liên quan xây dựng, trình Ủy ban nhân
+dân tỉnh quy định cụ thế hình thức cung cấp dữ liệu về tài nguyên môi trường từ
+Irternet và trang điện tử phù hợp với khả năng điểu kiện công nghệ thông tin
+trực tuyến trong từng giai đoạn, theo quy định tại Điều 3 của Thông tư số
+26/2009/TT- BTTTT ngày 31 tháng 7 năm 2009 của Bộ Thông tin và Truyền
+thông quy định về việc cung cấp thông tin và bảo đảm khả năng truy cập thông
+tin điện tử của cơ quan nhà nước.
+3. Xây dựng, trình Ủy ban nhân dân tỉnh phê duyệt danh mục dữ liệu về
+tài nguyên và môi trường của tỉnh và tổ chức công bố trên trang tin điên tử của
+Sở, Cổng thông tin điện tử tỉnh Bến Tre.
+4. Tham mưu cho Ủy ban nhân dân tỉnh việc kiểm tra, xem xét, xử lý các
+đơn vị tổ chức, cá nhân vi phạm các quy định về thu thập, quản lý, cập nhật,
+10
+khai thác, sử dụng dữ liệu về tài nguyên và môi trưởng.
+5. Xây dựng hạ tầng kỹ thuật, ứng dụng công nghệ thông tin để đảm bảo.
+việc thu thập, xử lý, cập nhật, thông tin một cách đầy đủ, tin cậy, nhanh chóng,
+chính xác; đồng thời bảo đảm việc xây dựng, lưu trữ an toàn Cơ sở dữ liệu.
+6. Giao nhiệm vụ cho Trung tâm Công nghệ thông tin thuộc Sở Tài
+nguyên và Môi trường:
+a) Tiếp nhận, xử lý dữ liệu về tài nguyên và môi trường; xây dựng, quản
+lý, cập nhật, khai thác, sử dụng dữ liệu về tài nguyên và môi trường; Cung cấp.
+dữ liệu về tài nguyên và môi trường cho các tổ chức, cá nhân theo quy định;
+b) Ký hợp đồng với tổ chức, cá nhân về thu thập, quản lý, cập nhật, khai
+thác dữ liệu về tài nguyên và môi trường; thu phí khai thắc, sử dụng dữ liệu tái
+nguyên và môi trường theo quy định;
+c) Kiểm tra và sao lưu dữ liệu: Định kỳ 3 (ba) tháng 1 (một) lần sao lưu dữ
+liệu tài nguyên và môi trường trên đĩa cứng, đaa quang (CD, DVD) và lưa trữ theo.
+quy trình quy phạm kỹ thuật, bảo mật và an toàn theo quy định của pháp luật;
+đ) Có các biện pháp quản lý, nghiệp vụ và kỹ thuật đối với hệ thống thông
+tin nhằm bảo vệ, khôi phục các hệ thống, các dịch vụ và nội dung dữ liệu đối với
+nguy cơ tự nhiên hoặc đó con người gây ra nhằm bảo đảm cho Cơ sở dữ liện rài
+nguyên và môi trường tỉnh thực hiện dùng chức năng, phục vụ đúng đối tượng
+một cách sẵn sàng, chính xác và tin cậy. Bảo đảm an toàn dữ liệu số về tải
+nguyên và môi trường bao gồm các nội dung bảo vệ và bảo mật dữ liệu, an toàn
+dữ liệu, an toàn máy tính và an toàn mạng.
+Điều 20. Trách nhiệm của các Sở, ban, ngành, Ủy ban nhân dân cấp
+huyện và các tổ chức, cá nhân có liên quan
+1. Các Sở, ban, ngành, Ủy ban nhân dân cấp huyện, thành phốtrong phạm
+vì chức năng, nhiệm vụ, quyền hạn của minh có trách nhiệm tổ chức thực hiện
+Quy chế này.
+2. Sở Tài chính chủ trì, phối hợp với Sở Tài nguyên và Môi trường
+hướng dẫn, kiểm tra việc thu, nộp, quản lý, sử dụng phí khai thác dử liệu về
+tài nguyên và môi trường.
+3. Cơ quan, tổ chức, cá nhân trong quá trình thực hiện nhiệm vụ được giao
+sử dụng nguồn vốn ngân sách nhà nước hoặc có nguồn gốc từ ngân sách nhà
+nước để thu tháp dữ liệu về tài nguyên và môi trường có trách nhiệm giao nộp
+dữ liệu cho Sở Tải nguyên và Môi trường theo quy định của pháp luật để tích.
+hợp vào cơ sở dữ liệu tài nguyên và môi trường cấp tỉnh nhằm thống nhất trong
+quản lý khai thác và công bố dữ liệu tài nguyên môi trường.
+Điều 21. Kinh phí khai thác, sử dụng đữ liệu về tài nguyên và môi.
+trường
+1. Việc khai thác và sử dụng dữ liệu về tài nguyên và môi trường được thu
+thập bằng nguồn vốn ngân sách Nhà nước hoặc có nguồn gốc từ ngân sách Nhà
+nước để phục vụ cho các mục đích quốc phòng và an ninh, phục vụ yêu cầu trực
+11
+tiếp của lãnh đạo Đảng và Nhà nước hoặc trong tình trạng khẩn cấp thì không
+phải thực hiện nghĩa vụ tài chính.
+2. Tổ chức, cá nhân khai thác, sử dụng dữ liệu không thuộc các trường
+hợp quy định tại Khoản 1 Điều này phải thực hiện nghĩa vụ tài chính.
+Điều 22. Xử lý dữ liệu tài nguyên và môi trường đã được điền tra, thu
+thập trước ngày quy chế này có hiệu lực thi hành
+Đối với các dữ liệu tài nguyên và môi trường trên địa bàn tỉnh do các tổ
+chức, cá nhân đang quản lý và lựu trở, được xây dựng, điều tra, thu thập bằng
+ngân sách hà nước hoặc có nguồn gốc từ ngân sách nhà nước trước ngày Quy
+chế này có hiệu lực thi hành được thực hiện như sau:
+1. Trường hợp dữ liệu đã được nghiệm thu, đánh giá thì các tổ chức, cá
+nhân đang quản lý để liệu có trách nhiệm cụng cấp toàn bộ dữ liệu đó cho Sở Tài
+nguyên và Môi trường- Thời hạn cung cấp dữ liệu tài nguyên và môi trường
+hoàn thành chậm nhất là 3 tháng, kể từ ngày Quy chế này có hiệu lực thi hành.
+2. Trường hợp dữ liệu chưa được nghiệm thu, đánh giá hoặc đang triển
+khai thực hiện, Thổ trưởng các tổ chức đã được Nhà mước cấp kinh phí để
+điều tra, thu thập dữ liệu về tài nguyên và môi trường có trách nhiệm tổ chức
+thẩm định, nghiệm thu, đánh giá các dữ liệu và đưa vào sử dụng theo Quy chế
+này, Thời bạn nộp dữ hiệu cho Sở Tài nguyên và Môi trường chậm nhất là Cộ
+tháng kể từ ngày kết thúc dự án, nhiệm vụ.
+- Trong quá trình thực hiện, nếu có vướng mắc các tổ chức, cá nhân pháy)
+ảnh kịp thời về Sở Tài nguyện và Môi trường để tổng hợp, nghiên cứu, trình Uỷ
+ban nhân dân tỉnh sửa đổi, bổ sung cho phù hợp./.
+TM. ỦY BAN NHÂN DÂN
+KT CHỦ TỊCH
+THÓ TỊCH
+Trương Duy Hải
+

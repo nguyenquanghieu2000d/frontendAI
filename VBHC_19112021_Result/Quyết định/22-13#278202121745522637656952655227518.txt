@@ -1,0 +1,449 @@
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH BẾN TRE   Độc lập - Tự do - Hạnh phúc
+Số:2266/2013/QĐ-UBND   Bến Tre, ngày 08 tháng 8 năm 2013
+L.C THỜNG TIN ĐIỆN TỦ CHÍNH PHỦ
+QUYẾT ĐỊNH
+Ban hành Qay chế đảm bảo an toàn, an ninh thông tin trên
+môi trường mạng trong hoạt động của các cơ quan nhà nước
+trên địa bàn tỉnh Bến Tre
+ỦY BAN NHÂN DÂN TỈNH BẾN TRE
+Căn cứ Luật Tổ chức Hội đồng nhân dân và Ủy ban nhân dân ngày 26
+tháng 11 năm 2003;
+Căn cứ Luật ban hành văn bản quy phạm pháp luật của Hội đồng nhân.
+dân và Ủy ban nhân dân ngày 03 tháng 12 năm 2004;
+Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006;
+Căn cứ Nghị đình số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của
+Chính phủ quy định về ứng dụng công nghệ thông tin trong hoạt động của cơ
+quan nhà nước;
+Căn cứ Thông tư số 23/2011/TT-BTTTT ngày 11 tháng 8 năm 2011 của
+Bộ Thông tin và Truyền thông Quy định về việc quản lý, vận hành, sử dung và
+bảo đảm an toàn thông tin trên Mang truyền số liệu chuyên đúng của các cơ
+quan Đảng, Nhà nước;
+Xét đề nghỉ của Giám đốc Sở Thông tin và Truyền thông tại Tò trình số.
+540/TTr-STTTT ngày 30 tháng 7 năm 2013,
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy chế đảm bảo an toàn, an.
+ninh thông tin trên môi trường mạng trong hoạt động của các cơ quan nhà nước.
+trên địa bàn tỉnh Bến Tre.
+Điều 2. Các ông (bả): Chánh Văn phòng Ủy ban nhân dân tỉnh, Giám:
+đóc Sở Thông tin và Truyền thông, Thủ trưởng các sở, ban, ngành tỉnh, Chí
+tích Ủy ban nhân dân các huyện, thành phố, Chủ tịch Ủy ban nhân dân các xã,
+phường, thị trấn chịu trách nhiệm thi hành Quyết định này.
+Quyết định này có hiệu lực sau 10 ngày kể từ ngày ký./.
+Nơi nhận:   THÂN DÂN NHÂN DÂN
+- Bộ Thông tin và Truyền thông;
+- Website Chính phủ;
+- Cục kiểm tra văn bán - BTP (để kiếm tra);
+- TT.TU, TT HĐND tỉnh (thay báo cáo);
+- Đoàn đại biểu Quốc hội tỉnh;
+- Chủ tịch, các, PCT.UBND tỉnh;
+- Sở Tư pháp (tự kiểm tra);
+- Các sở, ban ngành tỉnh (để thực hiện);
+- UBND các huyện, thành phố (để thực hiện);   Võ Thành Hạo
+- Báo Đồng Khởi (để đặng tin);
+- Đài PT và TH tỉnh (để đưa tin);
+- Chánh, PCVPNC Nguyễn Văn Dũng (để biết);
+- Website tỉnh;
+- Trung tâm Công báo tỉnh (2b);
+- Phòng Tiếp dân (để niêm yết);
+- Phòng NC: VHXH, TH;
+- Lưu: VT.
+2
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH BẾN TRE   Độc lập - Tự do - Hạnh phúc
+QUY CHẾ
+Về việc đảm bảo an toàn, an ninh thông tin trên môi trường mạng trong
+hoạt động của các cơ quan nhà nước trên địa bàn tỉnh Bến Tre
+(Ban hành kèm theo Quyết định số 22 /2013/QĐ-UBND ngày 08 tháng: 8
+năm 2013 của Ủy ban nhân dân tỉnh Bến Tre)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Quy chế này quy định các nội dung đảm bảo an toàn, an ninh thông tin:
+trên môi trường mạng trong hoạt động của các cơ quan nhà nước trên địa bàn
+linh Bếu Tre, bao gồm: công tác xây dưng các quy định quản 16 đảm bảo an
+toan, ao ninh thông tin; việc áp dụng các biện pháp quản lý kỹ thuật, quản lý
+vàn hành đảm bảo an toàn, an ninh thông tin đối với hệ thống thông tin.
+Điều 2. Đối tượng áp dụng
+1. Quy chế này được áp dụng đối với các cơ quan nhà nước trên địa bàn.
+tỉnh Bền Tre, bao gồm các sở, ban, ngành thuộc Ủy ban nhân dân tỉnh; Ủy ban.
+nhân dân các huyện, thành phố, Ủy ban nhân dân các xã, phường, thị trân (sau
+đây gọi tắt là cơ quan, đơn vị).
+2. Cán bộ, công chức, viên chức đang làm việc Hong các cơ quan, đơn vị
+nên tại Khoản 1 điều này và những cá nhân, tổ chức có liên quan áp dụng quy
+chế này trong việc vận hành, khai thác hệ thống thông tin tại các cơ quan, đơn.
+vị.
+Điều 3. Mục đích đảm bảo an toàn, an nình thông tin.
+1. Giảm thiển các nguy cơ gây sự cố mật an toàn thông tin và đảm bảo an.
+ninh thông tin trong quá trình tác nghiệp của cán bộ, công chức.
+2. Công tác đảm bảo an toàn, an ninh thông tin, bảo mật trên môi trường.
+mạng là nhiêm vụ trọng tâm để đảm báo thành công trong việc ứng dung công
+nghệ thông tin trong hoạt động của các cơ quan nhà nước
+Điều 4. Giải thích từ ngữ
+3
+1. An toàn thông tin số: là thuật ngữ đúng để chỉ việc bảo vệ thông tin số.
+và các hệ thống thông tin chống lại các nguy cơ tự nhiện, các hành động truy
+cập, sử dụng, phát táp, phá hoai, sửa đổi và phá hủy bất hợp pháp nhâm bao.
+đảm cho các hệ thống thông tin thực hiện đúng chức năng, phục vụ đúng đối
+trượng một cách sẵn sáng, chính xác và tin cậy. Nội dung của an toàn thông tin
+bao gồm bảo vệ an toàn mạng và hạ tầng thông tin, an toàn máy tính, dữ liệu và
+ứng dụng công nghệ thông tin.
+2. Hệ thống thông tin là một tập hợp và kết hợp các phần cứng, phần
+mềm, các hệ thống mạng truyền thông được xây dưng và sử dung để thu thập,
+tạo, tái tạo, phân phối và chía sẻ các dư liệu, thông tin, trí thức nhằm phục vụ
+cho các mục tiêu của tổ chức.
+3. An toàn, an ninh thông tin: là đảm bảo thông tin được bảo mật, sắn:
+sàng và toàn vẹn.
+4. Tính tin cây: là đảm bảo thông tin chỉ có thể được truy cập bời những
+người được cấp quyền truy cập.
+5. Tính toàn ven: là bảo vệ tính chính xác, tỉnh đầy đủ của thông tin và
+các phương pháp xử lý thông tin.
+6. Tính sẵn sáng: là đảm bảo những người được cấp quyền có thể tray
+cập thông tin và các tài liệu có liên quan ngay khi có nhu cầu.
+7. Lng Fil: Là một tập tin được tạo ra bời một máy chủ vech hoặc máy.
+chủ proxy có chứa tất cả thông tin về các hoạt động trên máy chủ đó.
+8. Trrexail: là rào chấn (phần cứng, phần mềm) được lập ra nhằm kiểm
+soát người dùng mang Internet truy nhập vào các thông tin không nưong muốn.
+và người dùng từ bên ngoài truy nhập trái phép thông tin trong mạng nội bộ.
+9 Môi trường mạng bao gồm: mạng nội bộ ( LAN); mạng diện rộng cửa
+Ủy ban nhân dân tỉnh, của ngành (WAN); mạng truyền số liệu chuyên dứng của
+các cơ quan Đảng, Nhà nước; mạng riêng áo (VTN), mạng loranel; mạng.
+Internet.
+10. TCVN 7562: 2005: Tiêu chuẩn Việt Nam về mã thực hành quản lý
+an toàn thông tin.
+11. TCVN ISO/IC 27001: 2009: Tiêu chuẩn Việt Nam về quản lý an
+toàn thông tin số.
+Chương II
+QUY ĐỊNH ĐẨM BẢO AN TOÀN, AN NINH THÔNG TIN
+Điều 5. Điều kiện đảm bảo thực hiện nhiệm vụ an toàn, an ninh
+thông tin
+4
+1. Các cơ quan, đơn vị phải phổ biến những kiến thức cơ bản về an toàn
+an ninh thông tru cho cán bộ, công chức, viên chức trước khi tham gia sử dụng
+hệ thống thông tin.
+2. Các cơ quan, đơn vị bố trí cán bộ làm công tác chuyên trách về công
+nghệ thông tin phải có chuyên ngành phả hợp và được đáo tạo, bồi dưỡng
+chuyên môn đối với lĩnh vực an toàn, an ninh thông tin.
+3 Xác định và ưu tiên phân bổ kinh phí cần thiết cho các hoạt động liên
+quan đền việc bảo vệ hệ thống thông tin, thông qua việc đầu tư các thiết bị
+tưởng lửa, các chương trình chống thư rác, vires máy tính trên hệ thống may.
+chủ, máy trạm và các công tác khác lèn quan đến việc bảo đảm an toàn, an.
+ninh thông tin.
+4. Cán bộ tham gia đoàn kiểm tra công tác đảm bảo an toàn, an ninh
+thông tin phải được trang bị đầy đủ những kiển đức và được tâp buân hàng.
+năm về công tác đảm bảo an toàn, an ninh thông tin.
+5. Các cơ quan, đơn vị phải xây dựng, ban hành quy chế nội bộ về đảm
+bảc an toàn, an ninh thông tin; phải căn cứ các nội dựng của tiêu chuẩn TCVN
+7562/2005 và TCVN ISO/IC 27001:2009. Quy chế này quy định rẽ các vàn
+đề sau:
+a) Mục tiêu, phạm vi và đối tượng áp dụng.
+b) Quy định cụ thế quyền và trách nhiệm của từng đối tượng: lãnh đac:
+đơn vị, lãnh đạo cấp phòng, cán bộ chuyên trách về công nghệ thông tin và
+người sử dụng.
+c) Quy định về cấp phát, thu hồi, cập nhật và quản lý các tái khoản tray.
+cập vào hệ thống thông tin phải đảm bảo chặt chẽ, đúng quy định.
+đ) Quy định về an toàn an ninh thông tin tiên môi trường mang trung nội.
+bộ.
+đ) Cơ chế sao lưu dữ liệu; cơ chế thông tin, báo cáo và phối hợp khắc
+phục sự cố
+e) Theo dõi, kiểm tra, thống kê, tổng hợp, báo cáo theo định kỳ và đột
+xuất.
+h) Tổ chức thực hiện.
+Điều 6, Trang thiết bị và hạ tầng công nghệ thông tin
+1. Phòng máy chủ
+Phòng máy chủ của các cơ quan phải độc lập, bộ phận chuyên trách hay.
+cán bộ chuyên trách công nghệ thông tin trực tiếp quản lý, các cán bộ không
+liên quan không được vào phòng máy chủ. Phòng máy chủ phải đảm bảo khô,
+thoảng, nguồn diện cung cấp đảm bảo tính ổn định cao, Phòng máy chủ phải
+được trang bị quy lạnh và vận hành biên tục Tùy theo điều kiệu của từng cơ
+5
+quan mà bố trí phòng máy chủ riêng hoặc có thể ghép chung với bộ phân khác
+nhưng vẫn đảm bảo máy chù hoạt động ổn định và vận hành liên tục.
+2. Máy chủ
+Cấu hình máy chủ phải đủ mạnh để đáp ứng công việc Máy chủ của các
+cơ quan chỉ đóng để triển khai phần mềm bộ thống, cái đạt phấn trêm dùng
+chung, các cơ sở dữ liệu cần thiết và các phẩn miềm chống viue, ngoài ra
+không được cài thêm bất cứ phần mềm khác.
+3. Thiết bị chống sét, phòng cháy, chữa cháy
+Các cơ quan phải láp đặt thiết bì chống sét, trang bị thiết bị phòng cháy,
+chữa cháy để bảo vệ các hệ thống công nghệ thông tin.
+4. Thiết bị chuyển mạch
+Thiết bị chuyển mạch mạng tin học của các cơ quan phải đảm bảo khả
+nâng cung cấp các chức năng quản trị nhằm tăng cường đó an toàn và bảo mật
+cho hệ thống mạng như: cung cấp khả năng từ chối các kết nối không mong
+muốn hay trải phép vào hệ thống và khống chế số lượng kết nối vào hệ đồng
+mạng nội bộ thông qua thiết bị chuyển mạch Phải có ít nhất 01 thiết bị chuyên.
+mạch hỗ trợ đình tuyển PP cho mổi mang nội bộ, hỗ trợ chức năng thểu khiển.
+truy cấp, chức năng xác thực thiết bị, xác thực người sử dung và chức năng bảo
+mật quản trị mạng.
+5. Tường lửa (Firewali)
+Các cơ quan phải xây dựng tường lửa đảm bảo các yêu cần gồm khả
+năng xử lý được số lượng kết nối đồng thời cao và chịu được thông lượng cao.
+hỗ trợ các công nghệ mang riêng áo thông dụng và có phần cứng mà hóa tích.
+hợp để tăng khả năng mã hóa dã liện, cung cấp đầy đủ các cơ chế bảo mật cơ
+bản, quản lý luồng dữ liệu ra, vào và có khả năng bảo vệ hệ thống trước các
+loại tấn công từ chối dịch vụ.
+Điều 7. Quy định về quản trị phần mềm
+Trong quá trình đầu tư, thiết kế, xây dựng, nâng cấp các phần mềm hệ
+thống, các phần mềm ứng dụng dùng chung trong các cơ quan nhà nước phải
+đáp ứng yêu cầu quản trị, vận hành đảm bảo an toàn, an ninh thông tin.
+1. Quản lý tài nguyên: cán bộ quản trị mạng có trách nhiệm kiểm tra,
+giám sát chức năng chia sẽ thông tia, tổ chức cấp phát tài nguyên trên máy chủ.
+theo danh mục thư muc cho từng phòng/ ban; khuyến cáo người dùng cản nhắc.
+việc chỉa sê tài nguyên cục bộ trên máy đang sử dụng. tuyết đổi không được
+chia sở toán bộ ổ củng. Khi thực hiên chia sẻ tài nguyên trên máy chỉ hoặc trên
+máy cục bộ phải sử dụng mật khẩu để bảo vệ thông tin.
+2. Qoản lý đăng nhập hệ thống: các hệ thống thông tin cần giới hạn số
+lần đăng nhập vào hệ thống. liệ thống tư động khóa tài khoản hoặc cộ lập tái
+khoản khí liện tục đâng nhập sai vượt quả số lần quy định. Tổ chức theo đót,
+6
+giám sát tất cả các phương tiện đăng nhập từ xa, yệu cầu người sử dụng đặt mật
+khấu với đô án toàn cao, giám sát, nhắc nhở, khuyên cáo nên thay đối mật kháo.
+thường xuyên.
+3. Quản lý tài khoản: Các tai khoản va định danh người đúng trong các
+hệ thống thông tin, bao gồm tạo mới, kích hoạt, sửa đồi và loại bỏ các tác
+khoản, đồng thời tổ chức kiểm tra các tài khoản của hệ thống thông tin ít nhất ở
+tháng/tần thông qua các công cụ của hệ thống. Húy tái khoản, quyền truy cập.
+kệ thống đối với cán bộ, công chức đã chuyển công tác hoặc thối việc
+4. Quản lý nhật ký (ng kie): Hệ thống thông tin phải ghi nhận các sự.
+kiên như: quá trình đảng nhập vào hệ thống, các thao tác cấu thình hệ thống
+Thường xuyên kiến: tra, sao lưu các log lile theo từng tháng để lưu vết theo.
+đõi, xác định những sự kiện đã xảy ra của hệ thống và hạn chế việc trân log fie
+gây ảnh ưởng đến hoạt động của hệ thống
+5. Phòng chống mã đôc vìrus: Trên các máy chủ, các thiết bị di động
+trong mạng và hệ thống thông lin phải cải đặt phần mềm chống vins, thư ráo.
+pau hợp để phát luện, loại trừ mã độc, vưs và cải đặt các phần mềm này trên
+máy trạm.
+6. Quản lý cát đặt: cán bộ, công chức, viên chức không được tự ý cải đặt
+thêm chương trình khác trên máy tính cá nhân nhằm tránh sự lây lan của vims,
+gây xung đột phần mềm.
+Điều 8. Bản vệ bí mật nhà nước trong hoạt động ứng dụng công nghệ
+thông tin
+1. Quy định về soạn thảo, in ấn, phát hành và sao chụp tài liệu mật:
+a) Không được sử dụng máy tính nối mạng internet để soạn thảo văn bản,
+chuyển giao, lưu trữ thông tin có nội dung thuộc bí mậi nhà nước; cung cấp tin,
+tài lện và đưa thông tin bi mật nhà nước trên cống/trang thông tin điện tử.
+b) Không được in, sao chụp tài liệu bí mật nhà nước trên các thiết bị kết
+nối mạng internet.
+2. Khi sửa chữa, khắc phục các sự cố của máy tính dùng soạn thảo văn
+bán mật, các cơ quan phát báo cáo cho cơ quan có thẩm quyền. Không được
+cho phép các công ty tư nhân hoặc người không só trách nhiệm trực tiếp sửa
+chữa, xử lý, khắc phục sự cố.
+3, Trưóc khi thanh lý các máy tính trong các cơ quan nhà nước, cán bộ.
+chuyên trách công nghệ thông tin phải dùng các biện pháp kỹ thuật xóa bỏ vĩnh
+viễn dữ hiệu trong ổ cứng máy tính.
+Điều 9. Quản lý, vận hành hệ thống thông tin của đơn vị
+1. Hệ thống thông tin của các cơ quan, đơn vị phải có cơ chế sao lưu đữ
+liệu 6 mức hệ thống, dử liệu của các ứng dung, đữ liêu của người sử dụng; cơ
+- chế sao hư dữ liêu phải được thực hiện thường xuyên; thiết bi lưu trừ dữ liêu
+7
+được sao lưa phải đảm bảo yêu cầu kỹ thuật; đã liệu được sao lưu phải dân
+bảo tỉnh sẵn sảng và toàn vẹn đáp ứng yêu cầu phục hồi dữ liêu cho hệ thống
+thông tin hoạt động bình thường khi có sự cố xảy ra.
+2. Hệ thống thông tin của các cơ quan, đơn vị phải được triểu khai cơ chế
+bảo mặt, an toàn thông tin bằng các thểt bị phần cứng và phần mềm phù hợp.
+với quy mô của đơn vị.
+3. Hệ thống thông tin của đơn vị phải được triển khai chức nàng giám sát
+truy cập từ ngoài vào hệ thống, từ hệ thống gửi ra bên ngoàt, ghi lại nhật ký.
+dcg file) ra, vào hệ thống để phục vụ công tác khắc phục sự cố, đếu tra, phân.
+tích và làm rõ các nguy cơ gây ra mất an toàn, an ninh thông tia, chức năng
+không cho người đùng truy cấp một số webste không phù hợp với quy định
+hiện hành.
+4. Hệ thống mạng không đây (vidless) của các cơ quan, đơn vị phải.
+được thiết lập khóa khi truy cập.
+5. Mạng riêng áo (VPN) của các cơ quan, đơn vị kết nối để truy cập vàn
+hệ thống thông tin phải được bảo mật; quản lý và kiểm soái chặt chẽ các kết
+nối; hủy bỏ kết nối khi không còn sử dụng.
+6. Tất cả các tài khoản truy cập vào hê thống máy chủ, thiết bị mang.
+máy tỉnh, các ứng dụng phải được thiết lập mật khẩu; mật khẩn phải được đặt ở
+mức bảo mật cao (số lượng ký tự và nội dang của mật khẩu); mật khẩu phát
+thường xuyên thay đối với tần mất phù hợp; danh sách tài khoản phải được
+quản lý, kiểm tra và cập nhật kịp thời, quyền truy cấp của tài khoản phải được
+thiết lập phù hợp cho từng đối tượng.
+Điều 10. Cán bộ chuyên trách về công nghệ thông tin của đơn vị
+1. Được đảm bảo điều kiện về đào tạo, bồi dưỡng, học tập, nghiên cứu.
+tiếp thu kiến thức, kỹ thuật và công nghệ mới đối với lĩnh vực an toàn, an ninh.
+thông tin.
+2. Qoản lý chặt chẽ việc di chuyển các trang thiết bị công nghê thông tin
+lưu trữ các thông tin thuộc danh mục bí mật nhà nước.
+3. Thực hiện cấp phát, thu hồi, cập nhật và quản lý tất cả các tài khoản
+truy cập vào hệ thống thông tin của đơn vị; hướng dẫn người sử dụng thay đổn
+mật khẩu ngay sau khi đăng nhập lần đầu tiên; bảo vệ thông từ của tài khoản
+theo quy định
+4. Triển khai áp dụng các giải pháp tổng thể đảm bảo an toàn, an ninh.
+thông tin trong toàn hệ thống; triển khai các giát pháp kỹ thuật phòng chống
+vins, mã độc hại, thư rác cho bệ thống và máy tỉnh cá nhân; kiểm soát và có
+giải pháp kỹ thuật chống truy cập trái phép vào hệ thống thông tin.
+5. Thường xuyên cập nhật các bản và lỗi đối với hệ thống, cập nhật các
+phiên bản mới đối với chương trình chống virus.
+8
+6. Thường xuyên sao lưu dữ liệu theo quy định; kiểm tra dữ hệu sao lưu
+phải đảm bảo tính sẵn sàng, tin cậy và toàn vẹn.
+7 Thường xuyên thực hiện phân tích, đánh giá và báo cáo các rải ro và
+nguy cơ gây mất an toàn, an ninh thông tin đối với hệ thống thông tin của đơn.
+vị, nguyên nhân gây ra các rủi ro và nguy cơ gây mất an toàn, an ninh thông rin
+bao gồm, hiện tượng tự nhiên (nhiệt độ, không khí, mua bác, set), truy cập trái.
+phép, vine, cố ý làm thay đổi thông số cấn hình hệ thống và phá hủy dữ liệu.
+Đông thời tham mựu và xây dựng phương án hạn chế, khắc phục các rhi ro và
+nguy cơ có thể xảy ra
+Điều 11. Giải quyết và khắc phục sự cố an toàn, an ninh thông tin
+1. Đối với người sử dụng
+a) Thông tin, báo cáo kịp thời cho cán bộ chuyên trách về công nghệ
+thông tin của cơ quan, đơn vị khi phát biên các sự cố gây mất an toàn, an ninh
+thông tin trong quá trình tham gia vào hệ thống thông tin của đơn vị.
+b) Phối hợp tích cực trong suốt quá trình giải quyết và khắc phục sự cố
+2. Đối với cán bộ chuyên trách về công nghệ thông tin
+x) Xử lý khẩn cấp: Khi phát hiện hệ thống bị tần công, thông qua các đấu
+hiệu như hồng tin (tratic) tăng lên bất ngờ, nệi dung bị thay đổi, bê thống hoạt
+động chậm bất thường cần thực hiện các bước cơ bản sau:
+Bước 1: Ngắt kết nối máy chủ ra khỏi mạng;
+Bước 2: Sao chép nhật ký (log tic) và toán bộ dữ liệu của hệ thông ra
+thiết bị lưu trữ;
+Bước 3: Khôi phục lại hệ thống bằng cách chuyển dữ liệu sao lau mỏi
+nhất để hệ thống hoạt động trở lại bình thường.
+Lập biên bàn ghi nhận sự cố gây ra mất an toàn, an ninh thông tin đối với
+hệ thống thông tin của cơ qoan, đơn v; đồng thời thu thập các chúng cử, đấu
+xết và nguyên nhân gây ra sự cổ (nếu có); đổng thời bảo cán sự có và kết quả
+khắc phục sự cố cho Thủ trưởng cơ quan, đơn vị.
+b) Trong trường hợp sự cố xảy ra ngoài khả năng giải quyết của cơ quan,
+đơn vị phải báo cáo khẩn cấp bằng diện thoại, gửi thư điện tử cho Sở Thông tin
+và Truyên thông để được hỗ trợ, hướng dẫn và phối hợp khắc phục sự cố; đồng.
+thời tham mưu văn bản bác cáo sự cổ gửi Sở Thông tin và Truyền thông, Công.
+an tỉnh và các đơn vị có liên quan.
+3. Sở Thông tin và Truyền thông
+a) Quyết định toàn diện về mặt kỹ thuật đối với các cơ quan, đơn vị trong
+quá trình khắc phục sự cố về an toàn, an ninh thông tia.
+9
+b) Chỉ đạo các đơn vị trực thuộc nhanh chóng hỗ trợ, phối hợp và hướng
+dễn các cơ quan, đơn vị khắc phục sự cố mất an toàn, an ninh thông tin.
+c) Yêu cầu ngưng hoạt động một phần hoặc toán bộ các hệ thống thông
+tin của các cơ quao, đơn vị nhằm phục vụ công tác khắc phục sư cố về an toàn,
+an ninh thông tin.
+u) Phối hợp với Công an tỉnh trong điều tra làm rõ các nguyên nhân gây.
+ra sự cố mất an toàn, an ninh thông tin.
+đ) Trong trường hợp sự cố xảy ra có phạm vi rộng, ánh hưởng và liên.
+quan đến nhiền ngành, nhiền lĩnh vực phải thông báo khẩn cấp và xin ý kiến.
+chỉ đạo của Ủy ban nhân dân tỉnh, Bộ Thông tin và Truyền thông.
+Chương III
+TRÁCH NHIỆM ĐẨM BẢO AN TOÀN, AN NINH THÔNG TIN
+Điều 12. Trách nhiệm của các cơ quan, đơn vị
+1. Thủ trưởng các cơ quan, đơn vị chịu trách nhiệm trước Ủy ban nhân
+dân tỉnh trong công tác đảm bảo an toàn, an trinh thông tin đốt với toàn bộ hệ
+thống thông tin của đơn vị mình.
+2. Thực hiện và chỉ đạo cán bộ, công chức thuộc thẩm quyền quản lý.
+thực hiện nghiêm túc Quy định nảy.
+3. Tạo điểu kiện thuận lợi cho cán bộ chuyên trách về công nghệ thông
+tia được đào tạo, bồi dưỡng chuyên môn trong lĩnh vực an toàn, an ninh thông.
+tin.
+4. Quan tâm đầu tư các thiết bị phần cứng, phần mềm liên quan đến công
+tác đảm bảo an toàn, an ninh thông tin.
+5 Khi có sự cố hoặc nguy cơ mất an toàn, an ninh thông tin phải chỉ đao
+khắc phục sự cố kịp thời và hạn chế thấp nhất mức thiệt hại có thể xảy ra, ưu
+tiên sử dụng lực lượng kỹ thuật tại chỗ của đơn vi mành, đồng thời lập biên bản
+và báo cáo bằng văn bản cho cơ quan có liên quan.
+6. Tạo điều kiện thuận lợi cho các cơ quan chức năng trong công tác điều
+tra, làm rõ nguyên nhận gây ra sự cố; lưc lương kỹ thuật tham gia khắc phục sự
+cố thực hiện đúng theo hướng dẫn chuyên môn của Sở Thông tin và Truyền
+thông.
+Điều 13. Trách nhiệm của Sở Thông tin và Truyền thâng
+1. Chịu trách nhiệm toàn điện trước Ủy ban nhân dân tỉnh vế công tác
+đảm bản an toàn, an nành thông tin trong hoạt động ứng công nghệ thông tin
+của các cơ quan nhà nước trên phạm vi toàn tỉnh.
+2. Thực hiện công tác tham mưu Ủy ban nhân dân tỉnh ban hành:
+10
+a) Văn bản chỉ đạo, kế hoạch, đề án nhằm đảm bảo an toàn, an trình
+thông tin.
+b) Xây dựng tiêu chuẩn đánh giá mức độ an toàn, an ninh thông tin đối:
+với hệ thống thông tin của các đơn vị.
+c) Thành lập Đoàn kiểm tra liên ngành về đảm bảo an toàn, an ninh.
+thông tin trong hoạt động ứng dụng công nghệ thông tin trong các cơ quan nhà
+nước.
+3. Hàng năm tổ chức đào tạo chuyên sâu về an toàn, an ninh thông tin.
+cho lực lượng đảm bảo an toàn, an trinh thông tin của các cơ quan, đơn vị.
+4. Thực hiện nhiệm vụ cảnh bảo về nguy cơ hoặc sự cố mất an toàn, an.
+ninh thông tin.
+5. Tổ chức Hội nghị, Hội thảo chuyên để về an toàn, an ninh thông tin.
+6. Phối hợp với Trung tâm Ứng cứu khẩn cấp máy tỉnh Việt Nam.
+(VNCHTT) và các đơn vị có liên quan trong thực hiện nhiệm vụ đảm bảo an.
+toàn, an ninh thông tin.
+7. Phối hợp với Công an tỉnh và các cơ quan, đơn vị có liên quan tổ chức.
+đoào kiểm tra về an toàn, an ninh thông tin để kịp thời phát hiện, xử lý các
+hành vi vi phạm theo thẩm quyền quy định.
+8. Chủ động hướng dẫn các cơ quan, đơn vị xây dựng quy chế nột bộ, hỗ
+trợ kỹ thuật, nôi dung, thời gian báo cáo công các đảm bảo an toàn, an ninh
+thông tin.
+9. Tổng hợp báo cáo và thông bảo về tình hình an toàn, an minh thông tin
+theo định ký cho Bộ Thông tin và Truyền thông, Ủy ban nhân dân tỉnh và các
+cơ quan, đơn vị có liên quan.
+Điều 14. Trách nhiệm của Công an tỉnh
+1. Chủ trì, phối hợp với Sở Thông tin và Truyền thông và các cơ quan,
+đơn vi có liên quan xây dựng kế hoạch và chịu trách nhiệm quản lý, kiểm soát,
+phòng ngừa, đấu tranh, ngăn chăn các loại tô pham lợi dụng hệ thống thông tin
+gây phương hại đến an toàn, an ninh thông tin trong cơ quan nhà nước.
+2 Phối hợp với các cơ quan chức năng trong trao đổi, kiểm tra, đảm bác:
+an toàn, an ninh thông tin.
+3. Tăng cường công tác phòng ngừa, phát hiện và tuyên truyền, phổ biến
+pháp luật về xử lý tội phạm trong việc đảm báo an toàn, an ninh thông tin.
+4. Điều tra và xử lý các trường hợp vi phạm pháp mật về lĩnh vực an
+toàn, an ninh thông tin theo thẩm quyền.
+5. Thực hiện nhiệm vụ bảo vệ an toàn các công trình quan trọng về an.
+ninh quốc gia trên lĩnh vực cổng nghệ thông tin.
+11
+Điều 15. Trách nhiệm của cán bộ, công chức, viên chức tại các cơ
+quan, đơn vị
+1 Trách nhiệm của cán bộ chuyên trách công nghệ thông tin
+a) Chịu trách nhiệm triển khai các biện pháp quản lý vận hành, quản lý
+kỹ thuật và tham mưu xây dựng các quy định về đảm bảo an toàn, an ninh
+thông tin cho toàn bộ hệ thống thông tin của đơn vị mình đúng theo nội dung.
+Quy định này.
+b) Chủ động phối hợp với cá nhân, đơn vị có liêu quan trong việc kiểm
+tra, phát hiện và khắc phục sự cố về an toàn, an ninh thông tin.
+c) Tuân thủ theo sự hướng dẫn kỹ thuật của Sở Thông tin và Truyền
+thông trong quá trình khắc phục sự cố về an toàn, an ninh thông tin.
+2. Trách nhiệm của cán Bộ, công chác, viên chức tham gia xử dụng và
+khai thác hệ thống thông tin
+a) Nghiêm túc thực hiện các nội quy, quy chế, quy trình nội bộ về đảm.
+bảo an toàn, an trình thông tin của đơn vị cũng như các quy đình khác của pháp.
+luật về nội dung này.
+b) Khi phát hiện nguy cơ hoặc sự cố mất an tràn, an ninh thông tin phải.
+báo cáo kịp thời cho cán bệ chuyên trách công nghệ thông từ của đơn vị mtnh.
+để kịp thời ngăn chặn và xử lý.
+c) Năng can ý thức cảnh giác và trách nhiệm về an toàn, an trình thông
+tin.
+Chương IV
+KIỂM TRA CỘNG TÀO BẢM BẢO AN TOÀN, AN NINH THÔNG TIN
+Điều 16. Kiểm tra định kỳ và đột xuất
+1. Đoàn kiểm tra xây dưng kế hoạch và thực hiện kiểm tra định kỳ hàng
+năm về công tác đảm bảo an toàn, an ninh thông tin trong hoạt động ứng dung.
+công nghệ thông tin của các cơ quan nhà nước.
+2. Đoàn kiểm tra phối hợp với Sở Thông tin và Truyền thông, Công an.
+tỉnh và các đơn vị có liên quan tiên hành kiểm tra đột xuất các cơ quan, đơn vị
+có đấu hiệu vi phạm an toàn, an ninh thông tin.
+Điều 17. Trách nhiệm và phối hợp trong công tác kiểm tra
+1. Đoàn kiểm tra có trách nhiệm thông báo thời gian, địa điểm, nội dung
+và thành phần cho đơn vị được kiểm tra biết trước ít nhất 05 ngày để chuẩn bị.
+2. Đơn vị được kiểm tra:
+a) Chuẩn bị nội dung báo cáo theo yêu cầu của Đoàn kiểm tra.
+12
+b) Có đại diện lãnh đạo và cán bộ chuyên trách công nghệ thông tin cua
+đơn vị để cùng làm việc với Đoàn kiểm tra.
+c) Tạo thuận lợi cho công tác kiểm tra.
+Chương V
+TỔ CHỨC THỰC HIỆN
+Điều 18. Tổ chức thực hiện
+1. Sở Thông tin và Truyền thông chủ trì, phối hợp với các cơ quan, đơn.
+vị có liên quan triển khai thực hiện tốt nội dung Quy chế này.
+2. Các cơ quan, đơn vị chủ động xây dựng, ban hành quy chế nội bộ về.
+đảm bảo an toàn, aa mmà thông tin phù hợp với Quy chế này. Định kỳ hàng
+năo, báo cáo tổng hợp tình hình đảm bác an toàn, an ninh thông tiu tại đơn vị
+minh gửi Sở Thông tin và Truyền thông trước ngày 15 tháng 10 để tông hợp.
+báo cáo Ủy ban nhân dân tỉnh.
+3. Thủ trưởng các cơ quan, đơn vị tổ chức triển khai thực hiện nghiêm.
+túc Quy chế này. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, phát
+sinh cấn sửa đổi, bổ sung, đề nghị các cơ quan, đơn vị kịp thời báo cáo về Sở
+Thông tin và Truyền thông để tổng hợp trình Ủy ban nhân dân tỉnh xem xét,
+quyết định./.
+TM. ĐẠN NHÂN DÂN
+THÓ TỊCH
+Võ Thành Hạo
+13

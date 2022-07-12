@@ -1,0 +1,352 @@
+Ký bởi: Cổng Thông tin điện tử Chính phủ
+Email: thongtinchinhphu@chinhphu.vn
+Cơ quan: Văn phòng Chính phủ
+Thời gian ký: 07.09.2017 10:14:01 +07:00
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH QUẢNG NGÃI   Độc lập - Tự do - Hạnh phúc
+Số:16 /2017/QĐ-UBND   Quảng Ngãi, ngày 19 tháng 4 năm 2017
+
+QUYẾT ĐỊNH
+
+ỦY BAN NHÂN DÂN TỈNH QUẢNG NGÃI
+Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015;
+Căn đứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005;
+Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015;
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ.
+về Ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước;
+Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 của
+Chính phủ Quy định về việc cung cấp tháng tin và dịch vụ công trực tuyến trên
+trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước;
+Theo đề nghị của Chánh Văn phòng UBND tỉnh tại Tờ trình số 437/TTr-VP
+ngày 17 tháng 4 năm 2017 về việc ban hành Quy chế hoạt động của Cổng thông
+tin điện tử tỉnh Quảng Ngãi ý kiến thẩm định của Sở Tư pháp tại Báo cáo sở
+90/BC-STP ngày 29 tháng 3 năm 2017.
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy chế hoạt động của Cổng.
+thông tin điện tử tỉnh Quảng Ngãi.
+Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày 29 tháng 4 năm 2017.
+và thay thế Quyết định số 206/2004/QĐ-UB ngày 21 tháng 9 năm 2004 của
+UBND tỉnh Quảng Ngãi về việc ban hành Quy chế tạm thời về cung cấp, khai thác.
+thông tin, quản lý, sử dụng và phát triển Trang thông tin điện tử tỉnh Quảng Ngãi.
+Điều 3. Chánh Văn phòng UBND tỉnh; Thủ trưởng các sở, ban ngành tỉnh;
+Chủ tịch UBND các huyện, thành phố và các đơn vị, cá nhân có liên quan chịu
+trách nhiệm thi hành Quyết định này./.
+Nơi nhận:   TM. ỦY BAN NHÂN DÂN
+- Như Điều 3;
+CHỦ TỊCH
+- Văn phòng Chính phủ (b/c);
+- Bộ Thông tin và Truyền thông (b/c);
+- vụ Pháp chế (Bộ Nội vụ);
+- Cục Kiểm tra VBQPPL (Bộ Tư pháp);
+- Thường trực Tỉnh ủy, Thường trực HĐND tỉnh;
+- CT, PCT UBND tỉnh;
+- Đoàn đại biểu Quốc hội tỉnh;
+- UBMTTQVN tỉnh và các tổ chức chính trị-xã hội tỉnh;
+- Văn phòng: Tỉnh ủy, Đoàn ĐBQH tỉnh, HĐND tỉnh;   Trần Ngọc Căng
+- Báo Quảng Ngãi, Đài Phát thanh - Truyền hình tỉnh;
+- VPUB: PCVP, các phòng, ban, CBTH;
+- Lưu: VT, CBTH.
+2
+UỶ BAN NHÂN DÂN   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH QUẢNG NGÃI   Độc lập - Tự do - Hạnh phúc
+QUY CHẾ
+Hoạt động của Cổng thông tin điện tử tỉnh Quảng Ngãi
+(Ban hành kèm theo Quyết định số 16 /2017/QĐ-UBND
+ngày 19 /4/2017 của Ủy ban nhân dân tỉnh)
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+1. Phạm vi điều chỉnh: Quy chế này quy định việc quản lý, cung cấp thông
+tin trên Cổng thông tin điện tử tỉnh Quảng Ngãi, Trang thông tin điện tử cơ
+quan và trách nhiệm của cơ quan, đơn vị, tổ chức, cá nhân có liên quan đến hoạt
+động của Cổng thông tin điện tử tỉnh Quảng Ngãi.
+2. Đối tượng áp dụng: Quy chế này áp dụng đối với các cơ quan, đơn vị, tổ.
+chức và cá nhân liên quan quản lý, cung cấp thông tin trên Cổng thông tin điện
+tử tỉnh Quảng Ngãi.
+Điều 2. Giải thích từ ngữ
+Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:
+1. Cổng thông tin điện tử tỉnh Quảng Ngãi (Cổng TTĐT) là điểm truy cập
+duy nhất của Ủy ban nhân dân tỉnh Quảng Ngãi trên môi trường mạng, liên kết.
+tích hợp các kênh thông tin, các dịch vụ và các ứng dụng mà qua đó người sử
+dụng có thể khai thác, sử dụng và cá nhân hóa việc hiển thị thông tin.
+2. Trang thông tin điện tử cơ quan (Trang TTĐT) là trang thông tin hoặc.
+một tập hợp trang thông tin trên mối trường mạng phục vụ cho việc cung cấp,
+trao đổi thông tin của các cơ quan, đơn vị và địa phương thuộc tỉnh.
+3. Trang chủ Cổng TTĐT là trang thông tin đầu tiên mà người sử dụng
+phìn thấy khi truy cập Cổng TTDT theo địa chỉ http://quanggai.gov.vn.
+4.Dịch vụ hành chính công là những dịch vụ liên quan đến hoạt động thực
+thi pháp luật, không nhằm mục tiêu lợi nhuận, do cơ quan Nhà nước (hoặc tổ
+chức, doanh nghiệp được dy quyền) có thẩm quyền cấp cho tổ chức, cá nhân
+dưới hình thức các loại giấy tờ có giá trị pháp lý trong các lĩnh vực mà cơ quan.
+Nhà nước đó quản lý.
+5. Dịch vụ công trực tuyến là các dịch vụ hành chính công và các dịch vụ
+khác của cơ quan Nhà nước được cung cấp cho các tổ chức, cá nhân trên môi.
+trường mạng.
+6. Giao dịch điện tử là giao dịch được thực hiện bằng phương tiện điện tử.
+Điều 3. Công khai, minh hạch thông tin trên môi trường mạng
+1. Cơ quan nhà nước có trách nhiệm cung cấp công khai, minh bạch, kịp
+thời, đầy đủ và chính xác trên môi trưởng mạng những thông tin theo quy định;
+3
+pháp luật về phòng chống tham nhũng và thực hiện tiết kiệm, chống lãng phí và
+các quy định khác của pháp luật về công khai, minh bạch thông tin.
+2. Việc cung cấp, trao đổi, chía sẻ thông tin thuộc danh mục bí mật nhà
+nước, bí mật kinh doanh và bí mật cá nhân phải tuân thủ các quy định của pháp.
+luật có liên quan.
+Điều 4. Vai trò của Cổng TTĐT
+1. Cổng TTĐT là nơi tích hợp thông tin các lĩnh vực quản lý nhà nước trên
+phạm vi địa bàn của tỉnh và được tích hợp thông tin dịch vụ công trực tuyến của
+các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh và Ủy ban nhân dân các
+huyện, thành phố thuộc tỉnh nhằm cung cấp, trao đổi thông tin với các cơ quan,
+tổ chức, cá nhân trên mạng internet.
+2. Thông tin đăng tài trên Cổng, Trang TTĐT là thông tin chính thức của
+cơ quan nhà nước trên môi trường mạng.
+Điều 5. Nguyên tắc tiếp nhận và cung cấp thông tin trên Cổng TTĐT
+1. Thông tin cung cấp trên Cổng, Trang TTĐT phải đúng với quan điểm.
+chủ trương, đường tối của Đảng, chính sách và pháp luật của Nhà nước; phục
+vụ kịp thời, chính xác trong công tác quản lý của cơ quan và nhu cầu khai thác.
+thông tin của các cơ quan, tổ chức, cá nhân.
+2. Thông tin cung cấp trên Cổng. Trang TTĐT phải tuân thủ các quy định.
+của pháp luật về bảo vệ bí mật nhà nước, báo chí, sở hữu trí tuệ và quản lý.
+thông tin trên Internet.
+3. Việc đăng tải, trích dẫn, sử dụng lại thông tin trên Cổng,Trang TTĐT
+phải ghi rõ thông tin về tác giả, nguồn của thông tin.
+4. Các cơ quan, đơn vị, tổ chức, cá nhân khi cung cấp thông tin, giao dịch
+trên Cồng, Trang TTĐT phải chịu trách nhiệm trước pháp luật về thông tin mà
+mình cung cấp và chịu sự kiểm duyệt của Ban biên tập Cổng, Trang TTĐT.
+5. Các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh và Ủy ban nhân
+dân các huyện, thành phổ thuộc tỉnh có trách nhiệm tiếp nhận, giải đáp ý kiến,
+phản ánh của các cơ quan, tổ chức, cá nhân trên Cồng, Trang TTĐT.
+Điều 6. Tên miền truy cập Cổng TTĐT
+1. Tên miền truy cập Cổng TTĐT là tên miền cấp 3 có ký hiệu:
+quangngai.gov.vn
+2. Tên miền Trang TTĐT của các cơ quan chuyên môn thuộc UBND tỉnh.
+có tên miền cấp 4, là tên viết tắt của cơ quan bằng tiếng Việt không đấu hoặc
+tiếng Anh theo dạng: tên cơ quan“quangngai.gov.vn
+V dụ: Trang TTĐT của Sở Tháng tin và Truyền tháng tên miền truy cập có
+ký hiệu là: stttt quangnai.gov.vn
+3. Tên miền Trang TTĐT của UBND các huyện, thành phố có tên miền
+cấp 4 sử dụng tên đầy đủ của địa phương bằng tiếng Việt không đấu theo dạng:
+kên huyện, thành phố-quangngai.gov.vn
+V dụ: Trang TTĐT của Ủy ban nhân dân huyện Tư Nghĩa tên miễn truy
+cập là: tunghia.quangngai.gov.vn
+4
+Điều 7. Bảo đảm tiêu chuẩn kỹ thuật
+1. Thồng nhất sử dụng Độ mã ký tự chữ Việt Unicode theo tiêu chuẩn
+6909:2001 trong việc lưu trữ và trao đổi thông tin, dữ liệu trên Cổng, Trang
+TTĐT.
+2. Cổng, Trang TTĐT tuân thử các tiêu chuẩn về ứng dụng Công nghệ
+thông tin trong cơ quan nhà nước.
+Chương II
+CUNG CẤP THÔNG TIN, DỊCH VỤ TRÊN CỔNG TTĐT
+Điều 8. Hình thức thể hiện, thông tin cung cấp trên Cổng TTĐT
+1. Thông tin trên Cổng, Trang TTĐT được thể hiện bằng 2 ngôn ngữ
+chính: tiếng Việt và tiếng Anh.
+2. Thông tin cung cấp trên Cổng, Trang TTĐT:
+Thông tân cung cấp trên Cổng, Trang TTĐT thực hiện theo quy định tại.
+Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 của Chính phủ quy
+định về việc cung cấp thông tin và dịch vụ công trực tuyến trên Trang thông.
+tin điện tử hoặc Cổng thông tin điện tử của cơ quan nhà nước. Trong đó, bao.
+gồm các thông tin chủ yếu sau:
+a) Thông tin giới thiệu: Thông tin về tổ chức bộ máy hành chính, bản đồ
+địa giới hành chính đến cấp phường, xã, điều kiện tự nhiên, lịch sử, truyền
+thống văn hóa, di tích, danh thắng; tiểu sử tóm tắt và nhiệm vụ đảm nhiệm
+của lãnh đạo cơ quan, đơn vị.
+b) Tin tức, sự kiện: Các tin, bài về hoạt động, các vấn để liên quan thuộc
+phạm vi quản lý nhà nước của cơ quan, đơn vị.
+c) Thông tin chỉ đạo, điều hành bao gồm: Ý kiến chỉ đạo, điều hành của
+thủ trưởng cơ quan đã được thống nhấ: và chính thức ban hành bằng văn bản;
+ý kiến xử lý, phản hồi đối với các kiến nghị, yêu cầu của tổ chức, cá nhân;
+thông tin khen thưởng, xử phạt đối với tổ chức, doanh nghiệp hoạt động
+trong lĩnh vực quản lý nhà nước của cơ quan; lịch làm việc của lãnh đạo cơ
+quan, đơn vị.
+d) Thông tin tuyên truyền, phổ biến, hướng dẫn thực hiện pháp luật, chế
+độ, chính sách: Tuyên truyền, phổ biến, hướng dẫn việc thực hiện pháp luật
+và chế độ, chính sách đối với những lĩnh vực thuộc phạm vi quản lý nhà
+nước của cơ quan, đơn vị.
+đ) Chiến lược, định hướng, quy hoạch, kế hoạch phát triển.
+e) Hệ thống văn bản quy phạm pháp luật chuyên ngành và văn bản quản
+lý hành chính có liên quan: Nếu rõ hình thức văn bản, thẩm quyền ban hành,
+số ký hiệu, ngày ban hành, ngày hiệu lực, trích yếu, tệp văn bản cho phép tài
+về. Cung cấp công cụ tìm kiếm văn bản.
+8) Đăng tải Công báo điện tử tỉnh bao gồm những thông tin: số công
+bảo, ngày ban hành, danh mục văn bản đăng trong công bảo và trích yếu nội.
+dung đối với mỗi văn bản.
+5
+h) Thông tin về dự án, hạng mục đầu tư, đấu thầu, mua sắm công
+i) Mục lấy ý kiến góp ý của tổ chức, cá nhân.
+- Tiếp nhận phản ảnh; kiến nghị của tổ chức, cá nhân về quy định hành
+chính theo quy định của pháp luật.
+- Cung cấp các thông tin và chức năng; toàn văn nội dung vấn để cần xin
+ý kiến; thời hạn tiếp nhận ý kiến góp ý: xem nội dung các ý kiến góp ý; nhận.
+ý kiến góp ý mới; địa chỉ, thư điện tử của cơ quan, đơn vị tiếp nhận ý kiển
+góp ý.
+k) Thông tin liên hệ của cán bộ, công chức có thẩm quyền bao gồm họ tên.
+chức vụ, đơn vị công tác, số diện thoại/Tàx, địa chí thư điện tử chính thức.
+1) Thông tin giao dịch của Cổng, Trang TTĐT bao gồm: địa chỉ, điện
+thoại, số taa, địa chỉ thư điện tử của cơ quan dùng để giao dịch với tổ chức,
+cá nhân.
+m) Các thông tin khác theo chỉ đạo của Chủ tịch Ủy ban nhân dân tỉnh.
+n) Thông tin Trao đổi - Hỏi đáp.
+3. Thông tin tiếng nước ngoài:
+Các thông tin được cung cấp bằng tiếng Anh trên Cổng TTĐT; tối thiểu có
+các thông tin quy định tại điểm a và k Khoản 2 Điều 8 của Quy chế này và các
+thông tin dịch vụ công trực tuyến mà người nước ngoài có thể sử dụng phải
+được cung cấp bằng tiếng Anh để tham khảo.
+Điều 9. Thời hạn cung cấp, xử lý và lưa trữ thông tin.
+1. Thời hạn cung cấp và xử lý thông tin:
+n) Bảo đảm cập nhật thường xuyên, chính xác đối với các mục tín quy định
+tại điểm a, b, c, k Khoản 2 Điều 8 của Quy chế này.
+b) Đối với thông tin tuyên truyền, phổ biến, hướng dẫn thực hiện pháp luật,
+chế độ, chính sách: Thời gian cập nhật không quá 15 (mười làm) ngày làm việc
+kể từ khi văn bản pháp tuật, chính sách, chế độ chính thức được ban hành.
+c) Đối với văn bản quy phạm pháp luật chuyên ngành và văn bản quản lý
+nhà nước:
+- Thời gian cập nhật không quá 02 (bai) ngày làm việc kể từ ngày văn bản.
+được ban hành đối với cơ quan ban hành văn bản.
+- Thời gian cập nhật không quá 10 (mười) ngày làm việc kể từ ngày văn
+bản được ban hành đối với các cơ quan thuộc phạm vi điều chỉnh của văn bản.
+d) Đối với những thông tin quy định tại điểm đ và h Khoản 1 Điều 10 của
+Quy chế nàp: Thời gian cập nhật không quả 10 (mười) ngày làm việc kể từ khi
+chiến lược, quy hoạch hoặc dự án, hạng mục đầu tư, đấu thầu được phê duyệt.
+đ) Đối với mục Trao đổi - Hỏi đáp:
+- Ban biên tập Cảng, Trang TTĐT có trách nhiệm tiếp nhận cân hôi, phân
+loại câu hói và chuyển đến các đơn vị liên quan để trả lời. Trường hợp câu hỏi
+không liên quan đến phạm vi, lĩnh vực hoạt động của cơ quan thì phải thông
+báo ngay cho tổ chức, cá nhân.
+6
+- Chậm nhất 15 (mười lăm) ngày làm việc kể từ khi tiếp nhận câu hỏi, cư
+quan nhà nước có trách nhiệm trả lời kết quả hoặc thông bảo quả trình xử lý
+trong đó nói rõ thời hạn trả lời tới tổ chức, cá nhân.
+e) Đối với thông tin về chương trình, để tài khoa học: Thời gian cập nhật
+không quá 20 (hai mươi) ngày làm việc kể từ khi chương trình, để tải được phê
+duyệt hoặc sau khi chương trình, để tải được nghiệm thu.
+g) Đối với thông tin, báo cáo thống kê: Thời gian cập nhật không quá 10
+(nười) ngày làm việc kể từ khi thông tin thống kể được thủ trưởng cơ quan
+quyết định công bố.
+h) Đối với các mực thông tin tiếng nước ngoài: Phải được thường xuyên rả
+80át, cập nhật kịp thời khi có phát sinh hoặc thay đổi.
+2. Lưu trữ thông tin: Các cơ quan, đơn vị được giao trách nhiệm quản lý
+Cổng, Trang TTĐT có trách nhiệm bảo đảm việc lưu trữ thông tin của Cổng,
+Trang TTĐT theo quy định của Nhà nước về lưu trữ.
+Điều 10. Bảo đảm truy nhập thông tin và khai thác dịch vụ công trực
+tuyến
+1. Thủ trưởng các cơ quan, đơn vị có trách nhiệm tham mưu Ủy ban nhân
+dân tỉnh ban hành chính sách khuyến khách các tổ chức, cá nhân triển khai rộng.
+khắp các điểm truy nhập Internet công cộng; đồng thời tăng cường hướng dẫn.
+phương pháp truy nhập và sử dụng thông tin, dịch vụ công trực tuyển theo đúng
+quy định của pháp luật.
+2. Cơ quan nhà nước có trách nhiệm tạo các điều kiện thuận lợi tế tổ chức,
+cá nhân để đảng truy nhập thông tin và khai thác dịch vụ công trực tuyến.
+Điều 11. Cung cấp dịch vụ công trực tuyến
+1. Cổng, Trang TTĐT có mục dịch vụ công trực tuyển” thông báo danh
+mục các dịch vụ hành chính công và các dịch vụ công trực tuyến đang thực hiện
+và nêu rõ mức độ cung cấp của dịch vụ. Các dịch vụ được tổ chức, phân loại
+theo ngành, lĩnh vực để thuận tiện cho việc khai thác sử dụng.
+2. Cổng, Trang TTĐT cung cấp chức năng hướng dẫn sử dụng, theo dõi
+tần suất sử dụng, quá trình xử lý và số lượng bô sơ đã được xử lý đối với từng
+dịch vụ công trực tuyến tử mức độ 3 (cho phép người sử dụng điền và gửi trực
+tuyển các mẫu văn bản đến cơ quan, tổ chức cung cấp dịch vụ. Các giao dịch
+trong quá trình xử lý hồ sơ và cung cấp dịch vụ được thực hiện trên môi trường
+mạng) trở lên.
+Điều 12. Trách nhiệm cung cấp, tích hợp thông tin dịch vụ công trực
+tuyến
+1. Các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh và Ủy ban nhân.
+dân các huyện, thành phố thuộc tỉnh có trách nhiệm cung cấp dịch vụ công trực
+tuyển trên Cổng. Trang TTĐT. Đối với dịch vụ có liên quan đến các mẫu đơn,
+mẫu tờ khai hành chính đi kèm phải được cung cấp tối thiểu đạt mức độ 2 (cung
+cấp đầy đủ các thông tin về quy trình, thủ tục; hồ sơ; thời hạn; phí và lệ phí thực
+biển dịch vụ và cho phép người sử dụng tải về các mẫn văn bản và khai báo để
+hoàn thiện hồ sơ theo yếu cần). Đối với mỗi dịch vụ cần hiển thị đầy đủ các bộ
+7
+phận cấu thành của thủ tục hành chính và trách nhiệm của các bên có liên quan.
+2. Hàng năm, các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh và Ủy
+ban nhận dân các huyện, thành phố thuộc tỉnh có trách nhiệm xây dựng lộ trình.
+cung cấp dịch vụ công trực tuyến trên Cổng, Trang TTĐT và tổng hợp, báo cáo
+Ủy ban nhân dân tỉnh về lộ trình và tiến độ triển khai thực hiện.
+, 3. Cống TTĐT phải được liên kết, tích hợp thông tin dịch vụ công trực
+tuyến vọ Trang TTĐT của các cơ quan chuyên môn thuộc Ủy ban nhân dân
+tỉnh và Ủy ban nhân dân các huyện, thành phố thuộc tỉnh.
+Điều 13. Giao dịch điện tử của cơ quan nhà nước đối với việc cung cấp
+dịch vụ công trực tuyến
+Việc cung cấp dịch vụ công trực tuyến của cơ quan nhà nước dưới hình
+thức điện tử được xác lập trên cơ sở quy định của cơ quan đó nhưng không
+được trái với quy định của Luật Giao dịch điện tử ngày 29 tháng 11 năm 2008
+và quy định khác của pháp luật có liên quan; bảo đảm bí mật thông tin liên quan.
+đến giao dịch điện tử, không được sử dụng thông tin vào mọc đích khác trái với
+quy định về việc sử dụng thông tin đó, không tiết lộ thông tin cho bên thứ ba.
+theo quy định của pháp luật.
+Điều 14. Cung cấp thông tin quảng cảo trên Cổng TTĐT
+Cổng, Trang TTĐT được cung cấp thông tin quảng các theo quy định của
+Luật Quảng cáo ngày 21 tháng 6 năm 2012.
+Chương III
+QUẢN LÝ, BẢO ĐẢM HOẠT ĐỘNG CỦA CÔNG TTĐT
+Điều 15. Ban biên tập (BBT)
+1. BBT Cổng TTĐT do Chủ tịch Ủy ban nhân dân tỉnh quyết định thành
+lập và thực hiện chức năng, nhiệm vụ do Chủ tịch Ủy ban nhân dân tỉnh giao;
+chịu trách nhiệm về nội dung thông tin trên Trang chủ Cổng TTĐT.
+2. BBT Trang TTĐT của các cơ quan chuyên môn thuộc Ủy bán nhân
+dân tỉnh và Ủy ban nhân dân các huyện, thành phố thuộc tỉnh do Thủ trưởng cơ
+quan chủ quản quyết định thành lập; chịu trách nhiệm về nội dung thông tin trên
+Trang TTĐ quản lý. Quy mô và tổ chức của BBT Trang TTĐT do Thủ trưởng
+cơ quan chủ quản quyết định căn cứ trên tình hình thực tế của cơ quan, đơn vị
+và địa phương.
+Điều 16. Trách nhiệm của các cơ quan có liên quan
+1. Trách nhiệm của Văn phòng Ủy ban nhân dân tỉnh:
+a) Lả cơ quan thường trực và có trách nhiệm đảm bảo các điều kiện hoạt
+động của Cổng TTĐT.
+b) Giúp Chủ tịch Ủy ban nhân dân tỉnh quản trị nội đung và chịu trách
+nhiệm trước Chủ tịch Ủy ban nhân dân tỉnh và trước pháp luật về toàn bộ nội.
+dung thông tân cung cấp trên Trang chủ Cổng TTĐT.
+8
+c) Hàng năm xây dựng dự toán kinh phí bảo đảm hoạt động của Cổng
+TTĐT; định kỳ báo cáo Ủy ban nhân dân tỉnh về hoạt động của Công TTĐT
+theo quy định; đề xuất Ủy ban nhân dân tỉnh các giải pháp hoàn thiện, nâng cấp.
+nâng cao chất lượng, hiệu quả hoạt động của Cổng TTĐT.
+2. Trách nhiệm của Sở Thông tin và Truyền thông:
+Thực hiện chức năng quản lý nhà nước đối với hoạt động của Cống,
+Trang TTĐT theo quy định.
+3. Trách nhiệm của các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh
+và Ủy ban nhât dân các huyện, thành phố thuộc tỉnh:
+a) Tổ chức đực hiện các quy định có liên quan trong quy chế này.
+b) Bố trị cán bộ tham gia BĐT Trang TTĐT của cơ quan, đơn vị; phân
+cộng cán bộ trong.coao, đơn vị tiếp nhận, xử lý thông tin và thực hiện cung.
+cấp dịch vụ hành thánh công trên mạng theo đúng quy định; đảm bảo kinh phí.
+nhân lực cho hoặt động của Trang TTĐT; chịu trách nhiệm trước Chủ tịch Ủy
+ban nhân dân tỉnh và pháp luật về hoạt động của Trang TTĐT thuộc phạm vị
+quản lý.
+4. Sở Tài chính có trách nhiệm cân đối ngân sách của tỉnh để bảo đảm
+kinh phí cho hoạt động Cổng TTĐT. Mức chỉ cho hoạt động của Cổng, Trang
+TTĐT áp dụng theo quy định hiện hành của Nhà nước và Ủy ban nhân dân tỉnh.
+Điều 17. Bảo đảm vận hành và an toàn thông tin
+1. Cổng, Trang TTĐT phải được thường xuyên kiểm tra, bảo dưỡng.
+chỉnh sửa, giám sát hoạt động để bảo đảm hoạt động liên tục 24 giờ trong tất cả
+các ngày. Hàng năm, Cổng, Trang TTĐT phải được rà soát, đề xuất phương án
+nâng cấp, chỉnh sửa cho phù hợp với nhu cầu thực tế.
+2. Hoạt động bảo đảm an toàn thông tin trên Cổng, Trang TTĐT của cơ
+quan, đơn vị, cá nhân phải đúng quy định của pháp luật, bảo đảm quốc phòng.
+an ninh quốc gia, bí mật nhà nước, bí mật của tổ chức, cá nhân; bảo dảm quyền
+và lợi ích hợp pháp của tổ chức, cá nhân; giữ vững ổn định chính trị, trật tự, an.
+toàn xã hội và thúc đầy phát triển kinh tế - xã hội; phải được thực hiện thường
+xuyên, liên tục, kịp thời và hiệu quả.
+Chương IV
+TỔ CHỨC THỰC HIỆN
+Điều 18. Khen thưởng và xử lý vi phạm
+1. Các cơ quan, đơn vị, cá nhân có thành tích trong việc thực hiện Quy
+chế này, có nhiều đông góp phát triển Cổng, Trang TTĐT được xét khen thưởng.
+theo quy định.
+2. Các cơ quan, đơn vị, cá nhân vi phạm các quy định trong Quy chế này
+và các quy định của pháp luật có liên quan thì tùy theo tính chất, mức độ vi
+phạm sẽ bị xử lý theo quy định của pháp luật.
+Điều 19. Tổ chức thực hiện
+1. Thủ trưởng các cơ quan, đơn vị có trách nhiệm trực tiếp chỉ đạo và
+9
+chịu trách nhiệm về hoạt động của Cống, Trang TTĐT do cơ quan, đơn vị quân
+lý theo quy định tại Quy chế này; quyết định các biện pháp nhằm tổ chức thực
+hiện có hiệu quả hoạt động của Cổng, Trang TTĐT.
+2. Trong quá trình thực hiện Quy chế này, nếu có vướng mắc, các cơ
+quan, đơn vị, địa phương, tổ chức và cá nhân phản ánh về Vân phòng Uỷ ban
+nhân dân tỉnh để tổng hợp trình Uỷ ban nhân dân tỉnh xem xét, sửa đổi, bổ sung
+cho phù hợp./.
+KM ĐAN NHÂN DÂN
+Tê CHỦ TỊCH
+Trần Ngọc Căng

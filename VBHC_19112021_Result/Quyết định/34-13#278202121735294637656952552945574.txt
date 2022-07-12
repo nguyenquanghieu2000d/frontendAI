@@ -1,0 +1,152 @@
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH HÀ TĨNH   Độc lập - Tự do - Hạnh phúc
+Số: 34 /2013/QĐ-UBND   Hà Tĩnh, ngày 09 tháng 8 năm 2013
+QUYẾT ĐỊNH
+Ban hành quy định về tiêu chuẩn nghiệp vụ đối với cán bộ thực hiện
+nhậm vụ chuyên trách về công nghệ thông tin trong cơ quan nhà nước
+trên địa bàn tỉnh Hà Tĩnh
+ỦY BAN NHÂN DÂN TỈNH
+Căn cứ Luật Tổ chức HĐND và UBND ngày 26/11/2003;
+Căn cứ Luật ban hành văn bản QPPL của HĐND, UBND năm 2004;
+Căn cứ Luật Công nghệ thông tin ngày 29/6/2006;
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về
+việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước;
+Thực hiện Chỉ thị số 60 CT/TU ngày 03/10/2005 về tăng cường lãnh đạo,
+chỉ đạo ứng dụng và phát triển CNTT giai đoạn 2006-2010 và những năm tiếp
+theo;
+Căn cứ Quyết định 07/2011/QĐ-UBND ngày 25/5/2011 của UBND tỉnh
+về tổ chức thực hiện ứng dụng công nghệ thông tin trong cơ quan nhà nước trên.
+địa bàn tỉnh Hà Tĩnh;
+Xét để nghị của Sở Thông tin và Truyền thông tại Tờ trình số 26/TTr-
+TTTT ngày 06/8/2013,
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy định về tiêu chuẩn
+nghiệp vụ đối với cán bộ thực hiện nhiệm vụ chuyên trách về công nghệ thông
+tin trong cơ quan nhà nước trên địa bàn tỉnh Hà Tỉnh.
+Điều 2. Giao Sở Thông tin và Truyền thông chủ trì, phối hợp Sở Nội vụ,
+hướng dẫn tổ chức thực hiện và định kỳ bảo cáo Ủy ban nhân dân tỉnh.
+Điều 2. Quyết định này có hiệu lực sau 10 ngày kể từ ngày ký ban hành.
+Chánh Văn phòng Ủy ban nhân dân tỉnh, Giám đốc các sở, Thủ trưởng
+các ban, ngành cấp tỉnh; Chủ tịch UBND các huyện, thành phố, thị xã; Chủ tịch
+UBND các xã, phường, thị trấn; Người đứng đầu các cơ quan nhà nước và các
+tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+Nơi nhận:   TM. ỦY BAN NHÂN DÂN
+- Như Điều 3;   KK KHỦ TỊCH
+- Chủ tịch, các PCT UBND tỉnh;   PHÓ NHỦ TỊCH
+- Vụ pháp chế - Bộ Thông tin và Truyền thông;
+- Cục Kiểm trạ văn bản - Bộ Tư pháp;
+- Đoàn Đại biểu Quốc hội tỉnh;
+- Sở Tư pháp;
+- Thành viên BCĐ CNTT tỉnh;
+- Trung tâm Công báo tin học;
+- Các Phó VP UBND;   Nguyễn Thiện
+- Lưu: VT, VX.
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH HÀ TĨNH   Độc lập - Tự do - Hạnh phúc
+QUY ĐỊNH
+Tiên chuẩn nghiệp vụ của cán bộ thực hiện nhiệm vụ chuyên trách về công
+nghệ thông tin trong cơ quan nhà nước trên địa hàn tỉnh Hà Tĩnh
+(Ban hành kèm theo Quyết định số 34 /2013/QĐ-UBND
+ngày 09/8/2013 của UBND tỉnh)
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+1. Quy định này quy định về tiêu chuẩn nghiệp vụ của cán bộ thực hiện
+nhiệm vụ chuyên trách về công nghệ thông tin trong cơ quan nhà nước trên địa
+bản tỉnh Hà Tỉnh theo quy định tại Điều 4, Quyết định số 07/2011/QĐ-UBND
+ngày 25/5/2011 của UBND tỉnh, bao gồm: cán bộ thực hiện nhiệm vụ chuyên
+trách về công nghệ thông tin ở cấp sở, ngành; cấp huyện và cấp xã;
+Quy định này không áp dụng đối với Cơ quan chuyên trách công nghệ
+thông tin của tỉnh (Sở Thông tin và Truyền thông); các Trung tâm, Phòng có
+chức năng chuyên về công nghệ thông tin ở các Sở, ngành; Giám đốc công
+nghệ thông tin ở các cơ quan, đơn vị.
+2. Tiêu chuẩn nghiệp vụ của cán bộ thực hiện nhiệm vụ chuyên trách về
+cộng nghệ thông tin là căn cứ để các cơ quan, đơn vị thực hiện việc tuyển dụng.
+bổ nhiệm, quản lý, sử dụng, đào tạo và bồi dưỡng cán bộ hố trí làm nhiệm vụ
+chuyên trách về công nghệ thông tin.
+Điều 2. Nhiệm vụ của cán bộ thực hiện nhiệm vụ chuyên trách về
+công nghệ thông tin
+1. Nhiệm vụ chung
+Là cán bộ thực hiện nhiệm vụ chuyên trách về công nghệ thông tin theo
+quy định tại Điển 5, Quyết định số 07/2011/QĐ-UBND ngày 25/5/2011 của
+UBND tỉnh.
+2. Nhiệm vụ cụ thể
+a) Tham mưu trong công tác quản lý, ứng dụng công nghệ thông tin:
+- Đề xuất, xây dựng, thực hiện kế hoạch 5 năm và hàng năm về ứng dụng
+công nghệ thông tin và tổ chức thực hiện san khi được phê duyệt;
+- Xây dựng quy chế, quy định về tổ chức hoạt động ứng dụng công nghệ
+thông tin trong cơ quan, đơn vị trình Giám đốc công nghệ thông tin xem xét,
+quyết định và tổ chức thực hiện;
+- Thực hiện thống kê; tham mưu đánh giá, phân loại kết quả ứng dụng
+công nghệ thông tin đối với các phòng, đơn vị trực thuộc; tự đánh giá trong cơ
+quan, đơn vị.
+1
+- Thực hiện các báo cáo quý, 6 tháng, năm trình Giám đốc công nghệ
+thông tin ký gửi các cơ quan theo quy định tại Điền 14, Quyết định số
+07/2011/QĐ-UBND ngày 25/5/2011 của UBND tỉnh.
+b) Vận hành, hỗ trợ vận hành hệ thống thông tin
+Quản lý, vận hành, hướng dẫn sử dụng cơ sở hạ tầng thông tin phục vụ
+hoạt động chỉ đạo, điều hành của lãnh đạo; hoạt động tác nghiệp của cán bộ,
+công chức, viên chức trong cơ quan, đơn vị; bảo đảm kỷ thuật, an toàn cháy uổ;
+an toàn, an ninh thông tin.
+- Quản trị và phối hợp với các phòng, cơ quan, đơn vị liên quan duy trì
+hoạt động Trang thông tin điện tử; quản trị các phần mềm dùng chưng phối.
+hợp triển khai, hỗ trợ bảo đảm kỹ thuật trong hoạt động của hệ thống mạng nội
+bộ, máy tính, mây ch3 và các thiết bị CNTT-TT; hỗ trợ việc cung cấp dịch vụ
+hảnh chính công của cơ quan, đơn vị;
+- Bảo trì, nâng cấp: Hạ tầng kỹ thuật, cơ sở dữ liệu và phần mềm thuộc
+diện quản lý của cơ quan, đơn vị;
+- Tập huần kỹ năng ứng dựng công nghệ thông tin trong xử lý công việc
+cho cán bộ, công chức, viên chức thuộc cơ quan, đơn vị.
+Điều 3. Quy định về tiêu chuẩn nghiệp vụ cán bộ thực hiện nhiệm vụ
+chuyên trách về công nghệ thông tin
+1. Về năng lực
+a) Nắm vững chủ trương, chính sách của Đảng, pháp luật của Nhà nước,
+chiến lược, kế hoạch phát triển công nghệ thông tin của ngành, tỉnh, quốc giá.
+b) Nắm vững các tiêu chuẩn kỹ thuật về ứng dụng công nghệ thông tin
+trong cơ quan nhà nước theo Thông tư số 01/2011/TT-BTTTT ngày 04/01/2011
+của Bộ Thông tin và Truyền thông.
+c) Xác định rõ mục tiêu, đối tượng quản lý; nắm vững các hệ thống thông
+tin, các nguyên tắc, cơ chế quản lý liên quan.
+0) Nấm vững kiến thức nghiệp vụ chuyên ngành; hiểu biết về tình hình
+và xu thế phát triển của lĩnh vực công nghệ thống tin trong và ngoài nước.
+e) Hiểu biết về nhiệm vụ được phân công thực hiện.
+ộ Tổ chức phối hợp hiệu quả với các bộ phận, phùng, cơ quan, đơn vị
+liên quan trong quá trình thực hiện nhiệm vụ.
+2. về trình độ
+a) Cán bộ thực hiện nhiệm vụ chuyên trách về công nghệ thông tin ở cấp
+tỉnh, cấp huyện phải có bằng Đại học về Tin học hoặc các nhóm ngành về Công
+nghệ thông tin hoặc tương đương trở lên; đạt chứng chí B Anh văn hoặc tương
+đương trở lên. Sau khi được tuyển dụng phải qua đào tạo bồi dưỡng quản lý nhà
+nước về công nghệ thông tin, có chứng chỉ theo quy định của Bộ Thông tin và
+Truyền thông.
+2
+b) Cán bộ thực hiện nhiệm vụ chuyên trách về công nghệ thông tin ở cấp
+xã: Thực hiện theo Thông tư số 06/2012/TT-BNV ngày 30/10/2012 của Bộ Nội
+vụ. Sau khi được giao nhiệm vụ chuyên trách về công nghệ thông tin phải qua
+đàn tạo bồi dưỡng quản lý nhà nước về công nghệ thông tin, có chứng chỉ theo.
+quy định của Bộ Thông tin và Truyền thông.
+Điều 4. Trách nhiệm thì hành
+1. Sở Thông tin và Truyền thông: Chủ trì, phối hợp Sở Nội vụ hướng
+dẫn, kiểm tra việc thực hiện quy định này; xây dụng kế hoạch đào tạo, bồi
+dưỡng hàng năm trình UBND tỉnh phê duyệt; tổ chức đào tạo và cấp chứng chí
+quản lý nhà nước về công nghệ thông tin theo quy định của Bộ Thông tin và
+Truyền thông.
+2. Sở Nội vụ: Chủ trì, phối hợp với các cơ quan liên quan xây dựng cơ
+cấu cán bộ làm nhiệm vụ chuyên trách công nghệ thông tin trong cơ cấu công
+chác, viên chức chung hàng năm của các cơ quan, đơn vị, trình UBND tỉnh phê
+duyệt.
+3. Sở Tài chính: Chịu trách nhiệm cân đối, bố trí đủ kinh phí theo kế
+hoạch đào tạo, bồi dưỡng nghiệp vụ cho cán bộ thực hiện nhiệm vụ chuyên
+trách về công nghệ thông tin đã được UBND tỉnh phê duyệt.
+4. Các sở, ban, ngành; UBND cấp huyện, cấp xã: Trên cơ sở thẩm quyền
+của mình và căn cứ quy định này, bố tri cán bộ trong quá trình xây dựng cơ cầu
+cán bộ, công chức, viên chức; tuyển dụng, bổ nhiệm, quản lý và sử dụng; đảo
+tạo, bồi dưỡng đối với cán bộ làm nhiệm vụ chuyên trách công nghệ thông tin,
+đảm bảo tiêu chuẩn, nghiệp vụ thực hiện nhiệm vụ được giao.
+5. Trong quá trình triển khai nếu có vấn để cần bổ sung, sửa đổi, các cơ.
+quan phản ánh về Sở Thông tin và Truyền thông tổng hợp, báo cáo UBND tỉnh.
+để xem xét, xử lý theo quy định./.
+TM. ỦY BAN NHÂN DÂN
+KT. CHỦ TỊCH
+PHÓ CHỦ TỊCH
+Nguyễn Thiện
+3

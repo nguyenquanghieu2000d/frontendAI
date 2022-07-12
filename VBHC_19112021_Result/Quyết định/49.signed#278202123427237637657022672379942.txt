@@ -1,0 +1,356 @@
+Ký bởi: Công Thông tin điện tử chính phủ
+Email: thongtinchinhpuchinhphu.vn
+Cơ quạn: Văn phòng Chính phủ
+Thời gian ký: 28.07.2014 14:18:50 +07:00
+ỦY BAN QUỐC GIA   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+VỀ ỨNG DỤNG   Độc lập - Tự do - Hạnh phúc
+CÔNG NGHỆ THÔNG TIN
+Hà Nội, ngày 25 tháng 7 năm 2014
+Số: 49 /QĐ-ƯDCNTT
+QUYẾT ĐỊNH
+Ban hành Quy chế làm việc của
+Ủy ban Quốc gia về ứng dụng công nghệ thông tin.
+CÔNG THÔNG TIN ĐIỆN TỬ CHÍNH PHỦ
+CHỦ TỊCH ỦY BAN QUỐC GIA
+VỀ ỨNG DỤNG CÔNG NGHỆ THÔNG TIN
+Căn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;
+Căn cứ Quyết định số 34/2007/QĐ-TTg ngày 12 tháng 3 năm 2007 của
+Thủ tướng chính phủ về việc ban hành Quy chế thành lập, tổ chức và hoạt
+động của tổ chức phối hợp liên ngành;
+Căn cứ Quyết định số 109/QĐ-TTg ngày 15 tháng 01 năm 2014 của
+Thủ tướng Chính phủ về việc thành tập Ủy ban Quốc gia về ứng dụng
+công nghệ thông tin;
+Xét đề nghị của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ,
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy chế làm việc của
+Ủy ban Quốc gia về ứng dụng công nghệ thông tin.
+Điều 2. Quyết định này có hiệu lực thì hành kể từ ngày kỷ ban hành.
+Điều 3. Các thành viên Ủy ban Quốc gia về ứng dụng công nghệ thông tin
+chịu trách nhiệm thi hành Quyết định này./
+Nơi nhận:   CHỦ TỊCH
+- Như Điều 3;
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
+- UBND các tỉnh, TP trực thuộc TW;
+- Văn phòng Trung ương Đảng;
+- Văn phòng Tổng Bí thư;
+- Văn phòng Chủ tịch nước;
+- Văn phòng Quốc hội;
+- VPCP: BTCN, các PCN, Trợ lý TTCP
+TGĐ Cổng TTĐP, các Vụ, Cục;   THỦ TƯỚNG
+Nguyễn Tấn Dũng   - Lưu: VT, ƯDCNTT(3b).160
+ỦY BAN QUỐC GIA   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+VÊ ỨNG DỤNG   Độc lập - Tự do - Hạnh phúc
+CÔNG NGHỆ THÔNG TIN
+QUY CHẾ
+Làm việc của Ủy ban Quốc gia về ứng dụng công nghệ thông tin
+(Ban hành kèm theo Quyết định số 39/QĐ-UĐCNTT ngày 25 tháng 7 năm 2014
+của Chủ tịch Ủy ban Quốc gia về ứng dụng công nghệ thông tin)
+Chương I
+NHỮNG QUY ĐỊNH CHUNG
+Điều 1. Phạm vi, đối tượng áp dụng
+1. Quy chế này quy định về nguyên tắc, trách nhiệm, quyền hạn, chế độ
+làm việc và quan hệ công tác của Ủy ban Quốc gia về ứng dụng công nghệ
+thông tin.
+2. Quy chế này áp dụng đối với các thành viện Ủy ban Quốc gia về ứng
+dụng công nghệ thông tin, Bộ phận giúp việc cho Ủy ban Quốc gia về ứng
+dụng công nghệ thông tin và các Bộ, ngành, cơ quan, tổ chức là thành viên
+Ủy ban Quốc gia về ứng dụng công nghệ thông tin.
+Điều 2. Nguyên tắc làm việc
+Ủy ban Quốc gia về ứng dụng công nghệ thông tin (sau đây gọi tắt là
+Ủy ban) làm việc theo các nguyên tắc sau đây:
+1. Ủy ban Quốc gia và các thành viên không làm thay chức năng, nhiệm
+vụ của các cơ quan và người đứng đầu các cơ quan trong hệ thống chính trị.
+2. Đề cao trách nhiệm cá nhân của Chủ tịch, Phó Chủ tịch và các Ủy viên
+Ủy ban trong hoạt động của Ủy ban và trong thực hiện chức trách nhiệm vụ
+được phân công liên quan tới thúc đẩy ứng dụng và phát triển công nghệ
+thông tin.
+3. Bảo đảm sự chủ động giải quyết nhiệm vụ của các thành viên Ủy ban
+và các Ban Chỉ đạo ứng dụng công nghệ thông tia của các Bộ, ngành, địa
+phương trong quá trình thực hiện các nhiệm vụ về thúc đẩy ứng dụng và phát
+triển công nghệ thông tin.
+4. Bảo đảm yêu cầu phối hợp công tác, trao đổi thông tin trong giải quyết
+công việc theo chức năng, nhiệm vụ, quyền hạn được giao.
+Chương II
+NHIỆM VỤ, QUYỀN HẠN
+CỦA CÁC THÀNH VIÊN ỦY BAN VÀ CÁC TỔ CHỨC
+Điều 3. Chủ tịch Ủy ban
+1. Chỉ đạo toàn diện về tổ chức, chức năng, nhiệm vụ, quyền hạn của
+Ủy ban; quyết định chương trình, kế hoạch công tác của Ủy ban.
+2. Phân công nhiệm vụ các Ủy viên thường trực và các Ủy viên Ủy ban;
+chỉ đạo sự phối hợp thực hiện nhiệm vụ giữa các thành viên Ủy ban.
+3. Quyết định triệu tập và nội dung các cuộc họp của Ủy ban.
+Điều 4. Phó Chủ tịch Ủy ban
+1. Giúp Chủ tịch Ủy ban chỉ đạo, tổ chức thực hiện các nhiệm vụ thuộc
+thẩm quyền của Chủ tịch Ủy ban; thay mặt Chủ tịch Ủy ban điều hành hoạt
+động và xử lý các công việc thường xuyên của Ủy ban.
+- 2. Giúp Chủ tịch Ủy ban chỉ đạo thực hiện các chương trình, chiến lược.
+quốc gia liên quan đến công nghệ thông tân; chỉ đạo xây dựng chương trình,
+kế hoạch công tác của Ủy ban và tổ chức thực hiện sau khi được phê duyệt.
+3. Giúp Chủ tịch Ủy ban chỉ đạo các Bộ, ngành, địa phương, các
+Ban Chỉ đạo ủng dụng công nghệ thông tin của Bộ, ngành, địa phương úng
+dụng và phát triển công nghệ thông tin.
+4. Phê duyệt danh sách Ủy viên Ủy ban.
+Điều 5. Các Ủy viên thường trực Ủy ban
+1. Bộ trưởng Bộ Thông tin và Truyền thông:
+a) Chịu trách nhiệm trước Chủ tịch Ủy ban về các vấn để kỹ thuật, công
+nghệ liên quan tời ứng dụng và phát triển công nghệ thông ting
+b) Chỉ đạo, đôn đốc, điều phối các Bộ, ngành, địa phương xây dựng và
+triển khai thựchiện các chiến lrọc, chương trình, kế hoạch; đến dựn quốt:
+gia về công nghệ thông tin, bảo đảm tính hiệu quả, lồng ghép và đồng bộ với
+các chiến lược, chương trình khác;
+c) Tổ chức việc nghiên cứu, để xuất các yêu cầu về cơ chế chính sách để
+thúc đẩy ứng dụng và phát triển công nghệ thông tin phục vụ phát triển
+kinh tế - xã hội.
+2
+2. Bộ trưởng Bộ Tài chính:
+a) Trên cơ sở yêu cầu về cơ chế chính sách của Bộ trưởng Bộ Thông tin
+và Truyền thông và các Bộ, ngành, địa phương, chỉ đạo nghiên cứu, rà soát,
+đề xuất hoàn thiện các cơ chế, chính sách về tài chính, ngân sách nhà nước
+nhằm thúc đẩy ứng dụng và phát triển công nghệ thông tin trong các cơ quan
+nhà nước và trong xã hội;
+b) Tổng hợp, trình cấp có thẩm quyền bố trí kinh phí thực hiện các hoạt
+động ứng dụng công nghệ thông tin của các Bộ, cơ quan Trung ương theo quy.
+định của Luật Ngân sách nhà nước;
+c) Chủ trì, phối hợp với lãnh đạo các Bộ, ngành, địa phương để cân đối,
+bảo đảm bố trí kinh phí thường xuyên từ nguồn vốn ngân sách nhà nước cho.
+các chương trình, để án, dự án và các hoạt động về ứng dụng và phát triển
+công nghệ thông tin của các cơ quan nhà nước; đôn đốc, giám sát và kiểm tra
+việc sử dụng kinh phí chi thường xuyên cho các hoạt động trên.
+3. Bộ trưởng Bộ Kế hoạch và Đầu tư:
+a) Trên cơ sở yêu cầu về cơ chế chính sách của Bộ trưởng Bộ Thông tin
+và Truyền thông và các Bộ, ngành, địa phương, chỉ đạo nghiên cứu, rà soát.
+để xuất hoàn thiện các cơ chế, chính sách về đầu tư nhằm thúc đẩy ứng dụng và
+phát triển công nghệ thông tin trong các cơ quan nhà nước và trong xã hội;
+b) Chỉ đạo lồng ghép các nội dung về công nghệ thông tin trong xây dựng
+chiến lược, chương trình, quy hoạch, kế hoạch phát triển kinh tế - xã hội;
+c) Chủ trì, phối hợp với lãnh đạo các Bộ, ngành, địa phương huy động,
+cân đối các nguồn vốn hợp pháp cho hoạt động đầu tư phát triển thuộc các
+chương trình, đề án, dự án ứng dụng và phát triển công nghệ thông tin;
+bảo đảm việc bố trí kinh phí thực hiện các chương trình, để án, dự án ứng dụng
+và phát triển công nghệ thông tin thuộc nhiệm vụ chí đầu tư phát triển từ nguồn.
+vốn ngân sách nhà nước theo kế hoạch trung hạn và kế hoạch hàng năm.
+4. Bộ trưởng Bộ Giáo dục và Đào tạo:
+Chỉ đạo nghiên cứu, rà soát, để xuất các cơ chế chính sách về giáo dục,
+đào tạo và phát triển nguồn nhân lực chất lượng cao phục vụ cho ứng dụng và
+phát triển công nghệ thông tin.
+Điều 6. Các Ủy viên Ủy ban
+1. Nhiệm vụ, quyền hạn của Ủy viên Ủy ban:
+a) Chịu trách nhiệm trước Chủ tịch Ủy ban về việc tham mưu các nhiệm
+vụ liên quan đến hoạt động thúc đẩy ứng dụng và phát triển công nghệ thông.
+tin thuộc phạn vi của ngành, lĩnh vực do cơ quan mình phụ trách;
+3
+b) Thực hiện các nhiệm vụ của Ủy ban trong lĩnh vực được giao; chỉ đạo.
+tổng ghép các nội dung về ứng dụng và phát triển công nghệ thông tin trong
+các chiến lược, chương trình, kế hoạch, đề án, dự án của ngành, lĩnh vực do
+cơ quan minh quản lý, chủ trì thực hiện; chủ động phối hợp với các Bộ,
+ngành, địa phương để xử lý những vấn để có liên quan đến ứng dụng và phát
+triển công nghệ thông tin;
+c) Tham vấn các vấn đề quan trọng khác có liên quan đến ứng dụng và
+phát triển công nghệ thông tin phục vụ phát triển kinh tế - xã hội, nâng cao năng
+suất lao động, sức cạnh tranh của nền kinh tế và bảo đảm quốc phòng an ninh;
+đ) Tham dự đầy đủ các phiên họp Ủy ban; củng tập thể Ủy ban xem xét.
+quyết định các vấn đề liên quan đến hoạt động của Ủy ban; chịu trách nhiệm
+trong việc triển khai thực hiện các ý kiến kết luận của Chủ tịch Ủy ban liên
+quan đến lĩnh vực Bộ, ngành và địa phương mình phụ trách;
+đ) Thực hiện các nhiệm vụ khác của Ủy ban theo phân công của Chủ tịch
+Ủy ban.
+2. Lãnh đạo Văn phòng Chính phủ:
+a) Làm đầu mối chuẩn bị các cuộc họp của Ủy ban, Thường trực Ủy ban,
+các cuộc làm việc của Chủ tịch, Phó Chủ tịch Ủy ban;
+b) Ký các thông báo, biên bản họp của Ủy ban, Thường trực Ủy ban và
+các văn bản liên quan đến tổ chức, hoạt động của Ủy ban theo chức năng và
+thẩm quyền được giao;
+c) Thực hiện nhiệm vụ phát ngòn của Ủy ban và cung cấp thông tin cho
+báo chí theo quy định của pháp luật.
+3. Lãnh đạo Bộ Thông tin và Truyền thông:
+a) Tham mưu, để xuất các chủ trương, giải pháp và biện pháp thực hiện
+các chương trình, kế hoạch, đề án, dự án ứng dụng và phát triển công nghệ
+thông tin;
+b) Giúp Ủy viên thường trực - Bộ trưởng Bộ Thông tin và Truyền thông
+thực hiện các nhiệm vụ được Chủ tịch Ủy ban giao;
+c) Chỉ đạo tổ chức các hoạt động nghiên cứu, điều tra, khảo sát, đánh
+giá, hội thảo, hội nghị để thu thập thông tin, số liệu, ý kiến phục vụ cho việc
+tham mưu, đề xuất các chủ trương, chính sách, giải pháp và biện pháp tổ chức.
+thực hiện nhằm thúc đẩy ứng dụng và phát triển công nghệ thông tin.
+4
+4. Lãnh đạo Bộ Khoa học và Công nghệ:
+a) Nghiên cứu, đề xuất và tổ chức thực hiện các hoạt động tăng cường
+năng lực nghiên cứu trong lĩnh vực công nghệ thông tin; từng bước làm chứ.
+và sáng tạo ra công nghệ cho chế tạo sản phẩm quốc gia theo các giai đoạn và
+hàng năm;
+b) Chủ trì, phối hợp với Bộ trưởng Bộ Thông tin và Truyền thông bố trí
+kinh phí thực hiện các chương trình, nhiệm vụ nghiên cứu, chuyển giao công
+nghệ về công nghệ thông tin; tổng ghép các nhiệm vụ nghiên cứu, chuyển
+giao công nghệ về công nghệ thông tin vào các chương trình, kế hoạch, đề án.
+dự án liên quan.
+5. Lãnh đạo Bộ Công Thương:
+a) Chủ trì, phối hợp với các cơ quan, tổ chức có liên quan chỉ đạo việc
+phát triển lĩnh vực thương mại điện tử;
+b) Chủ trì, phối hợp với Bộ Thông tin và Truyền thông đẩy mạnh ứng.
+dụng công nghệ thông tin trong các ngành công nghiệp.
+6. Lãnh đạo Bộ Y tế:
+Nghiên cứu, đề xuất và tổ chức thực hiện các chủ trương, giải pháp về
+ứng dụng và phát triển công nghệ thông tin trong lĩnh vực khám, chữa bệnh
+và bảo hiểm y tế.
+7. Lãnh đạo Bộ Nội vụ:
+a) Chỉ đạo việc lồng ghép các nội dung về ứng dụng và phát triển công
+nghệ thông tin trong các chương trình, hoạt động cải cách hành chính, cải
+cách thủ tục hành chính phù hợp với hoạt động của các cơ quan nhà nước trên
+môi trường mạng theo các giai đoạn và hàng năm;
+b) Chỉ đạo và tổ chức nghiên cứu, để xuất các chủ trương, giải pháp về
+sử dụng, tuyển dụng và chính sách đãi ngộ với cán bộ, công chức hoạt động.
+trong lĩnh vực công nghệ thông tin trong các cơ quan nhà nước; biện pháp tỗ
+chức, hoạt động hệ thống các cơ quan chuyên trách về công nghê thông tin
+trong các cơ quan nhà nước từ Trung ương đến địa phương; hành sang pháp lý
+của việc gửi, nhận và lưu trữ văn bản điện tử.
+8. Lãnh đạo Bộ Quốc phòng, Bộ Công an:
+Tổ chức nghiên cứu, chỉ đạo triển khai công tác ứng dụng và phát triển
+công nghệ thông tin gắn với bảo đảm an toàn, an ninh thông tin mạng. góp.
+phần bảo vệ vững chắc hạ tầng mạng trọng yếu quốc gia.
+5
+9. Lãnh đạo Văn phòng Trung ương Đảng:
+a) Chủ trì, phối hợp với các Ủy viên thường trực tham mưu, đề xuất các
+ý kiến liên quan đến hoạt động ứng dụng công nghệ thông tin trong các cơ.
+quan của Đảng;
+b) Giáp Ủy ban phối hợp các hoạt động giữa Ủy ban với các cơ quan của
+Đảng; báo cáo, giải trình và đề xuất các nội dung về công nghệ thông tin tới.
+Ban Bí thư, Bộ Chính trị và Ban Chấp hành Trung ương Đảng, bảo đảm việc
+xây dựng và triển khai đồng bộ các nội dung về công nghệ thông tin giữa các
+cơ quan của Đảng và Chính phủ và trong các văn kiện của Đảng.
+10. Lãnh đạo Ban Kinh tế Trung ương:
+Phối hợp với Bộ trưởng Bộ Tài chính, Bộ trưởng Bộ Kế hoạch và Đầu tư
+chuẩn bị các báo cáo, giải trình và đề xuất các nội dung về công nghệ thông
+tin tới Ban Bí thư, Bộ Chính trị và Ban Chấp hành Trưng ương Đảng;
+tham gia ý kiến về các chiến lược, chương trình, đề án, dự án quan trọng về
+ứng dụng và phát triển công nghệ thông tin phục vụ phát triển kinh tế - xã hội.
+11. Lãnh đạo Văn phòng Quốc hội:
+a) Làm đầu mối gắn kết hoạt động của Ủy ban với Ủy ban Thường vụ
+Quốc hội và các cơ quan của Quốc hội; tham mưu tổ chức thực hiện các chiến
+lược, chương trình, kế hoạch, đề án, dự án của Ủy ban với Văn phòng Quốc hội.
+các cơ quan của Ủy ban Thường vụ Quốc hội và Quốc hội;
+b) Phối hợp xây dựng và giám sát việc thực hiện luật, nghị quyết của
+Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội về
+công nghệ thông tin và các nội dung liên quan đến công nghệ thông tin.
+12. Tổng Thư ký Ủy ban:
+a) Tham mưu, đề xuất với Chủ tịch Ủy ban về kế hoạch hoạt động của
+Ủy ban; xây dựng chương trình, kế hoạch công tác của Ủy ban, tổ chức thực
+hiện sau khi được phê duyệt; tổng hợp, báo cáo kết quả hoạt động của Ủy ban;
+b) Giúp Ủy ban đôn đốc việc thực hiện các Kết luận của Ủy ban,
+Thường trực Ủy ban, Chủ tịch và Phó Chủ tịch Ủy ban;
+c) Làm đầu mối phối hợp công tác với Hội đồng tư vấn của Ủy ban.
+Điều 7. Bộ phận giúp việc cho Ủy ban
+1. Văn phòng Chính phủ là cơ quan giúp việc cho Ủy ban, có trách nhiệm:
+a) Tổng hợp các báo cáo, dài liện và triển khai phục vụ các hoạt động của
+Ủy ban; chuẩn bị nội dung các phiên họp, các văn bản chỉ đạo, điểu hành của
+Chủ tịch Ủy ban;
+6
+b) Giúp Chủ tịch Ủy ban đôn đốc việc thực hiện những quyết định, kết
+luận tại các kỳ họp của Ủy ban;
+c) Phối hợp và hỗ trợ hoạt động của Hội đồng tư vấn;
+d) Đề nghị các Bộ, ngành, địa phương, các Bãn Chỉ đạtrring dụng.công...
+nghệ thông tin các Bộ, ngành, địa phương cung cấp các thông tin cần thiết
+phục vụ cho hoạt động của Ủy ban;
+đ) Lưu giữ hồ sơ tài liệu liên quan đến hoạt động của Ủy ban.
+2. Các Ủy viên thường trực được thành lập bộ phận giúp việc đặt tại cơ
+quan mình.
+Điều 8. Hội đồng tư vấn của Ủy ban
+1. Hội đồng tư vấn được thành lập theo yêu cầu công việc cụ thể.
+Thành viên Hội đồng tư vấn là đại diện một số tổ chức và các chuyên gia
+trong và ngoài nước, được mời làm việc theo nhiệm vụ và có thời hạn.
+2. Hội đồng tư vấn chủ động để xuất hoặc góp ý về các nội dung chuyên.
+môn theo yêu cầu của Ủy ban.
+Chương III
+CHẾ ĐỘ LÀM VIỆC VÀ QUAN HỆ CÔNG TÁC
+Điều 9. Các cuộc họp của Ủy ban
+1. Ủy ban họp phiên toàn thể định kỳ một năm một lần.
+Trường hợp cần thiết, Chủ tịch Ủy ban quyết định triện tập hợp đột xuất.
+Thành phần tham dự cuộc họp đột xuất do Chủ tịch Ủy ban quyết định.
+2. Thường trực Ủy ban họp 6 tháng một lầp. Thành phần tham dự cuộc
+họp bao gồm: Chủ tịch Ủy ban, Phó Chủ tịch Ủy ban, các Ủy viên thường
+trực và Tổng Thư ký Ủy ban.
+Trường hợp cần thiết, Chủ tịch hoặc Phó Chủ tịch Ủy ban quyết định
+( tập cuộc họp đột xuất các Ủy viên thường trực, Tổng Thư ký Ủy ban và
+một số Ủy viên Ủy ban, đại diện các cơ quan liên quan tới vấn để cần bản.
+quyết định được Chủ tịch, Phó Chủ tịch Ủy ban triệu tập.
+3. Chủ tịch Ủy ban quyết định triệu tập cuộc họp mở rộng có sự tham gia
+của người đứng đầu cơ quan chủ trì thực hiện chiến lược, chương trình, đề án,
+dự án có liên quan đến ứng dụng và phát triển công nghệ thông tin.
+7
+4. Văn phòng Chính phủ chuẩn bị chương trình, nội dung và các điều
+kiện cần thiểu cho cuộc họp của Ủy ban; gửi tài liệu đến các đại biểu tham dự.
+ít nhất 05 ngày làm việc trước cuộc họp.
+Điều 10. Chế độ làm việc và cơ chế phối hợp
+1. Các thành viên Ủy ban làm việc theo chế độ kiêm nhiệm.
+2. Chủ tịch, Phó chủ tịch Ủy ban định kỳ hoặc đột xuất làm việc với.
+Ủy viên Ủy ban, Bộ phận giúp việc cho Ủy ban đề nghe báo cáo tình hình và
+chỉ đạo việc thực hiện chương trình, kế hoạch công tác của Ủy ban.
+3. Các Ủy viên thường trực, Uy viên Ủy ban có trách nhiệm chỉ đạo các.
+cơ quan, đơn vị thuộc lĩnh vực minh phụ trách để phối hợp với Bộ phận giúp
+việc cho Ủy ban thực hiện các nhiệm vụ có liên quan; báo cáo Chủ tịch
+Ủy ban về việc thực hiện các nhiệm vụ được phân công.
+Điều 11. Chế độ thông tin báo cáo
+1. Các thành viên Ủy ban báo cáo Chủ tịch Ủy ban theo các hình thức:
+Đáo cáo trực tiếp, báo cáo bằng văn bản, báo cáo thông qua các phiên hợp.
+định kỳ và đột xuất của Ủy ban. Xặi dung báo cáo gồm những vấn để sau đây:
+a) Tình hình thực hiện những công việc thuộc lĩnh vực được phân công
+phụ trách;
+b) Nội dung và kết quả các hội nghị, cuộc họp khi được Chủ tịch Ủy ban.
+ủy quyền tham dự hoặc chỉ đạo các hội nghị đó;
+c) Kết quả làm việc và những kiến nghị của các Bộ, ngành, địa phương, đối.
+tác hoặc khi tham gia làm việc với các đoàn nước ngoài công như ở nước ngoài.
+2. Các Bộ, ngành, địa phương, cơ quan chủ trì thực hiện các chiến lược,
+chương trình, kế hoạch, để án, dự án có liên quan đến công nghệ thông tin.
+chịo trách nhiệm thực hiện chế độ báo cáo (khuyến khích hình thức gửi báo.
+cáo qua đường thư điện tử công vụ) định kỷ 6 tháng (tưước ngày 15 tháng 7).
+háng năm (trước ngày 15 tháng 01 của năm tiếp theo) hoặc báo cáo đột xuất
+theo yêu cầu của Ủy ban.
+Nội dung báo cáo phải phân tích, đánh giá, tổng kết việc quản lý và triển
+khai thực hiện chiến lược, chương trình, kế hoạch, đề án, dự án; phán tích.
+nguyên nhân khách quan, chủ quan ảnh hưởng đần thực hiện chiến lược; báo
+cáo phải trung thọc, chính xác, phản ánh đầy đủ quá trình thực hiện nhiệm vụ.
+và kết quả đạt được.
+8
+3. Bộ phận giúp việc cho Ủy ban có trách nhiệm xây dựng báo cáo 6
+tháng và báo cáo năm về hoạt động của Ủy ban, gửi xin ý kiến các Ủy viên.
+Ủy ban trước khi trình Chủ tịch Ủy ban.
+Điều 12. Kinh phí hoạt động của Ủy ban
+1. Kinh phí hoạt động của Ủy ban được bố trí trong dự toán ngân sách
+hàng năm của Văn phòng Chính phủ để bảo đảm các hoạt động của Ủy ban,
+Hội đồng tư vấn và Bộ phận giúp việc cho Ủy ban. Văn phòng Chính phủ
+quản lý kinh phí hoạt động của Ủy ban, Hội đồng tư vấn của Ủy ban và
+Bộ phận giúp việc cho Ủy ban theo quy định của Nhà nước.
+2. Việc sử dụng kinh phí bảo đảm hoạt động của Ủy ban thực hiện theo.
+quy định của Luật Ngân sách nhà nước và các văn bản hướng dẫn thi hành.
+Trường hợp có phát sinh các nội dung chỉ đặc thù chưa có tiêu chuẩn, định.
+mức, chế độ chí, Văn phòng Chính phủ chủ trì, phối hợp với Bộ Tài chính để
+xem xét hoặc trình cấp có thẩm quyến xem xét, quyết định.
+3. Cuối năm tổng hợp quyết toán kinh phí hoạt động của Ủy ban vào.
+quyết toán ngân sách hàng năm cửa Văn phòng Chính phủ theo quy định.
+Điều 13. Quan hệ công tác giữa Ủy ban với Ban Chỉ đạo ứng dụng
+công nghệ thông tin các Bộ, ngành, địa phương
+Ban Chỉ đạo ứng dụng công nghệ thông tin các Bộ, cơ quan ngang Bộ,
+cơ quan thuộc Chính phủ và các tỉnh, thành phố trực thuộc Trung ương có các
+trách nhiệm sau đây:
+1. Quán triệt các nội dung chỉ đạo của Ủy ban để đôn đốc, triển khai thực
+hiện các nội dung ứng dụng và phát triển công nghệ thông tin thuộc cơ quan,
+ngành, lĩnh vực minh phụ trách; phối hợp với Bộ phận giúp việc cho Ủy ban
+để xuất, kiến nghị các cơ chế, chính sách và giải pháp thúc đẩy hoạt động ứng
+dụng và phát triển công nghệ thông tin trong các cơ quan nhà nước;
+2. Giải quyết các công việc thuộc thẩm quyền của mình có liên quan đến
+công tác ứng dụng và phát triển công nghệ thông tin theo quy định của pháp
+luật; thực hiện chế độ thông tin, báo cáo theo quy định và yêu cầu của Ủy ban.
+Chương IV
+TỔ CHỨC THỰC HIỆN
+Điều 14. Tổ chức thực hiện
+1. Chủ tịch, Phó Chủ tịch Ủy ban có trách nhiệm tổ chức, chỉ đạo các:
+Ủy viên thường trực Ủy ban, các Ủy viên Ủy ban và Bộ phận giúp việc cho.
+Ủy ban thực hiện Quy chế này.
+9
+2. Trong quá trình thực hiện Quy chế làm việc của Ủy ban, có những vấn
+để phát sinh hoặc cần sửa đổi, bổ sung, do Chủ tịch Ủy ban xem xét,
+quyết định./
+TH CHỦ TỊCH
+THỦ TƯỚNG
+Nguyễn Tấn Dũng
+10

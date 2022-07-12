@@ -1,0 +1,192 @@
+Ký bởi: Văn phòng Ủy ban Nhân dân
+Thời gian ký: 28/04/2016 16:56:39
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH THANH HÓA   Độc lập - Tự do - Hạnh phúc
+Số: 1437 /QĐ-UBND   Thanh Hóa, ngày 28 tháng 4 năm 2016
+QUYẾT ĐỊNH
+V/v Phê duyệt thiết kế bản vẽ thi công và dự toán xây dựng
+Công trình: Cầu qua sông Hoàng, xã Quảng Trung, huyện Quảng Xương.
+tỉnh Thanh Hoá
+CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH THANH HÓA
+Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015;
+Căn cứ Luật Xây dựng ngày 18/6/2014;
+Căn cứ Nghị định số 59/2015/NĐ-CP ngày 18/6/2015 về quản lý dự án
+đầu tư xây dựng công trình; Nghị định số 162015/NĐ-CP ngày 12/5/2015 về
+quản lý chất lượng và bảo trả công trình xây dựng; Nghị định số 32/2015/NĐ-CP
+ngày 25/3/2015 về quản lý chi phí đầu tư xây dựng của Chính phủ;
+Căn cứ Quyết định số 4201/QĐ-UBND ngày 21/10/2015 của Chủ tịch
+UBND tỉnh Thanh Hóa về việc phê duyệt dự án đầu tư xây dựng công trình cầu
+qua sông Hoàng, xã Quảng Trung, huyện Quảng Xương, tỉnh Thanh Hóa;
+Xét Tờ trình số 56/TTr-UBND ngày 20/4/2016 (kèm theo hồ sơ) cửa
+UBND huyện Quông Xương về việc phê duyệt thiết kể bản và thi công và dự
+toán xây dựng công trình cấu qua sông Hoàng, xã Quảng Trung, huyện Quảng.
+Xương; Công văn số 1516/SCTVT-TDKHKT ngày 14/4/2016 của Sở Giao
+thông vận tải,
+QUYẾT ĐỊNH:
+Điều 1. Phê duyệt Thiết kế bản vẽ thì công và dự toán xây dựng công
+trình cầu qua sông Hoàng, xã Qưảng Trung, huyện Quảng Xương, tỉnh Thanh.
+Hóa với những nội dung sau:
+I. Vị trí, địa điểm xây dựng: Xã Quảng Trưng, huyện Quảng Xương.
+II. Quy mô, giải pháp kỹ thuật
+1. Phần cầu: Cầu vĩnh cứu bằng BTCT và BTCT dự ứng lực, tải trọng
+thiết kế H133, người đi bộ 3x10 Mọa; tần suất thiết kế P=1%; khổ thông thuyền.
+trong ứng với sông cấp 6. Khổ cần B=t/ộ2xt,5a111Dan (phần xe chạy Ban, tan
+can mỗi bên 0,5m, phần đặt hệ thống dẫn nước trị). Chiều đài toàn cầu.
+L=110,2m.
+7.1. Kết cấu phần trên
+- Kết cấn nhịp: nhịp giản đơn 3x33m bằng BTCT dự ứng lực 40Mpa, tiết
+điện chữ T. Mặt cất ngang gồm 5 phiến đầm, các đầm chủ được liên kết với
+nhau bằng đẩm ngang và mối sối dọc bằng BTCT 4OMpa. Mặt cầu bằng bê tông
+30Mpa, lưới thép đày (6-14)cm, lớp phủ chống thẩm bằng vật liệu Tanlsi 7
+(hoặc tương đương).
+- Gối cầu bằng cao su bản thép, kích thước (300x/00x78) bưn, khả năng
+chịu lực theo phương thắng đứng 120T.
+- Lan can hỗ hợp bằng BTCT 30Mpa, gang đúc kết hợp ống PVC.
+- Thoát nước mặt cầu: Mỗi nhịp bố trí 06 ổng thoát nước bằng gang đúc.
+kết hợp ống PVC.
+... Gối kê ông dẫn nước: Bằng BTCT 30Mpa, bố trí bên trái cầu (phía hạ
+lưu), khoảng cách Im/gối.
+1.2. Kết cấu phần dưới
+a) Mố cầu
+- Mố kiểu tường, dạng chữ U bằng BTCT 30Mpa, đặt trên hệ cọc đóng
+bằng BTCT 30Ma, tiết điện (40x40)cm, mỗi mố gồm 32 cọc, chiếu dãi dự kiến
+L=25m.
+- Lòng mố đấp bằng vật liệu thoá nước đạt độ chặt Kho,98, trước khi đấp
+quét nhựa đường chống thẩm tường mố.
+- Bản chuyển tiếp giữa cầu và đường bằng BTCT 25Vpa, đặt trên lớp đá
+dăm đệm dày 10cm.
+- Gia cổ tử nón bằng đá hộc xây vữa xi măng 10Mpa dây 30cm; chân
+khay bằng bệ tông 12Mpa, kích thước (60+50)1100cm, gia cổ chân khay bằng
+cọc tre dài 2,5m, mật độ 25 cọc/m2.
+- Mặt đường trên mổ như kết cấu mặt đường của tuyến đường.
+b) Trụ cầu: Hai trụ có cấu tạo giống nhau dạng thân đặc bằng BTCT
+30Mpa, đặt trên hệ móng cọc đóng bằng 31CT 30Vpa, tiết diện (4tx4()cm,
+mỗi mố trụ gồm 32 cọc, chiều dài dự kiến L=25m.
+2. Phần đường: Quy mô đường cấp VI đồng bằng theo TCVN4054-2005.
+Tốc độ thiết kế Vo=30km/h.
+Tổng chiều dài tuyến La1.789.75m, trong đó tuyển chính (bao gồm cả
+cầu) dài 1=1.316,9m (Điểm đầu kmo rối với đường nhựa tại thôn Ngọc Trà 2,
+điểm cuối km14316,9 đi vào thôn Dũng, xã Quang Trung), tuyến nhánh đải
+L-472,85m (điểm đầu Kind giao với tuyển chính tại Km/tr403,88, điểm cuối
+KmĐ+72,88 nối vào đường nhựa hiện tại thuộc thôn Lộc Tiến, xã Quang
+Trung).
+a) Bình đổ tuyển: Tìm tuyến trùng với tâm quy hoạch vùng huyện Tỉnh
+Gia và quy hoạch đô thị Bắc Ghép. Bán kinh đường cong nhỏ nhất Rar roờm.
+b) Cất đọc: Cao độ thiết kế đảm bảo tần suất thủy văn P=4%, cao độ các.
+điểm vuốt nối đảm bảo êm thuận.
+c) Cắt ngang:
+- Bề rộng nền đường: Ba=6,5m; độ đốc ngang i=4%.
+- Bề rộng mặt đường: Bn=3,5m; độ đốc ngang 1n=3%.
+2
+- Bể rộng lề đường: Bựr2x1,5m (Trong đó, lề đường tuyển chính được gia
+cố 2x0,75m, lề đất 2x0,75m; tuyến nhánh không gia cố lẻ).
+- Riêng đoạn 10m đuôi mố cầu có bề rộng Bạ = Pm+8m.
+d) Kết cấu nền dường: Nến đường đấp bằng đất đổi, đẩm lên đạt độ chặt
+K20,95, riêng lớp đất dây 30cm sát lớp kết cấu mặt đường đầm lèn đạt độ chặt
+K20,98. Độ đốc mái taluy nên đường đấp 1/1,5, gia cố bằng trồng có.
+- Kết cấu móng, mặt đường, lế gia cố: Mông cấp phối đả đảm dày 45cm
+( đóp trên cấp phối đả dâm loại 1 dây 1 scm, lớp dưới cấp phối đả dảm loại 2 dày
+30cm), mặt đường láng nhựa têu chuẩn 4,5ngm2, tưới nhựa thẩm bản tiêu
+chuẩn 1kg/m2. Cường độ mặt đường yêu cầu Eor-80Mpa.
+e) Thoát nước
+- Thoát nước đọc: Bằng chảy tỏa và rãnh đọc đất.
+- Thoát nước ngang: Tuyến chính xây dựng 03 cống bản khẩu độ KĐ=1aa.
+Kết cấn tầm bản bằng BTCT M250; mã mổ bằng BTCT M200; tường, thôn,
+tường cánh, gia cổ sản cổng bằng bê rông M150 đặt trên lớp đả dâm dây 10cm.
+Mông cống được gia cố cọc tre dài 2,5m, mật độ 20 cọc/m2.
+g) Hoàn trả đường trên đê: Chiếu dải 188m, quy mô B,r4,5m, Bpr3,5m,
+Bự:2x0,5m. Kết cấu mặt đường bằng bê tông M20) dây 22cm, móng cấp phối
+đả dâm loại 1 dây 15cm. Nến đường được san gạt, đầm lên đạt độ chật Khi.95.
+b) Vuốt nổi đường ngang: Vuốt nối đường ngang đảm bảo yêu cầu kỳ
+thuật. Kết cấu mặt đường bảng bê tông M200 dây 22 cm, Nến đường được san.
+gạt, đầm lèn đạt độ chặt K20,95.
+i) Hộ thống an toàn giao thông: Bố trí đầy đủ theo đúng quy định trong
+quy chuẩn Quốc gia về báo hiệu đường bộ QCVN412012/BCTVT.
+3. Hệ thống mương thủy lợi: Hoàn trả đoạn mương thủy lợi từ bể điều
+phối (gần mô MI) đến mương hiện có (phia mố M2), trong đó:
+- Phần mương trên cầu bằng ống thép D813, liên kết giữa các đốt ống
+bằng mặt bích có gioảng cao su đệm và ba lúng. Đường ống được đặt trên các
+gối đỡ bằng BTCT M200 nên phần bản mặt cầu mở rộng, khoảng cách trunố..
+Phần đi ngằm qua đường, ông được đặt trong rảnh kin, tiết diện (1x0,95); kến
+cầu mứng dây 20am, thân dày 30cm bằng bể tông M150, mữ rãnh bằng BTCT
+M200, nắp rãnh bằng BTCT M250.
+- Đoạn mương trên bờ từ bể thu nước gần mố M2 đến mương hiện tại.
+(trầm về phía phải của để hữu phía hạ lưu cầu) có kết cấn hình chữ nhật, tiết diện.
+(90a70)c; thành mương bằng gạch xây vừa xi măng M75 dây 22cm, trát 2
+mặt; đây mương bằng bả tông xã mảng M100 cay 15cm trên lúp đả đăm đệm.
+dây 10cr. Những vị trí cất qua đường ngang, mương có nấp chịu lực bằng.
+BTCT M250 dây 15cn; mũ mương bằng BTCT M200; móng, tròng mương.
+bằng bê tông Mi50, dày 30cm.
+4. Gia cố mái đê: Tổng chiều đài gia cố 550,86m, trong đó phía thượng
+lau cầu bên tả là 400m (mái đấp tuyến nhánh), phía hạ lưu cầu bên hữa là
+3
+130,86m. Kết cấu mái đê bằng đá hộc xây vữa xi năng M100 dây 25cm, phân.
+khay bằng bê tông M150, kích thước (60/50)100em; chân khay được đặt trên
+hệ cọc tre dài 2,5cm, mật độ 20 cọc/m2.
+(chi tiết các hạng mục có hồ sơ kèm theo)
+III. Dự toán và nguồn vốn:
+- Dự toán:
+Trong đó: - Chi phí GPM3 483.828 nghìn đồng:
+- Chi phí quản lý dự án
+- Chi phí tư vấn ĐTXD
+- Chi phí khác   - Chi phí khác : 2.345.497 nghìn đồng;
+- Chi phí dự phòng : 4.310.339 nghìn đồng.
+(Chi tiết có phụ lục kèm theo)
+- Nguồn vốn: Ngân sách tỉnh đầu tư theo kế hoạch hàng năm; riêng phần
+kinh phí bồi thường GPMB do huyện Quáng Xương đảm nhiệm.
+Điều 2. Chủ tịch UBND huyện Quảng Xương tổ chức thực hiện theo các
+quy định biện bảnh về đầu tư xây dựng, Đồng thời trong quá trình triển khai
+thực hiện các bước tiếp theo, có trách nhiệm tiếp thu, thực hiện đầy đủ các ý
+kiến tại báo cáo thẩm định số 1316/SGTVT-TĐKHKT ngày 10/4/2016 của Sở
+Giao thông vận tải.
+Điều 3. Quyết định này có hiệu lực kể từ ngày ký.
+Chánh Văn phòng UBND tỉnh; Giám đốc các Sở: Kế hoạch và Đầu tư,
+Giao thông vận tải, Xây dựng, Tài chính, Tài nguyên và Môi trường; Giám đốc.
+Kho bạc Nhà nước tỉnh Thanh Hóa, Chủ tịch UBND huyện Quảng Xương, Thủ.
+trưởng các ngành, đơn vị liên quan có trách nhiệm thì hành Quyết định này./.
+Nơi nhận:   KT. CHỦ TỊCH
+- Như Điều 3 QĐ;   PHÓ CHỦ TỊCH
+- Lưu: VT, CN.
+Lê Anh Tuấn
+4
+Đơn vị: Nghìn đồng
+TT   Hạng mục sông việc   Thành tiền
+T   Chi phí xây dựng   37.489.099
+II   Chi phú QLDA   620.199
+III   Chi phí TVĐTXD   2.981.988
+1   Thẩm tra TKBVTC   39.310
+2   Thẩm tra dự toán   37.657
+3   Giám sát kỹ thuật thi công   761.375
+4   Lập HSMT, đánh giá HSDT xây lắp   74.978
+5   Lập HSMT, đánh giá HSDT Tư vấn KSTK lập DAĐT   2.000
+6   Lập HSMT, đánh giá HSDT Tư vấn KS lập TKBVTC   2.000
+7   Lập HSMT, đánh giá HSDT Tư vấn giám sát   2.000
+8   Khảo sất bước lập DAĐT   558919
+9   Lập DAĐT   165.676
+10   Khảo sát lập TKBVTC   491.791
+11   Lập TKBVTC-DT   459.434
+12   Thi nghiệm nén tĩnh cọc (tạm tỉnh)   200.000
+13   Lập HS thiết kế, cắm cọc GPMB (tạm tỉnh)   40.000
+14   Giám sát, đánh giá dự án   124.039
+15   Thẩm tra hiệu quả dự án   22.830
+IV   Chi phí khác   2.345.497
+1   Bảo hiểm công trình   157.454
+2   Rà phá bom mìn (tạm tỉnh)   300.000
+3   Lệ phí thẩm định DA Đt   7.067
+4   Thẩm định TK BVTC   9.082
+5   Thẩm định DT   8.720
+6   Thẩm định HSMT, KQĐT xây lắp   34.081
+7   Thẩm định HSMT, KQĐT tư vấn KS TK lập DAĐT   2.000
+8   Thẩm định HSMT, KQĐT tư vấn KS lập TKBVTC   2.000
+9   Thẩm định HSMT, KQĐT tư vấn giám sát   2.000
+10   Chi phí kiểm tra của cơ quan QLNN (tạm tỉnh)   30.000
+11   Chi phí kiểm toán công trình   431.317
+12   Thẩm tra, phê duyệt quyết toán   124.431
+13   Chi phí hạng mục chung   1.237.435
+-   Chi phí trực tiếp khác   749.782
+-   Chi phí lán trại phần đường   225.523
+-   Chi phi lán trại phần cầu   262.130
+V   Chi phí GPMB   483.828
+VI   Dự phòng   4.310.339
+Tổng cộng   48.230.950
+5

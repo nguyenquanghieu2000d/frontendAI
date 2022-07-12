@@ -1,0 +1,391 @@
+Ký bởi: Văn phòng Ủy ban Nhân dân
+26/04/2018 16:23:16
+ỦY BAN NHÂN DÂN   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH THANH HÓA   Độc lập - Tự do - Hạnh phúc
+Số: 1505 /QĐ-UBND   Thanh Hóa, ngày 26 tháng 4 năm 2018
+QUYẾT ĐỊNH
+Về việc phê duyệt Đề án “Phái triển một số săn phẩm công nghệ thông tin.
+mũi nhọn của tỉnh Thanh Hóa đến năm 2020, định hướng đến năm 2030”-
+CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH THANH HÓA
+Căn cứ Luật Tổ chức Chính quyền địa phương ngày 19/6/2015;
+Căn cứ Luật Công nghệ thông tin ngày 29/6/2006;
+Căn cứ Luật An toàn thông tin mạng ngày 19/11/2015;
+Căn cứ Luật Giao dịch điện tử ngày 29/11/2005;
+Căn cứ Nghị quyết số 26/NQ-CP ngày 15/4/2015 của Chính phủ về việc.
+ban hành Chương trình hành động của Chính phủ thực hiện Nghị quyết số 36-
+NQ/TW ngày 01/7/2014 của của Bộ Chính trị (khóa XI);
+Căn cứ Nghị quyết số 36s/NQ-CP ngày 14/10/2015 của Chính phủ về
+Chính phủ điện tử;
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về
+ứng dụng CNTT trong hoạt động của cơ quan nhà nước;
+Căn cứ Quyết định số 66/2014/QĐ-TTg ngày 25/11/2014 của Thủ tướng
+Chính phủ, về việc phê duyệt Danh mục công nghệ sao được ưu tiên đầu tư phát;
+triển và Danh mục sản phẩm công nghệ cao được khuyến khích phải triển;
+Căn cứ Quyết định số 392/QĐ-TTg ngày 27/3/2015 của Thủ tướng Chính
+phổ phê duyệt Chương trình mục tiêu phát triển ngành công nghiệp CNTT đến
+năm 2020, tầm nhìn đến năm 2025;
+Căn cứ Quyết định số 1819/QĐ-TTg ngày 26/10/2015 của Thủ tướng
+Chính phủ về phê duyệt Chương trình quốc gia về lúng dụng cũng nghệ thông tin.
+trong hoạt động của cơ quan nhà nước giai đoạn 2016-2020;
+Căn cứ Quyết định số 13/2017/QĐ-TTg ngày 28/4/2017 của Thủ tướng
+Chính phủ, về việc sửa đổt, bổ sung danh mục công nghệ cao được vu tiên đầu.
+tư phát triển và dảnh mục sản phẩm công nghệ cao được khuyến khích nhát triển.
+ban hành kèm theo Quyết định số 66/2014/QĐ-TTg ngày 25 tháng 11 năm 2016.
+của Thủ tướng Chính phủ;
+Căn cứ Thông tư số 43/2016/TT-BTTTT ngày 26/12/2016 của Bộ Thông
+tin và Truyền thông, ban hành Danh mục sản phẩm nội dung thông tin số;
+Căn cứ Thông tư số 47/2016/TT-BTTTT ngày 26/12/2016 của Bộ Thông
+tin và Truyền thông, quy định chi tiết về ưu tiên đầu tư, mua sắm sản phẩm, dịch.
+vụ CNTT sản xuất trong nước sử dụng nguồn vốn ngân sách nhà nước;
+Căn cứ Thông tư số 01/2017/TT-BTTTT ngày 16/02/2017 của Bộ Thông
+tin và Truyền thông, ban hành Danh mục sản phẩm CNTT trọng điểm
+Căn cứ Quyết định số 3269/QĐ-UBND ngày 26/8/2016 của UBND tỉnh
+Thanh hóa, phê duyệt đề cương Để án phát triển một số sản phẩm CNTT n3t
+nhọn của tỉnh Thanh Hóa đến năm 2020, định hướng đến năm 2030;
+Căn cứ Quyết định số 2538/QĐ-UBND ngày 17/7/2017 của UBND tỉnh
+Thanh hóa, phê duyệt Đề án xây dựng Chính quyền điện tử và phát triển các
+dịch vụ thành phố thông mình tỉnh Thanh Hóa giai đoạn 2017-2020;
+Căn cứ Thông báo số 34/TB-UBND ngày 14/3/2018, kết luận của Chủ tịch.
+UBND tỉnh tại Hội nghị về Đề án phát triển một số sản phẩm công nghệ thông tin
+môi nhọn của tỉnh Thanh Hóa đến năm 2020, định hướng đến năm 2030
+Xét đề nghị của Sở Thông tin và Truyền thông tại Văn bản số 1686/STTTT-
+CNTT ngày 15/12/2017 và số 307/STTTT-CNHT ngày 30/3/2018 (kèm theo Báo
+cáo thẩm định của Sở Tư pháp số 32/BCTĐ-STP ngày 25/01/2018).
+QUYẾT ĐỊNH:
+Điều 1. Phê duyệt Đề án Phát triển một số sản phẩm công nghệ thông tin
+mửi phọn của tỉnh Thanh Hóa đến năm 2020, định hướng đến năm 2030” với
+những nội dung chính như sau:
+1. Quan điểm, định hướng lựa chọn sản phẩm CNTT mữi nhợn:
+1. Sản phẩm CNTT mũi nhọn phục vụ phát triển kinh tế - xã hội của tỉnh:
+Việc lựa chọn các sản phẩm CNTT môi nhọn của tỉnh phải phù hợp với.
+định hướng phát triển kinh tế xã hội của tỉnh và định hướng chuyển dịch cơ cấu
+kinh tế theo hướng kình thành và phát triển ngành công nghiệp có hàm lượng.
+khoa học công nghệ cao.
+Các sản phẩm CNTT mũi nhọn của tỉnh về chuyên môn phải đạt các tiêu
+chỉ về sản phẩm trọng điển: được xác định trong Luật CNTT và phù hợp danh.
+mục các sản phẩm trọng điểm để xuất tại Thông tư số 47/2016/TT-BTTTT và
+Thông tư số 01/2017/TT-BTTTT của Bộ Thông tin và Truyền thông.
+Các sản phẩm CNTT mõi nhạn phải phù hợp và tác động hiệu quả đến
+định hướng phát triển kinh tế xã hội của tỉnh: Tăng trưởng theo chiếu sâu, đầy
+mạnh chuyên dịch cơ cấu, hình thành ngành kinh tế mũi nhọn.
+Các sản phẩm phần mềm, nội dung số phái tác động tích cực đến việc.
+phát triển khu CNTT tập trung, gắn tiến với Khu CNTT tập trung để phát triển.
+công nghiệp phần mềm và nội dung số.
+Các sản phẩm phần củng phải tạo lập môi trường đầu tư về CNTT để sẵn
+sàng thu hút và tiếp nhận các dự án FĐI về sản phẩm phần cứng CNPT vào các
+khu công nghệ cao của tỉnh.
+Các sản phẩm CNTT mõi nhạn lựa chọn phải đảm báo tính hiện đại, thiết
+thực và hiệu quả. Bên cạnh các sản phẩm phải phát triển nguồn nhân lực nhất là
+nguồn nhân lực chất lượng cao về CNTT.
+Các sản phẩm CVTT nữi nhọn phải do doanh nghiệp đầu tư, thực hiện.
+Tỉnh sẽ hỗ trợ thông qua chính sách ưu đãi về môi trường làm việc, cung cấo
+thông tin thị trường, hỗ trợ đáo tạo nguồn nhân tực, khuyến khích, tra đai đầu tư,
+thuế và tru tiên sử dụng sản phẩm dó doanh nghiệp đầu tư trên địa bàn tỉnh trên cơ
+2
+sở sản phẩm phải đảm bảo chất lượng và có tính cạnh tranh cao trên thị trường.
+Đối với các doanh nghiệp khởi nghiệp, khuyến khích đề xuất các ý tưởng
+sáng tạo trong các nhóm sản phẩm CNTT mũi nhạn để lựa chọn, ưom tạo và
+phát triển.
+2. Sản phẩm CNTT mũi nhọn đáp ứng hội nhập về lĩnh vực CNTT của
+tỉnh đối với khu vực và quốc tế.
+Phát triển sản phẩm CNTT mũi nhọn phải gắn với quá trình hội nhập quốc
+tế. Việc lựa chọn sàn phẩm CNTT nãi nhẹn của tỉnh, cần tiếp thu các thành tựu
+và kinh nghiệm trong nước và quốc tế để tham gia tích cực vào chuỗi liên kếu
+cung cấp các sản phẩm dịch vụ CNTT-TT trong nước và quốc tế.
+II. Mục tiêu
+1. Mục tiêu tổng quát
+Lựa chọn để phát triển một số sản phẩm CNTT mãi nhọn tỉnh Thanh Hóa
+đến năm 2020, định hướng đến năm 2030 nhằm đẩy mạnh phát triển công
+nghiệp CNTT dựa trên thể mạnh của tỉnh, góp phần vào quá trình chuyển dịch.
+cơ cấu kinh tế, thúc đẩy sự nghiệp công nghiệp hoá, hiện đại hoá của tỉnh.
+2. Mục tiêu cụ thể
+Mục tiêu đến năm 2020:
+- Thu hút từ 2 đến 5 doanh nghiệp đầu tư sản xuất một số sản phẩm phần.
+củng CNTT, sản phẩm phụ trợ cho sản phẩm CNTT vào các khu công nghiệp.
+của tỉnh.
+- Xây dựng từ 3 đến 5 sản phẩm phần mềm thương mại điện tử, kết nối.
+cung cầu để giới thiệu sản phẩm truyền thống, sản phẩm du lịch, tham gia lưu
+thông, phân phối hàng hóa, dịch vụ của các doanh nghiệp Thanh Hóa.
+... Lựa chọn, hỗ trợ 4 đến 5 sản phẩm phần mềm CNTT, phục vụ Chính
+quyền điện tử của tỉnh.
+- Triển khai từ 4 đến 5 dịch vụ thành phố thông minh đáp ứng các nhu cầu
+thiết yếu trong đời sống kinh tế, xã hội của tỉnh.
+- Khuyển khích xây dựng từ 4 đến 5 sản phẩm nội dung số, phục vụ công
+tác tuyên truyền, giải trí, quảng cáo, du lịch, khuyến nông... để thúc đẩy phát
+triển công nghiệp nội dung số.
+Định hướng đến năm 2030:
+Các sản phẩm CNTT mũi nhọn của tỉnh được tham gia vào chuỗi giá trị
+toàn cầu góp phần đưa Công nghiệp CNTT tỉnh Thanh Hóa trở thành một trong.
+những ngành kinh tế mũi nhọn của tỉnh.
+III. Các nhóm sản phẩm CNTT mũi nhọn của tỉnh Thanh Hóa đến
+năm 2020, định hướng đến năm 2030
+Trên cơ sở các định hướng phát triển kinh tế xã hội của tỉnh, định hướng.
+chuyển dịch cơ cấu kinh tế và phát triển ngành công nghệ cao, lựa chọn sản.
+phẩm CNTT mũi nhọn của tỉnh Thanh Hóa theo các nhóm sản phẩm sau:
+- Nhóm 1: Nhóm các sản phẩm phần cứng, sản phẩm phụ trợ cho sản.
+phẩm CNTT thu hút đầu tư vào Thanh Hóa.
+3
+- Nhóm 2: Nóm các sản phẩm phần mềm thương mại điện tử, kết nối.
+cung cầu.
+- Nhóm 3: Nhóm các sản phẩm phần mềm phục vụ Chính quyền điện tử.
+- Nhóm 4: Nhóm các sản phẩm về dịch vụ thành phố thông minh.
+- Nhóm 5: Nhóm các sản phẩm phần mềm, nội dung số.
+(Danh mục các dự án, nhiệm vụ cự thể trong phụ lục kèm theo)
+IV. Các giải pháp
+1. Giải pháp phát triển thị trường CNTT trên địa bàn tỉnh
+Đẩy mạnh ứng dụng CNTT trong các lĩnh vực để xây dựng Chính quyền
+điện tử, doanh nghiệp điện tử, công dân điện tử.
+Tuyên truyền, vận động các cơ quan, doanh nghiệp dừng các sản phẩm.
+phần mềm do doanh nghiệp Thanh Hóa xây dựng.
+Tập trung xây dựng CSDL tạo lập tài nguyên, dữ tiệu lớn cho các phần.
+mềm phát triển (giào đạc, y tế, đất đai, nông nghiệp...); khuyến khích phát triển
+hạ tầng mạng theo hướng hiện đại để nâng cao chất lượng về dịch vụ.
+Triển khai xây dựng các dịch vụ thành phố thông minh trên cơ sở các nền tảng
+công nghệ đảm mây, Big Đata, trì luệ nhân tạo và loT phục vụ đời sống xã hội.
+Đấy mạnh hợp tác giữa nhà nước - doanh nghiệp và đơn vị hưởng thụ.
+2. Giải pháp tạo lập tài nguyên, môi trường mạng và dữ liệu lớn để
+phát triển các sản phẩm phần mễm và nội dung số
+Xây dựng khu CNTT tập trung để tạo lập tài nguyên số là cơ sở dữ liệu
+mỏ, môi trường số như đám mây, dịch vụ hạ tầng làm cơ sở để phát triển phần.
+mềm và nội dung số.
+Khu CNTT sẽ bình thành Trung tâm dữ liệu Big Đau thu thập từ các
+nguồn 16T để các doanh nghiệp có thể khai thác các dữ liệu mỏ, phát triển các
+các phần mềm và nội dung số trên nền dữ liệu lớn của tỉnh.
+Các doanh nghiệp tham gia làm các sản phẩm CNTT mũi nhọn phục vụ
+Chính phủ điện từ sẽ được hưởng các chính sách dành cho doanh nghiệp tham.
+gia và Khu CNTT tập trung của tỉnh; các doanh nghiệp đầu tư vào các Khu
+công nghiệp trên địa bàn tỉnh được hướng chính sách ưu đãi, hỗ trợ đầu tư theo
+Quyết định số 3667/2013/QĐ-UBND ngày 18/0/2013 của UBND tỉnh Thanh:
+Hóa về việc Ban hành chính sách khuyến khích, hỗ trợ đầu tư vào Khu kinh tế
+Nghị Son và các Kau công nghiệp trên địa bàn tỉnh Tranh Hóa và các chính.
+sách ca đải chung theo quy định của Nhà nước. Khuyến khích các doanh nghiệp.
+phát triển hạ tầng mạng theo hưởng hiện đại để nâng cao chất lượng dịch vụ.
+3. Giải pháp về đào tạo, phát triển nguồn nhân lực CNTT cho phát
+triển một số sản phẩm CNTT mũi nhọn của tỉnh
+Nâng cao năng lực quản lý nhà nước về quản lý phát triển công nghiệp.
+CNTT: Thực thi chính sách, pháp luật, năng lực thực hiện thủ tục hành chính
+Thu hút nguồn nhân lực có trình độ cac về CNTT làm việc trong cơ quan,
+doanh nghiệp trong tỉnh. Đồng thời tạo cơ chế về thu nhập và điều kiện sống
+thuận lợi cho người lao động để giữ nguồn nhân lực lâu dài.
+4
+Phát triển nguồn nhân lực; Đội ngũ lao động làm việc trực tiếp ở các khu
+công nghiệp, nhà máy, cơ sở sản xuất; tỉnh hỗ trợ đào tạo ban đầu cho công
+nhân, kỹ thuật viên làm việc trong nhà mấy sản xuất sản phẩm về CNTT theo
+nha cầu của doanh nghiệp, thực hiện đào tạo trước và sau tuyển dụng.
+Xây dựng và đưa vào vận hành trung tâm đác tạo và chuyển giao công
+nghệ trong Khu công nghệ thông tin tập trung (phần mềm, nội dung só) của tỉnh,
+Trực hiện liên kết, hợp tác với các trường Đại học, Can đẳng và các tổ
+chức hợp tác đào tạo có uy tin và kinh nghiệm trong nước và trên thể giới tương
+cùng lĩnh vực để đào tạo nguồn nhân lực có tỉnh độ cao, chuyên sâu, đép ùng
+được nhu cầu ngày cảng cao về nhân lực CNTT.
+Các trường Đại học, Cao đảng đào tạo bong lĩnh vực CNTT đặc biệt là
+trường Đại học Hồng Đức xây dựng đề án đào tạo nguồn nhân lục CNTT chất
+lượng cao đáp ứng nhu cầu nhân lực trên địa bàn tỉnh.
+4. Giải pháp về xúc tiến đầu tư và huy động vốn đầu tư phát triển
+một số sản phẩm CNTT mũi nhọn của tỉnh.
+Tổ chức hoặc lồng ghép với các hội nghị xúc tiến đầu tư tại các nước, các
+thành phố của tỉnh bạn có quan hệ, liên kết với tỉnh Thanh Hóa; Vận động xúc
+tiến các doanh nghiệp nước ngoài đầu tư phát triển các sản phẩm CNTT mãi
+nhọn tại Toanh Hóa. Chủ động tiếp cặn các nhà đầu tư có tiềm năng tại các quốc
+gia như: Nhật, Hàn Quốc, Đài Loan, Singapore...
+Xây dựng và ban hành quy chế phối hợp giữa các cơ quan xúc tiến đầu tư;
+Sở Trêng tin và Truyền thông, Sở Công thương, Sở Kế hoạch và Đầu tư, Trung
+tâm Xúc tiến Trương mại và Du lịch, VCCI Thanh Hóa... Hỗ trợ doanh nghiệp
+thông qua các quỹ đầu tưỹ phát triển doanh nghiệp khởi nghiệp...
+5. Giải pháp phát triển doanh nghiệp, tạo vườn trơm doanh nghiệp.
+đặc biệt là doanh nghiệp CNTT; xây dựng phong trào khôi nghiệp trong
+thanh niên trên địa bàn tỉnh Thanh Hóa
+Tạo vườn ươm doanh nghiệp, đặc biệt là doanh nghiệp CNTT, xây dựng
+phong trào khởi nghiệp trong thanh niên, khuyến khích khởi nghiệp dựa trên nền.
+tảng CNTT. Các doanh nghiệp khởi nghiệp có thể khai tháo tài nguyên đữ liệu
+từ Trong tâm đữ lệu của tỉnh, môi trường nền tàng đảm mây của Khu CN TT tập.
+trung để phát triển các sản phẩm phần mềm và nội dung số.
+Xây dựng các khu CNTT tập trung nhấm ưọ giúp các doanh nghiệp kinh
+doanh hạ tầng về vốn, quỹ đất... tạo điểu kiện cho các doath nghiệp xây dựng.
+các khu công nghiệp, khu công nghệ cao nhằm thu hút đầu tư vậo CNTT.
+Khuyến khích các doanh nghiệp trong tỉnh đầu tư để phát triển các sản
+phẩm CNTT, thúc hỗ trợ doanh nghiệp thông qua chính sách khoa học công.
+nghệ, qua để tài KHCN, qua chính sách khởi nghiệp, qua chính sách hỗ trợ
+doanh nghiệp trung khu CNTT tập trang và qua việc đặt hàng các sản phẩm cở
+chất lượng tốt và tính cạnh tranh cao.
+Xây dựng chính sách thu hút các doanh nghiệp CNTT lớn mở Chi nhành,
+Văn phòng đại điện tại tỉnh và tra bút các nhà đầu tư cơ sở sản xuất tại Khu
+5
+công nghiệp CNTT tập trung của tỉnh.
+IV. Tổ chức thực hiện
+1. Sở Thông tin và Truyền thông
+Chủ trì, phối hợp với các sở, ban, ngành cấp tỉnh liên quan xây dựng co.
+chế chính sách hỗ trợ cho các dự án sản phẩm CNTT chõ nhọn của tỉnh
+Chủ trì, phối hợp với các sở, ban, ngành cấp tỉnh liên quan và UBND các
+huyện, thị xã, thách phố tổ chức thực hiện các chương trình phát triển, thu hút
+đầu vào các lĩnh vực CNTT.
+Tổ chức thực hiện đồng bộ các giải pháp nhằm hoàn thiện môi trường.
+pháp lý, bỗ trợ phát thiển các sản phẩm CNTT mũi nhợn; xúc tiến thương mại,
+mở rộng thị trường CNTT trên địa bàn tỉnh và trong nước; hỗ trợ câng cao tăng
+lực cạnh tranh cáo các doanh nghiệp; tăng cường hạ tầng viễn thông, Irremet:
+xây dựng và triển khai các chương trình đàc tạo ngắn hạn về các kỹ năng và
+công nghệ điện tử, phần mềm, nội dung thông tin số; xây dưng, ban hành các
+quy chuẩn chất lượng, kỹ thuật cho các sản phẩm công nghiệp CNTT.
+Hướng dẫn các doanh nghiệp hoạt động trong Tĩnh vực điện tử, CNTT căn.
+cứ phát triển một số sản phẩm CNTT mũi nhọn phù hợp.
+2. Sở Kế hoạch và Đầu tư
+Chủ trì, phối hợp với Sở Tài chính, Sở Thông tin và Truyền thông, UBND
+huyện, thị xã, thành phố triển khai các biện pháp nhằm huy động tối đa các
+nguồn vốn, tập trung các nguồn lực, thu hút mạnh mẽ đầu tư trong và ngoài
+nước phát triển sản phẩm CNTT mũi nhọn của tỉnh.
+Phối hợp với Sở Thông tin và Truyền thông tổng hợp triển khai thực hiện.
+cơ chế chính sách hỗ trợ các dự án phát triển một số sác phẩm CNTT môi nhọn.
+Cân đối và huy động cảo nguồn vấn để đảm bảa kinh phí thực hiện các dự.
+án phát triển công nghiệp CNTT của tỉnh.
+3. Sở Khoa học và Công nghệ
+Phối hợp với Sở Thông tin và Truyền thông và các sở, ban, ngành cấp tỉnh
+liên quạn lựa chụn tải trường chúng loại cho sản phẩm CNTT mũi nhọn, đầy
+mạnh hoạt động nghiên cứu và phát triển các sản phẩm mũi nhọn về phầt mềm,
+nội dung thông tin số mữi nhọn; phấi hợp lựa chọn các công nghệ cho sản phẩm
+CNTT mti nhọn của tỉnh, ưu tiên đầu tực cho các dự án nghiên cứu phát triển,
+chuyển giao công nghệ các sản phẩm mới để đưa vào sản xuất; đẩy mạnh công
+tác bảo vệ sở lức trí ruệ trong Tĩnh vựn phần phẩm, nội dung thông tin số; phối.
+hợp bố trí nguồn lục KH&CN cho sản phẩm CNTT mii nhọn của tỉnh, để xuất
+trích nguồn ngân sách KHCN của tình nàng năm để triển khai một số nhiệm vụ
+trong Đề án.
+4. Sở Giáo dục và Đào tạo
+Chủ trì, phối hợp với Sở Thông dư và Truyền thông, Sở Lao động thương
+bảnh và xã hội và các sở, ban, ngành cấp tỉnh liên quar tổ chức triển khai thực
+hiện các giải pháp, nhằm định hướng nghề nghiệp trong các nhà tường để xây
+dựng dựng nguền nhân lực, đẩy mạnh phát triển nguồn nhân tực cáo công
+6
+nghiệp CNTT theo hướng mử rộng môn học, khoả học về chuyên ngành này,
+tăng cường số lượng, nâng cao chất lượng đào tạo trong các trường công lập và
+dân lập; đẩy mạnh các chương trình đào tạo tà xa; quy định và khuyến khích sử
+dựng các tài lệu, học liệu điện tỉ trong công tác dạy và học; khai thác tối da kho
+tài nguyên kiến thức trên Irternet vào việc dạy và học của nhà trưởng các cấp.
+5. Ban quản lý khu kinh tế Nghì Sơn và các Khu công nghiệp của tỉnh
+Chủ trì, phối họp với Sở Thông tin và Truyền thông và các đơn vị liên
+quan, xây dựng các chính sách ưu đải và khuyến khích cụ thể, phù hợp với các
+quy định hiện hành của Nhà nước, trên các lĩnh vực: Thu hút, tuyển dụng và sử
+dụng lao động; hỗ trợ xúc tiến đầu tư thương mại; hỗ trợ đầu tư xây dựng hệ
+thống kết cầu hạ tầng kỹ truật - xã hội, công trình dịch vụ và tiện ích công cộng;
+bối thường, giải phóng mặt bằng cho các dự án được hưởng chế độ ưu đãi trong
+các khu công nghiệp trên địa bàn tỉnh.
+6. Trung tâm Xúc tiến Đầu tư, Thương mại và Du lịch
+Chủ trì, phối hợp với Sở Thông tin và Truyền thông và các đơn vị liên.
+quan tổ chức thực hiện nhóm giải pháp về xúc tiến đầu tư và huy động vốn đầu
+tư ODA, PDi để phát triển các sản phẩm CNrT mũi nhọn; đặc biệt là thu hút
+nguồn vốn đầu tư nước ngoài từ các tập đoàn lớn, tập đoàn đa quốc gia và các
+doanh nghiệp có vốn đầu tư nước ngoài đang sản xuất kinh doanh tại Việt Nam.
+Tru hút các phả đầu tư nước ngoài đầu tư và chuyển giao công nghệ vào
+các lĩnh vực sản xuất sản phẩm công nghệ cao, hàm lượng tri tuệ cao. Hỗ trợ
+doanh nghiệp xây dựng thương hiệu sản phẩm và phát triển thị trường cho ngành.
+công nghiệp phần mềm và nội dung số của tỉnh.
+7. Trường Đại học Hồng Đức
+Chủ trì, phối hợp với Sở Thông tin và Truyền thông, các tập đoàn, doanh:
+nghiệp CNTT lờn xây dựng để án đào tạo nguồn nhân lực CNTT chất lượng cao,
+tập trung xây dựng chương trình đào tạo nguồn nhân lực có trình độ cao, chuyên
+sâu, đáp ứng được nhu cầu về nhân lực CNTT trong các cơ quan, doanh nghiệp.
+trên địa bàn tỉnh.
+8. Các doanh nghiệp hoạt động trong lĩnh vục CNTT
+Tích cực tham gia thực hiện các dự án thuộc Chương trình phát triển sản
+phẩm CNTT múi nhọn; Tăng cường đầu tư phát triển thị trưởng, năng cao năng
+lực, sức cạnh tranh.
+Xây dựng kế hoạch kinh doanh, sản xuất các sản phẩm CNTT hàng năm.
+đặc biệt trong lĩch vực giao dịch điện tử, thương mại điện từ nhằm tăng cường
+kêu gợi đầu tư, xúc tiến thương mọt, mở rộng thị trường theo định trưởng phát.
+triển kinh tế xã hội của tỉnh.
+9. Các Sở, ban, ngành cấp tỉnh khác
+Căn cứ Đề án này chủ động xây dựng, để xuất các nội dung liên quan để
+thúc đầy phát triển một số sản phẩm CNTT mới nhợn của tỉnh, đảm báo các hoạt.
+động về ứng dụng CNTT trong kế hoạch hoạt động thường xuyên của đơn vị.
+7
+10. Các tổ chức, đoàn thể
+Các đoàn thể, tổ chức chính trị - xã hội, xã hội nghề nghiệp, các trường
+Đại hạc, Cac đẳng trên địa bàn tỉnh phối hợp trong công tác giac dục, tuyên
+truyền, đào tạo nguồn nhân lực theo định hướng phát triển sản phẩm CNTT mãi
+phọn, đảng góp trong xây dựng co chế chính sách, để xuất với tỉnh các sáng kiến
+phát triển sản phẩm và ứng dụng CNTT.
+Điều 2. Các sở, ban, ngành cấp tỉnh; UBND các huyện, thị xã, thành phố;
+các đơn vị có liên quan căn cứ nhiệm vụ được giao tại Đề án tổ chức triển khai
+thực hiện theo các nội dung được phê duyệt.
+Điều 3. Quyết định này có hiệu lực kể từ ngày ký.
+Chánh Văn phòng UBND tỉnh; Giám đốc các Sở, Thủ trưởng các đơn vị.
+ban, ngành cấp tỉnh; Chủ tịch UBND các huyện, thị xã, thành phố và các cơ
+quan, đơn vị có liên quan chịu trách nhiệm thì hành quyết định này./.
+Nơi nhận:   CHỦ TỊCH
+- Như Điểu 3;
+- Bộ TT&TT (để B/cáo);
+- Thường trực Tỉnh ủy (để B/cáo);
+- Thường trực HĐND tỉnh (để B/cáo);
+- Chủ tịch, các PCT UBND tỉnh;
+- Công báo tỉnh;
+- Lưu VT, CNTT.
+Nguyễn Đình Xứng
+8
+DANH MỤC CẤT DỆ ÂN, NHIỆM VỤ CHÍNH CỦA ĐỀ ÁN
+Phát triển một số sản phẩm công nghệ thông tin mãi nhọn của tỉnh.
+Thanh Hóa đến năm 2027, định hướng đếu năm 2030”
+(Kèm theo Quyết định số: 001 /2Đ- Hày Ngày - xố 1/2018 của Chỉ tịch UBND tỉnh)
+a) Nhóm các sản phẩm phần cứng, sản phẩm phụ trợ cho sân phẩm
+CNTT thu hút đầu tư vào Thanh Hóa
+Đơn vị triển   Thời gian
+STT   Tên sản phẩm   Địa điểm thu hút đầu tư   khai   thực hiện
+Sản xuất Điện thoại
+1   thông minh, máy   Khu Lam Sơn Sao vàng và   các khu CN trên địa bàn tỉnh   Doanh nghiệp   2018-2025
+tính
+Sản xuất linh kiện   Khu Lam Sơn Sao vàng và
+2   Doanh nghiệp
+điện tử   các khu CN trên địa bàn tỉnh   2020-2025
+Sản xuất sản phẩm
+phụ trợ cho các nhà   Khu công nghiệp Đông Nam
+3   máy sản xuất điện   TP Thanh Hóa và các khu   Doanh nghiệp   2018-2025
+thoại thông minh,   CN trên địa bàn tỉnh
+máy tính, máy in...
+Bao bì đóng gói sản   Khu kinh tế Nghi Sơn và các   Doanh nghiệp   2020-2025
+4   phẩm phần cứng   khu CN trên địa bàn tỉnh
+b) Nhóm các sản phẩm phần mềm thương mại điện tử, kết nối cung cầu
+Đơn vị triển   Thời gian
+STT   Tên sản phẩm   khai   thực hiện
+Hệ thống phục vụ thương mại điện từ giúp quảng
+1   cáo, phân phối và bán các sản phẩm truyền thống   Doanh nghiệp   2018-2020
+của Thanh Hóa qua mạng
+Phần mềm ứng dụng CNTT phục vụ du lịch Thanh:
+2   Doanh nghiệp   2018-2020
+Hóa
+Ứng dụng CNTT để giúp điều khiển tự động, theo
+dõi quá trình sản xuất, phân phối và tiêu thụ sản
+3   phẩm nông sản, hỗ trợ việc xây dựng nông nghiệp.   Doanh nghiệp   2018-2020
+thông minh, an toàn thực phảm.
+c) Nhóm sản phẩm phần mềm dùng chung phục vụ Chính quyền điện tử
+Đơn vị triển   Thời gian
+TT   Tên sản phẩm   khai   thực hiện
+1   Hệ thống tra cứu thông tin KT-XH   Doanh nghiệp   2018-2020
+Hệ thống phần mềm giải quyết các thủ tục hành
+2   chính phục vụ Trung tâm hành chính công cấp tỉnh,   Doanh nghiệp   2018-2020
+cấp huyện, cấp xã
+3   Hệ thống quản lý vệ sinh an toàn thực phẩm   Doanh nghiệp   2018-2020
+Hệ thống cung cấp dịch vụ công trực tuyến cho
+4   người dân   Doanh nghiệp   2018-2025
+9
+d) Nhóm sản phẩm về dịch vụ thành phố thông minh
+Đơn vị   Thời gian
+TT   Tên sản phẩm   triển khai   thực hiện
+Hệ thống kiểm soát phương tiện giao thông
+1   theo thời gian thực   Doanh nghiệp   2020-2025
+2   Hệ thống quan trắc môi trường thông minh   Doanh nghiệp   2018-2025
+3   Hệ thống giáo dục thông minh   Doanh nghiệp   2020-2025
+Hệ thống chăm sóc sức khoè, khám bệnh
+4   thông minh   Doanh nghiệp   2020-2030
+5   Hệ thống kiểm soát PCCC thông minh   Doanh nghiệp   2020-2030
+e) Nhóm sản phẩm phần mềm nội dung số
+Đơn vị triển   Thời gian
+TT   Tên sản phẩm   khai   thực hiện
+Sản phẩm nội dung số về giáo án điện tử, học 1
+1   liệu đào tạo trực tuyến .. phục vụ công tác giáo   Doanh nghiệp   2020-2030
+dục đào tạo trực tuyến, học tập điện tử.
+Sản phẩm giải trí số (trò chơi trực tuyến, trò
+2   chơi tương tác) thể hiện văn hóa, con người   Doanh nghiệp   2020-2030
+Thanh Hóa, Việt Nam
+Sản phẩm phát triển dịch vụ nội dung cho mạng
+3   di động, phát thanh truyền hình   Doanh nghiệp   2020-2030
+Hệ thống thông tin tiếp nhận ý kiến phản ánh
+4   của người dân qua Internet, thoại.   Doanh nghiệp   2020-2030
+5   Sản phẩm thư viện và bảo tàng số   Doanh nghiệp   2020-2030
+10

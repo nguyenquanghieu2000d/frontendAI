@@ -1,0 +1,242 @@
+Ký bởi: Văn phòng Ủy ban Nhân dân
+Thời gian ký: 18/05/2016 16:39:40
+UỶ BAN NHÂN DÂN   CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH THANH HOÁ   Độc lập - Tự do - Hạnh phúc
+Số: 4704 /QĐ-UBND   Thanh Hoá, ngày 18 tháng 5 năm 2016
+QUYẾT ĐỊNH
+Về việc phê duyệt Báo cáo kinh tế - kỹ thuật xây dựng công trình hệ thống
+kênh tiêu ứng thôn Xuân Phú, xã Hoằng Xuân, huyện Hoàng Hóa
+CHỦ TỊCH UBND TỈNH THANH HÓA
+Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015;
+Căn cứ Luật Xây dựng ngày 18/6/2014; Luật Đầu tư công ngày 18/6/2014;
+Căn cứ Nghị định số 59/2015/NĐ-CP ngày 18/6/2015 về quản lý dự án đầu.
+tư xây dựng: Nghị định số 32/2015/NĐ-CP ngày 25/3/2015 về quản lý chi phí
+đầu tư xây dựng: Nghị định số 66/2015/NĐ-CP ngày 12//2015 về quản lý chất
+lượng và bảo trì công trình xây dựng của Chính phủ;
+Theo nội dung Công văn số 13130/UBND-NN ngày 18/12/2015 của Chủ.
+tịch UBND tỉnh về việc chủ trương đầu tư xây dựng công trình hệ thống kênh.
+tiêu túng thôn Xuân Phú, xã Hoằng Xuân, huyện Hoằng Hóa;
+Xét đề nghị của UBND huyện Hoằng Hóa tại Tờ trình số 34/TTr-UBND
+ngày 22/3/2016 (kèm theo bổ so) và Công văn số 1 108/SNN&PTNT-QLXDCT
+ngày 28/4/2016 của Sở Nông nghiệp và Phát triển nông trên về việc phê duyện
+Báo cáo kinh tế - kỹ thuật xây dựng công trình hệ trồng kênh tiêu từng thôn.
+Xuân Phú, xã Hoằng Xuân, huyện Hoằng Hóa,
+QUYẾT ĐỊNH:
+Điều 1. Phê duyệt Báo cáo kinh tế - kỹ thuật xây dựng công trình hệ thống
+kênh tiêu tùng thôn Xuân Phú, xã Huằng Xuân, huyện Hoàng Hóa, với nhóng nội.
+dung chính sau:
+1. Tên công trình: Hệ thống kênh tiêu ủng thôn Xuân Phú, xã. Hoằng
+Xuân, huyện Hoàng Hóa.
+2. Chủ đầu tư: UBND huyện Hoằng Hóa.
+3. Nhà thầu khảo sát, lập Báo cáo kinh tế - kỹ thuật xây dựng công
+trình: Công ty cổ phần Xây dựng và Thương mại Dũng Hiển.
+4. Mục tiêu đầu tư: Tiêu ủng cho 201 ha đất sản xuất nông nghiệp và khu
+dân cư thôn Xuân Phú, xã Hoằng Xuân.
+5. Nội dung và quy mô đầu tư: Kiên cố hóa 3 tuyến kênh tiêu, mật phía
+bở kênh được gia cổ kết hợp đường quản lý vận hành với nhiệm vụ tiêu ang cho.
+201 ha thuộc thôn Xuân Phủ, xã Hoàng Xuân, huyện Hoàng Hóa.
+6. Giải pháp kỹ thuật:
+6.1. Thông số kỹ thuật chính:
+- Diện tích tiêu:   Ft = 201 ha;
+- Mức đảm bảo tiêu:   P = 80%;
+- Tần suất thiết kế:   P = 2%;
+- Tần suất kiểm tra:   P = 1%;
+- Tần suất lưu lượng, mục nước dẫn dòng thi công:   P = 10%;
+- Hệ số tiêu thiết kế:   qtk = 8,33 l/s/ha.
+6.2. Các chỉ tiêu thiết kế chủ yếu:
+- Hệ số nhâm lòng kênh: + Kênh gia cố:   n = 0,017;
++ Kênh đất:   n = 0,0225.
+- Hệ số mái kênh:   + Kênh hình thang:   m = 1,5;
++ Kênh chữ nhật:   m = 0.
+- Thông số thiết kế từng tuyến kênh theo bảng sau:
+L   F   Qtl   Bk   Hl
+TT   Tên tuyến/Đoạn kênh   Ghi chú
+(m)   (ha)   (m3/s)   (cm)   (cm)
+1   Tuyến số 1   996,11   139
+K0+094,35 - K0+232,79   138,44   0,50   120   80   Gia cố, mặt cắt hình thang
+K0+232,79 - K0+500,10 267,3   267,31   0,65   160   80   nt
+K0+500,10 - K0+642,15 138,   138,05   0,87   220   110   Gia cổ, mặt cắt chữ nhật
+K0+642,15 - K0+922,24   280,09   1,16   250   110   nt
+Kênh đất, mặt cắt hình
+K0+922,24 - K1+090,46   168,22   1,16   250   115
+thang
+2   Tuyến số 2   311,86   62
+K0+000 - K0+311,86   311,86   0,52   120   100   Gia cố, mặt cắt hình thang
+3   Tuyến số 3   215,23   9,5
+K0+000 - K0+215,23   215,23   0.08   65   65   Gia cố, mặt cắt chữ nhật
+6.3. Giải pháp thiết kế chủ yếu:
+6.2.1. Kênh: Trên cơ sở các tuyển kênh đết hiện cố, đào nạo vét, gia cố theo
+mặt cắt thiết kế để đảm bảo tiêu thoát.
+a) Tuyến kênh số 1: Xuất phát từ chân núi (giáp khu nghĩa trang) kết thúc
+2
+tại điểm đổ ra sông Âu; hình thức kết cấu:
+- Lòng kênh:
++ 2 đoạn mặt cắt kênh hình thang:
+Đoạn từ KD+094,35 + K0+232,79 đài 138,44 m (BAH) - (1x0,8) và từ
+KD+232,79 + Kt+ 500,1 dài 261,31 m (BxH) + (1,640.8) m: Mài gia cổ bằng.
+tấm tái bê tông cốt thép (3TCT) M200 thu sẵn kích thước (80x808) an trên
+lớp đả (1x2) cm đây 8 cm và 1 hóp vài địa kỹ thuật ART-15 (hoặc loại có tỉnh.
+năng kỹ thuật tương đương), khóa mái bằng bê tông thường M200 để tại chỗ
+đọc tuyến cứ 5 m cắt 1 khe tìn chên giấy đắu tầm nhựa đường; dây kênh bằng
+tấm BTCT M200 đức sẵn; đất đấp hoàn thiện đầm nên đảm bảo độ chặt K9 95;
++ 2 đoạn mặt cắt kênh chữ nhật:
+Đoạn từ Ko+500,1 + K0+642,15 dài 138,05 m (BXH) = (2,2x1,1) m và từ
+KO++642,15 + KO-922,24 đãi 280,09 m (BXH) - (2,5x1,1) m: Toàn mặt cất bằng.
+BTCT M250 toàn khối để tại chỗ; dọc tuyển cứ 10 m cất 1 khe lán chèn giấy.
+đần tầm nhựa đường: đất đấp hoàn thiện đắm nên đảm bảo độ chặt K 95;
++ 1 đoạn mặt cắt kênh hình thang từ Ko-922,24 : K1 4090,46 đài 168,22 tra
+(BAI) + (2,5x1.15) m: Đào nạo vét theo thiết kế; đất đấp hoàn thiện đầm nên.
+đảm bảo độ chặt K 2 95.
+- Bở kênh kết hợp đường quản lý vật hành: Sử dụng các đoạn bờ kênh hiện.
+có (một số đoạn đã được gia cổ bằng bê tông) để làm đường thi công sủa chữa,
+hoàn trả san thi công làm đường quản lý vận rành. Đầu tuyến xuất phát từ khu.
+nghĩa trang kết thúc tại điểm giao các đường nhựa (tương ứng đoạn từ KhH0 +
+10+638,15 theo lý trình kênh dên số 1). Toàn tuyển gồm 4 đoạn với tổng chiều.
+dài 638,15 m, chiếu rộng mặt đường B = 4 m, cụ thể như sau:
++ Đoạn 1 từ K0+00 + Ko+94,34: Từ ngoài khu nghĩa trang đến điểm nối
+tiếp bờ tà xênh, hiện tại là thường đất. Biện pháp gia cố, Đặt gia cố bằng bộ tông.
+thường M250 dây 20 cm, 16: 1 lớp tỉ lông tài sinh, nến gia có bằng t lớp cấp.
+phối đả đảm (CPDD) loại 2 dây 23 cm. Đọc tuyến cá 5 ro cất 1 kho làn ngang.
+vuông góc tim tuyến, 6ùng máy cắt tạo mạch, chiều sâu khe cắt = 17 can;
++ Đoạn 2 từ Ko:94,34 - K0 1232,79 là bờ tà kênh, hiện tại là đường đất;
+biện pháp gia cố tương tự đoạn 1;
++ Đoạn 3 từ Ko - Ko t397,09 là bờ hữu kênh, hiện tại là đường liên.
+thôn bằng bê tông dây trung bình 18 cm. Kết cấn hoàn trà, mặt gia cổ bằng bê
+lông thường M230 dày 20 cụn, lột 1 lớp ni lông tái sinh, các đoạn nền cặ chưa đôi
+chiếu rộng được mở rộng nến bằng CPDD loại 2 dày 20 cm đảm bảo nến đường.
+rộng B s d trước khi đổ bệ tộng. Đọc tuyến cứ 5 0 cất 1 kho làn ngang vuỡng.
+gộc tìm tuyến, cùng máy cắt tạo roạch, chiều sâu khe cắt 1 = 17 cm;
++ Đoạn 4 từ K0+397,99 + KD/638,15 là bò tà kênh, hiện tại là đường liên.
+thôn bảng bê lông dây trung bình 18 em. Rết cấu hoàn trả tương tự đoạn 3.
+3
+b) Tuyến kênh số 2: Đài 311,86 m, xuất phát từ chân núi kết thúc tại điểm.
+ra kênh tưới tiêu kết hợp của trạm bơm Hoàng Khánh; hình thức kết cấu:
+- Lòng kênh: Mặt cất kênh hình thang (BAH) = (1,2x1) m. Đảy và mái kênh
+gia cố bằng tấm BTCT M200 đúc sẵn. Hình thức gia cổ tương tự các đoạn kệnh.
+lát của tuyến kênh số 1.
+- Bở kênh kết hợp đường quản lý vận hành: Sử dụng bờ tà kênh hiện có đã.
+được gia cổ bằng bê tông (đẩy trung binh 18 em) để làm đường thì công sửa
+chúa, hoàn trả sau: thì công lâm đường quản lý vận hành. Toàn tuyến đải
+311,86m, chiều rộng mặt đường B = 3 m. Kết cấu hoàn trả tương tự đoạn 3 và.
+đoạn 4 của tuyến đường quản lý vận hành thuộc tuyến kênh số 1.
+c) Tuyến kênh số 3: Đài 215,23 m là tuyến kênh phăn lưu từ kênh số 1 về
+kênh số 2; xuất phát tại cọc D4 (KH4/224,98) theo lý trình kênh số 1, kết thúc tại
+cọc 4A (K0+82,41) theo lý trình kênh số 2; hình thức kết cấu:
+- Lòng kênh: Mặt cắt kênh chữ nhật bằng ĐTCT M200 (BxI) -
+(C,6500,65) Hình thức gia cố tương tự các đoạn kênh chữ nhật của tuyển
+kênh số 1.
+- Bờ kênh kết hợp đường quản lý vận hành: Sử dụng bờ hữu kênh hiện có
+(hiện tại là đường đất) để làm dường thi công; sửa chữa, hoàn trả sau thi công
+làm đường quản lý vận hành. Toàn tuyến dài 215,23 m, chiều rộng mặt đường B.
++ 3 ra. Kết cấu hoàn trả tương tự đoạn số 1 và đoạn số 2 của tuyển đường quân.
+lý vận hành thuộc tuyến kênh số 1.
+6.3.2. Công trình trên kênh: Tổng số 22 công trình (trong đó, tuyến số 1: 14
+cái; tuyến số 2: 4 cái; tuyến số 3: 4 cái); cụ thể theo bảng sau:
+Số lượng (cái)
+TT   Loại công trình
+Tuyến số 1   Tuyến số 2   Tuyến số 3   Tổng cộng
+1   Cống tiêu đầu kênh   1   1
+2   Cống tiêu cuối kênh   1   1
+3   Cầu qua kênh   2   2
+4   Cống điều tiết trên kênh   1   1   2
+5   Tấm đan qua kênh   11   3   2   16
+Tổng cộng   14   4   4   22
+Hình thức kết cấu:
+- Cống tiêu: Thân cống bằng ổng bê tông đúc sẵn (b40 em đặt trên móng
+bằng bê tông thường M200 đố tại chố. Điều tiết cống bằng cửa van phẳng, đóng.
+mở bàng quay tay ổ khóa V1.
+4
+- Cầu qua kênh: Mổ bằng bê tông thưởng M200, nền mố gia cố bằng cọc trợ
+0/6+6) cm; mặt, đầm cầu bằng BTCT M200 đặt trên mũ mố bằng BTCT M209,
+lan can bằng thép.
+- Cống điều tiết trên kênh: Kiểu công bộp bằng BTCT M200 toàn khối để
+tại chế, bố tiêu năng bằng BTCT M200. Điểu tiết công bằng của van phắng,
+đóng mở bằng quay tay ổ khóa V3.
+- Tấm đan qua kênh: Bằng BTCT M200.
+Việc gia cổ nền mỏ các cầu qua kênh, nền các cống điều tiết bằng cọc tre
+phải thực hiện công tác đúng cọc thừ để quyết định chiều dãi, mật độ cực trước
+khi tiến hành triển khai đại trà.
+7. Địa điểm xây dựng: Thôn Xuân Phú, xã Hoằng Xuân, huyện Hoằng
+Hóa.
+8. Diện tích sử dụng đất: Khoảng 1,43 ha.
+9. Loại, cấp công trình: Công trình Nông nghiệp và Phát triển nông thôn,
+cấp IV.
+10. Phương án giải phóng mặt bằng: Chủ đầu tư tổ chức thực hiện bối
+thường GPMB theo đúng các quy định hiện hành của nhà nước.
+11. Tổng mức đầu tư:   9.726,5 triệu đồng;
+Trong đó:
+Chi phí xây dựng   7.243,7 triệu đồng;
+Chi phí thiết bị   40,7 triệu đồng;
+Chi phí quản lý dự án   158,3 triệu đồng;
+Chi phí tư vấn ĐTXD   695,7 triệu đồng;
+Chi phí khác   439,3 triệu đồng;
+Chi phí bồi thường GPMB   500,0 triệu đồng;
+Chi phí dự phòng   648,8 triệu đồng.
+(Có phụ biểu chi tiết kèm theo)
+12. Nguồn vốn đầu tư: Từ nguồn vốn thực hiện chính sách bảo vệ và phát
+triển đất trồng lúa theo Công văn số 13130/UBND-NNN ngày 18/12/2015 của
+Chủ tịch UBND tỉnh.
+13. Hình thức quản lý dự án: Chủ đầu tư trực tiếp quản lý dự án.
+14. Thời gian thực hiện: Không quá 2 năm, kể từ ngày khải công xây.
+dựng công trình.
+Điều 2. Chủ đầu tư chịu trách nhiệm tổ chức thực hiện dự án theo đứng
+Luật Xây dựng năm 2014; Luật Đấu thầu năm 2013 về các quy định hiện hành.
+của Nhà nước.
+5
+Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày ký.
+Chánh Văn phòng UBND tỉnh, Giám đốc các Sở: Kế hoạch và Đầu tư, Tài
+chính, Nông nghiệp và PTNT; Giám đốc Kho bạc Nhà nước tỉnh; Chủ tịch
+UBND huyện Hoằng Hóa và Thủ trưởng các ngành, đơn vị liên quan chịt trách.
+nhiệm thi hành Quyết định này./.
+Nơi nhận:   KT. CHỦ TỊCH
+- Như Điều 3 QĐ;   PHÓ CHỦ TỊCH
+- Chủ tịch UBND tỉnh (để b/c);
+- Phó Chủ tịch UBND tỉnh Nguyễn Đức Quyền;
+- Phó Chánh Văn phòng Lê Thanh Hải;
+- Lưu: VT, NN.
+Nguyễn Đức Quyền
+6
+PHÓ BỊN TƯNG MỨC ĐẦU TƯ
+Công trình: Hệ thống thủ thá Hiện Xuân Phú, Xã Hoàng Xuân, huyện Huằng Hónh Hoàng
+Đơn vị tính: Triệu đồng
+STT   Cách tính   Thành tiền
+1   Chi phí xây dựng (XD)   7.243,7
+1   Kênh tiêu số   Chi tiết   3.714,770
+2   Công trình trên kênh tiêu số 1   Chi tiết   927,747
+3   Kênh tiêu số 2   Chi tiết   1.106,260
+4   Công trình trên kênh tiêu số 2   Chi tiết   251,933
+5   Kênh tiêu số 3   Chi tiết   645,577
+6   Công trình trên kênh tiêu số 3   Chi tiết   66,424
+7   Bãi đúc cầu kiện + biện pháp thi công kênh   Chi tiết   531,034
+II   Chi phí thiết bị (TB)   40,7
+1   Thiết bị ( 2 khóa V3 và 1 khóa VI)   Chi tiết   35,615
+2   Lắp đặt thiết bị   Chi tiết   5,036
+III   Chi phí quản lý dự án (QLDA)   2,391% x (XD+TB)   158,3
+IV   Chi phí tư vấn đầu tư xây dựng   695,7
+1   Chi phí khảo sát xây dựng   Theo KQTĐ đề cương   118,343
+của Sở NN&PTNT
+2   Chi phí lập BCKTKT   3,038% x (XD+TB)   221,284
+3   Chi phí lập hồ sơ mởi thầu, đánh giả hồ sư dự thầu   0,282% x XD   20,427
+thi công XD
+4   Chi phí giám sát thì công xây dựng   2,079% x XD   150,597
+5   Chi phí giám sát lắp đặt thiết bị   0,574% x TB   0,233
+6   Chi phí giám sất, đánh giá dự án   20,0% X QLDA   34,834
+7   Chi phí cam kết bảo vệ môi trường   Tạm tính   150,000
+V   Chi phí lhác   439,3
+1   Chi phí thẩm định hồ sơ mời thầu   0,050% x (XD+TB)   3,642
+2   Chi phí thẩm định kết quả lựa chọn nhà thầu   0,050% x (XD+TB)   3,642
+3   Phí thẩm định BCKTKT   0,019% x TMĐT   1,848
+4   Bảo hiểm công trình   0,680% x XD   49,257
+5   Phí thẩm định thiết kế BVTC   0,121% x XD   7,968
+6   Phi thẩm định dự toán   0,117% x XD   7,705
+7   Chi phí thẩm tra phê duyệt, quyết toán   0,666% X TMĐT   64,818
+(TT09/2016/BTC)
+8   Phí bảo vệ môi trường   1.500đ/m3 x KL đào   6,897
+9   Chi phí hạng mục chung   Chi tiết   289,951
+10   Chi phí kiểm tra, nghiệm thu công trình của cơ quan   Chi tiết   3,550
+quản lý nhà nước
+VI   Chi phí bồi thường giải phóng mặt bằng.   Tạm tính   500,0
+VII   Chi phí dự phòng   648,8
+1   Dự phòng phát sinh khối lượng   5,0%   453,886
+2   Dự phòng trượt giá   Chi tiết   194,860
+Tổng cộng   9.726,5
